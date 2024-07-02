@@ -20,6 +20,26 @@ basedir = os.path.join(
 exec(pathlib.Path(os.path.join(basedir, "conf.py")).read_text(), globals())
 autoapi_dirs = [os.path.join(basedir, "../../../geovista/src/geovista/")]
 locale_dirs = [os.path.join(basedir, "../../../locale/")]
+package_dir = os.path.join(basedir, "../../../geovista/src/geovista/")
+sphinx_gallery_conf = {
+    "default_thumb_file": str(docs_images_dir / "gallery-thumb.png"),
+    "filename_pattern": "/.*",
+    "ignore_pattern": "(__init__)|(clouds)|(fesom)|(synthetic)",
+    "examples_dirs": str(package_dir / "examples"),
+    "gallery_dirs": GALLERY_DIRS,
+    "min_reported_time": 90,
+    "matplotlib_animations": True,
+    # see https://github.com/sphinx-gallery/sphinx-gallery/pull/195
+    "plot_gallery": "'True'",
+    "doc_module": "geovista",
+    "image_scrapers": (scraper, "matplotlib"),
+    "download_all_examples": False,
+    "remove_config_comments": True,
+    "within_subsection_order": "ExampleTitleSortKey",
+    "reference_url": {
+        "geovista": None,
+    },
+}
 
 
 def setup(app):
