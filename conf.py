@@ -18,7 +18,7 @@ basedir = os.path.join(
     os.path.dirname(os.path.abspath(__file__)), "geovista/docs/src"
 )
 exec(pathlib.Path(os.path.join(basedir, "conf.py")).read_text(), globals())
-autoapi_dirs = [os.path.join(basedir, "../../geovista/src/geovista/")]
+autoapi_dirs = [os.path.join(basedir, "../../../geovista/src/geovista/")]
 locale_dirs = [os.path.join(basedir, "../../../locale/")]
 
 
