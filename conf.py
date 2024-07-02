@@ -20,7 +20,7 @@ basedir = os.path.join(
 exec(pathlib.Path(os.path.join(basedir, "conf.py")).read_text(), globals())
 autoapi_dirs = [os.path.join(basedir, "../../../geovista/src/geovista/")]
 locale_dirs = [os.path.join(basedir, "../../../locale/")]
-package_dir = os.path.join(basedir, "../../../geovista/src/geovista/")
+package_dir = pathlib.Path(os.path.join(basedir, "../../../geovista/src/geovista/"))
 sphinx_gallery_conf = {
     "default_thumb_file": str(docs_images_dir / "gallery-thumb.png"),
     "filename_pattern": "/.*",
