@@ -26,7 +26,7 @@ sphinx:
 python:
   install:
     - method: pip
-      path: .
+      path: geovista
       extra_requirements:
         - cmap
         - docs
