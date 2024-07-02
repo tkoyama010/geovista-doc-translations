@@ -1,0 +1,3 @@
+[submodule "geovista"]
+	path = geovista
+	url = https://github.com/bjlittle/geovista.git
