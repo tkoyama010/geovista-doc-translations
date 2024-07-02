@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021 - 2024, GeoVista Contributors
+# This file is distributed under the same license as the GeoVista package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GeoVista \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-02 19:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../geovista/docs/src/index.rst:91
+msgid "GeoVista 101"
+msgstr ""
+
+#: ../../geovista/docs/src/index.rst:102
+msgid "Contents"
+msgstr ""
+
+#: ../../geovista/docs/src/index.rst:113
+msgid "Gallery"
+msgstr ""
+
+#: ../../geovista/docs/src/index.rst:122
+msgid "Developer"
+msgstr ""
+
+#: ../../geovista/docs/src/index.rst:6
+msgid "GeoVista Documentation"
+msgstr ""
+
+#: ../../geovista/docs/src/index.rst:11
+msgid "Content marked with 🚧 indicates it's still under construction."
+msgstr ""
+
+#: ../../geovista/docs/src/index.rst:14
+msgid "Welcome to the ``geovista`` documentation!"
+msgstr ""
+
+#: ../../geovista/docs/src/index.rst:16
+msgid "We're busily crafting the structure and content of the documentation, so it's likely that some material will change, move around or even be removed. However, the dust will eventually settle and we'll have a stable foundation to build upon.  Thanks for your patience."
+msgstr ""
+
+#: ../../geovista/docs/src/index.rst:21
+msgid "In the meantime, your feedback is important to us.  So feel free to submit a :fab:`github` `Issue`_  or :fab:`github` `Pull-Request`_ to help elevate our documentation to the next level of awesome 🚀"
+msgstr ""
+
+#: ../../geovista/docs/src/index.rst:25
+msgid "Alternatively, if it's easier, come share with us over on our :fab:`github` `Discussions`_."
+msgstr ""
+
+#: ../../geovista/docs/src/index.rst:28
+msgid "We'd 💛 to hear from you."
+msgstr ""
+
+#: ../../geovista/docs/src/index.rst:37
+msgid "🚧 Tutorials"
+msgstr ""
+
+#: ../../geovista/docs/src/index.rst:46
+msgid "Topic driven themed lessons."
+msgstr ""
+
+#: ../../geovista/docs/src/index.rst:48
+msgid "🚧 How-To Guides"
+msgstr ""
+
+#: ../../geovista/docs/src/index.rst:57
+msgid "Treasure trove of focused guides."
+msgstr ""
+
+#: ../../geovista/docs/src/index.rst:59
+msgid "🚧 Explanation"
+msgstr ""
+
+#: ../../geovista/docs/src/index.rst:68
+msgid "Deeper understanding awaits."
+msgstr ""
+
+#: ../../geovista/docs/src/index.rst:70
+msgid "Reference"
+msgstr ""
+
+#: ../../geovista/docs/src/index.rst:79
+msgid "No fuss facts."
+msgstr ""
+
+#: ../../geovista/docs/src/index.rst:84
+msgid ":fa:`graduation-cap` Choose your approach to learning and ``geovista`` knowledge discovery (`Diátaxis`_)"
+msgstr ""
