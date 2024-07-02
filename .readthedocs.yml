@@ -8,9 +8,6 @@ build:
     - libgl1-mesa-dev
     - xvfb
   jobs:
-    post_checkout:
-      - git fetch --unshallow
-      - git fetch --all
     post_install:
       - geovista download --operational --decompress
 
