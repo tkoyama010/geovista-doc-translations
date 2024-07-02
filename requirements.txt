@@ -1,2 +1,3 @@
+-e geovista/requirements/pypi-optional-docs.txt
 geovista @ git+https://github.com/bjlittle/geovista.git
 sphinx-intl[transifex]==2.2.0
