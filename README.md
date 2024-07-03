@@ -25,10 +25,10 @@ Key points:
 - The parent project needs connections created to each translated
   project on the **Translations Settings** page.
 
-| Build Status                                                                                                                                                                |                                                 RTD Project |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------: |
-| [![Documentation Status](https://readthedocs.org/projects/geovista/badge/?version=latest&style=flat-square)](https://geovista.readthedocs.io/en/latest/?badge=latest)       | https://readthedocs.org/projects/geovista/ (Parent project) |
-| [![Documentation Status](https://readthedocs.org/projects/geovista-ja/badge/?version=latest&style=flat-square)](https://geovista-ja.readthedocs.io/ja/latest/?badge=latest) |               https://readthedocs.org/projects/geovista-ja/ |
+| Language | Build Status                                                                                                                                                            |                                               RTD Project |                                               Transifex |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
+| English | [![Documentation Status](https://readthedocs.org/projects/geovista/badge/?version=latest&style=flat-square)](https://geovista.readthedocs.io/en/latest/?badge=latest)       | [![readthedocs.org](https://img.shields.io/badge/readthedocs-en-ff7964.svg?&style=flat-square)](https://readthedocs.org/projects/geovista/) |  |
+| 日本語 | [![Documentation Status](https://readthedocs.org/projects/geovista-ja/badge/?version=latest&style=flat-square)](https://geovista-ja.readthedocs.io/ja/latest/?badge=latest) |               [![readthedocs.org](https://img.shields.io/badge/readthedocs-ja-ff7964.svg?&style=flat-square)](https://readthedocs.org/projects/geovista-ja/) | [![Transifex](https://img.shields.io/badge/Transifex-ja-blue.svg?&style=flat-square)](https://app.transifex.com/tkoyama010/geovista-doc/translate/#/ja)               |
 
 ## How to add a new language translation
 
