@@ -1,4 +1,5 @@
 # GeoVista official documentation translations
+
 [![Contributor Covenant](https://img.shields.io/badge/contributor%20covenant-2.1-4baaaa.svg)](https://github.com/tkoyama010/geovista-doc-translations/blob/main/CODE_OF_CONDUCT.md)
 
 [GeoVista official documentation translations](https://github.com/tkoyama010/geovista-doc-translations) is a project to provide GeoVista official documentation, hosted on
