@@ -25,8 +25,8 @@ Key points:
 - The parent project needs connections created to each translated
   project on the **Translations Settings** page.
 
-| Build Status                                                                                                                                                            |                                               RTD Project |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------: |
+| Build Status                                                                                                                                                                |                                                 RTD Project |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------: |
 | [![Documentation Status](https://readthedocs.org/projects/geovista/badge/?version=latest&style=flat-square)](https://geovista.readthedocs.io/en/latest/?badge=latest)       | https://readthedocs.org/projects/geovista/ (Parent project) |
 | [![Documentation Status](https://readthedocs.org/projects/geovista-ja/badge/?version=latest&style=flat-square)](https://geovista-ja.readthedocs.io/ja/latest/?badge=latest) |               https://readthedocs.org/projects/geovista-ja/ |
 
