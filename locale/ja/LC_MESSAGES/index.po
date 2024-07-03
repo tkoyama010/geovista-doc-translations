@@ -43,7 +43,7 @@ msgstr "GeoVista ドキュメント"
 
 #: ../../geovista/docs/src/index.rst:11
 msgid "Content marked with 🚧 indicates it's still under construction."
-msgstr ""
+msgstr "🚧の付いたコンテンツは、まだ工事中であることを示します。"
 
 #: ../../geovista/docs/src/index.rst:14
 msgid "Welcome to the ``geovista`` documentation!"
@@ -56,6 +56,7 @@ msgid ""
 "However, the dust will eventually settle and we'll have a stable foundation "
 "to build upon.  Thanks for your patience."
 msgstr ""
+"私たちはドキュメントの構造と内容を精力的に作成しているため、一部の資料は変更、移動、または削除される可能性があります。しかし、最終的には落ち着き、安定した基盤が築かれることになります。ご辛抱いただきありがとうございます。"
 
 #: ../../geovista/docs/src/index.rst:21
 msgid ""
@@ -63,28 +64,30 @@ msgid ""
 " :fab:`github` `Issue`_  or :fab:`github` `Pull-Request`_ to help elevate "
 "our documentation to the next level of awesome 🚀"
 msgstr ""
+"その間、皆様からのフィードバックは私たちにとって重要です。 私たちのドキュメントを次のレベルに引き上げるために、お気軽に :fab:`github` "
+"`Issue`_ や :fab:`github` `Pull-Request`_ を投稿してください🚀"
 
 #: ../../geovista/docs/src/index.rst:25
 msgid ""
 "Alternatively, if it's easier, come share with us over on our :fab:`github` "
 "`Discussions`_."
-msgstr ""
+msgstr "あるいは、より簡単な場合は、私たちの :fab:`github` `Discussions`_ に来て、私たちと共有してください。"
 
 #: ../../geovista/docs/src/index.rst:28
 msgid "We'd 💛 to hear from you."
-msgstr ""
+msgstr "ぜひご連絡ください💛"
 
 #: ../../geovista/docs/src/index.rst:37
 msgid "🚧 Tutorials"
-msgstr ""
+msgstr "🚧 チュートリアル"
 
 #: ../../geovista/docs/src/index.rst:46
 msgid "Topic driven themed lessons."
-msgstr ""
+msgstr "トピックに沿ったテーマ別レッスン。"
 
 #: ../../geovista/docs/src/index.rst:48
 msgid "🚧 How-To Guides"
-msgstr ""
+msgstr "🚧 ハウツーガイド"
 
 #: ../../geovista/docs/src/index.rst:57
 msgid "Treasure trove of focused guides."
@@ -92,7 +95,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/index.rst:59
 msgid "🚧 Explanation"
-msgstr ""
+msgstr "🚧 説明"
 
 #: ../../geovista/docs/src/index.rst:68
 msgid "Deeper understanding awaits."

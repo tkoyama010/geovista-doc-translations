@@ -27,7 +27,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/next_steps.rst:11
 msgid "Content marked with 🚧 indicates it's still under construction."
-msgstr ""
+msgstr "🚧の付いたコンテンツは、まだ工事中であることを示します。"
 
 #: ../../geovista/docs/src/next_steps.rst:14
 msgid ""
@@ -97,7 +97,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/next_steps.rst:63
 msgid "Topic driven themed lessons."
-msgstr ""
+msgstr "トピックに沿ったテーマ別レッスン。"
 
 #: ../../geovista/docs/src/next_steps.rst:65
 msgid "🚧 How-To Guides"
