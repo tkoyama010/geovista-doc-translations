@@ -27,15 +27,15 @@ msgstr "GeoVista 101"
 
 #: ../../geovista/docs/src/index.rst:102
 msgid "Contents"
-msgstr ""
+msgstr "内容"
 
 #: ../../geovista/docs/src/index.rst:113
 msgid "Gallery"
-msgstr ""
+msgstr "ギャラリー"
 
 #: ../../geovista/docs/src/index.rst:122
 msgid "Developer"
-msgstr ""
+msgstr "開発者"
 
 #: ../../geovista/docs/src/index.rst:6
 msgid "GeoVista Documentation"
@@ -91,7 +91,7 @@ msgstr "🚧 ハウツーガイド"
 
 #: ../../geovista/docs/src/index.rst:57
 msgid "Treasure trove of focused guides."
-msgstr ""
+msgstr "集中ガイドの宝庫。"
 
 #: ../../geovista/docs/src/index.rst:59
 msgid "🚧 Explanation"
@@ -99,18 +99,19 @@ msgstr "🚧 説明"
 
 #: ../../geovista/docs/src/index.rst:68
 msgid "Deeper understanding awaits."
-msgstr ""
+msgstr "深い理解が待っている。"
 
 #: ../../geovista/docs/src/index.rst:70
 msgid "Reference"
-msgstr ""
+msgstr "参照"
 
 #: ../../geovista/docs/src/index.rst:79
 msgid "No fuss facts."
-msgstr ""
+msgstr "大げさな事実はない。"
 
 #: ../../geovista/docs/src/index.rst:84
 msgid ""
 ":fa:`graduation-cap` Choose your approach to learning and ``geovista`` "
 "knowledge discovery (`Diátaxis`_)"
 msgstr ""
+":fa:`graduation-cap` 学習と ``geovista`` 知識発見のアプローチを選択してください (`Diátaxis`_)"

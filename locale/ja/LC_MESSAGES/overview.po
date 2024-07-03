@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: GeoVista\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-02 19:36+0000\n"
+"POT-Creation-Date: 2024-07-02 19:40+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +23,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/overview.rst:6
 msgid ":fa:`panorama` Overview"
-msgstr ""
+msgstr ":fa:`panorama` 概要"
 
 #: ../../geovista/docs/src/overview.rst:8
 msgid "Here we give a high-level overview of ``geovista``."

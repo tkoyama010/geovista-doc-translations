@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: GeoVista\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-02 19:36+0000\n"
+"POT-Creation-Date: 2024-07-02 19:40+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -38,172 +42,172 @@ msgstr ""
 #: ../../geovista/docs/src/tags/vectors.rst:4
 #: ../../geovista/docs/src/tags/warp.rst:4
 msgid "Gallery examples:"
-msgstr ""
+msgstr "ギャラリー例:"
 
 #: ../../geovista/docs/src/tags/coastlines.rst:2
 msgid ":fa:`tags` Tag: Coastlines"
-msgstr ""
+msgstr ":fa:`tags` Tag: Coastlines"
 
 #: ../../geovista/docs/src/tags/curvilinear.rst:2
 msgid ":fa:`tags` Tag: Curvilinear"
-msgstr ""
+msgstr ":fa:`tags` Tag: Curvilinear"
 
 #: ../../geovista/docs/src/tags/dem.rst:2
 msgid ":fa:`tags` Tag: DEM"
-msgstr ""
+msgstr ":fa:`tags` Tag: DEM"
 
 #: ../../geovista/docs/src/tags/extrude.rst:2
 msgid ":fa:`tags` Tag: Extrude"
-msgstr ""
+msgstr ":fa:`tags` Tag: Extrude"
 
 #: ../../geovista/docs/src/tags/geotiff.rst:2
 msgid ":fa:`tags` Tag: GeoTIFF"
-msgstr ""
+msgstr ":fa:`tags` Tag: GeoTIFF"
 
 #: ../../geovista/docs/src/tags/globe.rst:2
 msgid ":fa:`tags` Tag: Globe"
-msgstr ""
+msgstr ":fa:`tags` Tag: Globe"
 
 #: ../../geovista/docs/src/tags/graticule.rst:2
 msgid ":fa:`tags` Tag: Graticule"
-msgstr ""
+msgstr ":fa:`tags` Tag: Graticule"
 
 #: ../../geovista/docs/src/tags/lighting.rst:2
 msgid ":fa:`tags` Tag: Lighting"
-msgstr ""
+msgstr ":fa:`tags` Tag: Lighting"
 
 #: ../../geovista/docs/src/tags/opacity.rst:2
 msgid ":fa:`tags` Tag: Opacity"
-msgstr ""
+msgstr ":fa:`tags` Tag: Opacity"
 
 #: ../../geovista/docs/src/tags/point-cloud.rst:2
 msgid ":fa:`tags` Tag: Point Cloud"
-msgstr ""
+msgstr ":fa:`tags` Tag: Point Cloud"
 
 #: ../../geovista/docs/src/tags/points.rst:2
 msgid ":fa:`tags` Tag: Points"
-msgstr ""
+msgstr ":fa:`tags` Tag: Points"
 
 #: ../../geovista/docs/src/tags/projection.rst:2
 msgid ":fa:`tags` Tag: Projection"
-msgstr ""
+msgstr ":fa:`tags` Tag: Projection"
 
 #: ../../geovista/docs/src/tags/rectilinear.rst:2
 msgid ":fa:`tags` Tag: Rectilinear"
-msgstr ""
+msgstr ":fa:`tags` Tag: Rectilinear"
 
 #: ../../geovista/docs/src/tags/rgb.rst:2
 msgid ":fa:`tags` Tag: RGB"
-msgstr ""
+msgstr ":fa:`tags` Tag: RGB"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "Coastlines (21)"
-msgstr ""
+msgstr "Coastlines (21)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "Curvilinear (2)"
-msgstr ""
+msgstr "Curvilinear (2)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "DEM (1)"
-msgstr ""
+msgstr "DEM (1)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "Extrude (1)"
-msgstr ""
+msgstr "Extrude (1)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "GeoTIFF (2)"
-msgstr ""
+msgstr "GeoTIFF (2)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "Globe (13)"
-msgstr ""
+msgstr "Globe (13)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "Graticule (6)"
-msgstr ""
+msgstr "Graticule (6)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "Lighting (2)"
-msgstr ""
+msgstr "Lighting (2)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "Opacity (2)"
-msgstr ""
+msgstr "Opacity (2)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "Point Cloud (2)"
-msgstr ""
+msgstr "Point Cloud (2)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "Points (2)"
-msgstr ""
+msgstr "Points (2)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "Projection (11)"
-msgstr ""
+msgstr "Projection (11)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "RGB (1)"
-msgstr ""
+msgstr "RGB (1)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "Rectilinear (2)"
-msgstr ""
+msgstr "Rectilinear (2)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "Texture (17)"
-msgstr ""
+msgstr "Texture (17)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "Threshold (8)"
-msgstr ""
+msgstr "Threshold (8)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "Transform Mesh (2)"
-msgstr ""
+msgstr "Transform Mesh (2)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "Unstructured (16)"
-msgstr ""
+msgstr "Unstructured (16)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "Vectors (1)"
-msgstr ""
+msgstr "Vectors (1)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "Warp (4)"
-msgstr ""
+msgstr "Warp (4)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "Gallery examples organised by tag:"
-msgstr ""
+msgstr "Gallery examples organised by tag:"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:6
 msgid ":fa:`tags` Tags"
-msgstr ""
+msgstr ":fa:`tags` Tags"
 
 #: ../../geovista/docs/src/tags/texture.rst:2
 msgid ":fa:`tags` Tag: Texture"
-msgstr ""
+msgstr ":fa:`tags` Tag: Texture"
 
 #: ../../geovista/docs/src/tags/threshold.rst:2
 msgid ":fa:`tags` Tag: Threshold"
-msgstr ""
+msgstr ":fa:`tags` Tag: Threshold"
 
 #: ../../geovista/docs/src/tags/transform-mesh.rst:2
 msgid ":fa:`tags` Tag: Transform Mesh"
-msgstr ""
+msgstr ":fa:`tags` Tag: Transform Mesh"
 
 #: ../../geovista/docs/src/tags/unstructured.rst:2
 msgid ":fa:`tags` Tag: Unstructured"
-msgstr ""
+msgstr ":fa:`tags` Tag: Unstructured"
 
 #: ../../geovista/docs/src/tags/vectors.rst:2
 msgid ":fa:`tags` Tag: Vectors"
-msgstr ""
+msgstr ":fa:`tags` Tag: Vectors"
 
 #: ../../geovista/docs/src/tags/warp.rst:2
 msgid ":fa:`tags` Tag: Warp"
-msgstr ""
+msgstr ":fa:`tags` Tag: Warp"

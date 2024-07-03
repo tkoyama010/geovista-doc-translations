@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/next_steps.rst:6
 msgid ":fa:`seedling` Next Steps"
-msgstr ""
+msgstr ":fa:`seedling` 次のステップ"
 
 #: ../../geovista/docs/src/next_steps.rst:11
 msgid "Content marked with 🚧 indicates it's still under construction."
@@ -146,7 +146,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/next_steps.rst:124
 msgid "Tags"
-msgstr ""
+msgstr "タグ"
 
 #: ../../geovista/docs/src/next_steps.rst:133
 msgid "Examples themed by feature."

@@ -331,7 +331,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:7
 msgid ":fa:`images` Examples"
-msgstr ""
+msgstr ":fa:`images` 例"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:12
 msgid ""

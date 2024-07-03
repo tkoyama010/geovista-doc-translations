@@ -7568,7 +7568,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/index.rst:4
 msgid ":fa:`mountain` Reference"
-msgstr ""
+msgstr ":fa:`mountain` 参照"
 
 #: ../../geovista/docs/src/reference/index.rst:12
 msgid "Consult our reference material for no fuss facts about ``geovista``."

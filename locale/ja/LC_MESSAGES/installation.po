@@ -27,7 +27,7 @@ msgstr ":fa:`circle-down` インストール"
 
 #: ../../geovista/docs/src/installation.rst:9
 msgid "Stable"
-msgstr ""
+msgstr "安定版"
 
 #: ../../geovista/docs/src/installation.rst:11
 msgid ""
@@ -37,11 +37,11 @@ msgstr ""
 
 #: ../../geovista/docs/src/installation.rst:0
 msgid "conda-forge"
-msgstr ""
+msgstr "conda-forge"
 
 #: ../../geovista/docs/src/installation.rst:0
 msgid "PyPI"
-msgstr ""
+msgstr "PyPI"
 
 #: ../../geovista/docs/src/installation.rst:28
 msgid ""
