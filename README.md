@@ -1,6 +1,6 @@
 # GeoVista official documentation translations
 
-This is a project to provide GeoVista official documentation, hosted on
+[GeoVista official documentation translations](https://github.com/tkoyama010/geovista-doc-translations) is a project to provide GeoVista official documentation, hosted on
 the Read The Docs platform, in multiple languages.
 
 > [!NOTE]
