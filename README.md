@@ -1,13 +1,13 @@
-# geovista official documentation translations
+# GeoVista official documentation translations
 
-This is a project to provide geovista official documentation, hosted on
+This is a project to provide GeoVista official documentation, hosted on
 the Read The Docs platform, in multiple languages.
 
 > [!NOTE]
 > The current procedure is bit tricky because Read The Docs
 > doesn't have a way to specify options for `sphinx-build` command.
 > **conf.py** files for each languages have `language` and `locale_dirs`
-> values without having full copy of **conf.py** of geovista doc. If we want
+> values without having full copy of **conf.py** of GeoVista doc. If we want
 > to specify **conf.py** file that is out of source directory, we will use
 > `-c` option for the `sphinx-build` command. Unfortunately Read the Docs
 > doesn't support that. If there is a better way, open an issue.
