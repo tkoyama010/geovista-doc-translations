@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/tutorials/index.rst:4
 msgid "🚧 :fa:`water` Tutorials"
-msgstr ""
+msgstr "🚧 :fa:`water` チュートリアル"
 
 #: ../../geovista/docs/src/tutorials/index.rst:9
 msgid "Content marked with 🚧 indicates it's still under construction."
@@ -34,3 +34,5 @@ msgid ""
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pulvinar,"
 " libero non tempus ultricies, ante lacus semper."
 msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pulvinar,"
+" libero non tempus ultricies, ante lacus semper."

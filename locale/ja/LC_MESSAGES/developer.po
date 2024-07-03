@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/index.rst:4
 msgid "🚧 :fa:`handshake` Contributing"
-msgstr ""
+msgstr "🚧 :fa:`handshake` 貢献する"
 
 #: ../../geovista/docs/src/developer/index.rst:9
 msgid "Content marked with 🚧 indicates it's still under construction."
@@ -34,3 +34,5 @@ msgid ""
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae velit "
 "condimentum, facilisis mi nec, rutrum velit."
 msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae velit "
+"condimentum, facilisis mi nec, rutrum velit."

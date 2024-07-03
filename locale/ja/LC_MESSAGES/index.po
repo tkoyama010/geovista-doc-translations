@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/index.rst:91
 msgid "GeoVista 101"
-msgstr ""
+msgstr "GeoVista 101"
 
 #: ../../geovista/docs/src/index.rst:102
 msgid "Contents"
