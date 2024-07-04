@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GeoVista\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-02 19:40+0000\n"
+"POT-Creation-Date: 2024-07-03 23:53+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -33,74 +33,296 @@ msgstr ""
 msgid ":fa:`feather-pointed` Citation"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:17
+#: ../../geovista/docs/src/reference/about.rst:18
 msgid ""
 "If ``geovista`` has assisted with your academic research or work, then "
 "please remember to cite us:"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:25
+#: ../../geovista/docs/src/reference/about.rst:26
 msgid ":fa:`users-line` Contributors"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:30
+#: ../../geovista/docs/src/reference/about.rst:31
 msgid ""
 "Anyone can use the |icon| `all-contributors bot 🤖`_  to acknowledge the "
 "efforts of others."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:61
+#: ../../geovista/docs/src/reference/about.rst:63
 msgid "icon"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:33
+#: ../../geovista/docs/src/reference/about.rst:35
 msgid ""
 "We follow the |icon| `all-contributors`_ specification. Contributions of any"
 " kind to ``geovista`` are welcome!"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:36
+#: ../../geovista/docs/src/reference/about.rst:38
 msgid ""
 "It's important that we recognise and acknowledge **all** our contributors, "
 "not just the ones who push code. So no matter how large or small, we're "
 "grateful for your contribution and caring enough to make a difference."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:40
+#: ../../geovista/docs/src/reference/about.rst:42
 msgid "A massive thank-you to all our awesome contributors (`Emoji Key ✨`_):"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:47
+#: ../../geovista/docs/src/reference/about.rst:49
 msgid ":fa:`file-contract` License"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:49
+#: ../../geovista/docs/src/reference/about.rst:51
 msgid ""
 "``geovista`` is an open-source package distributed under the terms of the "
 "`BSD-3-Clause`_ license."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:4
-msgid "🚧 :fa:`keyboard` Key Bindings"
+#: ../../geovista/docs/src/reference/bindings.rst:6
+msgid ":fa:`keyboard` Key Bindings"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:9
-#: ../../geovista/docs/src/reference/changelog.rst:9
-#: ../../geovista/docs/src/reference/cli.rst:9
-#: ../../geovista/docs/src/reference/index.rst:9
-#: ../../geovista/docs/src/reference/whatsnew.rst:9
-msgid "Content marked with 🚧 indicates it's still under construction."
-msgstr "🚧の付いたコンテンツは、まだ工事中であることを示します。"
+#: ../../geovista/docs/src/reference/bindings.rst:8
+msgid "Primary keyboard and mouse bindings that control the rendered scene."
+msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:12
-msgid ""
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis "
-"scelerisque neque et auctor. Phasellus magna diam."
+#: ../../geovista/docs/src/reference/bindings.rst:0
+msgid ":fab:`linux` / :fab:`windows`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:14
+msgid "Bindings (Linux/Windows)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:18
+#: ../../geovista/docs/src/reference/bindings.rst:54
+msgid ":fa:`keyboard` + :fa:`computer-mouse`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:18
+#: ../../geovista/docs/src/reference/bindings.rst:54
+msgid "Action"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:18
+#: ../../geovista/docs/src/reference/bindings.rst:54
+msgid "Example"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:20
+#: ../../geovista/docs/src/reference/bindings.rst:56
+msgid ":guilabel:`f` (`Qt`_)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:20
+#: ../../geovista/docs/src/reference/bindings.rst:56
+msgid "Focus and zoom to a point."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:20
+#: ../../geovista/docs/src/reference/bindings.rst:56
+msgid "|fvcom-f|"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:105
+msgid "Camera Follow"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:22
+#: ../../geovista/docs/src/reference/bindings.rst:58
+msgid ":guilabel:`q`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:22
+#: ../../geovista/docs/src/reference/bindings.rst:58
+msgid "Quit the rendering window."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:24
+#: ../../geovista/docs/src/reference/bindings.rst:60
+msgid ":guilabel:`r`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:24
+#: ../../geovista/docs/src/reference/bindings.rst:60
+msgid "Reset the camera."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:26
+#: ../../geovista/docs/src/reference/bindings.rst:62
+msgid ":guilabel:`s`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:26
+#: ../../geovista/docs/src/reference/bindings.rst:62
+msgid "Render scene using ``surface`` style."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:26
+#: ../../geovista/docs/src/reference/bindings.rst:62
+msgid "|fvcom-s|"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:90
+msgid "FVCOM surface"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:28
+#: ../../geovista/docs/src/reference/bindings.rst:64
+msgid ":guilabel:`v` (`Qt`_)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:28
+#: ../../geovista/docs/src/reference/bindings.rst:64
+msgid "Snap to `isometric camera`_ view."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:30
+#: ../../geovista/docs/src/reference/bindings.rst:66
+msgid ":guilabel:`v` (`Trame`_)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:30
+#: ../../geovista/docs/src/reference/bindings.rst:66
+msgid "Render scene using ``points`` style."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:30
+#: ../../geovista/docs/src/reference/bindings.rst:66
+msgid "|fvcom-p|"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:100
+msgid "FVCOM points"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:32
+#: ../../geovista/docs/src/reference/bindings.rst:68
+msgid ":guilabel:`w`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:32
+#: ../../geovista/docs/src/reference/bindings.rst:68
+msgid "Render scene using ``wireframe`` style."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:32
+#: ../../geovista/docs/src/reference/bindings.rst:68
+msgid "|fvcom-w|"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:95
+msgid "FVCOM wireframe"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:34
+msgid ":guilabel:`L-Click`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:34
+#: ../../geovista/docs/src/reference/bindings.rst:70
+msgid "Rotate the rendered scene in 3-D."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:34
+#: ../../geovista/docs/src/reference/bindings.rst:70
+msgid "|fvcom-3d|"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:112
+msgid "Rotate 3-D"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:36
+msgid ":guilabel:`Ctrl + L-Click`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:36
+#: ../../geovista/docs/src/reference/bindings.rst:72
+msgid "Rotate the rendered scene in 2-D (view plane)."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:36
+#: ../../geovista/docs/src/reference/bindings.rst:72
+msgid "|fvcom-2d|"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:119
+msgid "Rotate 2-D"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:38
+msgid ":guilabel:`Shift + L-Click` or :guilabel:`M-Click`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:38
+#: ../../geovista/docs/src/reference/bindings.rst:74
+msgid "Pan the rendered scene."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:38
+#: ../../geovista/docs/src/reference/bindings.rst:74
+msgid "|fvcom-pan|"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:126
+msgid "Camera Pan"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:41
+msgid ":guilabel:`Mouse-Wheel` or :guilabel:`R-Click`:sup:`†`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:41
+#: ../../geovista/docs/src/reference/bindings.rst:76
+msgid "Continuously zoom the rendering scene."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:41
+#: ../../geovista/docs/src/reference/bindings.rst:76
+msgid "|fvcom-zoom|"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:133
+msgid "Camera Zoom"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:45
+msgid ":guilabel:`†` - **not** `Trame`_"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:0
+msgid ":fab:`apple`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:50
+msgid "Bindings (Mac)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:70
+msgid ":guilabel:`⌘-Click`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:72
+#: ../../geovista/docs/src/reference/bindings.rst:76
+msgid ":guilabel:`Ctrl + Click`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:74
+msgid ":guilabel:`Shift + Click`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/changelog.rst:4
 msgid "🚧 :fa:`road` Changelog"
 msgstr ""
+
+#: ../../geovista/docs/src/reference/changelog.rst:9
+#: ../../geovista/docs/src/reference/index.rst:9
+#: ../../geovista/docs/src/reference/whatsnew.rst:9
+msgid "Content marked with 🚧 indicates it's still under construction."
+msgstr "🚧の付いたコンテンツは、まだ工事中であることを示します。"
 
 #: ../../geovista/docs/src/reference/changelog.rst:12
 msgid ""
@@ -108,14 +330,185 @@ msgid ""
 "malesuada arcu sit amet porttitor ornare. Quisque ut."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/cli.rst:4
-msgid "🚧 :fa:`terminal` CLI"
+#: ../geovista download:1
+msgid "Download and cache geovista assets (offline support)."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/cli.rst:12
+#: ../geovista download:1
+msgid "Download all registered assets."
+msgstr ""
+
+#: ../geovista download:1
+msgid "Delete all cached assets."
+msgstr ""
+
+#: ../geovista download:1
+msgid "Decompress all cached assets."
+msgstr ""
+
+#: ../geovista download:1
+msgid "Show URLs of registered assets."
+msgstr ""
+
+#: ../geovista download:1
+msgid "Download image test assets."
+msgstr ""
+
+#: ../geovista download:1
+msgid "Show names of registered assets."
+msgstr ""
+
+#: ../geovista download:1
+msgid "Download Natural Earth feature assets."
+msgstr ""
+
+#: ../geovista download:0 ../geovista examples:0
+msgid "options"
+msgstr ""
+
+#: ../geovista download:1
+msgid "all | physical"
+msgstr ""
+
+#: ../geovista download:1
+msgid "Download all non-test assets."
+msgstr ""
+
+#: ../geovista download:1
+msgid "Download sample data assets."
+msgstr ""
+
+#: ../geovista download:1
+msgid "Download raster assets."
+msgstr ""
+
+#: ../geovista download:1
 msgid ""
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec laoreet "
-"mi, ac luctus erat. Nunc convallis."
+"Download target directory (default: /home/runner/.cache/geovista/2024.06.1)"
+msgstr ""
+
+#: ../geovista download:1
+msgid "Verify availability of registered assets (no download)."
+msgstr ""
+
+#: ../geovista examples:1
+msgid "Execute a geovista example or group of examples."
+msgstr ""
+
+#: ../geovista examples:1
+msgid "Run all examples."
+msgstr ""
+
+#: ../geovista examples:1
+msgid "Show available example groups."
+msgstr ""
+
+#: ../geovista examples:1
+msgid "Show available examples."
+msgstr ""
+
+#: ../geovista examples:1
+msgid "Run an example."
+msgstr ""
+
+#: ../geovista examples:1
+msgid ""
+"all | clouds | clouds_robin | curvilinear.from_2d__orca | "
+"curvilinear.from_2d__orca_moll | point_cloud.from_points__orca_cloud | "
+"point_cloud.from_points__orca_cloud_eqc | rectilinear.from_1d__oisst | "
+"rectilinear.from_1d__oisst_eqc | rectilinear.from_1d__synthetic_face_m1_n1 |"
+" rectilinear.from_1d__synthetic_face_m1_n1_robin | "
+"rectilinear.from_1d__synthetic_node_m1_n1 | "
+"rectilinear.from_1d__synthetic_node_m1_n1_moll | "
+"rectilinear.from_2d__synthetic_face_m1n1 | "
+"rectilinear.from_2d__synthetic_face_m1n1_robin | "
+"rectilinear.from_2d__synthetic_node_m1n1 | "
+"rectilinear.from_2d__synthetic_node_m1n1_moll | scalar_data.earthquakes | "
+"scalar_data.earthquakes_wink1 | scalar_data.from_tiff__dem | "
+"scalar_data.from_tiff__rgb | spatial_index.uber_h3 | unstructured.dynamico |"
+" unstructured.dynamico_poly | unstructured.fesom | unstructured.fesom_fouc |"
+" unstructured.icon | unstructured.icon_eqc | unstructured.lam_pacific | "
+"unstructured.lam_pacific_moll | unstructured.lfric_sst | "
+"unstructured.lfric_sst_bonne | unstructured.smc | unstructured.smc_sinu | "
+"unstructured.tri | unstructured.tri_hammer | vector_data.vectors | "
+"warp.from_unstructured__fvcom | warp.from_unstructured__lfric_orog | "
+"warp.from_unstructured__lfric_orog_eqc"
+msgstr ""
+
+#: ../geovista examples:1
+msgid "Run all examples in the group."
+msgstr ""
+
+#: ../geovista examples:1
+msgid ""
+"all | curvilinear | point_cloud | rectilinear | scalar_data | spatial_index "
+"| unstructured | vector_data | warp"
+msgstr ""
+
+#: ../geovista examples:1
+msgid "Enable example diagnostics."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/cli/index.rst:4
+msgid ":fa:`terminal` CLI"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/cli/index.rst:6
+msgid ""
+"Once ``geovista`` has been :ref:`installed <gv-installation>`, a "
+":ref:`console script <gv-cli-geovista>` [#]_ will be available with several "
+"convenience commands to assist with the management of ``geovista`` and its "
+"resources."
+msgstr ""
+
+#: ../geovista:1
+msgid "To get help for geovista commands, simply use \"geovista COMMAND --help\"."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/cli/index.rst:0
+msgid "Options"
+msgstr ""
+
+#: ../geovista:1
+msgid "Show geovista cache directory."
+msgstr ""
+
+#: ../geovista:1
+msgid "Show GPU and environment package report."
+msgstr ""
+
+#: ../geovista:1
+msgid "Show geovista package version."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/cli/index.rst:21
+msgid "Commands"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/cli/index.rst:23
+msgid ""
+"The following :ref:`geovista console script <gv-cli-geovista>` commands are "
+"available:"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/cli/index.rst:37
+msgid "See `entry-points`_ for further information."
+msgstr ""
+
+#: ../geovista plot:1
+msgid "Load and render a VTK mesh."
+msgstr ""
+
+#: ../geovista plot:1
+msgid "Add axes"
+msgstr ""
+
+#: ../geovista plot:1
+msgid "Add a base layer"
+msgstr ""
+
+#: ../geovista plot:1
+msgid "Required argument"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/environment.rst:6
@@ -133,117 +526,117 @@ msgstr ""
 msgid "Internal"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:19
+#: ../../geovista/docs/src/reference/environment.rst:16
 msgid ""
 "Package environment variables that influence the behaviour of ``geovista``:"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:21
+#: ../../geovista/docs/src/reference/environment.rst:18
 msgid "Internal Variables"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:26
-#: ../../geovista/docs/src/reference/environment.rst:84
+#: ../../geovista/docs/src/reference/environment.rst:23
+#: ../../geovista/docs/src/reference/environment.rst:81
 msgid "Name"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:26
-#: ../../geovista/docs/src/reference/environment.rst:84
+#: ../../geovista/docs/src/reference/environment.rst:23
+#: ../../geovista/docs/src/reference/environment.rst:81
 msgid "Type"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:26
-#: ../../geovista/docs/src/reference/environment.rst:84
+#: ../../geovista/docs/src/reference/environment.rst:23
+#: ../../geovista/docs/src/reference/environment.rst:81
 msgid "Description"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:28
+#: ../../geovista/docs/src/reference/environment.rst:25
 msgid ":guilabel:`GEOVISTA_CACHEDIR`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:28
-#: ../../geovista/docs/src/reference/environment.rst:36
-#: ../../geovista/docs/src/reference/environment.rst:58
-#: ../../geovista/docs/src/reference/environment.rst:66
-#: ../../geovista/docs/src/reference/environment.rst:92
-#: ../../geovista/docs/src/reference/environment.rst:110
+#: ../../geovista/docs/src/reference/environment.rst:25
+#: ../../geovista/docs/src/reference/environment.rst:33
+#: ../../geovista/docs/src/reference/environment.rst:55
+#: ../../geovista/docs/src/reference/environment.rst:63
+#: ../../geovista/docs/src/reference/environment.rst:89
+#: ../../geovista/docs/src/reference/environment.rst:107
 msgid "``User``"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:28
+#: ../../geovista/docs/src/reference/environment.rst:25
 msgid ""
 "Configures the root directory (absolute path) where ``geovista`` resources "
 "will be downloaded and cached. See "
 ":data:`~geovista.cache.GEOVISTA_CACHEDIR`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:32
+#: ../../geovista/docs/src/reference/environment.rst:29
 msgid ""
 "Defaults to the ``geovista`` sub-directory under the user and platform "
 "specific cache directory returned by :func:`platformdirs.user_cache_dir`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:36
+#: ../../geovista/docs/src/reference/environment.rst:33
 msgid ":guilabel:`GEOVISTA_DATA_VERSION`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:36
+#: ../../geovista/docs/src/reference/environment.rst:33
 msgid ""
 "Configures the version of data resources to be downloaded and cached from "
 "the :data:`~geovista.cache.BASE_URL`. See "
 ":data:`~geovista.cache.GEOVISTA_DATA_VERSION`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:40
+#: ../../geovista/docs/src/reference/environment.rst:37
 msgid ""
 "Defaults to the specific :data:`~geovista.cache.DATA_VERSION` bundled with "
 "the version of ``geovista``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:44
+#: ../../geovista/docs/src/reference/environment.rst:41
 msgid ":guilabel:`GEOVISTA_DOWNLOAD`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:44
-#: ../../geovista/docs/src/reference/environment.rst:49
-#: ../../geovista/docs/src/reference/environment.rst:101
+#: ../../geovista/docs/src/reference/environment.rst:41
+#: ../../geovista/docs/src/reference/environment.rst:46
+#: ../../geovista/docs/src/reference/environment.rst:98
 msgid "``Developer``"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:44
+#: ../../geovista/docs/src/reference/environment.rst:41
 msgid ""
 "Set within the ``tests``, ``linkcheck`` and ``doctest`` GitHub Action "
 "runners with the required command for `tox`_ to download, decompress and "
 "cache ``geovista`` resources."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:49
+#: ../../geovista/docs/src/reference/environment.rst:46
 msgid ":guilabel:`GEOVISTA_IMAGE_TESTING`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:49
+#: ../../geovista/docs/src/reference/environment.rst:46
 msgid ""
 "When set, the :mod:`geovista.theme` will not be loaded and "
 ":mod:`geovista.gridlines` will not show labels."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:52
+#: ../../geovista/docs/src/reference/environment.rst:49
 msgid ""
 "This allows image testing to be more robust, particularly by being "
 "independent of any ``geovista`` theme changes."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:55
+#: ../../geovista/docs/src/reference/environment.rst:52
 msgid ""
 "Image tests default to using the :doc:`pyvista <pyvista:index>` testing "
 "theme."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:58
+#: ../../geovista/docs/src/reference/environment.rst:55
 msgid ":guilabel:`GEOVISTA_POOCH_MUTE`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:58
+#: ../../geovista/docs/src/reference/environment.rst:55
 msgid ""
 "Controls the verbosity level of the ``geovista`` "
 ":data:`~geovista.cache.CACHE` manager. Set to ``True`` to silence the "
@@ -252,102 +645,102 @@ msgid ""
 ":func:`~geovista.cache.pooch_mute`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:64
-#: ../../geovista/docs/src/reference/environment.rst:69
+#: ../../geovista/docs/src/reference/environment.rst:61
+#: ../../geovista/docs/src/reference/environment.rst:66
 msgid "Defaults to ``False``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:66
+#: ../../geovista/docs/src/reference/environment.rst:63
 msgid ":guilabel:`GEOVISTA_VTK_WARNINGS`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:66
+#: ../../geovista/docs/src/reference/environment.rst:63
 msgid "Set to ``True`` to enable backend `VTK`_ diagnostic warnings."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:74
+#: ../../geovista/docs/src/reference/environment.rst:71
 msgid "Third-Party"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:76
+#: ../../geovista/docs/src/reference/environment.rst:73
 msgid ""
 "Notable third-party environment variables that influence the behaviour of "
 "``geovista``:"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:79
+#: ../../geovista/docs/src/reference/environment.rst:76
 msgid "External Variables"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:86
+#: ../../geovista/docs/src/reference/environment.rst:83
 msgid ":guilabel:`CI`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/environment.rst:83
+#: ../../geovista/docs/src/reference/environment.rst:101
+msgid "``Platform``"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/environment.rst:83
+msgid "Default environment variable set on a `GitHub Action`_ runner."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/environment.rst:86
 #: ../../geovista/docs/src/reference/environment.rst:104
-msgid "``Platform``"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/environment.rst:86
-msgid "Default environment variable set on a `GitHub Action`_ runner."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/environment.rst:89
-#: ../../geovista/docs/src/reference/environment.rst:107
 msgid ""
 "Used by ``geovista`` to start an X virtual frame buffer display server via "
 ":func:`pyvista.start_xvfb`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:92
+#: ../../geovista/docs/src/reference/environment.rst:89
 msgid ":guilabel:`EAGER_IMPORT`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:92
+#: ../../geovista/docs/src/reference/environment.rst:89
 msgid ""
 "Set this environment variable to **disable** lazy loading of ``geovista`` "
 "subpackages and external libraries."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:96
+#: ../../geovista/docs/src/reference/environment.rst:93
 msgid "Deferred imports are **enabled** by default in ``geovista``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:99
+#: ../../geovista/docs/src/reference/environment.rst:96
 msgid "For further details see `lazy-loader`_ and `SPEC 1`_."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:101
+#: ../../geovista/docs/src/reference/environment.rst:98
 msgid ":guilabel:`PYVISTA_BUILDING_GALLERY`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:101
+#: ../../geovista/docs/src/reference/environment.rst:98
 msgid "Set to ``true`` when building the documentation `sphinx-gallery`_."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:104
+#: ../../geovista/docs/src/reference/environment.rst:101
 msgid ":guilabel:`READTHEDOCS`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:104
+#: ../../geovista/docs/src/reference/environment.rst:101
 msgid "Default environment variable set on a `Read the Docs`_ runner."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:110
+#: ../../geovista/docs/src/reference/environment.rst:107
 msgid ":guilabel:`XDG_CACHE_HOME`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:110
+#: ../../geovista/docs/src/reference/environment.rst:107
 msgid ""
 "Configures the root directory (absolute path) where ``geovista`` resources "
 "will be downloaded and cached."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:113
+#: ../../geovista/docs/src/reference/environment.rst:110
 msgid "Overrides :data:`~geovista.cache.GEOVISTA_CACHEDIR`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/environment.rst:115
+#: ../../geovista/docs/src/reference/environment.rst:112
 msgid "For further details see `XDG Base Directory Specification`_."
 msgstr ""
 
@@ -7591,7 +7984,7 @@ msgid "Package controls."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/index.rst:39
-msgid "🚧 CLI"
+msgid "CLI"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/index.rst:48
@@ -7599,7 +7992,7 @@ msgid "Command line interface."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/index.rst:50
-msgid "🚧 Key Bindings"
+msgid "Key Bindings"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/index.rst:59
