@@ -23,6 +23,6 @@ package_dir = basedir / "../../../geovista/src/geovista/"
 sphinx_gallery_conf["examples_dirs"] = str(package_dir / "examples")  # noqa: F821
 
 
-def setup(app) -> None:
+def setup(app) -> None:  # noqa: D103,ANN001
     app.srcdir = basedir
     app.confdir = app.srcdir
