@@ -28,3 +28,4 @@ repos:
       - id: ruff
         args: [--fix, --show-fixes]
       - id: ruff-format
+        exclude: locale
