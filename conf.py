@@ -12,7 +12,6 @@ This conf.py do:
 
 """
 
-import os
 from pathlib import Path
 
 basedir = Path(__file__).resolve().parent() / "geovista/docs/src"
