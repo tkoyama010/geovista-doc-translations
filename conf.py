@@ -20,7 +20,7 @@ exec(pathlib.Path(os.path.join(basedir, "conf.py")).read_text(), globals())
 autoapi_dirs = [os.path.join(basedir, "../../../geovista/src/geovista/")]
 locale_dirs = [os.path.join(basedir, "../../../locale/")]
 package_dir = pathlib.Path(os.path.join(basedir, "../../../geovista/src/geovista/"))
-sphinx_gallery_conf["examples_dirs"] = str(package_dir / "examples")
+sphinx_gallery_conf["examples_dirs"] = str(package_dir / "examples") # noqa F821
 
 
 def setup(app):
