@@ -1,0 +1,5 @@
+[lint]
+select = ["ALL"]
+ignore = []
+fixable = ["ALL"]
+unfixable = []
