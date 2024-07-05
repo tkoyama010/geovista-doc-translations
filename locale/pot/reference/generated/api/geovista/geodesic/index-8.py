@@ -3,6 +3,7 @@
 #
 import geovista
 from geovista.geodesic import wedge
+
 plotter = geovista.GeoPlotter()
 _ = plotter.add_base_layer(texture=geovista.blue_marble(), opacity=0.5)
 bbox = wedge(-30, 30, c=8)

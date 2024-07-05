@@ -3,6 +3,7 @@
 #
 import geovista
 from geovista.geodesic import line
+
 plotter = geovista.GeoPlotter()
 _ = plotter.add_base_layer(texture=geovista.natural_earth_1())
 meridian = line(-180, [90, 0, -90])

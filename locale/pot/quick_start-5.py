@@ -21,10 +21,6 @@ mesh.warp_by_scalar(scalars="node", inplace=True, factor=2e-5)
 # Plot the mesh.
 plotter = gv.GeoPlotter()
 sargs = {"title": f"{sample.name} / {sample.units}"}
-plotter.add_mesh(
-    mesh,
-    cmap="deep",
-    scalar_bar_args=sargs
-)
+plotter.add_mesh(mesh, cmap="deep", scalar_bar_args=sargs)
 plotter.view_poi()
 plotter.show()

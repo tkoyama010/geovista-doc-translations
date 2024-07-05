@@ -1,5 +1,6 @@
 from geovista.geodesic import npoints_by_idx
 import numpy as np
+
 points = npoints_by_idx(
     lons=[-10, 0, 10], lats=[20, 25, 30], start_idx=0, end_idx=1, npts=5
 )

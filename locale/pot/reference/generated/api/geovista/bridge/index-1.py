@@ -1,6 +1,7 @@
 from geovista import GeoPlotter, Transform
 from geovista.pantry import fetch_raster
 from geovista.pantry.textures import natural_earth_1
+
 #
 # Render the GeoTIFF ``RGB`` image as a geolocated mesh.
 #
