@@ -16,7 +16,7 @@ This conf.py do:
 from pathlib import Path
 
 basedir = Path(__file__).resolve().parent() / "geovista/docs/src"
-exec((basedir / "conf.py").read_text(), globals())
+exec((basedir / "conf.py").read_text(), globals())  # noqa: S102
 autoapi_dirs = [basedir / "../../../geovista/src/geovista/"]
 locale_dirs = [basedir / "../../../locale/"]
 package_dir = basedir / "../../../geovista/src/geovista/"
