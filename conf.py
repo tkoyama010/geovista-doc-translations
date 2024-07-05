@@ -14,12 +14,13 @@ This conf.py do:
 
 import os
 import pathlib
+from pathlib import Path
 
-basedir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "geovista/docs/src")
-exec(pathlib.Path(os.path.join(basedir, "conf.py")).read_text(), globals())
-autoapi_dirs = [os.path.join(basedir, "../../../geovista/src/geovista/")]
-locale_dirs = [os.path.join(basedir, "../../../locale/")]
-package_dir = pathlib.Path(os.path.join(basedir, "../../../geovista/src/geovista/"))
+basedir = Path(os.path.dirname(os.path.abspath(__file__))) / "geovista/docs/src"
+exec(Path(basedir / "conf.py").read_text(), globals())
+autoapi_dirs = [basedir / "../../../geovista/src/geovista/"]
+locale_dirs = [basedir / "../../../locale/"]
+package_dir = basedir / "../../../geovista/src/geovista/"
 sphinx_gallery_conf["examples_dirs"] = str(package_dir / "examples")  # noqa: F821
 
 
