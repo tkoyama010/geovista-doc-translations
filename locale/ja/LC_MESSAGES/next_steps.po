@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista\n"
+"Project-Id-Version: GeoVista 0.5.0.dev474\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-03 23:53+0000\n"
+"POT-Creation-Date: 2024-07-05 00:25+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -40,7 +40,7 @@ msgstr ""
 msgid ""
 "The next step you choose to take is a personal one. It depends on how you "
 "best learn given what you want to achieve."
-msgstr ""
+msgstr "次の一歩を踏み出すかどうかは、個人の自由です。自分が何を達成したいのか、そのためにどのように学ぶのがベストなのかによります。"
 
 #: ../../geovista/docs/src/next_steps.rst:21
 msgid ""
@@ -57,11 +57,11 @@ msgstr ""
 
 #: ../../geovista/docs/src/next_steps.rst:28
 msgid "Diátaxis Axis of Needs"
-msgstr ""
+msgstr "Diátaxis ニーズの軸"
 
 #: ../../geovista/docs/src/next_steps.rst:34
 msgid "Diátaxis Axes of Needs"
-msgstr ""
+msgstr "Diátaxis ニーズの軸"
 
 #: ../../geovista/docs/src/next_steps.rst:40
 msgid ""

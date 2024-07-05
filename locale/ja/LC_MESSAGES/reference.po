@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista\n"
+"Project-Id-Version: GeoVista 0.5.0.dev474\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-03 23:53+0000\n"
+"POT-Creation-Date: 2024-07-05 00:25+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -58,6 +58,8 @@ msgid ""
 "We follow the |icon| `all-contributors`_ specification. Contributions of any"
 " kind to ``geovista`` are welcome!"
 msgstr ""
+"私たちは |icon| `all-contributors`_ の仕様に従っています。どのような種類の ``geovista`` "
+"への貢献でも歓迎します！"
 
 #: ../../geovista/docs/src/reference/about.rst:38
 msgid ""
@@ -84,7 +86,11 @@ msgstr ""
 msgid ":fa:`keyboard` Key Bindings"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:8
+#: ../../geovista/docs/src/reference/bindings.rst:11
+msgid "For further details also see the `pyvista keyboard bindings`_."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:13
 msgid "Primary keyboard and mouse bindings that control the rendered scene."
 msgstr ""
 
@@ -92,204 +98,204 @@ msgstr ""
 msgid ":fab:`linux` / :fab:`windows`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:14
+#: ../../geovista/docs/src/reference/bindings.rst:19
 msgid "Bindings (Linux/Windows)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:18
-#: ../../geovista/docs/src/reference/bindings.rst:54
+#: ../../geovista/docs/src/reference/bindings.rst:23
+#: ../../geovista/docs/src/reference/bindings.rst:59
 msgid ":fa:`keyboard` + :fa:`computer-mouse`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:18
-#: ../../geovista/docs/src/reference/bindings.rst:54
+#: ../../geovista/docs/src/reference/bindings.rst:23
+#: ../../geovista/docs/src/reference/bindings.rst:59
 msgid "Action"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:18
-#: ../../geovista/docs/src/reference/bindings.rst:54
+#: ../../geovista/docs/src/reference/bindings.rst:23
+#: ../../geovista/docs/src/reference/bindings.rst:59
 msgid "Example"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:20
-#: ../../geovista/docs/src/reference/bindings.rst:56
+#: ../../geovista/docs/src/reference/bindings.rst:25
+#: ../../geovista/docs/src/reference/bindings.rst:61
 msgid ":guilabel:`f` (`Qt`_)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:20
-#: ../../geovista/docs/src/reference/bindings.rst:56
+#: ../../geovista/docs/src/reference/bindings.rst:25
+#: ../../geovista/docs/src/reference/bindings.rst:61
 msgid "Focus and zoom to a point."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:20
-#: ../../geovista/docs/src/reference/bindings.rst:56
+#: ../../geovista/docs/src/reference/bindings.rst:25
+#: ../../geovista/docs/src/reference/bindings.rst:61
 msgid "|fvcom-f|"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:105
+#: ../../geovista/docs/src/reference/bindings.rst:112
 msgid "Camera Follow"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:22
-#: ../../geovista/docs/src/reference/bindings.rst:58
+#: ../../geovista/docs/src/reference/bindings.rst:27
+#: ../../geovista/docs/src/reference/bindings.rst:63
 msgid ":guilabel:`q`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:22
-#: ../../geovista/docs/src/reference/bindings.rst:58
+#: ../../geovista/docs/src/reference/bindings.rst:27
+#: ../../geovista/docs/src/reference/bindings.rst:63
 msgid "Quit the rendering window."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:24
-#: ../../geovista/docs/src/reference/bindings.rst:60
+#: ../../geovista/docs/src/reference/bindings.rst:29
+#: ../../geovista/docs/src/reference/bindings.rst:65
 msgid ":guilabel:`r`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:24
-#: ../../geovista/docs/src/reference/bindings.rst:60
+#: ../../geovista/docs/src/reference/bindings.rst:29
+#: ../../geovista/docs/src/reference/bindings.rst:65
 msgid "Reset the camera."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:26
-#: ../../geovista/docs/src/reference/bindings.rst:62
+#: ../../geovista/docs/src/reference/bindings.rst:31
+#: ../../geovista/docs/src/reference/bindings.rst:67
 msgid ":guilabel:`s`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:26
-#: ../../geovista/docs/src/reference/bindings.rst:62
+#: ../../geovista/docs/src/reference/bindings.rst:31
+#: ../../geovista/docs/src/reference/bindings.rst:67
 msgid "Render scene using ``surface`` style."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:26
-#: ../../geovista/docs/src/reference/bindings.rst:62
+#: ../../geovista/docs/src/reference/bindings.rst:31
+#: ../../geovista/docs/src/reference/bindings.rst:67
 msgid "|fvcom-s|"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:90
+#: ../../geovista/docs/src/reference/bindings.rst:97
 msgid "FVCOM surface"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:28
-#: ../../geovista/docs/src/reference/bindings.rst:64
+#: ../../geovista/docs/src/reference/bindings.rst:33
+#: ../../geovista/docs/src/reference/bindings.rst:69
 msgid ":guilabel:`v` (`Qt`_)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:28
-#: ../../geovista/docs/src/reference/bindings.rst:64
+#: ../../geovista/docs/src/reference/bindings.rst:33
+#: ../../geovista/docs/src/reference/bindings.rst:69
 msgid "Snap to `isometric camera`_ view."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:30
-#: ../../geovista/docs/src/reference/bindings.rst:66
+#: ../../geovista/docs/src/reference/bindings.rst:35
+#: ../../geovista/docs/src/reference/bindings.rst:71
 msgid ":guilabel:`v` (`Trame`_)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:30
-#: ../../geovista/docs/src/reference/bindings.rst:66
+#: ../../geovista/docs/src/reference/bindings.rst:35
+#: ../../geovista/docs/src/reference/bindings.rst:71
 msgid "Render scene using ``points`` style."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:30
-#: ../../geovista/docs/src/reference/bindings.rst:66
+#: ../../geovista/docs/src/reference/bindings.rst:35
+#: ../../geovista/docs/src/reference/bindings.rst:71
 msgid "|fvcom-p|"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:100
+#: ../../geovista/docs/src/reference/bindings.rst:107
 msgid "FVCOM points"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:32
-#: ../../geovista/docs/src/reference/bindings.rst:68
+#: ../../geovista/docs/src/reference/bindings.rst:37
+#: ../../geovista/docs/src/reference/bindings.rst:73
 msgid ":guilabel:`w`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:32
-#: ../../geovista/docs/src/reference/bindings.rst:68
+#: ../../geovista/docs/src/reference/bindings.rst:37
+#: ../../geovista/docs/src/reference/bindings.rst:73
 msgid "Render scene using ``wireframe`` style."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:32
-#: ../../geovista/docs/src/reference/bindings.rst:68
+#: ../../geovista/docs/src/reference/bindings.rst:37
+#: ../../geovista/docs/src/reference/bindings.rst:73
 msgid "|fvcom-w|"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:95
+#: ../../geovista/docs/src/reference/bindings.rst:102
 msgid "FVCOM wireframe"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:34
+#: ../../geovista/docs/src/reference/bindings.rst:39
 msgid ":guilabel:`L-Click`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:34
-#: ../../geovista/docs/src/reference/bindings.rst:70
+#: ../../geovista/docs/src/reference/bindings.rst:39
+#: ../../geovista/docs/src/reference/bindings.rst:75
 msgid "Rotate the rendered scene in 3-D."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:34
-#: ../../geovista/docs/src/reference/bindings.rst:70
+#: ../../geovista/docs/src/reference/bindings.rst:39
+#: ../../geovista/docs/src/reference/bindings.rst:75
 msgid "|fvcom-3d|"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:112
+#: ../../geovista/docs/src/reference/bindings.rst:119
 msgid "Rotate 3-D"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:36
+#: ../../geovista/docs/src/reference/bindings.rst:41
 msgid ":guilabel:`Ctrl + L-Click`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:36
-#: ../../geovista/docs/src/reference/bindings.rst:72
+#: ../../geovista/docs/src/reference/bindings.rst:41
+#: ../../geovista/docs/src/reference/bindings.rst:77
 msgid "Rotate the rendered scene in 2-D (view plane)."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:36
-#: ../../geovista/docs/src/reference/bindings.rst:72
+#: ../../geovista/docs/src/reference/bindings.rst:41
+#: ../../geovista/docs/src/reference/bindings.rst:77
 msgid "|fvcom-2d|"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:119
+#: ../../geovista/docs/src/reference/bindings.rst:126
 msgid "Rotate 2-D"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:38
+#: ../../geovista/docs/src/reference/bindings.rst:43
 msgid ":guilabel:`Shift + L-Click` or :guilabel:`M-Click`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:38
-#: ../../geovista/docs/src/reference/bindings.rst:74
+#: ../../geovista/docs/src/reference/bindings.rst:43
+#: ../../geovista/docs/src/reference/bindings.rst:80
 msgid "Pan the rendered scene."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:38
-#: ../../geovista/docs/src/reference/bindings.rst:74
+#: ../../geovista/docs/src/reference/bindings.rst:43
+#: ../../geovista/docs/src/reference/bindings.rst:80
 msgid "|fvcom-pan|"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:126
+#: ../../geovista/docs/src/reference/bindings.rst:133
 msgid "Camera Pan"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:41
+#: ../../geovista/docs/src/reference/bindings.rst:46
 msgid ":guilabel:`Mouse-Wheel` or :guilabel:`R-Click`:sup:`†`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:41
-#: ../../geovista/docs/src/reference/bindings.rst:76
+#: ../../geovista/docs/src/reference/bindings.rst:46
+#: ../../geovista/docs/src/reference/bindings.rst:82
 msgid "Continuously zoom the rendering scene."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:41
-#: ../../geovista/docs/src/reference/bindings.rst:76
+#: ../../geovista/docs/src/reference/bindings.rst:46
+#: ../../geovista/docs/src/reference/bindings.rst:82
 msgid "|fvcom-zoom|"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:133
+#: ../../geovista/docs/src/reference/bindings.rst:140
 msgid "Camera Zoom"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:45
+#: ../../geovista/docs/src/reference/bindings.rst:50
 msgid ":guilabel:`†` - **not** `Trame`_"
 msgstr ""
 
@@ -297,21 +303,24 @@ msgstr ""
 msgid ":fab:`apple`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:50
+#: ../../geovista/docs/src/reference/bindings.rst:55
 msgid "Bindings (Mac)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:70
-msgid ":guilabel:`⌘-Click`"
+#: ../../geovista/docs/src/reference/bindings.rst:75
+msgid ":guilabel:`Click`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:72
-#: ../../geovista/docs/src/reference/bindings.rst:76
-msgid ":guilabel:`Ctrl + Click`"
+#: ../../geovista/docs/src/reference/bindings.rst:77
+msgid ":guilabel:`⌘ + Click` or :guilabel:`Ctrl + Click`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/bindings.rst:74
+#: ../../geovista/docs/src/reference/bindings.rst:80
 msgid ":guilabel:`Shift + Click`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/bindings.rst:82
+msgid ":guilabel:`Mouse-Wheel` or :guilabel:`R-Click`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/changelog.rst:4
