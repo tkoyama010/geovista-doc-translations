@@ -13,7 +13,6 @@ This conf.py do:
 """
 
 import os
-import pathlib
 from pathlib import Path
 
 basedir = Path(os.path.dirname(os.path.abspath(__file__))) / "geovista/docs/src"
