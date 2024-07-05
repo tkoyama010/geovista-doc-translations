@@ -5,7 +5,6 @@
 #
 import geovista
 from geovista.geodesic import BBox
-
 plotter = geovista.GeoPlotter()
 _ = plotter.add_base_layer(
     texture=geovista.natural_earth_hypsometric(), style="wireframe"

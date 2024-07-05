@@ -8,7 +8,6 @@
 import geovista
 from geovista.geodesic import BBox
 from geovista.pantry.meshes import lfric_sst
-
 plotter = geovista.GeoPlotter()
 mesh = lfric_sst()
 _ = plotter.add_mesh(mesh, cmap="balance")

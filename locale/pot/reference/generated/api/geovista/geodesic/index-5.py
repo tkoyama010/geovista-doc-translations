@@ -1,6 +1,5 @@
 from geovista.geodesic import npoints
 import numpy as np
-
 points = npoints(start_lon=-10, start_lat=20, end_lon=10, end_lat=30, npts=5)
 np.array(points, dtype=np.float16)
 # Expected:

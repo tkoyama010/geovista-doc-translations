@@ -13,7 +13,6 @@
 import geovista
 from geovista.geodesic import BBox
 from geovista.pantry.meshes import lfric_sst
-
 plotter = geovista.GeoPlotter()
 _ = plotter.add_base_layer(texture=geovista.natural_earth_hypsometric())
 mesh = lfric_sst()

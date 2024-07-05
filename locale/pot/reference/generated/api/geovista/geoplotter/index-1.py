@@ -2,9 +2,10 @@
 #
 import geovista
 from geovista.pantry import fetch_raster
-
 fname = fetch_raster("bahamas_rgb.tif")
-bahamas = geovista.Transform.from_tiff(fname, rgb=True, sieve=True, extract=True)
+bahamas = geovista.Transform.from_tiff(
+    fname, rgb=True, sieve=True, extract=True
+)
 #
 # Now add the ``bahamas`` mesh to a ``plotter`` **before** adding a texture mapped
 # base layer. Note that, the camera is centered over the ``bahamas`` mesh, which
