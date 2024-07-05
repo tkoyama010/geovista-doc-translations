@@ -20,7 +20,7 @@ exec((basedir / "conf.py").read_text(), globals())  # noqa: S102
 autoapi_dirs = [basedir / "../../../geovista/src/geovista/"]
 locale_dirs = [basedir / "../../../locale/"]
 package_dir = basedir / "../../../geovista/src/geovista/"
-sphinx_gallery_conf["examples_dirs"] = str(package_dir / "examples")  # noqa: F821
+sphinx_gallery_conf["examples_dirs"] = package_dir / "examples"  # noqa: F821
 
 
 def setup(app) -> None:  # noqa: D103,ANN001
