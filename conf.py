@@ -1,5 +1,6 @@
 # basedir is set by <lang>/conf.py
 """Use "-D language=<LANG>" option to build a localized geovista-docs document.
+
 For example::
 
     sphinx-build -D language=ja -b html . _build/html
