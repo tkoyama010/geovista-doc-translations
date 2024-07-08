@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.5.0.dev481\n"
+"Project-Id-Version: GeoVista 0.5.0.dev482\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-07 00:28+0000\n"
+"POT-Creation-Date: 2024-07-08 00:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -373,7 +373,7 @@ msgid "Download raster assets."
 msgstr ""
 
 #: ../geovista download:1
-msgid "Download target directory (default: /home/runner/.cache/geovista/2024.06.1)"
+msgid "Download target directory (default: /home/runner/.cache/geovista/2024.07.0)"
 msgstr ""
 
 #: ../geovista download:1
@@ -761,7 +761,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:617
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:699
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:780
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:826
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:830
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:11
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:84
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:137
@@ -1104,7 +1104,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:71
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:119
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:739
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:812
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:816
 #: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:57
 #: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:109
 #: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:161
@@ -1119,7 +1119,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:70
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:118
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:738
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:811
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:815
 #: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:56
 #: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:108
 #: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:160
@@ -1252,7 +1252,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:743
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:759
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:805
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:808
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:810
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:154
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:158
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:163
@@ -1762,7 +1762,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:609
 #: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:669
 #: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:737
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:831
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:835
 msgid "Examples"
 msgstr ""
 
@@ -4270,7 +4270,7 @@ msgstr ""
 msgid ":py:obj:`ADD_POINTS_STYLE <geovista.geoplotter.ADD_POINTS_STYLE>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:875
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:879
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:46:<autosummary>:1
 msgid "The valid 'style' options for adding points."
 msgstr ""
@@ -4279,7 +4279,7 @@ msgstr ""
 msgid ":py:obj:`BASE_ZLEVEL_SCALE <geovista.geoplotter.BASE_ZLEVEL_SCALE>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:901
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:905
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:46:<autosummary>:1
 msgid "Proportional multiplier for z-axis levels/offsets of base-layer mesh."
 msgstr ""
@@ -4288,7 +4288,7 @@ msgstr ""
 msgid ":py:obj:`COASTLINES_RTOL <geovista.geoplotter.COASTLINES_RTOL>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:927
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:931
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:46:<autosummary>:1
 msgid "Coastlines relative tolerance for longitudes close to 'wrap meridian'."
 msgstr ""
@@ -4297,7 +4297,7 @@ msgstr ""
 msgid ":py:obj:`GRATICULE_LABEL_FONT_SIZE <geovista.geoplotter.GRATICULE_LABEL_FONT_SIZE>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:953
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:957
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:46:<autosummary>:1
 msgid "The default font size for graticule labels."
 msgstr ""
@@ -4306,7 +4306,7 @@ msgstr ""
 msgid ":py:obj:`GRATICULE_SHOW_LABELS <geovista.geoplotter.GRATICULE_SHOW_LABELS>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:979
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:983
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:46:<autosummary>:1
 msgid "Whether to render graticule labels by default."
 msgstr ""
@@ -4315,7 +4315,7 @@ msgstr ""
 msgid ":py:obj:`OPACITY_BLACKLIST <geovista.geoplotter.OPACITY_BLACKLIST>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:1004
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:1008
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:46:<autosummary>:1
 msgid "Known GPU renderer and version combinations that don't support opacity."
 msgstr ""
@@ -4810,18 +4810,18 @@ msgid "**x** : :class:`python:float`, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:807
-msgid "The spatial x-value point, in canonical `crs` units, of the POI."
+msgid "The spatial x-value point, in canonical `crs` units, of the POI. Defaults to ``0`` if unspecified and `y` has been provided, otherwise ``None``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:809
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:811
 msgid "**y** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:810
-msgid "The spatial y-value point, in canonical `crs` units, of the POI."
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:812
+msgid "The spatial y-value point, in canonical `crs` units, of the POI. Defaults to ``0`` if unspecified and `x` has been provided, otherwise ``None``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:813
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:817
 msgid "The Coordinate Reference System of the POI. May be anything accepted by :meth:`pyproj.crs.CRS.from_user_input`. Defaults to ``EPSG:4326`` i.e., ``WGS 84``."
 msgstr ""
 
