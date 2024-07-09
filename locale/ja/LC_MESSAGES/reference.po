@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.5.0.dev482\n"
+"Project-Id-Version: GeoVista 0.5.0.dev489\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-08 00:26+0000\n"
+"POT-Creation-Date: 2024-07-08 19:34+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -323,17 +323,17 @@ msgstr ""
 msgid ":guilabel:`Mouse-Wheel` or :guilabel:`R-Click`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/changelog.rst:4
+#: ../../geovista/docs/src/reference/changelog.rst:6
 msgid "🚧 :fa:`road` Changelog"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/changelog.rst:9
+#: ../../geovista/docs/src/reference/changelog.rst:11
 #: ../../geovista/docs/src/reference/index.rst:9
-#: ../../geovista/docs/src/reference/whatsnew.rst:9
+#: ../../geovista/docs/src/reference/whatsnew.rst:11
 msgid "Content marked with 🚧 indicates it's still under construction."
 msgstr "🚧の付いたコンテンツは、まだ工事中であることを示します。"
 
-#: ../../geovista/docs/src/reference/changelog.rst:12
+#: ../../geovista/docs/src/reference/changelog.rst:14
 msgid ""
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum "
 "malesuada arcu sit amet porttitor ornare. Quisque ut."
@@ -7843,133 +7843,197 @@ msgid ""
 "respectively."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:4
+#: ../../geovista/docs/src/reference/glossary.rst:6
 msgid ":fa:`spell-check` Glossary"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:6
+#: ../../geovista/docs/src/reference/glossary.rst:8
 msgid "Say what you mean. Mean what you say."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:10
+#: ../../geovista/docs/src/reference/glossary.rst:12
 msgid "Actor"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:12
-#: ../../geovista/docs/src/reference/glossary.rst:15
-#: ../../geovista/docs/src/reference/glossary.rst:18
-#: ../../geovista/docs/src/reference/glossary.rst:21
-#: ../../geovista/docs/src/reference/glossary.rst:24
-#: ../../geovista/docs/src/reference/glossary.rst:30
-#: ../../geovista/docs/src/reference/glossary.rst:33
-#: ../../geovista/docs/src/reference/glossary.rst:36
-#: ../../geovista/docs/src/reference/glossary.rst:39
-#: ../../geovista/docs/src/reference/glossary.rst:42
-#: ../../geovista/docs/src/reference/glossary.rst:45
-#: ../../geovista/docs/src/reference/glossary.rst:48
-#: ../../geovista/docs/src/reference/glossary.rst:55
-#: ../../geovista/docs/src/reference/glossary.rst:58
-#: ../../geovista/docs/src/reference/glossary.rst:61
-#: ../../geovista/docs/src/reference/glossary.rst:64
-#: ../../geovista/docs/src/reference/glossary.rst:67
-#: ../../geovista/docs/src/reference/glossary.rst:70
-#: ../../geovista/docs/src/reference/glossary.rst:73
-#: ../../geovista/docs/src/reference/glossary.rst:76
-msgid "TBD"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/glossary.rst:13
-msgid "Base Layer"
+#: ../../geovista/docs/src/reference/glossary.rst:14
+msgid ""
+"Represents an object (geometry and properties) in a rendered scene. See "
+"`vtkActor`_."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:16
-msgid "Bounds"
+msgid "Base Layer"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:19
+#: ../../geovista/docs/src/reference/glossary.rst:18
+msgid ""
+"A surface mesh that may be texture mapped, and lies beneath another mesh "
+"typically to fill holes in that mesh."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:20
 msgid "Cell"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:22
+msgid ""
+"A cell is the geometry between points that defines the connectivity or "
+"topology of a mesh. See `What is a Cell?`_"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:24
 msgid "Connectivity"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:25
-msgid "Coordinate Reference System"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/glossary.rst:27
-msgid "TBD. Abbreviated to CRS."
+#: ../../geovista/docs/src/reference/glossary.rst:26
+msgid ""
+"An array of offsets that index into an array of points to define how cells "
+"are constructed from those points."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:28
+msgid "Coordinate Reference System"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:30
+msgid ""
+"A Coordinate Reference System defines how your geo-referenced spatial data "
+"relates to real locations on the Earth’s surface. Abbreviated to CRS."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:33
 msgid "Curvilinear Grid"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:31
-msgid "Face"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/glossary.rst:34
-msgid "Grid"
+#: ../../geovista/docs/src/reference/glossary.rst:35
+msgid ""
+"For example, a qudrilateral-cell surface that can be created from an array "
+"of 2-D ``x`` and ``y`` spatial points."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:37
-msgid "Land Mask"
+msgid "Face"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:39
+msgid "A polygonal cell in a mesh geometry. Also see :term:`Cell`."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:40
+msgid "Land Mask"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:42
+msgid ""
+"Typically a boolean array used to indicate the cells in a mesh that "
+"represent land."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:44
 msgid "Manifold"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:43
+#: ../../geovista/docs/src/reference/glossary.rst:46
+msgid "A water-tight, closed geometric structure e.g., a sphere."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:47
 msgid "Mesh"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:46
-msgid "Node"
-msgstr ""
-
 #: ../../geovista/docs/src/reference/glossary.rst:49
-msgid "Perceptually Uniform Colormap"
+msgid ""
+"A spatially referenced dataset that may be a surface or volume in 3-D space."
+" See `What is a Mesh?`_"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:51
+msgid "Node"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:53
+msgid "Nodes are the vertices of a mesh. Also see :term:`Point`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:54
+msgid "Perceptually Uniform Colormap"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:56
 msgid ""
 "A colormap in which equal steps in data are perceived as equal steps in the "
 "color space."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:53
+#: ../../geovista/docs/src/reference/glossary.rst:58
 msgid "Point"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:56
-msgid "Rectilinear Grid"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/glossary.rst:59
-msgid "Sea Mask"
+#: ../../geovista/docs/src/reference/glossary.rst:60
+msgid ""
+"Points are the vertices of the mesh, also referred to as the Cartesian "
+"coordinates of the underlying structure. See `What is a Point?`_"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:62
-msgid "Threshold"
+msgid "Rectilinear Grid"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:65
-msgid "Texture Map"
+#: ../../geovista/docs/src/reference/glossary.rst:64
+msgid ""
+"For example, a quadrilateral-cell surface that can be created from an array "
+"of 1-D ``x`` and ``y`` spatial points."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:66
+msgid "Sea Mask"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:68
-msgid "Unstructured Mesh"
+msgid ""
+"Typically a boolean array used to indicate the cells in a mesh that "
+"represent water e.g., river, lake, sea, ocean."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:71
-msgid "Warp"
+#: ../../geovista/docs/src/reference/glossary.rst:70
+msgid "Texture Map"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:72
+msgid ""
+"A graphical technique where a raster image is wrapped over the surface of a "
+"geometric object."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:74
-msgid "Warp Meridian"
+msgid "Threshold"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:76
+msgid ""
+"To remove the cells from a mesh based on criteria of data associated with "
+"the mesh cells or points. See `PyVista threshold`_."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:78
+msgid "Unstructured Mesh"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:80
+msgid ""
+"A surface that is created from a geometry of points and a topology of "
+"indices that define how cells are constructed from those points. See "
+":term:`Connectivity`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:83
+msgid "Warp"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:85
+msgid ""
+"Extrude the points in a mesh by a proportional amount along the surface "
+"normals. See `PyVista warp_by_scalar`_."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/index.rst:4
@@ -8028,27 +8092,11 @@ msgstr ""
 msgid "Jargon buster."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:83
-msgid "🚧 Changelog"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/index.rst:92
-msgid "In depth release details."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/index.rst:94
-msgid "🚧 What's New"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/index.rst:103
-msgid "Release highlights."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/whatsnew.rst:4
+#: ../../geovista/docs/src/reference/whatsnew.rst:6
 msgid "🚧 :fa:`wand-magic-sparkles` What's New"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/whatsnew.rst:12
+#: ../../geovista/docs/src/reference/whatsnew.rst:14
 msgid ""
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer bibendum a "
 "ligula eu eleifend. Sed et libero."

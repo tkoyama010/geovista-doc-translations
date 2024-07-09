@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.5.0.dev482\n"
+"Project-Id-Version: GeoVista 0.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-08 00:26+0000\n"
+"POT-Creation-Date: 2024-07-09 00:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,82 +16,82 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../geovista/docs/src/tags/coastlines.rst:4
-#: ../../geovista/docs/src/tags/curvilinear.rst:4
-#: ../../geovista/docs/src/tags/dem.rst:4
-#: ../../geovista/docs/src/tags/extrude.rst:4
-#: ../../geovista/docs/src/tags/geotiff.rst:4
-#: ../../geovista/docs/src/tags/globe.rst:4
-#: ../../geovista/docs/src/tags/graticule.rst:4
-#: ../../geovista/docs/src/tags/lighting.rst:4
-#: ../../geovista/docs/src/tags/opacity.rst:4
-#: ../../geovista/docs/src/tags/point-cloud.rst:4
-#: ../../geovista/docs/src/tags/points.rst:4
-#: ../../geovista/docs/src/tags/projection.rst:4
-#: ../../geovista/docs/src/tags/rectilinear.rst:4
-#: ../../geovista/docs/src/tags/rgb.rst:4
-#: ../../geovista/docs/src/tags/texture.rst:4
-#: ../../geovista/docs/src/tags/threshold.rst:4
-#: ../../geovista/docs/src/tags/transform-mesh.rst:4
-#: ../../geovista/docs/src/tags/unstructured.rst:4
-#: ../../geovista/docs/src/tags/vectors.rst:4
-#: ../../geovista/docs/src/tags/warp.rst:4
+#: ../../geovista/docs/src/tags/coastlines.rst:6
+#: ../../geovista/docs/src/tags/curvilinear.rst:6
+#: ../../geovista/docs/src/tags/dem.rst:6
+#: ../../geovista/docs/src/tags/extrude.rst:6
+#: ../../geovista/docs/src/tags/geotiff.rst:6
+#: ../../geovista/docs/src/tags/globe.rst:6
+#: ../../geovista/docs/src/tags/graticule.rst:6
+#: ../../geovista/docs/src/tags/lighting.rst:6
+#: ../../geovista/docs/src/tags/opacity.rst:6
+#: ../../geovista/docs/src/tags/point-cloud.rst:6
+#: ../../geovista/docs/src/tags/points.rst:6
+#: ../../geovista/docs/src/tags/projection.rst:6
+#: ../../geovista/docs/src/tags/rectilinear.rst:6
+#: ../../geovista/docs/src/tags/rgb.rst:6
+#: ../../geovista/docs/src/tags/texture.rst:6
+#: ../../geovista/docs/src/tags/threshold.rst:6
+#: ../../geovista/docs/src/tags/transform-mesh.rst:6
+#: ../../geovista/docs/src/tags/unstructured.rst:6
+#: ../../geovista/docs/src/tags/vectors.rst:6
+#: ../../geovista/docs/src/tags/warp.rst:6
 msgid "Gallery examples:"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/coastlines.rst:2
+#: ../../geovista/docs/src/tags/coastlines.rst:4
 msgid ":fa:`tags` Tag: Coastlines"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/curvilinear.rst:2
+#: ../../geovista/docs/src/tags/curvilinear.rst:4
 msgid ":fa:`tags` Tag: Curvilinear"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/dem.rst:2
+#: ../../geovista/docs/src/tags/dem.rst:4
 msgid ":fa:`tags` Tag: DEM"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/extrude.rst:2
+#: ../../geovista/docs/src/tags/extrude.rst:4
 msgid ":fa:`tags` Tag: Extrude"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/geotiff.rst:2
+#: ../../geovista/docs/src/tags/geotiff.rst:4
 msgid ":fa:`tags` Tag: GeoTIFF"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/globe.rst:2
+#: ../../geovista/docs/src/tags/globe.rst:4
 msgid ":fa:`tags` Tag: Globe"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/graticule.rst:2
+#: ../../geovista/docs/src/tags/graticule.rst:4
 msgid ":fa:`tags` Tag: Graticule"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/lighting.rst:2
+#: ../../geovista/docs/src/tags/lighting.rst:4
 msgid ":fa:`tags` Tag: Lighting"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/opacity.rst:2
+#: ../../geovista/docs/src/tags/opacity.rst:4
 msgid ":fa:`tags` Tag: Opacity"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/point-cloud.rst:2
+#: ../../geovista/docs/src/tags/point-cloud.rst:4
 msgid ":fa:`tags` Tag: Point Cloud"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/points.rst:2
+#: ../../geovista/docs/src/tags/points.rst:4
 msgid ":fa:`tags` Tag: Points"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/projection.rst:2
+#: ../../geovista/docs/src/tags/projection.rst:4
 msgid ":fa:`tags` Tag: Projection"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/rectilinear.rst:2
+#: ../../geovista/docs/src/tags/rectilinear.rst:4
 msgid ":fa:`tags` Tag: Rectilinear"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/rgb.rst:2
+#: ../../geovista/docs/src/tags/rgb.rst:4
 msgid ":fa:`tags` Tag: RGB"
 msgstr ""
 
@@ -183,26 +183,26 @@ msgstr ""
 msgid ":fa:`tags` Tags"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/texture.rst:2
+#: ../../geovista/docs/src/tags/texture.rst:4
 msgid ":fa:`tags` Tag: Texture"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/threshold.rst:2
+#: ../../geovista/docs/src/tags/threshold.rst:4
 msgid ":fa:`tags` Tag: Threshold"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/transform-mesh.rst:2
+#: ../../geovista/docs/src/tags/transform-mesh.rst:4
 msgid ":fa:`tags` Tag: Transform Mesh"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/unstructured.rst:2
+#: ../../geovista/docs/src/tags/unstructured.rst:4
 msgid ":fa:`tags` Tag: Unstructured"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/vectors.rst:2
+#: ../../geovista/docs/src/tags/vectors.rst:4
 msgid ":fa:`tags` Tag: Vectors"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/warp.rst:2
+#: ../../geovista/docs/src/tags/warp.rst:4
 msgid ":fa:`tags` Tag: Warp"
 msgstr ""

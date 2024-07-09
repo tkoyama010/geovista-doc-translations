@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.5.0.dev482\n"
+"Project-Id-Version: GeoVista 0.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-08 00:26+0000\n"
+"POT-Creation-Date: 2024-07-09 00:25+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,19 +16,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../geovista/docs/src/index.rst:91
+#: ../../geovista/docs/src/index.rst:94
 msgid "GeoVista 101"
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:102
+#: ../../geovista/docs/src/index.rst:105
 msgid "Contents"
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:113
+#: ../../geovista/docs/src/index.rst:116
 msgid "Gallery"
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:122
+#: ../../geovista/docs/src/index.rst:125
 msgid "Developer"
 msgstr ""
 
@@ -45,53 +45,53 @@ msgid "Welcome to the ``geovista`` documentation!"
 msgstr ""
 
 #: ../../geovista/docs/src/index.rst:16
-msgid "We're busily crafting the structure and content of the documentation, so it's likely that some material will change, move around or even be removed. However, the dust will eventually settle and we'll have a stable foundation to build upon.  Thanks for your patience."
+msgid "``geovista`` is a pure `Python`_ package, built upon `PyVista`_ that offers performant, publication quality 3-D cartographic rendering of Earth Science data."
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:21
-msgid "In the meantime, your feedback is important to us.  So feel free to submit a :fab:`github` `Issue`_  or :fab:`github` `Pull-Request`_ to help elevate our documentation to the next level of awesome 🚀"
+#: ../../geovista/docs/src/index.rst:20
+msgid "Our goal is to lower the bar for scientists, such that they can easily analyze, visualize, and explore their rectilinear, curvilinear and unstructured geospatial data interactively in 3-D."
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:25
-msgid "Alternatively, if it's easier, come share with us over on our :fab:`github` `Discussions`_."
+#: ../../geovista/docs/src/index.rst:24
+msgid "We're still busy crafting the documentation, which is incomplete and liable to change.  Thanks for your patience. However, your feedback is important to us.  So feel free to submit a :fab:`github` `Issue`_  or :fab:`github` `Pull-Request`_ to help elevate ``geovista`` to the next level of awesome 🚀"
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:28
-msgid "We'd 💛 to hear from you."
+#: ../../geovista/docs/src/index.rst:30
+msgid "Alternatively, come share with us over on our :fab:`github` `Discussions`_. We'd 💛 to hear from you."
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:37
-msgid "🚧 Tutorials"
+#: ../../geovista/docs/src/index.rst:40
+msgid "Tutorials"
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:46
+#: ../../geovista/docs/src/index.rst:49
 msgid "Topic driven themed lessons."
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:48
+#: ../../geovista/docs/src/index.rst:51
 msgid "🚧 How-To Guides"
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:57
+#: ../../geovista/docs/src/index.rst:60
 msgid "Treasure trove of focused guides."
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:59
+#: ../../geovista/docs/src/index.rst:62
 msgid "🚧 Explanation"
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:68
+#: ../../geovista/docs/src/index.rst:71
 msgid "Deeper understanding awaits."
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:70
+#: ../../geovista/docs/src/index.rst:73
 msgid "Reference"
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:79
+#: ../../geovista/docs/src/index.rst:82
 msgid "No fuss facts."
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:84
+#: ../../geovista/docs/src/index.rst:87
 msgid ":fa:`graduation-cap` Choose your approach to learning and ``geovista`` knowledge discovery (`Diátaxis`_)"
 msgstr ""
