@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.5.0.dev489\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-08 19:34+0000\n"
+"POT-Creation-Date: 2024-07-12 00:25+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -55,6 +55,8 @@ msgid ""
 "performant, publication quality 3-D cartographic rendering of Earth Science "
 "data."
 msgstr ""
+"``geovista`` は `PyVista`_ をベースに構築された純粋な `Python`_ "
+"パッケージであり、地球科学データの高性能で出版品質の3Dカートグラフィレンダリングを提供します。"
 
 #: ../../geovista/docs/src/index.rst:20
 msgid ""
@@ -62,6 +64,7 @@ msgid ""
 "analyze, visualize, and explore their rectilinear, curvilinear and "
 "unstructured geospatial data interactively in 3-D."
 msgstr ""
+"私たちの目標は、科学者のハードルを下げ、直線、曲線、非構造の地理空間データを3Dでインタラクティブに簡単に分析、視覚化、探索できるようにすることです。"
 
 #: ../../geovista/docs/src/index.rst:24
 msgid ""
@@ -70,16 +73,19 @@ msgid ""
 " us.  So feel free to submit a :fab:`github` `Issue`_  or :fab:`github` "
 "`Pull-Request`_ to help elevate ``geovista`` to the next level of awesome 🚀"
 msgstr ""
+"私たちはまだドキュメントの作成に追われており、不完全で変更される可能性があります。 お待たせしました。 "
+"しかし、皆様からのフィードバックは私たちにとって重要です。 ですから :fab:`github` `Issue`_ や :fab:`github` "
+"`Pull-Request`_ を気軽に投稿して、 ``geovista`` を次のレベルに引き上げる手助けをしてください🚀"
 
 #: ../../geovista/docs/src/index.rst:30
 msgid ""
 "Alternatively, come share with us over on our :fab:`github` `Discussions`_. "
 "We'd 💛 to hear from you."
-msgstr ""
+msgstr "あるいは、私たちの :fab:`github` `Discussions`_ でシェアしてください。 ご連絡お待ちしています💛"
 
 #: ../../geovista/docs/src/index.rst:40
 msgid "Tutorials"
-msgstr ""
+msgstr "チュートリアル"
 
 #: ../../geovista/docs/src/index.rst:49
 msgid "Topic driven themed lessons."

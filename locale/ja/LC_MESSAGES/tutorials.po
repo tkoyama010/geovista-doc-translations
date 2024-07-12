@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.5.0.dev489\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-08 19:34+0000\n"
+"POT-Creation-Date: 2024-07-12 00:25+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,27 +23,27 @@ msgstr ""
 
 #: ../../geovista/docs/src/tutorials/index.rst:4
 msgid ":fa:`water` Tutorials"
-msgstr ""
+msgstr ":fa:`water` チュートリアル"
 
 #: ../../geovista/docs/src/tutorials/index.rst:9
 msgid ""
 "We've just started to bank content for the tutorial material, which will "
 "slowly grow and mature over time."
-msgstr ""
+msgstr "チュートリアル教材のコンテンツは、時間をかけてゆっくりと成長し、成熟していくでしょう。"
 
 #: ../../geovista/docs/src/tutorials/index.rst:12
 msgid "Thanks for your patience 🙏"
-msgstr ""
+msgstr "お待たせしました🙏"
 
 #: ../../geovista/docs/src/tutorials/index.rst:15
 msgid "A collection of themed practical lessons to work though."
-msgstr ""
+msgstr "テーマに沿った実践的なレッスン集。"
 
 #: ../../geovista/docs/src/tutorials/index.rst:24
 #: ../../geovista/docs/src/tutorials/index.rst:28
 #: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:10002
 msgid "Region Manifold Extraction"
-msgstr ""
+msgstr "マニフォールド領域の抽出"
 
 #: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:30002
 msgid "{fa}`comment-dots` Introduction"

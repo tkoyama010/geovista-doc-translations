@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.5.0.dev489\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-08 19:34+0000\n"
+"POT-Creation-Date: 2024-07-12 00:25+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -41,7 +41,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/about.rst:26
 msgid ":fa:`users-line` Contributors"
-msgstr ""
+msgstr ":fa:`users-line` コントリビュータ"
 
 #: ../../geovista/docs/src/reference/about.rst:31
 msgid ""
@@ -67,10 +67,12 @@ msgid ""
 "not just the ones who push code. So no matter how large or small, we're "
 "grateful for your contribution and caring enough to make a difference."
 msgstr ""
+"私たちは、コードをプッシュする人たちだけでなく、 **すべての** 貢献者を認識し、認めることが重要です。 "
+"そのため、貢献の大小にかかわらず、私たちはあなたの貢献に感謝し、違いを生み出すのに十分な配慮をしています。"
 
 #: ../../geovista/docs/src/reference/about.rst:42
 msgid "A massive thank-you to all our awesome contributors (`Emoji Key ✨`_):"
-msgstr ""
+msgstr "私たちの素晴らしい貢献者たち (`Emoji Key ✨`_) に心から感謝します:"
 
 #: ../../geovista/docs/src/reference/about.rst:49
 msgid ":fa:`file-contract` License"
@@ -80,7 +82,7 @@ msgstr ""
 msgid ""
 "``geovista`` is an open-source package distributed under the terms of the "
 "`BSD-3-Clause`_ license."
-msgstr ""
+msgstr "``geovista`` はオープンソースのパッケージで、 `BSD-3-Clause`_ ライセンスの下で配布されています。"
 
 #: ../../geovista/docs/src/reference/bindings.rst:6
 msgid ":fa:`keyboard` Key Bindings"
@@ -5951,7 +5953,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:14
 msgid "Cartographic rendering and mesh analytics powered by PyVista."
-msgstr ""
+msgstr "PyVistaによる地図描画とメッシュ解析。"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:16
 msgid "Provides:"

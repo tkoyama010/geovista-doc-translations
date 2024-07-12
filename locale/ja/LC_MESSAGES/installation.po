@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-02 19:40+0000\n"
+"POT-Creation-Date: 2024-07-12 00:25+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -60,7 +60,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/installation.rst:44
 msgid "Development"
-msgstr ""
+msgstr "開発"
 
 #: ../../geovista/docs/src/installation.rst:46
 msgid ""
@@ -79,11 +79,11 @@ msgstr ""
 
 #: ../../geovista/docs/src/installation.rst:0
 msgid "pip"
-msgstr ""
+msgstr "pip"
 
 #: ../../geovista/docs/src/installation.rst:70
 msgid "Developer"
-msgstr ""
+msgstr "開発者"
 
 #: ../../geovista/docs/src/installation.rst:72
 msgid ""
@@ -107,12 +107,12 @@ msgstr ""
 
 #: ../../geovista/docs/src/installation.rst:100
 msgid "Finally, you're good to roll 🥳"
-msgstr ""
+msgstr "ついに、あなたはロールすることができます🥳"
 
 #: ../../geovista/docs/src/installation.rst:102
 msgid "And for extra credit, install our developer `pre-commit`_ git-hooks:"
-msgstr ""
+msgstr "おまけに、開発者用の `pre-commit`_ git-hooks をインストールしてください:"
 
 #: ../../geovista/docs/src/installation.rst:111
 msgid "Please ensure to install `pre-commit`_ into your environment first."
-msgstr ""
+msgstr "`pre-commit`_ をあなたの環境にインストールしてください。"
