@@ -8,13 +8,13 @@
 import geovista
 from geovista.geodesic import BBox
 from geovista.pantry.meshes import lfric_sst
-plotter = geovista.GeoPlotter()
+p = geovista.GeoPlotter()
 mesh = lfric_sst()
-_ = plotter.add_mesh(mesh, cmap="balance")
+_ = p.add_mesh(mesh, cmap="balance")
 bbox = BBox(lons=[-15, 20, 25, -15], lats=[-25, -20, 15, 10], c=32)
-_ = plotter.add_mesh(bbox.boundary(mesh), color="orange", line_width=3)
-plotter.view_yz()
-plotter.show()
+_ = p.add_mesh(bbox.boundary(mesh), color="orange", line_width=3)
+p.view_yz()
+p.show()
 #
 #
 #

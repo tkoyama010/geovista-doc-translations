@@ -13,23 +13,23 @@
 import geovista
 from geovista.geodesic import BBox
 from geovista.pantry.meshes import lfric_sst
-plotter = geovista.GeoPlotter()
-_ = plotter.add_base_layer(texture=geovista.natural_earth_hypsometric())
+p = geovista.GeoPlotter()
+_ = p.add_base_layer(texture=geovista.natural_earth_hypsometric())
 mesh = lfric_sst()
 bbox = BBox(lons=[-15, 20, 25, -15], lats=[-25, -20, 15, 10], c=32)
 region = bbox.enclosed(mesh)
-_ = plotter.add_mesh(region, cmap="balance")
-plotter.view_yz()
-plotter.show()
+_ = p.add_mesh(region, cmap="balance")
+p.view_yz()
+p.show()
 #
 # The same ``region`` is rendered again, but with the land mask cells removed
 # using the :meth:`pyvista.DataSetFilters.threshold` filter.
 #
-plotter = geovista.GeoPlotter()
-_ = plotter.add_base_layer(texture=geovista.natural_earth_hypsometric())
-_ = plotter.add_mesh(region.threshold(), cmap="balance")
-plotter.view_yz()
-plotter.show()
+p = geovista.GeoPlotter()
+_ = p.add_base_layer(texture=geovista.natural_earth_hypsometric())
+_ = p.add_mesh(region.threshold(), cmap="balance")
+p.view_yz()
+p.show()
 #
 #
 #

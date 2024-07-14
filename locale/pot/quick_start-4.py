@@ -13,15 +13,15 @@ mesh = gv.Transform.from_unstructured(
 )
 
 # Plot the mesh.
-plotter = gv.GeoPlotter()
+p = gv.GeoPlotter()
 sargs = {"title": f"{sample.name} / {sample.units}"}
-plotter.add_mesh(
+p.add_mesh(
     mesh,
     cmap="balance",
     scalar_bar_args=sargs
 )
-plotter.add_coastlines(color="white")
-plotter.add_base_layer(texture=gv.natural_earth_hypsometric())
-plotter.view_xy(negative=True)
-plotter.camera.zoom(1.2)
-plotter.show()
+p.add_coastlines(color="white")
+p.add_base_layer(texture=gv.natural_earth_hypsometric())
+p.view_xy(negative=True)
+p.camera.zoom(1.2)
+p.show()

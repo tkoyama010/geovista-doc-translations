@@ -5,14 +5,14 @@
 #
 import geovista
 from geovista.geodesic import BBox
-plotter = geovista.GeoPlotter()
-_ = plotter.add_base_layer(
+p = geovista.GeoPlotter()
+_ = p.add_base_layer(
     texture=geovista.natural_earth_hypsometric(), style="wireframe"
 )
 bbox = BBox(lons=[-15, 20, 25, -15], lats=[-25, -20, 15, 10], c=32)
-_ = plotter.add_mesh(bbox.mesh, color="white")
-plotter.camera.zoom(1.5)
-plotter.show()
+_ = p.add_mesh(bbox.mesh, color="white")
+p.camera.zoom(1.5)
+p.show()
 #
 #
 #

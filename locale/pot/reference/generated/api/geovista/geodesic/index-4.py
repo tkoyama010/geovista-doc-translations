@@ -3,12 +3,12 @@
 #
 import geovista
 from geovista.geodesic import line
-plotter = geovista.GeoPlotter()
-_ = plotter.add_base_layer(texture=geovista.natural_earth_1())
+p = geovista.GeoPlotter()
+_ = p.add_base_layer(texture=geovista.natural_earth_1())
 meridian = line(-180, [90, 0, -90])
-_ = plotter.add_mesh(meridian, color="orange", line_width=3)
-plotter.view_yz(negative=True)
-plotter.show()
+_ = p.add_mesh(meridian, color="orange", line_width=3)
+p.view_yz(negative=True)
+p.show()
 #
 #
 #

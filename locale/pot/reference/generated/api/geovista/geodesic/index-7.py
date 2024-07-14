@@ -5,14 +5,12 @@
 #
 import geovista
 from geovista.geodesic import panel
-plotter = geovista.GeoPlotter()
-_ = plotter.add_base_layer(
-    texture=geovista.natural_earth_hypsometric(), opacity=0.5
-)
+p = geovista.GeoPlotter()
+_ = p.add_base_layer(texture=geovista.natural_earth_hypsometric(), opacity=0.5)
 bbox = panel("americas", c=8)
-_ = plotter.add_mesh(bbox.mesh, color="orange", style="wireframe")
-plotter.view_xz()
-plotter.show()
+_ = p.add_mesh(bbox.mesh, color="orange", style="wireframe")
+p.view_xz()
+p.show()
 #
 #
 #

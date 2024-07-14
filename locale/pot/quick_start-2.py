@@ -12,13 +12,13 @@ mesh = gv.Transform.from_1d(
 )
 
 # Plot the mesh with coastlines.
-plotter = gv.GeoPlotter()
+p = gv.GeoPlotter()
 sargs = {"title": f"{sample.name} / {sample.units}"}
-plotter.add_mesh(
+p.add_mesh(
     mesh,
     cmap="balance",
     scalar_bar_args=sargs
 )
-plotter.add_coastlines(color="white")
-plotter.camera.zoom(1.2)
-plotter.show()
+p.add_coastlines(color="white")
+p.camera.zoom(1.2)
+p.show()

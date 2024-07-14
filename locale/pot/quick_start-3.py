@@ -17,15 +17,15 @@ mesh = gv.Transform.from_2d(
 mesh = mesh.threshold()
 
 # Plot the mesh on a Plate Carrée projection using a cartopy CRS.
-plotter = gv.GeoPlotter(crs=ccrs.PlateCarree())
+p = gv.GeoPlotter(crs=ccrs.PlateCarree())
 sargs = {"title": f"{sample.name} / {sample.units}"}
-plotter.add_mesh(
+p.add_mesh(
     mesh,
     cmap="thermal",
     scalar_bar_args=sargs
 )
-plotter.add_base_layer(texture=gv.natural_earth_1())
-plotter.add_coastlines(color="white")
-plotter.view_xy()
-plotter.camera.zoom(1.4)
-plotter.show()
+p.add_base_layer(texture=gv.natural_earth_1())
+p.add_coastlines(color="white")
+p.view_xy()
+p.camera.zoom(1.4)
+p.show()
