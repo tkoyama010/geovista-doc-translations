@@ -10,18 +10,13 @@ build:
   jobs:
     post_install:
       - geovista download --operational --decompress
+      - cp -a locale geovista/docs/src/
 
 submodules:
-  include:
-    - geovista
-  recursive: true
+  include: all
 
 conda:
   environment: geovista/requirements/locks/rtd.yml
-
-sphinx:
-  configuration: conf.py
-  fail_on_warning: false
 
 python:
   install:
