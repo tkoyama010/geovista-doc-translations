@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021 - 2024, GeoVista Contributors
+# This file is distributed under the same license as the GeoVista package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GeoVista 0.6.0.dev13\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-17 09:56+0000\n"
+"PO-Revision-Date: 2024-07-17 09:58+0000\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../geovista/docs/src/reference/cli/index.rst:4
+msgid ":fa:`terminal` CLI"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/cli/index.rst:6
+msgid ""
+"Once ``geovista`` has been :ref:`installed <gv-installation>`, a "
+":ref:`console script <gv-cli-geovista>` [#]_ will be available with several "
+"convenience commands to assist with the management of ``geovista`` and its "
+"resources."
+msgstr ""
+
+#: ../geovista:1
+msgid "To get help for geovista commands, simply use \"geovista COMMAND --help\"."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/cli/index.rst:0
+msgid "Options"
+msgstr ""
+
+#: ../geovista:1
+msgid "Show geovista cache directory."
+msgstr ""
+
+#: ../geovista:1
+msgid "Show GPU and environment package report."
+msgstr ""
+
+#: ../geovista:1
+msgid "Show geovista package version."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/cli/index.rst:21
+msgid "Commands"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/cli/index.rst:23
+msgid ""
+"The following :ref:`geovista console script <gv-cli-geovista>` commands are "
+"available:"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/cli/index.rst:37
+msgid "See `entry-points`_ for further information."
+msgstr ""

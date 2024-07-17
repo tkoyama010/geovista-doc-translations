@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021 - 2024, GeoVista Contributors
+# This file is distributed under the same license as the GeoVista package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GeoVista 0.6.0.dev13\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-17 12:55+0000\n"
+"PO-Revision-Date: 2024-07-17 09:58+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:6
+msgid "Unstructured Mesh"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:25
+msgid ":ref:`sphx_glr_generated_gallery_unstructured_dynamico.py`"
+msgstr ":ref:`sphx_glr_generated_gallery_unstructured_dynamico.py`"
+
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:42
+msgid ":ref:`sphx_glr_generated_gallery_unstructured_dynamico_poly.py`"
+msgstr ":ref:`sphx_glr_generated_gallery_unstructured_dynamico_poly.py`"
+
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:59
+msgid ":ref:`sphx_glr_generated_gallery_unstructured_icon.py`"
+msgstr ":ref:`sphx_glr_generated_gallery_unstructured_icon.py`"
+
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:76
+msgid ":ref:`sphx_glr_generated_gallery_unstructured_icon_eqc.py`"
+msgstr ":ref:`sphx_glr_generated_gallery_unstructured_icon_eqc.py`"
+
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:93
+msgid ":ref:`sphx_glr_generated_gallery_unstructured_lam_pacific.py`"
+msgstr ":ref:`sphx_glr_generated_gallery_unstructured_lam_pacific.py`"
+
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:110
+msgid ":ref:`sphx_glr_generated_gallery_unstructured_lam_pacific_moll.py`"
+msgstr ":ref:`sphx_glr_generated_gallery_unstructured_lam_pacific_moll.py`"
+
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:127
+msgid ":ref:`sphx_glr_generated_gallery_unstructured_lfric_sst.py`"
+msgstr ":ref:`sphx_glr_generated_gallery_unstructured_lfric_sst.py`"
+
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:144
+msgid ":ref:`sphx_glr_generated_gallery_unstructured_lfric_sst_bonne.py`"
+msgstr ":ref:`sphx_glr_generated_gallery_unstructured_lfric_sst_bonne.py`"
+
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:161
+msgid ":ref:`sphx_glr_generated_gallery_unstructured_smc.py`"
+msgstr ":ref:`sphx_glr_generated_gallery_unstructured_smc.py`"
+
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:178
+msgid ":ref:`sphx_glr_generated_gallery_unstructured_smc_sinu.py`"
+msgstr ":ref:`sphx_glr_generated_gallery_unstructured_smc_sinu.py`"
+
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:195
+msgid ":ref:`sphx_glr_generated_gallery_unstructured_tri.py`"
+msgstr ":ref:`sphx_glr_generated_gallery_unstructured_tri.py`"
+
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:212
+msgid ":ref:`sphx_glr_generated_gallery_unstructured_tri_hammer.py`"
+msgstr ":ref:`sphx_glr_generated_gallery_unstructured_tri_hammer.py`"
