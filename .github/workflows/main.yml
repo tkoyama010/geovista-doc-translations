@@ -38,7 +38,7 @@ jobs:
           private-key: ${{ secrets.SSH_PRIVATE_KEY }}
       - name: install
         run: |
-          (cd geovista; git fetch origin; git checkout maint/update-locale; git reset --hard origin/maint/update-locale; git branch -a)
+          (cd geovista; git fetch origin -p; git checkout maint/update-locale; git reset --hard origin/maint/update-locale; git branch -a)
           pip3 install -U pip setuptools
           pip3 install -r ./requirements.txt
           curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
