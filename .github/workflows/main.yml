@@ -56,7 +56,7 @@ jobs:
           git config --global user.email $GITHUB_REPOSITORY
           git config --global user.name $GITHUB_REPOSITORY
       - name: commit
-        if: contains(github.event.head_commit.message, '[ci skip]') == false && contains(github.ref, 'main')
+        if: contains(github.event.head_commit.message, '[ci skip]') == false && contains(github.ref, 'maint/update-locale')
         env:
           JOB_ID: ${{ steps.jobs.outputs.job_id }}
           HTML_URL: ${{ steps.jobs.outputs.html_url }}
@@ -66,4 +66,4 @@ jobs:
           $HTML_URL"
           git remote -v
           git remote add github git@github.com:$GITHUB_REPOSITORY.git
-          git push github main
+          git push github maint/update-locale
