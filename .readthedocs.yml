@@ -10,7 +10,7 @@ build:
   jobs:
     post_install:
       - geovista download --operational --decompress
-      - cp -a locale geovista/docs/
+      - cp -a locale geovista/docs/src/
 
 submodules:
   include: all
