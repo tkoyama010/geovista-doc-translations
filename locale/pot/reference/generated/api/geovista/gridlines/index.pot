@@ -1,0 +1,489 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021 - 2024, GeoVista Contributors
+# This file is distributed under the same license as the GeoVista package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GeoVista 0.6.0.dev13\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-17 13:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:2
+msgid ":py:mod:`geovista.gridlines`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:8
+msgid "Provides graticule support and other geographical lines of interest for geolocation."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:11
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:84
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:137
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:210
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:249
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:322
+msgid "Notes"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:19
+msgid "Module Contents"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:22
+msgid "Classes"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:29:<autosummary>:1
+msgid ":py:obj:`GraticuleGrid <geovista.gridlines.GraticuleGrid>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:71
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:29:<autosummary>:1
+msgid "Graticule composed of a block of meshes, labels and their points."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:31
+msgid "Functions"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:41:<autosummary>:1
+msgid ":py:obj:`create_meridian_labels <geovista.gridlines.create_meridian_labels>`\\ \\(lons\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:115
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:41:<autosummary>:1
+msgid "Generate labels for the meridians."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:41:<autosummary>:1
+msgid ":py:obj:`create_meridians <geovista.gridlines.create_meridians>`\\ \\(\\[start\\, stop\\, step\\, lat\\_step\\, ...\\]\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:150
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:41:<autosummary>:1
+msgid "Generate graticule lines of constant longitude (meridians) with labels."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:41:<autosummary>:1
+msgid ":py:obj:`create_parallel_labels <geovista.gridlines.create_parallel_labels>`\\ \\(lats\\[\\, poles\\_parallel\\]\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:223
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:41:<autosummary>:1
+msgid "Generate labels for the parallels."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:41:<autosummary>:1
+msgid ":py:obj:`create_parallels <geovista.gridlines.create_parallels>`\\ \\(\\[start\\, stop\\, step\\, lon\\_step\\, ...\\]\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:262
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:41:<autosummary>:1
+msgid "Generate graticule lines of constant latitude (parallels) with labels."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:43
+msgid "Attributes"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid ":py:obj:`GRATICULE_CLOSED_INTERVAL <geovista.gridlines.GRATICULE_CLOSED_INTERVAL>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:338
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid "Whether longitudes within half-closed [-180, 180) or closed [-180, 180] interval."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid ":py:obj:`GRATICULE_ZLEVEL <geovista.gridlines.GRATICULE_ZLEVEL>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:364
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid "The default zlevel for graticule meridians and parallels."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid ":py:obj:`LABEL_DEGREE <geovista.gridlines.LABEL_DEGREE>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:390
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid "The degree symbol label."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid ":py:obj:`LABEL_EAST <geovista.gridlines.LABEL_EAST>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:414
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid "The east of the prime meridian label."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid ":py:obj:`LABEL_NORTH <geovista.gridlines.LABEL_NORTH>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:438
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid "The north of the equatorial parallel label."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid ":py:obj:`LABEL_SOUTH <geovista.gridlines.LABEL_SOUTH>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:462
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid "The south of the equatorial parallel label."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid ":py:obj:`LABEL_WEST <geovista.gridlines.LABEL_WEST>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:486
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid "The west of the prime meridian label."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid ":py:obj:`LATITUDE_N_SAMPLES <geovista.gridlines.LATITUDE_N_SAMPLES>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:512
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid "The default number of points in a line of latitude."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid ":py:obj:`LATITUDE_POLES_LABEL <geovista.gridlines.LATITUDE_POLES_LABEL>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:538
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid "Whether to generate a north/south pole label."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid ":py:obj:`LATITUDE_POLES_PARALLEL <geovista.gridlines.LATITUDE_POLES_PARALLEL>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:564
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid "Whether to generate parallels at the north/south poles."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid ":py:obj:`LATITUDE_START <geovista.gridlines.LATITUDE_START>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:588
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid "The first graticule line of latitude (degrees)."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid ":py:obj:`LATITUDE_STEP <geovista.gridlines.LATITUDE_STEP>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:614
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid "The default step size between graticule parallels (degrees)."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid ":py:obj:`LATITUDE_STEP_PERIOD <geovista.gridlines.LATITUDE_STEP_PERIOD>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:640
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid "The period or upper bound (degrees) for parallel step size."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid ":py:obj:`LATITUDE_STOP <geovista.gridlines.LATITUDE_STOP>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:666
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid "The last graticule line of latitude (degrees)."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid ":py:obj:`LONGITUDE_N_SAMPLES <geovista.gridlines.LONGITUDE_N_SAMPLES>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:692
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid "The default number of points in a meridian line."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid ":py:obj:`LONGITUDE_START <geovista.gridlines.LONGITUDE_START>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:716
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid "The first meridian line in the graticule (degrees)."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid ":py:obj:`LONGITUDE_STEP <geovista.gridlines.LONGITUDE_STEP>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:742
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid "The default step size between graticule meridians (degrees)."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid ":py:obj:`LONGITUDE_STEP_PERIOD <geovista.gridlines.LONGITUDE_STEP_PERIOD>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:768
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid "The period or upper bound (degrees) for meridian step size."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid ":py:obj:`LONGITUDE_STOP <geovista.gridlines.LONGITUDE_STOP>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:792
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:67:<autosummary>:1
+msgid "The last graticule meridian (degrees)."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:0
+msgid "Parameters"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:120
+msgid "**lons** : :class:`python:list` of :class:`python:float`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:119
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:227
+msgid "python:list of python:float"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:121
+msgid "The meridian lines that require a label of their location east or west relative to the prime meridian."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:0
+msgid "Returns"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:126
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:238
+msgid ":class:`python:list` of :class:`python:str`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:127
+msgid "The sequence of string labels for each meridian line."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:155
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:267
+msgid "**start** : :class:`python:float`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:154
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:158
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:163
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:167
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:180
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:184
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:192
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:266
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:270
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:275
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:279
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:296
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:304
+msgid "python:float, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:156
+msgid "The first line of longitude (degrees). The graticule will include this meridian. Defaults to :data:`LONGITUDE_START`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:159
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:271
+msgid "**stop** : :class:`python:float`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:160
+msgid "The last line of longitude (degrees). The graticule will include this meridian when it is a multiple of ``step``. Also see ``closed_interval``. Defaults to :data:`LONGITUDE_STOP`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:164
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:276
+msgid "**step** : :class:`python:float`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:165
+msgid "The delta (degrees) between neighbouring meridians. Defaults to :data:`LONGITUDE_STEP`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:168
+msgid "**lat_step** : :class:`python:float`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:169
+msgid "The delta (degrees) between neighbouring parallels. Sets the frequency of the labels. Defaults to :data:`LATITUDE_STEP`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:172
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:285
+msgid "**n_samples** : :class:`python:int`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:171
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:187
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:284
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:299
+msgid "python:int, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:173
+msgid "The number of points in a single line of longitude. Defaults to :data:`LONGITUDE_N_SAMPLES`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:176
+msgid "**closed_interval** : :class:`python:bool`, default=False"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:175
+msgid "python:bool, default=False"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:177
+msgid "Longitude values will be in the half-closed interval [-180, 180). Otherwise, longitudes will be in the closed interval [-180, 180]. Defaults to :data:`GRATICULE_CLOSED_INTERVAL`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:181
+msgid "**central_meridian** : :class:`python:float`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:182
+msgid "The central meridian of the longitude range. Defaults to :data:`geovista.common.CENTRAL_MERIDIAN`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:185
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:297
+msgid "**radius** : :class:`python:float`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:186
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:298
+msgid "The radius of the sphere. Defaults to :data:`geovista.common.RADIUS`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:188
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:300
+msgid "**zlevel** : :class:`python:int`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:189
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:301
+msgid "The z-axis level. Used in combination with the `zscale` to offset the `radius` by a proportional amount i.e., ``radius * zlevel * zscale``. Defaults to :data:`GRATICULE_ZLEVEL`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:193
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:305
+msgid "**zscale** : :class:`python:float`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:194
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:306
+msgid "The proportional multiplier for z-axis `zlevel`. Defaults to :data:`geovista.common.ZLEVEL_SCALE`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:199
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:311
+msgid ":obj:`GraticuleGrid`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:200
+msgid "The graticule meridians and points with labels on those meridians."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:228
+msgid "**lats** : :class:`python:list` of :class:`python:float`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:229
+msgid "The lines of latitude that require a label of their location north or south relative to the equator."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:232
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:289
+msgid "**poles_parallel** : :class:`python:bool`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:231
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:288
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:292
+msgid "python:bool, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:233
+msgid "Whether to generate a label for the north/south poles. Defaults to :data:`LATITUDE_POLES_PARALLEL`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:239
+msgid "The sequence of string labels for each line of latitude."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:268
+msgid "The first line of latitude (degrees). The graticule will include this parallel. Also see ``poles_parallel``. Defaults to :data:`LATITUDE_START`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:272
+msgid "The last line of latitude (degrees). The graticule will include this parallel when it is a multiple of ``step``. Also see ``poles_parallel``. Defaults to :data:`LATITUDE_STOP`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:277
+msgid "The delta (degrees) between neighbouring parallels. Defaults to :data:`LATITUDE_STEP`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:280
+msgid "**lon_step** : :class:`python:float`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:281
+msgid "The delta (degrees) between neighbouring meridians. Sets the frequency of the labels. Defaults to :data:`LONGITUDE_STEP`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:286
+msgid "The number of points in a single line of latitude. Defaults to :data:`LATITUDE_N_SAMPLES`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:290
+msgid "Whether to create a line of latitude at the north/south poles. Also see ``poles_label``. Defaults to :data:`LATITUDE_POLES_PARALLEL`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:293
+msgid "**poles_label** : :class:`python:bool`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:294
+msgid "Whether to create a single north/south pole label. Only applies when ``poles_parallel=False``. Defaults to :data:`LATITUDE_POLES_LABEL`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:312
+msgid "The graticule parallels and points with labels on the parallels."
+msgstr ""

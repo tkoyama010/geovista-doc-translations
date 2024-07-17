@@ -1,0 +1,177 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021 - 2024, GeoVista Contributors
+# This file is distributed under the same license as the GeoVista package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GeoVista 0.6.0.dev13\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-17 09:56+0000\n"
+"PO-Revision-Date: 2024-07-17 09:58+0000\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:13
+msgid ""
+":ref:`Go to the end "
+"<sphx_glr_download_generated_gallery_scalar_data_earthquakes_wink1.py>` to "
+"download the full example code."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:22
+msgid "Earthquakes (Projected)"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:24
+msgid ""
+"This example demonstrates how to render projected scalar points-of-interest."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:27
+msgid "📋 Summary"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:29
+msgid "Creates a point cloud from a USGS earthquakes dataset."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:31
+msgid ""
+"The resulting render contains a point cloud of M2.5+ earthquakes along with "
+"a Natural Earth base layer and Natural Earth coastlines. The point cloud is "
+"also transformed to the Winkel I pseudo-cylindrical projection."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:35
+msgid ""
+"The earthquakes dataset is sourced from the `USGS Earthquake Hazards Program"
+" <https://www.usgs.gov/programs/earthquake-hazards>`_ and `pre-processed "
+"<https://github.com/holoviz/holoviz/blob/main/examples/data/preprocessing/earthquake_data.py>`_"
+" as part of this `HoloViz Tutorial "
+"<https://holoviz.org/tutorial/Overview.html#the-holoviz-tutorial>`_."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:43
+msgid "Magnitude"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:43
+msgid "Earthquake Effects"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:43
+msgid "Estimated Number per Year"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:45
+msgid "**<=2.5**"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:45
+msgid "Usually not felt, but can be recorded by seismograph."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:45
+msgid "Millions"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:46
+msgid "**2.5 - 5.4**"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:46
+msgid "Often felt, but only causes minor damage."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:46
+msgid "500,000"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:47
+msgid "**5.5 - 6.0**"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:47
+msgid "Slight damage to buildings and other structures."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:47
+msgid "350"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:48
+msgid "**6.1 - 6.9**"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:48
+msgid "May cause a lot of damage in very populated areas."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:48
+msgid "100"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:49
+msgid "**7.0 - 7.9**"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:49
+msgid "Major earthquake. Serious damage."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:49
+msgid "10-15"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:50
+msgid "**>=8.0**"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:50
+msgid "Great earthquake. Can destroy communities near the epicenter."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:50
+msgid "One every year or two"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:53
+msgid ""
+"See `reference "
+"<https://www.mtu.edu/geo/community/seismology/learn/earthquake-"
+"measure/magnitude/>`_ for further details."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:58
+msgid ""
+"Optional package dependencies `pandas <https://pandas.pydata.org/docs/>`_ "
+"and `fastparquet <https://fastparquet.readthedocs.io/en/stable>`_ are "
+"required."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:62
+msgid "Tags: Coastlines Graticule Points Projection Texture"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:130
+msgid ""
+":download:`Download Jupyter notebook: earthquakes_wink1.ipynb "
+"<earthquakes_wink1.ipynb>`"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:134
+msgid ""
+":download:`Download Python source code: earthquakes_wink1.py "
+"<earthquakes_wink1.py>`"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:141
+msgid ""
+"`Gallery generated by Sphinx-Gallery <https://sphinx-gallery.github.io>`_"
+msgstr ""

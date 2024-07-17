@@ -1,0 +1,350 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021 - 2024, GeoVista Contributors
+# This file is distributed under the same license as the GeoVista package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GeoVista 0.6.0.dev13\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-17 09:56+0000\n"
+"PO-Revision-Date: 2024-07-17 09:58+0000\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:2
+msgid ":py:mod:`geovista.transform`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:8
+msgid "Coordinate reference system (CRS) transformation functions."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:11
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:88
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:150
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:214
+msgid "Notes"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:19
+msgid "Module Contents"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:23
+msgid "Functions"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:32:<autosummary>:1
+msgid ""
+":py:obj:`transform_mesh <geovista.transform.transform_mesh>`\\ \\(mesh\\, "
+"tgt\\_crs\\[\\, slice\\_connectivity\\, ...\\]\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:36
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:32:<autosummary>:1
+msgid "Transform the mesh from its source CRS to the target CRS."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:32:<autosummary>:1
+msgid ""
+":py:obj:`transform_point <geovista.transform.transform_point>`\\ "
+"\\(src\\_crs\\, tgt\\_crs\\, x\\, y\\[\\, z\\, trap\\]\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:101
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:32:<autosummary>:1
+msgid "Transform the spatial point from the source to the target CRS."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:32:<autosummary>:1
+msgid ""
+":py:obj:`transform_points <geovista.transform.transform_points>`\\ "
+"\\(src\\_crs\\, tgt\\_crs\\, xs\\, ys\\[\\, zs\\, trap\\]\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:163
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:32:<autosummary>:1
+msgid "Transform the spatial points from the source to the target CRS."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:0
+msgid "Parameters"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:41
+msgid "**mesh** : :obj:`PolyData <pyvista.PolyData>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:40
+msgid "PolyData"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:42
+msgid ""
+"The mesh to be transformed from its source coordinate reference system (CRS)"
+" to the given `tgt_crs`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:45
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:111
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:173
+msgid "**tgt_crs** : :obj:`CRSLike <geovista.crs.CRSLike>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:44
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:105
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:110
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:167
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:172
+msgid "CRSLike"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:46
+msgid ""
+"The target coordinate reference system (CRS) of the transformation. May be "
+"anything accepted by :meth:`pyproj.crs.CRS.from_user_input`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:49
+msgid "**slice_connectivity** : :class:`python:bool`, default=True"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:48
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:130
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:192
+msgid "python:bool, default=True"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:50
+msgid ""
+"Slice the mesh prior to transformation in order to break mesh connectivity "
+"and create a seam in the mesh. Also see :func:`geovista.core.slice_mesh`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:53
+msgid "**rtol** : :class:`python:float`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:52
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:56
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:66
+msgid "python:float, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:54
+msgid ""
+"The relative tolerance for longitudes close to the 'wrap meridian' - see "
+":func:`geovista.common.wrap` for more."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:57
+msgid "**atol** : :class:`python:float`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:58
+msgid ""
+"The absolute tolerance for longitudes close to the 'wrap meridian' - see "
+":func:`geovista.common.wrap` for more."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:61
+msgid ""
+"**zlevel** : :class:`python:int` or :obj:`ArrayLike "
+"<numpy.typing.ArrayLike>`, default=0"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:60
+msgid "python:int or ArrayLike, default=0"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:62
+msgid ""
+"The z-axis level. Used in combination with the `zscale` to offset the "
+"`radius`/vertical by a proportional amount e.g., ``radius * zlevel * "
+"zscale``. If `zlevel` is not a scalar, then its shape must match or "
+"broadcast with the shape of the ``mesh.points``."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:67
+msgid "**zscale** : :class:`python:float`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:68
+msgid ""
+"The proportional multiplier for z-axis `zlevel`. Defaults to "
+":data:`geovista.common.ZLEVEL_SCALE`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:71
+msgid "**inplace** : :class:`python:bool`, default=False"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:70
+msgid "python:bool, default=False"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:72
+msgid ""
+"Update the `mesh` in-place. Can only perform an in-place operation when "
+"``slice_connectivity=False``."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:0
+msgid "Returns"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:77
+msgid ":obj:`PolyData <pyvista.PolyData>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:78
+msgid "The mesh transformed to the target coordinate reference system (CRS)."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:106
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:168
+msgid "**src_crs** : :obj:`CRSLike <geovista.crs.CRSLike>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:107
+msgid ""
+"The source Coordinate Reference System (CRS) of the provided `x`, `y` and "
+"`z` spatial point. May be anything accepted by "
+":meth:`pyproj.crs.CRS.from_user_input`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:112
+msgid ""
+"The target Coordinate Reference System (CRS) of the transform for the "
+"spatial point. May be anything accepted by "
+":meth:`pyproj.crs.CRS.from_user_input`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:116
+msgid "**x** : :obj:`ArrayLike <numpy.typing.ArrayLike>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:115
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:120
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:177
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:182
+msgid "ArrayLike"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:117
+msgid ""
+"The spatial point x-value, in canonical `src_crs` units, to be transformed "
+"from the `src_crs` to the `tgt_crs`. Must be a scalar or a single valued 1-D"
+" array."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:121
+msgid "**y** : :obj:`ArrayLike <numpy.typing.ArrayLike>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:122
+msgid ""
+"The spatial point y-value, in canonical `src_crs` units, to be transformed "
+"from the `src_crs` to the `tgt_crs`. Must be scalar (0-dimensional)."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:126
+msgid "**z** : :obj:`ArrayLike <numpy.typing.ArrayLike>`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:125
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:187
+msgid "ArrayLike, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:127
+msgid ""
+"The spatial point z-value, in canonical `src_crs` units, to be transformed "
+"from the `src_crs` to the `tgt_crs`. Must be scalar (0-dimensional)."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:131
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:193
+msgid "**trap** : :class:`python:bool`, default=True"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:132
+msgid ""
+"Raise an exception if an error occurs during CRS transformation of the "
+"spatial point. Otherwise, ``inf`` will be returned for the erroneous point."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:138
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:200
+msgid ":obj:`ArrayLike <numpy.typing.ArrayLike>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:139
+msgid ""
+"The transformed spatial point in the canonical units of the target CRS. The "
+"shape of the result will be ``(3,)``."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:169
+msgid ""
+"The source Coordinate Reference System (CRS) of the provided `xs`, `ys` and "
+"`zs` spatial points. May be anything accepted by "
+":meth:`pyproj.crs.CRS.from_user_input`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:174
+msgid ""
+"The target Coordinate Reference System (CRS) of the transform for the "
+"spatial points. May be anything accepted by "
+":meth:`pyproj.crs.CRS.from_user_input`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:178
+msgid "**xs** : :obj:`ArrayLike <numpy.typing.ArrayLike>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:179
+msgid ""
+"The spatial points x-values, in canonical `src_crs` units, to be transformed"
+" from the `src_crs` to the `tgt_crs`. May be scalar, 1-D or 2-D."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:183
+msgid "**ys** : :obj:`ArrayLike <numpy.typing.ArrayLike>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:184
+msgid ""
+"The spatial points y-values, in canonical `src_crs` units, to be transformed"
+" from the `src_crs` to the `tgt_crs`. May be scalar, 1-D or 2-D."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:188
+msgid "**zs** : :obj:`ArrayLike <numpy.typing.ArrayLike>`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:189
+msgid ""
+"The spatial points z-values, in canonical `src_crs` units, to be transformed"
+" from the `src_crs` to the `tgt_crs`. May be scalar, 1-D or 2-D."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:194
+msgid ""
+"Raise an exception if an error occurs during CRS transformation of the "
+"spatial points. Otherwise, ``inf`` will be returned for erroneous points."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:201
+msgid ""
+"The transformed spatial points in the canonical units of the target CRS. The"
+" shape of the result will either be ``(1, 3)``, ``(M, 3)`` or ``(M, N, 3)`` "
+"depending on whether the provided spatial points were scalar, 1-D or 2-D, "
+"respectively."
+msgstr ""

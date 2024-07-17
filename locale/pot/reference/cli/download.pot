@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021 - 2024, GeoVista Contributors
+# This file is distributed under the same license as the GeoVista package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GeoVista 0.6.0.dev13\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-17 13:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../geovista download:1
+msgid "Download and cache geovista assets (offline support)."
+msgstr ""
+
+#: ../geovista download:1
+msgid "Download all registered assets."
+msgstr ""
+
+#: ../geovista download:1
+msgid "Delete all cached assets."
+msgstr ""
+
+#: ../geovista download:1
+msgid "Decompress all cached assets."
+msgstr ""
+
+#: ../geovista download:1
+msgid "Show URLs of registered assets."
+msgstr ""
+
+#: ../geovista download:1
+msgid "Download image test assets."
+msgstr ""
+
+#: ../geovista download:1
+msgid "Show names of registered assets."
+msgstr ""
+
+#: ../geovista download:1
+msgid "Download Natural Earth feature assets."
+msgstr ""
+
+#: ../geovista download:0
+msgid "options"
+msgstr ""
+
+#: ../geovista download:1
+msgid "all | physical"
+msgstr ""
+
+#: ../geovista download:1
+msgid "Download all non-test assets."
+msgstr ""
+
+#: ../geovista download:1
+msgid "Download sample data assets."
+msgstr ""
+
+#: ../geovista download:1
+msgid "Download raster assets."
+msgstr ""
+
+#: ../geovista download:1
+msgid "Download target directory (default: /home/runner/.cache/geovista/2024.07.1)"
+msgstr ""
+
+#: ../geovista download:1
+msgid "Verify availability of registered assets (no download)."
+msgstr ""

@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021 - 2024, GeoVista Contributors
+# This file is distributed under the same license as the GeoVista package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GeoVista 0.6.0.dev13\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-17 12:55+0000\n"
+"PO-Revision-Date: 2024-07-17 09:58+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../geovista/docs/src/developer/index.rst:4
+msgid "🚧 :fa:`handshake` Contributing"
+msgstr "🚧 :fa:`handshake` 貢献する"
+
+#: ../../geovista/docs/src/developer/index.rst:9
+msgid "Content marked with 🚧 indicates it's still under construction."
+msgstr "🚧の付いたコンテンツは、まだ工事中であることを示します。"
+
+#: ../../geovista/docs/src/developer/index.rst:12
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae velit "
+"condimentum, facilisis mi nec, rutrum velit."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae velit "
+"condimentum, facilisis mi nec, rutrum velit."
