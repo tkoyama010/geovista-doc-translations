@@ -35,7 +35,7 @@ msgstr ""
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:24
 msgid ""
 "This example demonstrates how to render projected scalar points-of-interest."
-msgstr ""
+msgstr "この例では、投影されたスカラー注目点をレンダリングする方法を示します。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:27
 msgid "📋 Summary"

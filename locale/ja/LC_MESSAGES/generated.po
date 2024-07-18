@@ -761,11 +761,11 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:22
 msgid "Earthquakes"
-msgstr ""
+msgstr "地震"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:24
 msgid "This example demonstrates how to render scalar points-of-interest."
-msgstr ""
+msgstr "この例では、スカラーポイントをレンダリングする方法を示します。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:29
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:29
@@ -937,7 +937,7 @@ msgstr ""
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:24
 msgid ""
 "This example demonstrates how to render projected scalar points-of-interest."
-msgstr ""
+msgstr "この例では、投影されたスカラー注目点をレンダリングする方法を示します。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:31
 msgid ""
