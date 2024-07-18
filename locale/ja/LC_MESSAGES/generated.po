@@ -63,13 +63,13 @@ msgstr ""
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog.rst:27
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog_eqc.rst:28
 msgid "📋 Summary"
-msgstr ""
+msgstr "📋 まとめ"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca.rst:29
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca_moll.rst:29
 msgid ""
 "Creates a mesh from 2-D latitude and longitude curvilinear cell bounds."
-msgstr ""
+msgstr "2次元の緯度と経度の曲線セル境界からメッシュを作成します。"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca.rst:31
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca_moll.rst:31
