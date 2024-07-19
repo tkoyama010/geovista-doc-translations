@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev13\n"
+"Project-Id-Version: GeoVista 0.6.0.dev15\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-17 12:55+0000\n"
+"POT-Creation-Date: 2024-07-19 00:25+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -50,7 +50,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:53
 msgid "Curvilinear Grid"
-msgstr ""
+msgstr "曲線グリッド"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:72
 msgid ":ref:`sphx_glr_generated_gallery_curvilinear_from_2d__orca.py`"
@@ -62,7 +62,7 @@ msgstr ":ref:`sphx_glr_generated_gallery_curvilinear_from_2d__orca_moll.py`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:104
 msgid "Point Cloud"
-msgstr ""
+msgstr "点群"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:123
 msgid ""
@@ -78,7 +78,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:155
 msgid "Rectilinear Grid"
-msgstr ""
+msgstr "直線グリッド"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:174
 msgid ":ref:`sphx_glr_generated_gallery_rectilinear_from_1d__oisst.py`"
@@ -90,7 +90,7 @@ msgstr ":ref:`sphx_glr_generated_gallery_rectilinear_from_1d__oisst_eqc.py`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:206
 msgid "Scalar Data"
-msgstr ""
+msgstr "スカラーデータ"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:225
 msgid ":ref:`sphx_glr_generated_gallery_scalar_data_earthquakes.py`"

@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev13\n"
+"Project-Id-Version: GeoVista 0.6.0.dev15\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-17 12:55+0000\n"
+"POT-Creation-Date: 2024-07-19 00:25+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -30,6 +30,8 @@ msgid ""
 "**00:00.000** total execution time for 1 file **from "
 "generated/gallery/spatial_index**:"
 msgstr ""
+"**00:00.000** total execution time for 1 file **from "
+"generated/gallery/spatial_index**:"
 
 #: ../../geovista/docs/src/generated/gallery/spatial_index/sg_execution_times.rst:32
 msgid "Example"

@@ -187,7 +187,7 @@ msgstr ""
 #: ../../geovista/docs/src/generated/gallery/curvilinear/index.rst:6
 #: ../../geovista/docs/src/generated/gallery/index.rst:53
 msgid "Curvilinear Grid"
-msgstr ""
+msgstr "曲線グリッド"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/index.rst:25
 #: ../../geovista/docs/src/generated/gallery/index.rst:72
@@ -216,6 +216,8 @@ msgid ""
 "**00:00.000** total execution time for 2 files **from "
 "generated/gallery/curvilinear**:"
 msgstr ""
+"**00:00.000** total execution time for 2 files **from "
+"generated/gallery/curvilinear**:"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/sg_execution_times.rst:32
 #: ../../geovista/docs/src/generated/gallery/point_cloud/sg_execution_times.rst:32
@@ -359,7 +361,7 @@ msgstr ""
 #: ../../geovista/docs/src/generated/gallery/index.rst:104
 #: ../../geovista/docs/src/generated/gallery/point_cloud/index.rst:6
 msgid "Point Cloud"
-msgstr ""
+msgstr "点群"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:123
 #: ../../geovista/docs/src/generated/gallery/point_cloud/index.rst:25
@@ -378,7 +380,7 @@ msgstr ""
 #: ../../geovista/docs/src/generated/gallery/index.rst:155
 #: ../../geovista/docs/src/generated/gallery/rectilinear/index.rst:6
 msgid "Rectilinear Grid"
-msgstr ""
+msgstr "直線グリッド"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:174
 #: ../../geovista/docs/src/generated/gallery/rectilinear/index.rst:25
@@ -393,7 +395,7 @@ msgstr ":ref:`sphx_glr_generated_gallery_rectilinear_from_1d__oisst_eqc.py`"
 #: ../../geovista/docs/src/generated/gallery/index.rst:206
 #: ../../geovista/docs/src/generated/gallery/scalar_data/index.rst:6
 msgid "Scalar Data"
-msgstr ""
+msgstr "スカラーデータ"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:225
 #: ../../geovista/docs/src/generated/gallery/scalar_data/index.rst:25
@@ -622,6 +624,8 @@ msgid ""
 "**00:00.000** total execution time for 2 files **from "
 "generated/gallery/point_cloud**:"
 msgstr ""
+"**00:00.000** total execution time for 2 files **from "
+"generated/gallery/point_cloud**:"
 
 #: ../../geovista/docs/src/generated/gallery/point_cloud/sg_execution_times.rst:35
 msgid ""
@@ -735,6 +739,8 @@ msgid ""
 "**00:00.000** total execution time for 2 files **from "
 "generated/gallery/rectilinear**:"
 msgstr ""
+"**00:00.000** total execution time for 2 files **from "
+"generated/gallery/rectilinear**:"
 
 #: ../../geovista/docs/src/generated/gallery/rectilinear/sg_execution_times.rst:35
 msgid ""
@@ -770,7 +776,7 @@ msgstr "この例では、スカラーポイントをレンダリングする方
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:29
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:29
 msgid "Creates a point cloud from a USGS earthquakes dataset."
-msgstr ""
+msgstr "USGS地震データセットから点群を作成します。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:31
 msgid ""
@@ -1108,6 +1114,8 @@ msgid ""
 "**00:00.000** total execution time for 4 files **from "
 "generated/gallery/scalar_data**:"
 msgstr ""
+"**00:00.000** total execution time for 4 files **from "
+"generated/gallery/scalar_data**:"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/sg_execution_times.rst:35
 msgid ""
@@ -1145,18 +1153,21 @@ msgstr ""
 msgid ""
 "**00:00.000** total execution time for 0 files **from generated/gallery**:"
 msgstr ""
+"**00:00.000** total execution time for 0 files **from generated/gallery**:"
 
 #: ../../geovista/docs/src/generated/gallery/sg_execution_times.rst:35
 #: ../../geovista/docs/src/generated/gallery/sg_execution_times.rst:36
 #: ../../geovista/docs/src/generated/gallery/sg_execution_times.rst:37
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 #: ../../geovista/docs/src/generated/gallery/spatial_index/sg_execution_times.rst:9
 msgid ""
 "**00:00.000** total execution time for 1 file **from "
 "generated/gallery/spatial_index**:"
 msgstr ""
+"**00:00.000** total execution time for 1 file **from "
+"generated/gallery/spatial_index**:"
 
 #: ../../geovista/docs/src/generated/gallery/spatial_index/sg_execution_times.rst:35
 msgid ""
@@ -1771,6 +1782,8 @@ msgid ""
 "**00:00.000** total execution time for 12 files **from "
 "generated/gallery/unstructured**:"
 msgstr ""
+"**00:00.000** total execution time for 12 files **from "
+"generated/gallery/unstructured**:"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/sg_execution_times.rst:35
 msgid ""
@@ -1997,6 +2010,8 @@ msgid ""
 "**00:00.000** total execution time for 1 file **from "
 "generated/gallery/vector_data**:"
 msgstr ""
+"**00:00.000** total execution time for 1 file **from "
+"generated/gallery/vector_data**:"
 
 #: ../../geovista/docs/src/generated/gallery/vector_data/sg_execution_times.rst:35
 msgid ""
@@ -2218,6 +2233,8 @@ msgid ""
 "**00:00.000** total execution time for 3 files **from "
 "generated/gallery/warp**:"
 msgstr ""
+"**00:00.000** total execution time for 3 files **from "
+"generated/gallery/warp**:"
 
 #: ../../geovista/docs/src/generated/gallery/warp/sg_execution_times.rst:35
 msgid ""
