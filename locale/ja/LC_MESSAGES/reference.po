@@ -37,7 +37,7 @@ msgstr ""
 msgid ""
 "If ``geovista`` has assisted with your academic research or work, then "
 "please remember to cite us:"
-msgstr ""
+msgstr "もし ``geovista`` があなたの学術的な研究や仕事を支援したのであれば、引用を忘れないでください:"
 
 #: ../../geovista/docs/src/reference/about.rst:26
 msgid ":fa:`users-line` Contributors"
@@ -544,7 +544,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/environment.rst:6
 msgid ":fab:`envira` Environment Variables"
-msgstr ""
+msgstr ":fab:`envira` 環境変数"
 
 #: ../../geovista/docs/src/reference/environment.rst:8
 msgid ""
@@ -8094,7 +8094,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/index.rst:28
 msgid "Environment Variables"
-msgstr ""
+msgstr "環境変数"
 
 #: ../../geovista/docs/src/reference/index.rst:37
 msgid "Package controls."
