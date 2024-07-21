@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev18\n"
+"Project-Id-Version: GeoVista 0.6.0.dev19\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-20 00:25+0000\n"
+"POT-Creation-Date: 2024-07-21 00:28+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,83 +17,103 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "Coastlines (21)"
+msgid "component: coastlines (21)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "Curvilinear (2)"
+msgid "component: graticule (6)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "DEM (1)"
+msgid "component: texture (18)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "Extrude (1)"
+msgid "component: vectors (1)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "GeoTIFF (2)"
+msgid "domain: meteorology (4)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "Globe (13)"
+msgid "domain: oceanography (13)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "Graticule (6)"
+msgid "domain: orography (3)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "Lighting (2)"
+msgid "domain: seismology (2)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "Opacity (2)"
+msgid "filter: extrude (1)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "Point Cloud (2)"
+msgid "filter: threshold (8)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "Points (2)"
+msgid "filter: warp (4)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "Projection (11)"
+msgid "load: curvilinear (2)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "RGB (1)"
+msgid "load: geotiff (2)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "Rectilinear (2)"
+msgid "load: points (4)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "Texture (17)"
+msgid "load: rectilinear (2)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "Threshold (8)"
+msgid "load: unstructured (16)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "Transform Mesh (2)"
+msgid "projection: crs (11)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "Unstructured (16)"
+msgid "projection: transform (2)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "Vectors (1)"
+msgid "render: camera (1)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "Warp (4)"
+msgid "style: colormap (2)"
+msgstr ""
+
+#: ../../geovista/docs/src/tags/tagsindex.rst:8
+msgid "style: lighting (2)"
+msgstr ""
+
+#: ../../geovista/docs/src/tags/tagsindex.rst:8
+msgid "style: opacity (2)"
+msgstr ""
+
+#: ../../geovista/docs/src/tags/tagsindex.rst:8
+msgid "style: shading (1)"
+msgstr ""
+
+#: ../../geovista/docs/src/tags/tagsindex.rst:8
+msgid "widget: checkbox (1)"
+msgstr ""
+
+#: ../../geovista/docs/src/tags/tagsindex.rst:8
+msgid "widget: logo (1)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8

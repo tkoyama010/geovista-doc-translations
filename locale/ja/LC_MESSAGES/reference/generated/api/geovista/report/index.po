@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev13\n"
+"Project-Id-Version: GeoVista 0.6.0.dev19\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-17 09:56+0000\n"
+"POT-Creation-Date: 2024-07-21 00:28+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -59,7 +59,7 @@ msgstr ""
 msgid ":py:obj:`NCOL <geovista.report.NCOL>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/report/index.rst:102
+#: ../../geovista/docs/src/reference/generated/api/geovista/report/index.rst:108
 #: ../../geovista/docs/src/reference/generated/api/geovista/report/index.rst:42:<autosummary>:1
 msgid "Default number of package columns in report HTML table."
 msgstr ""
@@ -68,7 +68,7 @@ msgstr ""
 msgid ":py:obj:`PACKAGES_CORE <geovista.report.PACKAGES_CORE>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/report/index.rst:128
+#: ../../geovista/docs/src/reference/generated/api/geovista/report/index.rst:134
 #: ../../geovista/docs/src/reference/generated/api/geovista/report/index.rst:42:<autosummary>:1
 msgid "The core packages of geovista to include in the environment report."
 msgstr ""
@@ -77,7 +77,7 @@ msgstr ""
 msgid ":py:obj:`PACKAGES_OPTIONAL <geovista.report.PACKAGES_OPTIONAL>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/report/index.rst:154
+#: ../../geovista/docs/src/reference/generated/api/geovista/report/index.rst:160
 #: ../../geovista/docs/src/reference/generated/api/geovista/report/index.rst:42:<autosummary>:1
 msgid ""
 "The optional packages of geovista to include in the environment report."
@@ -87,7 +87,7 @@ msgstr ""
 msgid ":py:obj:`PackageLike <geovista.report.PackageLike>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/report/index.rst:180
+#: ../../geovista/docs/src/reference/generated/api/geovista/report/index.rst:186
 #: ../../geovista/docs/src/reference/generated/api/geovista/report/index.rst:42:<autosummary>:1
 msgid "Type alias for a package module or package name."
 msgstr ""
@@ -96,7 +96,7 @@ msgstr ""
 msgid ":py:obj:`TEXT_WIDTH <geovista.report.TEXT_WIDTH>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/report/index.rst:206
+#: ../../geovista/docs/src/reference/generated/api/geovista/report/index.rst:212
 #: ../../geovista/docs/src/reference/generated/api/geovista/report/index.rst:42:<autosummary>:1
 msgid "Default text width of non-HTML report."
 msgstr ""

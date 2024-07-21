@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev18\n"
+"Project-Id-Version: GeoVista 0.6.0.dev19\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-20 00:25+0000\n"
+"POT-Creation-Date: 2024-07-21 00:28+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -81,7 +81,7 @@ msgstr ""
 msgid ":py:obj:`ADD_POINTS_STYLE <geovista.geoplotter.ADD_POINTS_STYLE>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:879
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:882
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:46:<autosummary>:1
 msgid "The valid 'style' options for adding points."
 msgstr ""
@@ -90,7 +90,7 @@ msgstr ""
 msgid ":py:obj:`BASE_ZLEVEL_SCALE <geovista.geoplotter.BASE_ZLEVEL_SCALE>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:905
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:908
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:46:<autosummary>:1
 msgid "Proportional multiplier for z-axis levels/offsets of base-layer mesh."
 msgstr ""
@@ -99,7 +99,7 @@ msgstr ""
 msgid ":py:obj:`COASTLINES_RTOL <geovista.geoplotter.COASTLINES_RTOL>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:931
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:934
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:46:<autosummary>:1
 msgid "Coastlines relative tolerance for longitudes close to 'wrap meridian'."
 msgstr ""
@@ -108,7 +108,7 @@ msgstr ""
 msgid ":py:obj:`GRATICULE_LABEL_FONT_SIZE <geovista.geoplotter.GRATICULE_LABEL_FONT_SIZE>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:957
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:960
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:46:<autosummary>:1
 msgid "The default font size for graticule labels."
 msgstr ""
@@ -117,7 +117,7 @@ msgstr ""
 msgid ":py:obj:`GRATICULE_SHOW_LABELS <geovista.geoplotter.GRATICULE_SHOW_LABELS>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:983
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:986
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:46:<autosummary>:1
 msgid "Whether to render graticule labels by default."
 msgstr ""
@@ -126,7 +126,7 @@ msgstr ""
 msgid ":py:obj:`OPACITY_BLACKLIST <geovista.geoplotter.OPACITY_BLACKLIST>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:1008
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:1011
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:46:<autosummary>:1
 msgid "Known GPU renderer and version combinations that don't support opacity."
 msgstr ""

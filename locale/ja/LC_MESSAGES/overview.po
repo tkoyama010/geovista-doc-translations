@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1\n"
+"Project-Id-Version: GeoVista 0.6.0.dev19\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-12 00:25+0000\n"
+"POT-Creation-Date: 2024-07-21 00:28+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -27,23 +27,24 @@ msgstr ":fa:`panorama` 概要"
 
 #: ../../geovista/docs/src/overview.rst:8
 msgid "Here we give a high-level overview of ``geovista``."
-msgstr ""
+msgstr "ここでは、 ``geovista`` のハイレベルな概要を説明します。"
 
 #: ../../geovista/docs/src/overview.rst:10
 msgid ""
 "We briefly discuss its goals and motivation, and introduce you to the rich, "
 "powerful ecosystem that underpins its evolving capability."
-msgstr ""
+msgstr "その目標と動機について簡単に説明し、進化する能力を支える豊かで強力なエコシステムについて紹介します。"
 
 #: ../../geovista/docs/src/overview.rst:15
 msgid "Motivation"
-msgstr ""
+msgstr "動機"
 
 #: ../../geovista/docs/src/overview.rst:17
 msgid ""
 "``geovista`` is a pure `Python`_ package that offers performant, publication"
 " quality 3-D cartographic rendering of Earth Science data."
 msgstr ""
+"``geovista`` は純粋な `Python`_ パッケージであり、地球科学データの高性能で出版品質の3Dカートグラフィレンダリングを提供します。"
 
 #: ../../geovista/docs/src/overview.rst:20
 msgid ""
@@ -53,6 +54,7 @@ msgid ""
 "traditional 2-D static plots, cartographic projections and coordinate "
 "transformations."
 msgstr ""
+"その目標は、従来の2次元静的プロット、地図投影、座標変換をサポートする一方で、科学者のハードルを下げ、直線、曲線、非構造化地理空間データを3次元で対話的に簡単に分析、視覚化、探索できるようにすることである。"
 
 #: ../../geovista/docs/src/overview.rst:26
 msgid ""
@@ -61,6 +63,9 @@ msgid ""
 "scientists to rediscover their data through a responsive visualization "
 "toolchain that leverages the power of the GPU."
 msgstr ""
+"私たちの意図は、``geovista`` が `PyVista`_ "
+"のパワフルな世界、そしてそれが提供するすべてのものへの地図上のゲートウェイとなることです。 "
+"GPUのパワーを活用した応答性の高い可視化ツールチェーンを通して、科学者がデータを再発見するための扉を開くのです。"
 
 #: ../../geovista/docs/src/overview.rst:31
 msgid "Simply put,"
@@ -68,11 +73,11 @@ msgstr ""
 
 #: ../../geovista/docs/src/overview.rst:37
 msgid "\"`GeoVista`_ is to `PyVista`_\", as \"`Cartopy`_ is to `Matplotlib`_\""
-msgstr ""
+msgstr "\"`PyVista`_ にとっての `GeoVista`_\" は、 \"`Matplotlib`_ にとっての `Cartopy`_\""
 
 #: ../../geovista/docs/src/overview.rst:40
 msgid "That's our aspiration."
-msgstr ""
+msgstr "それが私たちの目標です。"
 
 #: ../../geovista/docs/src/overview.rst:42
 msgid ""
@@ -179,4 +184,4 @@ msgstr ""
 
 #: ../../geovista/docs/src/overview.rst:105
 msgid "Thanks for your patience 🙏"
-msgstr "お待たせしました🙏"
+msgstr "お待たせしております🙏"
