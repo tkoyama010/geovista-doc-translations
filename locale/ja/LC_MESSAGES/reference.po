@@ -528,19 +528,19 @@ msgstr ""
 
 #: ../geovista plot:1
 msgid "Load and render a VTK mesh."
-msgstr ""
+msgstr "VTKメッシュをロードしてレンダリングする。"
 
 #: ../geovista plot:1
 msgid "Add axes"
-msgstr ""
+msgstr "軸の追加"
 
 #: ../geovista plot:1
 msgid "Add a base layer"
-msgstr ""
+msgstr "ベースレイヤーを追加する"
 
 #: ../geovista plot:1
 msgid "Required argument"
-msgstr ""
+msgstr "必須引数"
 
 #: ../../geovista/docs/src/reference/environment.rst:6
 msgid ":fab:`envira` Environment Variables"
@@ -961,7 +961,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:150
 #: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:214
 msgid "Notes"
-msgstr ""
+msgstr "ノート"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:18
 msgid ":doc:`pyvista:user-guide/what-is-a-mesh`"
@@ -987,7 +987,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/theme/index.rst:19
 #: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:19
 msgid "Module Contents"
-msgstr ""
+msgstr "モジュール内容"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:28
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:22
@@ -7660,11 +7660,11 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/theme/index.rst:2
 msgid ":py:mod:`geovista.theme`"
-msgstr ""
+msgstr ":py:mod:`geovista.theme`"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/theme/index.rst:8
 msgid "Configures a custom pyvista theme for geovista."
-msgstr ""
+msgstr "geovista用のカスタムpyvistaテーマを設定します。"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:2
 msgid ":py:mod:`geovista.transform`"
@@ -8057,7 +8057,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:78
 msgid "Unstructured Mesh"
-msgstr ""
+msgstr "非構造化メッシュ"
 
 #: ../../geovista/docs/src/reference/glossary.rst:80
 msgid ""
@@ -8134,10 +8134,12 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/whatsnew.rst:6
 msgid "🚧 :fa:`wand-magic-sparkles` What's New"
-msgstr ""
+msgstr "🚧 :fa:`wand-magic-sparkles` 新着情報"
 
 #: ../../geovista/docs/src/reference/whatsnew.rst:14
 msgid ""
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer bibendum a "
 "ligula eu eleifend. Sed et libero."
 msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer bibendum a "
+"ligula eu eleifend. Sed et libero."

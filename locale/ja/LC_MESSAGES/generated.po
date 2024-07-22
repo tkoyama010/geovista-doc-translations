@@ -430,7 +430,7 @@ msgstr ":ref:`sphx_glr_generated_gallery_spatial_index_uber_h3.py`"
 #: ../../geovista/docs/src/generated/gallery/index.rst:325
 #: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:6
 msgid "Unstructured Mesh"
-msgstr ""
+msgstr "非構造化メッシュ"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:344
 #: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:25
@@ -495,7 +495,7 @@ msgstr ":ref:`sphx_glr_generated_gallery_unstructured_tri_hammer.py`"
 #: ../../geovista/docs/src/generated/gallery/index.rst:546
 #: ../../geovista/docs/src/generated/gallery/vector_data/index.rst:6
 msgid "Vector Data"
-msgstr ""
+msgstr "ベクトルデータ"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:565
 #: ../../geovista/docs/src/generated/gallery/vector_data/index.rst:25
@@ -505,7 +505,7 @@ msgstr ":ref:`sphx_glr_generated_gallery_vector_data_vectors.py`"
 #: ../../geovista/docs/src/generated/gallery/index.rst:580
 #: ../../geovista/docs/src/generated/gallery/warp/index.rst:6
 msgid "Warp Mesh"
-msgstr ""
+msgstr "メッシュワープ"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:599
 #: ../../geovista/docs/src/generated/gallery/warp/index.rst:25

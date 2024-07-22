@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev13\n"
+"Project-Id-Version: GeoVista 0.6.0.dev22\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-17 12:55+0000\n"
+"POT-Creation-Date: 2024-07-22 00:27+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/whatsnew.rst:6
 msgid "🚧 :fa:`wand-magic-sparkles` What's New"
-msgstr ""
+msgstr "🚧 :fa:`wand-magic-sparkles` 新着情報"
 
 #: ../../geovista/docs/src/reference/whatsnew.rst:11
 msgid "Content marked with 🚧 indicates it's still under construction."
@@ -34,3 +34,5 @@ msgid ""
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer bibendum a "
 "ligula eu eleifend. Sed et libero."
 msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer bibendum a "
+"ligula eu eleifend. Sed et libero."

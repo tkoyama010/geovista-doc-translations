@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev15\n"
+"Project-Id-Version: GeoVista 0.6.0.dev22\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-19 00:25+0000\n"
+"POT-Creation-Date: 2024-07-22 00:27+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -118,7 +118,7 @@ msgstr ":ref:`sphx_glr_generated_gallery_spatial_index_uber_h3.py`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:325
 msgid "Unstructured Mesh"
-msgstr ""
+msgstr "非構造化メッシュ"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:344
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_dynamico.py`"
@@ -170,7 +170,7 @@ msgstr ":ref:`sphx_glr_generated_gallery_unstructured_tri_hammer.py`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:546
 msgid "Vector Data"
-msgstr ""
+msgstr "ベクトルデータ"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:565
 msgid ":ref:`sphx_glr_generated_gallery_vector_data_vectors.py`"
@@ -178,7 +178,7 @@ msgstr ":ref:`sphx_glr_generated_gallery_vector_data_vectors.py`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:580
 msgid "Warp Mesh"
-msgstr ""
+msgstr "メッシュワープ"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:599
 msgid ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__fvcom.py`"
