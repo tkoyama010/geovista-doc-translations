@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev22\n"
+"Project-Id-Version: GeoVista 0.6.0.dev25\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-22 00:27+0000\n"
+"POT-Creation-Date: 2024-07-24 00:26+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -79,7 +79,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:45
 msgid "Usually not felt, but can be recorded by seismograph."
-msgstr ""
+msgstr "通常は感じないが、地震計で記録することができます。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:45
 msgid "Millions"
@@ -170,12 +170,16 @@ msgid ""
 ":download:`Download Jupyter notebook: earthquakes_wink1.ipynb "
 "<earthquakes_wink1.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: earthquakes_wink1.ipynb "
+"<earthquakes_wink1.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:139
 msgid ""
 ":download:`Download Python source code: earthquakes_wink1.py "
 "<earthquakes_wink1.py>`"
 msgstr ""
+":download:`Download Python source code: earthquakes_wink1.py "
+"<earthquakes_wink1.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:143
 msgid ""

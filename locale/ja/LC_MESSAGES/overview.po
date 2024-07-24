@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev24\n"
+"Project-Id-Version: GeoVista 0.6.0.dev25\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-22 19:59+0000\n"
+"POT-Creation-Date: 2024-07-24 00:26+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -122,10 +122,12 @@ msgid ""
 "This toolchain is enabled through `PyVista`_, which exposes the powerful "
 "visualization backend of `VTK`_ through an intuitive Pythonic interface."
 msgstr ""
+"このツールチェーンは、直感的なPythonicインターフェイスを通して `VTK`_ の強力な可視化バックエンドを公開する `PyVista`_ "
+"によって実現されます。"
 
 #: ../../geovista/docs/src/overview.rst:73
 msgid "PyVista in a Nutshell"
-msgstr ""
+msgstr "PyVistaの概要"
 
 #: ../../geovista/docs/src/overview.rst:75
 #: ../../geovista/docs/src/overview.rst:81
@@ -136,7 +138,7 @@ msgstr ""
 msgid ""
 "`PyVista`_ is a powerful open-source 3-D visualization library built on "
 "`VTK`_, providing:"
-msgstr ""
+msgstr "`PyVista`_ は `VTK`_ をベースに構築された強力なオープンソースの3D可視化ライブラリで、次のような機能を提供します:"
 
 #: ../../geovista/docs/src/overview.rst:87
 msgid "A Pythonic, high-level, and streamlined API to `VTK`_"
@@ -163,15 +165,15 @@ msgstr "大きく複雑な形状にも対応可能"
 msgid ""
 "Interoperability with `ParaView`_ through `VTK`_ (see :numref:`ecosystem-"
 "figure`)"
-msgstr ""
+msgstr "`VTK`_ による `ParaView`_ との相互運用性( :numref:`ecosystem-figure` を参照)"
 
 #: ../../geovista/docs/src/overview.rst:93
 msgid "Static and interactive plot integration within `Jupyter`_ ecosystem"
-msgstr ""
+msgstr "`Jupyter`_ エコシステム内での静的およびインタラクティブなプロットの統合"
 
 #: ../../geovista/docs/src/overview.rst:97
 msgid "Development Status"
-msgstr ""
+msgstr "開発状況"
 
 #: ../../geovista/docs/src/overview.rst:99
 msgid ""

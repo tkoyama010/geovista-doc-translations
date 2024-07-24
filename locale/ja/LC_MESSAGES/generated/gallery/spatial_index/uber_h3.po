@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev22\n"
+"Project-Id-Version: GeoVista 0.6.0.dev25\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-22 00:27+0000\n"
+"POT-Creation-Date: 2024-07-24 00:26+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -256,11 +260,11 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:613
 msgid ":download:`Download Jupyter notebook: uber_h3.ipynb <uber_h3.ipynb>`"
-msgstr ""
+msgstr ":download:`Download Jupyter notebook: uber_h3.ipynb <uber_h3.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:617
 msgid ":download:`Download Python source code: uber_h3.py <uber_h3.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: uber_h3.py <uber_h3.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:621
 msgid ":download:`Download zipped: uber_h3.zip <uber_h3.zip>`"

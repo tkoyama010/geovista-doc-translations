@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev22\n"
+"Project-Id-Version: GeoVista 0.6.0.dev25\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-22 00:27+0000\n"
+"POT-Creation-Date: 2024-07-24 00:26+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -49,7 +49,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc_sinu.rst:31
 msgid "The resulting mesh contains quad cells."
-msgstr ""
+msgstr "出来上がったメッシュには四角形セルが含まれます。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc_sinu.rst:33
 msgid ""
@@ -74,10 +74,11 @@ msgstr ""
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc_sinu.rst:111
 msgid ":download:`Download Jupyter notebook: smc_sinu.ipynb <smc_sinu.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: smc_sinu.ipynb <smc_sinu.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc_sinu.rst:115
 msgid ":download:`Download Python source code: smc_sinu.py <smc_sinu.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: smc_sinu.py <smc_sinu.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc_sinu.rst:119
 msgid ":download:`Download zipped: smc_sinu.zip <smc_sinu.zip>`"

@@ -34,7 +34,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca.rst:24
 msgid "This example demonstrates how to render a curvilinear grid."
-msgstr ""
+msgstr "この例では、曲線グリッドをレンダリングする方法を示します。"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca.rst:27
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca_moll.rst:27
@@ -79,7 +79,7 @@ msgstr "2次元の緯度と経度の曲線セル境界からメッシュを作�
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc.rst:31
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc_sinu.rst:31
 msgid "The resulting mesh contains quad cells."
-msgstr ""
+msgstr "出来上がったメッシュには四角形セルが含まれます。"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca.rst:33
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca_moll.rst:33
@@ -104,11 +104,14 @@ msgid ""
 ":download:`Download Jupyter notebook: from_2d__orca.ipynb "
 "<from_2d__orca.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: from_2d__orca.ipynb "
+"<from_2d__orca.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca.rst:105
 msgid ""
 ":download:`Download Python source code: from_2d__orca.py <from_2d__orca.py>`"
 msgstr ""
+":download:`Download Python source code: from_2d__orca.py <from_2d__orca.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca.rst:112
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca_moll.rst:120
@@ -177,12 +180,16 @@ msgid ""
 ":download:`Download Jupyter notebook: from_2d__orca_moll.ipynb "
 "<from_2d__orca_moll.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: from_2d__orca_moll.ipynb "
+"<from_2d__orca_moll.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca_moll.rst:113
 msgid ""
 ":download:`Download Python source code: from_2d__orca_moll.py "
 "<from_2d__orca_moll.py>`"
 msgstr ""
+":download:`Download Python source code: from_2d__orca_moll.py "
+"<from_2d__orca_moll.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/index.rst:6
 #: ../../geovista/docs/src/generated/gallery/index.rst:53
@@ -420,7 +427,7 @@ msgstr ":ref:`sphx_glr_generated_gallery_scalar_data_from_tiff__rgb.py`"
 #: ../../geovista/docs/src/generated/gallery/index.rst:291
 #: ../../geovista/docs/src/generated/gallery/spatial_index/index.rst:6
 msgid "Spatial Index"
-msgstr ""
+msgstr "空間インデックス"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:310
 #: ../../geovista/docs/src/generated/gallery/spatial_index/index.rst:25
@@ -574,12 +581,16 @@ msgid ""
 ":download:`Download Jupyter notebook: from_points__orca_cloud.ipynb "
 "<from_points__orca_cloud.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: from_points__orca_cloud.ipynb "
+"<from_points__orca_cloud.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/point_cloud/from_points__orca_cloud.rst:119
 msgid ""
 ":download:`Download Python source code: from_points__orca_cloud.py "
 "<from_points__orca_cloud.py>`"
 msgstr ""
+":download:`Download Python source code: from_points__orca_cloud.py "
+"<from_points__orca_cloud.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/point_cloud/from_points__orca_cloud_eqc.rst:13
 msgid ""
@@ -612,12 +623,16 @@ msgid ""
 ":download:`Download Jupyter notebook: from_points__orca_cloud_eqc.ipynb "
 "<from_points__orca_cloud_eqc.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: from_points__orca_cloud_eqc.ipynb "
+"<from_points__orca_cloud_eqc.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/point_cloud/from_points__orca_cloud_eqc.rst:122
 msgid ""
 ":download:`Download Python source code: from_points__orca_cloud_eqc.py "
 "<from_points__orca_cloud_eqc.py>`"
 msgstr ""
+":download:`Download Python source code: from_points__orca_cloud_eqc.py "
+"<from_points__orca_cloud_eqc.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/point_cloud/sg_execution_times.rst:9
 msgid ""
@@ -688,12 +703,16 @@ msgid ""
 ":download:`Download Jupyter notebook: from_1d__oisst.ipynb "
 "<from_1d__oisst.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: from_1d__oisst.ipynb "
+"<from_1d__oisst.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/rectilinear/from_1d__oisst.rst:106
 msgid ""
 ":download:`Download Python source code: from_1d__oisst.py "
 "<from_1d__oisst.py>`"
 msgstr ""
+":download:`Download Python source code: from_1d__oisst.py "
+"<from_1d__oisst.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/rectilinear/from_1d__oisst_eqc.rst:13
 msgid ""
@@ -727,12 +746,16 @@ msgid ""
 ":download:`Download Jupyter notebook: from_1d__oisst_eqc.ipynb "
 "<from_1d__oisst_eqc.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: from_1d__oisst_eqc.ipynb "
+"<from_1d__oisst_eqc.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/rectilinear/from_1d__oisst_eqc.rst:110
 msgid ""
 ":download:`Download Python source code: from_1d__oisst_eqc.py "
 "<from_1d__oisst_eqc.py>`"
 msgstr ""
+":download:`Download Python source code: from_1d__oisst_eqc.py "
+"<from_1d__oisst_eqc.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/rectilinear/sg_execution_times.rst:9
 msgid ""
@@ -817,7 +840,7 @@ msgstr ""
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:44
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:45
 msgid "Usually not felt, but can be recorded by seismograph."
-msgstr ""
+msgstr "通常は感じないが、地震計で記録することができます。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:44
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:45
@@ -923,11 +946,13 @@ msgstr ""
 msgid ""
 ":download:`Download Jupyter notebook: earthquakes.ipynb <earthquakes.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: earthquakes.ipynb <earthquakes.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:132
 msgid ""
 ":download:`Download Python source code: earthquakes.py <earthquakes.py>`"
 msgstr ""
+":download:`Download Python source code: earthquakes.py <earthquakes.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:13
 msgid ""
@@ -961,12 +986,16 @@ msgid ""
 ":download:`Download Jupyter notebook: earthquakes_wink1.ipynb "
 "<earthquakes_wink1.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: earthquakes_wink1.ipynb "
+"<earthquakes_wink1.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:134
 msgid ""
 ":download:`Download Python source code: earthquakes_wink1.py "
 "<earthquakes_wink1.py>`"
 msgstr ""
+":download:`Download Python source code: earthquakes_wink1.py "
+"<earthquakes_wink1.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/from_tiff__dem.rst:13
 msgid ""
@@ -1046,12 +1075,16 @@ msgid ""
 ":download:`Download Jupyter notebook: from_tiff__dem.ipynb "
 "<from_tiff__dem.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: from_tiff__dem.ipynb "
+"<from_tiff__dem.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/from_tiff__dem.rst:133
 msgid ""
 ":download:`Download Python source code: from_tiff__dem.py "
 "<from_tiff__dem.py>`"
 msgstr ""
+":download:`Download Python source code: from_tiff__dem.py "
+"<from_tiff__dem.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/from_tiff__rgb.rst:13
 msgid ""
@@ -1102,12 +1135,16 @@ msgid ""
 ":download:`Download Jupyter notebook: from_tiff__rgb.ipynb "
 "<from_tiff__rgb.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: from_tiff__rgb.ipynb "
+"<from_tiff__rgb.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/from_tiff__rgb.rst:109
 msgid ""
 ":download:`Download Python source code: from_tiff__rgb.py "
 "<from_tiff__rgb.py>`"
 msgstr ""
+":download:`Download Python source code: from_tiff__rgb.py "
+"<from_tiff__rgb.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/sg_execution_times.rst:9
 msgid ""
@@ -1413,11 +1450,11 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:609
 msgid ":download:`Download Jupyter notebook: uber_h3.ipynb <uber_h3.ipynb>`"
-msgstr ""
+msgstr ":download:`Download Jupyter notebook: uber_h3.ipynb <uber_h3.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:613
 msgid ":download:`Download Python source code: uber_h3.py <uber_h3.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: uber_h3.py <uber_h3.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/dynamico.rst:13
 msgid ""
@@ -1473,10 +1510,11 @@ msgstr ""
 #: ../../geovista/docs/src/generated/gallery/unstructured/dynamico.rst:101
 msgid ":download:`Download Jupyter notebook: dynamico.ipynb <dynamico.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: dynamico.ipynb <dynamico.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/dynamico.rst:105
 msgid ":download:`Download Python source code: dynamico.py <dynamico.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: dynamico.py <dynamico.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/dynamico_poly.rst:13
 msgid ""
@@ -1510,11 +1548,14 @@ msgid ""
 ":download:`Download Jupyter notebook: dynamico_poly.ipynb "
 "<dynamico_poly.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: dynamico_poly.ipynb "
+"<dynamico_poly.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/dynamico_poly.rst:107
 msgid ""
 ":download:`Download Python source code: dynamico_poly.py <dynamico_poly.py>`"
 msgstr ""
+":download:`Download Python source code: dynamico_poly.py <dynamico_poly.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/icon.rst:13
 msgid ""
@@ -1557,11 +1598,11 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/icon.rst:102
 msgid ":download:`Download Jupyter notebook: icon.ipynb <icon.ipynb>`"
-msgstr ""
+msgstr ":download:`Download Jupyter notebook: icon.ipynb <icon.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/icon.rst:106
 msgid ":download:`Download Python source code: icon.py <icon.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: icon.py <icon.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/icon_eqc.rst:13
 msgid ""
@@ -1595,10 +1636,11 @@ msgstr ""
 #: ../../geovista/docs/src/generated/gallery/unstructured/icon_eqc.rst:104
 msgid ":download:`Download Jupyter notebook: icon_eqc.ipynb <icon_eqc.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: icon_eqc.ipynb <icon_eqc.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/icon_eqc.rst:108
 msgid ":download:`Download Python source code: icon_eqc.py <icon_eqc.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: icon_eqc.py <icon_eqc.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lam_pacific.rst:13
 msgid ""
@@ -1656,11 +1698,13 @@ msgstr ""
 msgid ""
 ":download:`Download Jupyter notebook: lam_pacific.ipynb <lam_pacific.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: lam_pacific.ipynb <lam_pacific.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lam_pacific.rst:109
 msgid ""
 ":download:`Download Python source code: lam_pacific.py <lam_pacific.py>`"
 msgstr ""
+":download:`Download Python source code: lam_pacific.py <lam_pacific.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lam_pacific_moll.rst:13
 msgid ""
@@ -1697,12 +1741,16 @@ msgid ""
 ":download:`Download Jupyter notebook: lam_pacific_moll.ipynb "
 "<lam_pacific_moll.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: lam_pacific_moll.ipynb "
+"<lam_pacific_moll.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lam_pacific_moll.rst:111
 msgid ""
 ":download:`Download Python source code: lam_pacific_moll.py "
 "<lam_pacific_moll.py>`"
 msgstr ""
+":download:`Download Python source code: lam_pacific_moll.py "
+"<lam_pacific_moll.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lfric_sst.rst:13
 msgid ""
@@ -1737,10 +1785,11 @@ msgstr ""
 msgid ""
 ":download:`Download Jupyter notebook: lfric_sst.ipynb <lfric_sst.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: lfric_sst.ipynb <lfric_sst.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lfric_sst.rst:112
 msgid ":download:`Download Python source code: lfric_sst.py <lfric_sst.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: lfric_sst.py <lfric_sst.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lfric_sst_bonne.rst:13
 msgid ""
@@ -1770,12 +1819,16 @@ msgid ""
 ":download:`Download Jupyter notebook: lfric_sst_bonne.ipynb "
 "<lfric_sst_bonne.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: lfric_sst_bonne.ipynb "
+"<lfric_sst_bonne.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lfric_sst_bonne.rst:115
 msgid ""
 ":download:`Download Python source code: lfric_sst_bonne.py "
 "<lfric_sst_bonne.py>`"
 msgstr ""
+":download:`Download Python source code: lfric_sst_bonne.py "
+"<lfric_sst_bonne.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/sg_execution_times.rst:9
 msgid ""
@@ -1887,11 +1940,11 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc.rst:101
 msgid ":download:`Download Jupyter notebook: smc.ipynb <smc.ipynb>`"
-msgstr ""
+msgstr ":download:`Download Jupyter notebook: smc.ipynb <smc.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc.rst:105
 msgid ":download:`Download Python source code: smc.py <smc.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: smc.py <smc.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc_sinu.rst:13
 msgid ""
@@ -1919,10 +1972,11 @@ msgstr ""
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc_sinu.rst:105
 msgid ":download:`Download Jupyter notebook: smc_sinu.ipynb <smc_sinu.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: smc_sinu.ipynb <smc_sinu.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc_sinu.rst:109
 msgid ":download:`Download Python source code: smc_sinu.py <smc_sinu.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: smc_sinu.py <smc_sinu.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/tri.rst:13
 msgid ""
@@ -1960,11 +2014,11 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/tri.rst:102
 msgid ":download:`Download Jupyter notebook: tri.ipynb <tri.ipynb>`"
-msgstr ""
+msgstr ":download:`Download Jupyter notebook: tri.ipynb <tri.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/tri.rst:106
 msgid ":download:`Download Python source code: tri.py <tri.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: tri.py <tri.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/tri_hammer.rst:13
 msgid ""
@@ -2000,10 +2054,12 @@ msgstr ""
 msgid ""
 ":download:`Download Jupyter notebook: tri_hammer.ipynb <tri_hammer.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: tri_hammer.ipynb <tri_hammer.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/tri_hammer.rst:112
 msgid ":download:`Download Python source code: tri_hammer.py <tri_hammer.py>`"
 msgstr ""
+":download:`Download Python source code: tri_hammer.py <tri_hammer.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/vector_data/sg_execution_times.rst:9
 msgid ""
@@ -2052,11 +2108,11 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/vector_data/vectors.rst:95
 msgid ":download:`Download Jupyter notebook: vectors.ipynb <vectors.ipynb>`"
-msgstr ""
+msgstr ":download:`Download Jupyter notebook: vectors.ipynb <vectors.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/vector_data/vectors.rst:99
 msgid ":download:`Download Python source code: vectors.py <vectors.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: vectors.py <vectors.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__fvcom.rst:13
 msgid ""
@@ -2125,12 +2181,16 @@ msgid ""
 ":download:`Download Jupyter notebook: from_unstructured__fvcom.ipynb "
 "<from_unstructured__fvcom.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: from_unstructured__fvcom.ipynb "
+"<from_unstructured__fvcom.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__fvcom.rst:121
 msgid ""
 ":download:`Download Python source code: from_unstructured__fvcom.py "
 "<from_unstructured__fvcom.py>`"
 msgstr ""
+":download:`Download Python source code: from_unstructured__fvcom.py "
+"<from_unstructured__fvcom.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog.rst:13
 msgid ""
@@ -2181,12 +2241,16 @@ msgid ""
 ":download:`Download Jupyter notebook: from_unstructured__lfric_orog.ipynb "
 "<from_unstructured__lfric_orog.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: from_unstructured__lfric_orog.ipynb "
+"<from_unstructured__lfric_orog.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog.rst:118
 msgid ""
 ":download:`Download Python source code: from_unstructured__lfric_orog.py "
 "<from_unstructured__lfric_orog.py>`"
 msgstr ""
+":download:`Download Python source code: from_unstructured__lfric_orog.py "
+"<from_unstructured__lfric_orog.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog_eqc.rst:13
 msgid ""
@@ -2221,12 +2285,17 @@ msgid ""
 "from_unstructured__lfric_orog_eqc.ipynb "
 "<from_unstructured__lfric_orog_eqc.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: "
+"from_unstructured__lfric_orog_eqc.ipynb "
+"<from_unstructured__lfric_orog_eqc.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog_eqc.rst:128
 msgid ""
 ":download:`Download Python source code: from_unstructured__lfric_orog_eqc.py"
 " <from_unstructured__lfric_orog_eqc.py>`"
 msgstr ""
+":download:`Download Python source code: from_unstructured__lfric_orog_eqc.py"
+" <from_unstructured__lfric_orog_eqc.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/warp/sg_execution_times.rst:9
 msgid ""

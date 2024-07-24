@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev22\n"
+"Project-Id-Version: GeoVista 0.6.0.dev25\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-22 00:27+0000\n"
+"POT-Creation-Date: 2024-07-24 00:26+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -34,7 +34,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca.rst:24
 msgid "This example demonstrates how to render a curvilinear grid."
-msgstr ""
+msgstr "この例では、曲線グリッドをレンダリングする方法を示します。"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca.rst:27
 msgid "📋 Summary"
@@ -47,7 +47,7 @@ msgstr "2次元の緯度と経度の曲線セル境界からメッシュを作�
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca.rst:31
 msgid "The resulting mesh contains quad cells."
-msgstr ""
+msgstr "出来上がったメッシュには四角形セルが含まれます。"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca.rst:33
 msgid ""
@@ -72,11 +72,14 @@ msgid ""
 ":download:`Download Jupyter notebook: from_2d__orca.ipynb "
 "<from_2d__orca.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: from_2d__orca.ipynb "
+"<from_2d__orca.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca.rst:110
 msgid ""
 ":download:`Download Python source code: from_2d__orca.py <from_2d__orca.py>`"
 msgstr ""
+":download:`Download Python source code: from_2d__orca.py <from_2d__orca.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca.rst:114
 msgid ":download:`Download zipped: from_2d__orca.zip <from_2d__orca.zip>`"

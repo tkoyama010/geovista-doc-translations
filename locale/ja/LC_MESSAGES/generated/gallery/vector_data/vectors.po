@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev22\n"
+"Project-Id-Version: GeoVista 0.6.0.dev25\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-22 00:27+0000\n"
+"POT-Creation-Date: 2024-07-24 00:26+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -58,11 +58,11 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/vector_data/vectors.rst:98
 msgid ":download:`Download Jupyter notebook: vectors.ipynb <vectors.ipynb>`"
-msgstr ""
+msgstr ":download:`Download Jupyter notebook: vectors.ipynb <vectors.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/vector_data/vectors.rst:102
 msgid ":download:`Download Python source code: vectors.py <vectors.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: vectors.py <vectors.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/vector_data/vectors.rst:106
 msgid ":download:`Download zipped: vectors.zip <vectors.zip>`"

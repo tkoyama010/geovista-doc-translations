@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev15\n"
+"Project-Id-Version: GeoVista 0.6.0.dev25\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-19 00:25+0000\n"
+"POT-Creation-Date: 2024-07-24 00:26+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -59,7 +59,7 @@ msgstr "これらのパッケージは次のようにインストールできま
 #: ../../geovista/docs/src/installation.rst:40
 msgid ""
 "`conda`_ users should also install `pip`_ into their `conda`_ environment."
-msgstr ""
+msgstr "`conda`_ ユーザーは `pip`_ も `conda`_ 環境にインストールする必要があります。"
 
 #: ../../geovista/docs/src/installation.rst:44
 msgid "Development"

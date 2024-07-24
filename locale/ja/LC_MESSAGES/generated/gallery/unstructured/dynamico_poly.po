@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev22\n"
+"Project-Id-Version: GeoVista 0.6.0.dev25\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-22 00:27+0000\n"
+"POT-Creation-Date: 2024-07-24 00:26+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -78,11 +78,14 @@ msgid ""
 ":download:`Download Jupyter notebook: dynamico_poly.ipynb "
 "<dynamico_poly.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: dynamico_poly.ipynb "
+"<dynamico_poly.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/dynamico_poly.rst:112
 msgid ""
 ":download:`Download Python source code: dynamico_poly.py <dynamico_poly.py>`"
 msgstr ""
+":download:`Download Python source code: dynamico_poly.py <dynamico_poly.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/dynamico_poly.rst:116
 msgid ":download:`Download zipped: dynamico_poly.zip <dynamico_poly.zip>`"
