@@ -363,7 +363,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:32
 msgid "Want to know more?"
-msgstr ""
+msgstr "もっと知りたい？"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:104
 #: ../../geovista/docs/src/generated/gallery/point_cloud/index.rst:6
@@ -806,6 +806,7 @@ msgid ""
 "The resulting render contains a point cloud of M2.5+ earthquakes along with "
 "a Natural Earth base layer and Natural Earth coastlines."
 msgstr ""
+"レンダリング結果には、M2.5以上の地震の点群に加え、Natural EarthのベースレイヤーとNatural Earthの海岸線が含まれています。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:34
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:35
@@ -816,6 +817,12 @@ msgid ""
 " as part of this `HoloViz Tutorial "
 "<https://holoviz.org/tutorial/Overview.html#the-holoviz-tutorial>`_."
 msgstr ""
+"地震データセットは `USGS Earthquake Hazards Program "
+"<https://www.usgs.gov/programs/earthquake-hazards>`_ から提供され、この `HoloViz "
+"Tutorial <https://holoviz.org/tutorial/Overview.html#the-holoviz-tutorial>`_"
+" の一部として `前処理 "
+"<https://github.com/holoviz/holoviz/blob/main/examples/data/preprocessing/earthquake_data.py>`_"
+" されたものです。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:42
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:43
@@ -855,7 +862,7 @@ msgstr ""
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:45
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:46
 msgid "Often felt, but only causes minor damage."
-msgstr ""
+msgstr "しばしば感じられるが、ダメージは軽微。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:45
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:46
@@ -870,7 +877,7 @@ msgstr ""
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:46
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:47
 msgid "Slight damage to buildings and other structures."
-msgstr ""
+msgstr "建物やその他の構造物にわずかな損傷。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:46
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:47
@@ -885,7 +892,7 @@ msgstr ""
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:47
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:48
 msgid "May cause a lot of damage in very populated areas."
-msgstr ""
+msgstr "人口密集地では大きな被害をもたらすかもしれません。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:47
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:48
@@ -900,7 +907,7 @@ msgstr ""
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:48
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:49
 msgid "Major earthquake. Serious damage."
-msgstr ""
+msgstr "大地震。 深刻な被害。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:48
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:49
@@ -915,7 +922,7 @@ msgstr ""
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:49
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:50
 msgid "Great earthquake. Can destroy communities near the epicenter."
-msgstr ""
+msgstr "大地震。 震源地近くのコミュニティを破壊する可能性があります。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:49
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:50
@@ -929,6 +936,8 @@ msgid ""
 "<https://www.mtu.edu/geo/community/seismology/learn/earthquake-"
 "measure/magnitude/>`_ for further details."
 msgstr ""
+"詳細は `参考文献 <https://www.mtu.edu/geo/community/seismology/learn/earthquake-"
+"measure/magnitude/>`_ を参照。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:57
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:58
@@ -937,6 +946,8 @@ msgid ""
 "and `fastparquet <https://fastparquet.readthedocs.io/en/stable>`_ are "
 "required."
 msgstr ""
+"オプションの依存パッケージ `pandas <https://pandas.pydata.org/docs/>`_ と `fastparquet "
+"<https://fastparquet.readthedocs.io/en/stable>`_ が必要です。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:61
 msgid "Tags: Coastlines Globe Graticule Points Texture"
@@ -976,6 +987,8 @@ msgid ""
 "a Natural Earth base layer and Natural Earth coastlines. The point cloud is "
 "also transformed to the Winkel I pseudo-cylindrical projection."
 msgstr ""
+"レンダリング結果には、M2.5以上の地震の点群に加え、Natural EarthのベースレイヤーとNatural Earthの海岸線が含まれています。 "
+"また、点群は Winkel I 擬似円筒投影に変換されています。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:62
 msgid "Tags: Coastlines Graticule Points Projection Texture"
@@ -1471,7 +1484,7 @@ msgstr ""
 msgid ""
 "This example demonstrates how to render an unstructured hexagon/pentagon "
 "mesh."
-msgstr ""
+msgstr "この例では、構造化されていない六角形/五角形メッシュをレンダリングする方法を示します。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/dynamico.rst:29
 #: ../../geovista/docs/src/generated/gallery/unstructured/dynamico_poly.rst:29
@@ -1481,7 +1494,7 @@ msgstr ""
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc_sinu.rst:29
 msgid ""
 "Creates a mesh from 2-D latitude and longitude unstructured cell bounds."
-msgstr ""
+msgstr "2次元の緯度と経度の非構造セル境界からメッシュを作成します。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/dynamico.rst:31
 #: ../../geovista/docs/src/generated/gallery/unstructured/dynamico_poly.rst:31
@@ -1670,7 +1683,7 @@ msgstr ""
 msgid ""
 "Creates a mesh from 1-D latitude and longitude unstructured points and "
 "connectivity."
-msgstr ""
+msgstr "緯度経度1次元の非構造化点と接続性からメッシュを作成します。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lam_pacific.rst:31
 #: ../../geovista/docs/src/generated/gallery/unstructured/lam_pacific_moll.rst:31
@@ -1987,7 +2000,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/tri.rst:22
 msgid "WW3 Triangular Mesh"
-msgstr ""
+msgstr "WW3 三角メッシュ"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/tri.rst:31
 msgid ""
@@ -2038,6 +2051,7 @@ msgid ""
 "connectivity is required to construct the cells by indexing into the "
 "unstructured points."
 msgstr ""
+"緯度経度の1次元非構造化点と接続性からメッシュを作成します。 連結性は、構造化されていない点にインデックスを付けてセルを構成するために必要です。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/tri_hammer.rst:37
 msgid ""
@@ -2171,6 +2185,11 @@ msgid ""
 "Normals <https://docs.pyvista.org/version/stable/examples/01-filter/compute-"
 "normals.htm>`_ for further details."
 msgstr ""
+"ワープは :meth:`~pyvista.PolyDataFilters.compute_normals` と "
+":meth:`~pyvista.DataSetFilters.warp_by_scalar` を使用します。 詳細は `Computing "
+"Surface Normals "
+"<https://docs.pyvista.org/version/stable/examples/01-filter/compute-"
+"normals.htm>`_ を参照してください。"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__fvcom.rst:50
 msgid "Tags: Unstructured Warp"
@@ -2214,14 +2233,14 @@ msgstr ""
 msgid ""
 "It uses an unstructured Met Office LFRic C48 cubed-sphere of surface "
 "altitude data."
-msgstr ""
+msgstr "これは、構造化されていない気象庁のLFRic C48立方体の地表高度データを使用しています。"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog.rst:34
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog_eqc.rst:36
 msgid ""
 "The resulting mesh contains quad cells and is constructed from CF UGRID "
 "unstructured cell points and connectivity."
-msgstr ""
+msgstr "得られたメッシュはクワッドセルを含み、CF UGRIDの非構造セルポイントと接続性から構築されます。"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog.rst:37
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog_eqc.rst:42
@@ -2231,6 +2250,8 @@ msgid ""
 "faces. A ``pyvista`` \"warp\" operation extrudes the mesh, using the same "
 "node altitude values, to highlight the global surface topography."
 msgstr ""
+"スカラー標高値はメッシュのノード/ポイントに配置されるため、レンダリングされた色はセル面全体で補間されることに注意してください。 ``pyvista``"
+" \"warp\" 操作は、同じノードの標高値を使用してメッシュを押し出し、グローバルなサーフェスの地形を強調します。"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog.rst:48
 msgid "Tags: Globe Unstructured Warp"

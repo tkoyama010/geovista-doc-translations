@@ -101,6 +101,8 @@ msgid ""
 "`Visualization Toolkit`_ (VTK), thus allowing it to easily leverage the "
 "power of the GPU."
 msgstr ""
+"``geovista`` は、 `PyVista`_ とVisualization Toolkit "
+"(VTK)という巨人の肩の上に構築されているため、GPUのパワーを簡単に活用することができます。"
 
 #: ../../geovista/docs/src/overview.rst:56
 msgid "GeoVista Ecosystem"
@@ -116,6 +118,8 @@ msgid ""
 "feature rich `VTK`_ toolchain, which is supported and maintained by "
 "`Kitware`_ and the open-source community."
 msgstr ""
+"上に示したように、 ``geovista`` は、 ``Kitware`_ "
+"とオープンソースコミュニティによってサポートされ、保守されている、性能が高く、機能が豊富な `VTK`_ ツールチェインに基づいて構築されています。"
 
 #: ../../geovista/docs/src/overview.rst:68
 msgid ""

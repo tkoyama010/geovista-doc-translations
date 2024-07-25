@@ -80,6 +80,11 @@ msgid ""
 "Normals <https://docs.pyvista.org/version/stable/examples/01-filter/compute-"
 "normals.htm>`_ for further details."
 msgstr ""
+"ワープは :meth:`~pyvista.PolyDataFilters.compute_normals` と "
+":meth:`~pyvista.DataSetFilters.warp_by_scalar` を使用します。 詳細は `Computing "
+"Surface Normals "
+"<https://docs.pyvista.org/version/stable/examples/01-filter/compute-"
+"normals.htm>`_ を参照してください。"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__fvcom.rst:54
 msgid "Tags: domain: oceanography filter: warp load: unstructured"

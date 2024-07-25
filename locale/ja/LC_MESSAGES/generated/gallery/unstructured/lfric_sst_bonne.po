@@ -46,7 +46,7 @@ msgstr "📋 まとめ"
 msgid ""
 "Creates a mesh from 1-D latitude and longitude unstructured points and "
 "connectivity."
-msgstr ""
+msgstr "緯度経度1次元の非構造化点と接続性からメッシュを作成します。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lfric_sst_bonne.rst:31
 msgid ""

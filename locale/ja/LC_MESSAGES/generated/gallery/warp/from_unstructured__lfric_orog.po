@@ -46,19 +46,19 @@ msgstr "📋 まとめ"
 msgid ""
 "Creates a mesh from 1-D latitude and longitude unstructured points and "
 "connectivity."
-msgstr ""
+msgstr "緯度経度1次元の非構造化点と接続性からメッシュを作成します。"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog.rst:31
 msgid ""
 "It uses an unstructured Met Office LFRic C48 cubed-sphere of surface "
 "altitude data."
-msgstr ""
+msgstr "これは、構造化されていない気象庁のLFRic C48立方体の地表高度データを使用しています。"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog.rst:34
 msgid ""
 "The resulting mesh contains quad cells and is constructed from CF UGRID "
 "unstructured cell points and connectivity."
-msgstr ""
+msgstr "得られたメッシュはクワッドセルを含み、CF UGRIDの非構造セルポイントと接続性から構築されます。"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog.rst:37
 msgid ""
@@ -67,6 +67,8 @@ msgid ""
 "faces. A ``pyvista`` \"warp\" operation extrudes the mesh, using the same "
 "node altitude values, to highlight the global surface topography."
 msgstr ""
+"スカラー標高値はメッシュのノード/ポイントに配置されるため、レンダリングされた色はセル面全体で補間されることに注意してください。 ``pyvista``"
+" \"warp\" 操作は、同じノードの標高値を使用してメッシュを押し出し、グローバルなサーフェスの地形を強調します。"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog.rst:42
 msgid ""
@@ -75,6 +77,11 @@ msgid ""
 "Normals <https://docs.pyvista.org/version/stable/examples/01-filter/compute-"
 "normals.htm>`_ for further details."
 msgstr ""
+"ワープは :meth:`~pyvista.PolyDataFilters.compute_normals` と "
+":meth:`~pyvista.DataSetFilters.warp_by_scalar` を使用します。 詳細は `Computing "
+"Surface Normals "
+"<https://docs.pyvista.org/version/stable/examples/01-filter/compute-"
+"normals.htm>`_ を参照してください。"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog.rst:52
 msgid "Tags: domain: orography filter: warp load: unstructured"

@@ -46,7 +46,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:32
 msgid "Want to know more?"
-msgstr ""
+msgstr "もっと知りたい？"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:53
 msgid "Curvilinear Grid"

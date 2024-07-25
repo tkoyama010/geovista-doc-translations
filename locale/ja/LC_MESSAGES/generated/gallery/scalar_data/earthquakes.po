@@ -49,6 +49,7 @@ msgid ""
 "The resulting render contains a point cloud of M2.5+ earthquakes along with "
 "a Natural Earth base layer and Natural Earth coastlines."
 msgstr ""
+"レンダリング結果には、M2.5以上の地震の点群に加え、Natural EarthのベースレイヤーとNatural Earthの海岸線が含まれています。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:34
 msgid ""
@@ -58,6 +59,12 @@ msgid ""
 " as part of this `HoloViz Tutorial "
 "<https://holoviz.org/tutorial/Overview.html#the-holoviz-tutorial>`_."
 msgstr ""
+"地震データセットは `USGS Earthquake Hazards Program "
+"<https://www.usgs.gov/programs/earthquake-hazards>`_ から提供され、この `HoloViz "
+"Tutorial <https://holoviz.org/tutorial/Overview.html#the-holoviz-tutorial>`_"
+" の一部として `前処理 "
+"<https://github.com/holoviz/holoviz/blob/main/examples/data/preprocessing/earthquake_data.py>`_"
+" されたものです。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:42
 msgid "Magnitude"
@@ -89,7 +96,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:45
 msgid "Often felt, but only causes minor damage."
-msgstr ""
+msgstr "しばしば感じられるが、ダメージは軽微。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:45
 msgid "500,000"
@@ -101,7 +108,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:46
 msgid "Slight damage to buildings and other structures."
-msgstr ""
+msgstr "建物やその他の構造物にわずかな損傷。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:46
 msgid "350"
@@ -113,7 +120,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:47
 msgid "May cause a lot of damage in very populated areas."
-msgstr ""
+msgstr "人口密集地では大きな被害をもたらすかもしれません。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:47
 msgid "100"
@@ -125,7 +132,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:48
 msgid "Major earthquake. Serious damage."
-msgstr ""
+msgstr "大地震。 深刻な被害。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:48
 msgid "10-15"
@@ -137,7 +144,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:49
 msgid "Great earthquake. Can destroy communities near the epicenter."
-msgstr ""
+msgstr "大地震。 震源地近くのコミュニティを破壊する可能性があります。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:49
 msgid "One every year or two"
@@ -149,6 +156,8 @@ msgid ""
 "<https://www.mtu.edu/geo/community/seismology/learn/earthquake-"
 "measure/magnitude/>`_ for further details."
 msgstr ""
+"詳細は `参考文献 <https://www.mtu.edu/geo/community/seismology/learn/earthquake-"
+"measure/magnitude/>`_ を参照。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:57
 msgid ""
@@ -156,12 +165,16 @@ msgid ""
 "and `fastparquet <https://fastparquet.readthedocs.io/en/stable>`_ are "
 "required."
 msgstr ""
+"オプションの依存パッケージ `pandas <https://pandas.pydata.org/docs/>`_ と `fastparquet "
+"<https://fastparquet.readthedocs.io/en/stable>`_ が必要です。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:65
 msgid ""
 "Tags: component: coastlines component: graticule component: texture domain: "
 "seismology load: points"
 msgstr ""
+"Tags: component: coastlines component: graticule component: texture domain: "
+"seismology load: points"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:132
 msgid ""

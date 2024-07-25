@@ -278,7 +278,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:330002
 msgid "{fa}`user-astronaut` Extension"
-msgstr ""
+msgstr "{fa}`user-astronaut` 拡張機能"
 
 #: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:340002
 msgid ""

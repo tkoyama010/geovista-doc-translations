@@ -45,7 +45,7 @@ msgstr "📋 まとめ"
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc_sinu.rst:29
 msgid ""
 "Creates a mesh from 2-D latitude and longitude unstructured cell bounds."
-msgstr ""
+msgstr "2次元の緯度と経度の非構造セル境界からメッシュを作成します。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc_sinu.rst:31
 msgid "The resulting mesh contains quad cells."

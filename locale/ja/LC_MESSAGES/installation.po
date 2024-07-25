@@ -71,6 +71,8 @@ msgid ""
 "then install the latest **development version** from the ``main`` "
 "development branch of :fab:`github`:"
 msgstr ""
+"``geovista`` の次の **安定版リリース** を待てない場合は、 :fab:`github` の ``main`` 開発ブランチから最新の "
+"**開発版** をインストールしてください:"
 
 #: ../../geovista/docs/src/installation.rst:0
 msgid "conda"
@@ -78,7 +80,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/installation.rst:54
 msgid "Include the following in your `conda environment.yml file`_:"
-msgstr ""
+msgstr "以下を `conda environment.yml ファイル`_ にインクルードします:"
 
 #: ../../geovista/docs/src/installation.rst:0
 msgid "pip"
@@ -93,20 +95,23 @@ msgid ""
 "To configure a full **developer environment**, first clone the ``geovista`` "
 "repository from :fab:`github`:"
 msgstr ""
+"完全な **開発環境** を設定するには、まず :fab:`github` から ``geovista`` リポジトリをクローンしてください:"
 
 #: ../../geovista/docs/src/installation.rst:79
 msgid "Change to the root directory of cloned repository:"
-msgstr ""
+msgstr "クローンしたリポジトリのルートディレクトリに変更します:"
 
 #: ../../geovista/docs/src/installation.rst:85
 msgid "Create the ``geovista-dev`` `conda`_ environment:"
-msgstr ""
+msgstr "``geovista-dev`` `conda`_ 環境を作成します:"
 
 #: ../../geovista/docs/src/installation.rst:92
 msgid ""
 "Now **activate** the environment and **install** the ``main`` development "
 "branch of ``geovista``:"
 msgstr ""
+"さて、環境を **activate** にして、 ``geovista`` の ``main`` 開発ブランチを ** install** "
+"してください:"
 
 #: ../../geovista/docs/src/installation.rst:100
 msgid "Finally, you're good to roll 🥳"

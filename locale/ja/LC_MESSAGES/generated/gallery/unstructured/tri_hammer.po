@@ -49,6 +49,7 @@ msgid ""
 "connectivity is required to construct the cells by indexing into the "
 "unstructured points."
 msgstr ""
+"緯度経度の1次元非構造化点と接続性からメッシュを作成します。 連結性は、構造化されていない点にインデックスを付けてセルを構成するために必要です。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/tri_hammer.rst:34
 msgid ""

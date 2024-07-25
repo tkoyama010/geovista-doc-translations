@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev22\n"
+"Project-Id-Version: GeoVista 0.6.0.dev25\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-22 00:27+0000\n"
+"POT-Creation-Date: 2024-07-24 00:26+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -97,7 +97,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
 msgid ":py:obj:`GEOVISTA_CACHEDIR <geovista.cache.GEOVISTA_CACHEDIR>`\\"
-msgstr ""
+msgstr ":py:obj:`GEOVISTA_CACHEDIR <geovista.cache.GEOVISTA_CACHEDIR>`\\"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:207
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
@@ -107,6 +107,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
 msgid ":py:obj:`GEOVISTA_DATA_VERSION <geovista.cache.GEOVISTA_DATA_VERSION>`\\"
 msgstr ""
+":py:obj:`GEOVISTA_DATA_VERSION <geovista.cache.GEOVISTA_DATA_VERSION>`\\"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:231
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
@@ -115,7 +116,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
 msgid ":py:obj:`GEOVISTA_POOCH_MUTE <geovista.cache.GEOVISTA_POOCH_MUTE>`\\"
-msgstr ""
+msgstr ":py:obj:`GEOVISTA_POOCH_MUTE <geovista.cache.GEOVISTA_POOCH_MUTE>`\\"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:255
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1

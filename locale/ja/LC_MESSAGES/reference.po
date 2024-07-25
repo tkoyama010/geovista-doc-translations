@@ -27,7 +27,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/about.rst:6
 msgid "Assorted package metadata about ``geovista``."
-msgstr ""
+msgstr "``geovista`` に関するパッケージメタデータ一式。"
 
 #: ../../geovista/docs/src/reference/about.rst:10
 msgid ":fa:`feather-pointed` Citation"
@@ -552,38 +552,40 @@ msgid ""
 "``user``, a ``developer``, or are set by default on a specific host "
 "``platform`` e.g., a GitHub runner."
 msgstr ""
+"内部および外部（サードパーティ）の環境変数は、 ``user`` 、 ``developer`` 、または特定のホスト ``platform`` "
+"例:GitHubランナーにデフォルトで設定されています。"
 
 #: ../../geovista/docs/src/reference/environment.rst:14
 msgid "Internal"
-msgstr ""
+msgstr "内部"
 
 #: ../../geovista/docs/src/reference/environment.rst:16
 msgid ""
 "Package environment variables that influence the behaviour of ``geovista``:"
-msgstr ""
+msgstr "``geovista`` の動作に影響を与えるパッケージ環境変数:"
 
 #: ../../geovista/docs/src/reference/environment.rst:18
 msgid "Internal Variables"
-msgstr ""
+msgstr "内部変数"
 
 #: ../../geovista/docs/src/reference/environment.rst:23
 #: ../../geovista/docs/src/reference/environment.rst:81
 msgid "Name"
-msgstr ""
+msgstr "名前"
 
 #: ../../geovista/docs/src/reference/environment.rst:23
 #: ../../geovista/docs/src/reference/environment.rst:81
 msgid "Type"
-msgstr ""
+msgstr "型"
 
 #: ../../geovista/docs/src/reference/environment.rst:23
 #: ../../geovista/docs/src/reference/environment.rst:81
 msgid "Description"
-msgstr ""
+msgstr "説明"
 
 #: ../../geovista/docs/src/reference/environment.rst:25
 msgid ":guilabel:`GEOVISTA_CACHEDIR`"
-msgstr ""
+msgstr ":guilabel:`GEOVISTA_CACHEDIR`"
 
 #: ../../geovista/docs/src/reference/environment.rst:25
 #: ../../geovista/docs/src/reference/environment.rst:33
@@ -592,7 +594,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/environment.rst:89
 #: ../../geovista/docs/src/reference/environment.rst:107
 msgid "``User``"
-msgstr ""
+msgstr "``User``"
 
 #: ../../geovista/docs/src/reference/environment.rst:25
 msgid ""
@@ -600,16 +602,20 @@ msgid ""
 "will be downloaded and cached. See "
 ":data:`~geovista.cache.GEOVISTA_CACHEDIR`."
 msgstr ""
+"``geovista`` のリソースをダウンロードしてキャッシュするルートディレクトリ(絶対パス)を設定します。 "
+":data:`~geovista.cache.GEOVISTA_CACHEDIR` を参照してください。"
 
 #: ../../geovista/docs/src/reference/environment.rst:29
 msgid ""
 "Defaults to the ``geovista`` sub-directory under the user and platform "
 "specific cache directory returned by :func:`platformdirs.user_cache_dir`."
 msgstr ""
+"デフォルトは :func:`platformdirs.user_cache_dir` "
+"によって返されるユーザーとプラットフォーム固有のキャッシュディレクトリの下にある ``geovista`` サブディレクトリです。"
 
 #: ../../geovista/docs/src/reference/environment.rst:33
 msgid ":guilabel:`GEOVISTA_DATA_VERSION`"
-msgstr ""
+msgstr ":guilabel:`GEOVISTA_DATA_VERSION`"
 
 #: ../../geovista/docs/src/reference/environment.rst:33
 msgid ""
@@ -617,6 +623,8 @@ msgid ""
 "the :data:`~geovista.cache.BASE_URL`. See "
 ":data:`~geovista.cache.GEOVISTA_DATA_VERSION`."
 msgstr ""
+":data:`~geovista.cache.BASE_URL` からダウンロードしてキャッシュするデータリソースのバージョンを設定します。 "
+":data:`~geovista.cache.GEOVISTA_DATA_VERSION` を参照してください。"
 
 #: ../../geovista/docs/src/reference/environment.rst:37
 msgid ""
@@ -626,13 +634,13 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/environment.rst:41
 msgid ":guilabel:`GEOVISTA_DOWNLOAD`"
-msgstr ""
+msgstr ":guilabel:`GEOVISTA_DOWNLOAD`"
 
 #: ../../geovista/docs/src/reference/environment.rst:41
 #: ../../geovista/docs/src/reference/environment.rst:46
 #: ../../geovista/docs/src/reference/environment.rst:98
 msgid "``Developer``"
-msgstr ""
+msgstr "``Developer``"
 
 #: ../../geovista/docs/src/reference/environment.rst:41
 msgid ""
@@ -643,7 +651,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/environment.rst:46
 msgid ":guilabel:`GEOVISTA_IMAGE_TESTING`"
-msgstr ""
+msgstr ":guilabel:`GEOVISTA_IMAGE_TESTING`"
 
 #: ../../geovista/docs/src/reference/environment.rst:46
 msgid ""
@@ -665,7 +673,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/environment.rst:55
 msgid ":guilabel:`GEOVISTA_POOCH_MUTE`"
-msgstr ""
+msgstr ":guilabel:`GEOVISTA_POOCH_MUTE`"
 
 #: ../../geovista/docs/src/reference/environment.rst:55
 msgid ""
@@ -683,7 +691,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/environment.rst:63
 msgid ":guilabel:`GEOVISTA_VTK_WARNINGS`"
-msgstr ""
+msgstr ":guilabel:`GEOVISTA_VTK_WARNINGS`"
 
 #: ../../geovista/docs/src/reference/environment.rst:63
 msgid "Set to ``True`` to enable backend `VTK`_ diagnostic warnings."
@@ -691,13 +699,13 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/environment.rst:71
 msgid "Third-Party"
-msgstr ""
+msgstr "サードパーティ"
 
 #: ../../geovista/docs/src/reference/environment.rst:73
 msgid ""
 "Notable third-party environment variables that influence the behaviour of "
 "``geovista``:"
-msgstr ""
+msgstr "``geovista`` の動作に影響を与える注目すべきサードパーティ環境変数:"
 
 #: ../../geovista/docs/src/reference/environment.rst:76
 msgid "External Variables"
@@ -705,16 +713,16 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/environment.rst:83
 msgid ":guilabel:`CI`"
-msgstr ""
+msgstr ":guilabel:`CI`"
 
 #: ../../geovista/docs/src/reference/environment.rst:83
 #: ../../geovista/docs/src/reference/environment.rst:101
 msgid "``Platform``"
-msgstr ""
+msgstr "``Platform``"
 
 #: ../../geovista/docs/src/reference/environment.rst:83
 msgid "Default environment variable set on a `GitHub Action`_ runner."
-msgstr ""
+msgstr "`GitHub Action`_ ランナーに設定するデフォルトの環境変数。"
 
 #: ../../geovista/docs/src/reference/environment.rst:86
 #: ../../geovista/docs/src/reference/environment.rst:104
@@ -743,11 +751,11 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/environment.rst:98
 msgid ":guilabel:`PYVISTA_BUILDING_GALLERY`"
-msgstr ""
+msgstr ":guilabel:`PYVISTA_BUILDING_GALLERY`"
 
 #: ../../geovista/docs/src/reference/environment.rst:98
 msgid "Set to ``true`` when building the documentation `sphinx-gallery`_."
-msgstr ""
+msgstr "ドキュメント `sphinx-gallery`_ をビルドするときに ``true`` に設定します。"
 
 #: ../../geovista/docs/src/reference/environment.rst:101
 msgid ":guilabel:`READTHEDOCS`"
@@ -755,17 +763,17 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/environment.rst:101
 msgid "Default environment variable set on a `Read the Docs`_ runner."
-msgstr ""
+msgstr "`Read the Docs`_ ランナーに設定するデフォルトの環境変数。"
 
 #: ../../geovista/docs/src/reference/environment.rst:107
 msgid ":guilabel:`XDG_CACHE_HOME`"
-msgstr ""
+msgstr ":guilabel:`XDG_CACHE_HOME`"
 
 #: ../../geovista/docs/src/reference/environment.rst:107
 msgid ""
 "Configures the root directory (absolute path) where ``geovista`` resources "
 "will be downloaded and cached."
-msgstr ""
+msgstr "``geovista`` のリソースをダウンロードしてキャッシュするルートディレクトリ(絶対パス)を設定します。"
 
 #: ../../geovista/docs/src/reference/environment.rst:110
 msgid "Overrides :data:`~geovista.cache.GEOVISTA_CACHEDIR`."
@@ -2113,7 +2121,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
 msgid ":py:obj:`GEOVISTA_CACHEDIR <geovista.cache.GEOVISTA_CACHEDIR>`\\"
-msgstr ""
+msgstr ":py:obj:`GEOVISTA_CACHEDIR <geovista.cache.GEOVISTA_CACHEDIR>`\\"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:207
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
@@ -2123,6 +2131,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
 msgid ":py:obj:`GEOVISTA_DATA_VERSION <geovista.cache.GEOVISTA_DATA_VERSION>`\\"
 msgstr ""
+":py:obj:`GEOVISTA_DATA_VERSION <geovista.cache.GEOVISTA_DATA_VERSION>`\\"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:231
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
@@ -2131,7 +2140,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
 msgid ":py:obj:`GEOVISTA_POOCH_MUTE <geovista.cache.GEOVISTA_POOCH_MUTE>`\\"
-msgstr ""
+msgstr ":py:obj:`GEOVISTA_POOCH_MUTE <geovista.cache.GEOVISTA_POOCH_MUTE>`\\"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:255
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
