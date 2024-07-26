@@ -27,6 +27,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_curvilinear_from_2d__orca.py>` to "
 "download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_curvilinear_from_2d__orca.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca.rst:22
 msgid "ORCA2 Grid"
@@ -151,6 +153,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_curvilinear_from_2d__orca_moll.py>` to "
 "download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_curvilinear_from_2d__orca_moll.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca_moll.rst:22
 msgid "ORCA2 Grid (Projected)"
@@ -539,6 +543,9 @@ msgid ""
 "<sphx_glr_download_generated_gallery_point_cloud_from_points__orca_cloud.py>`"
 " to download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_point_cloud_from_points__orca_cloud.py>`"
+" 。"
 
 #: ../../geovista/docs/src/generated/gallery/point_cloud/from_points__orca_cloud.rst:22
 msgid "ORCA2 Point Cloud"
@@ -598,6 +605,9 @@ msgid ""
 "<sphx_glr_download_generated_gallery_point_cloud_from_points__orca_cloud_eqc.py>`"
 " to download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_point_cloud_from_points__orca_cloud_eqc.py>`"
+" 。"
 
 #: ../../geovista/docs/src/generated/gallery/point_cloud/from_points__orca_cloud_eqc.rst:22
 msgid "ORCA2 Point Cloud (Projected)"
@@ -664,6 +674,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_rectilinear_from_1d__oisst.py>` to "
 "download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_rectilinear_from_1d__oisst.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/rectilinear/from_1d__oisst.rst:22
 msgid "OISST AVHRR Grid"
@@ -720,6 +732,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_rectilinear_from_1d__oisst_eqc.py>` to "
 "download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_rectilinear_from_1d__oisst_eqc.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/rectilinear/from_1d__oisst_eqc.rst:22
 msgid "OISST AVHRR Grid (Projected)"
@@ -787,6 +801,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_scalar_data_earthquakes.py>` to "
 "download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_scalar_data_earthquakes.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:22
 msgid "Earthquakes"
@@ -971,6 +987,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_scalar_data_earthquakes_wink1.py>` to "
 "download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_scalar_data_earthquakes_wink1.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:22
 msgid "Earthquakes (Projected)"
@@ -1016,6 +1034,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_scalar_data_from_tiff__dem.py>` to "
 "download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_scalar_data_from_tiff__dem.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/from_tiff__dem.rst:22
 msgid "GeoTIFF DEM"
@@ -1105,6 +1125,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_scalar_data_from_tiff__rgb.py>` to "
 "download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_scalar_data_from_tiff__rgb.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/from_tiff__rgb.rst:22
 msgid "GeoTIFF RGB"
@@ -1231,6 +1253,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_spatial_index_uber_h3.py>` to download "
 "the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_spatial_index_uber_h3.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:22
 msgid "Uber H3 Spatial Index"
@@ -1475,6 +1499,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_unstructured_dynamico.py>` to download "
 "the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_unstructured_dynamico.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/dynamico.rst:22
 msgid "DYNAMICO Mesh"
@@ -1535,6 +1561,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_unstructured_dynamico_poly.py>` to "
 "download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_unstructured_dynamico_poly.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/dynamico_poly.rst:22
 msgid "DYNAMICO Mesh (Projected)"
@@ -1576,6 +1604,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_unstructured_icon.py>` to download the "
 "full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_unstructured_icon.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/icon.rst:22
 msgid "ICON Mesh"
@@ -1623,6 +1653,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_unstructured_icon_eqc.py>` to download "
 "the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_unstructured_icon_eqc.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/icon_eqc.rst:22
 msgid "ICON Mesh (Projected)"
@@ -1661,6 +1693,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_unstructured_lam_pacific.py>` to "
 "download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_unstructured_lam_pacific.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lam_pacific.rst:22
 msgid "LFRic LAM Mesh"
@@ -1725,6 +1759,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_unstructured_lam_pacific_moll.py>` to "
 "download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_unstructured_lam_pacific_moll.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lam_pacific_moll.rst:22
 msgid "LFRic LAM Mesh (Projected)"
@@ -1771,6 +1807,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_unstructured_lfric_sst.py>` to download"
 " the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_unstructured_lfric_sst.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lfric_sst.rst:22
 msgid "LFRic Mesh"
@@ -1810,6 +1848,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_unstructured_lfric_sst_bonne.py>` to "
 "download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_unstructured_lfric_sst_bonne.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lfric_sst_bonne.rst:22
 msgid "LFRic Mesh (Projected)"
@@ -1935,6 +1975,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_unstructured_smc.py>` to download the "
 "full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_unstructured_smc.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc.rst:22
 msgid "Spherical Multi-Cell Mesh"
@@ -1965,6 +2007,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_unstructured_smc_sinu.py>` to download "
 "the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_unstructured_smc_sinu.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc_sinu.rst:22
 msgid "Spherical Multi-Cell Mesh (Projected)"
@@ -1997,6 +2041,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_unstructured_tri.py>` to download the "
 "full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_unstructured_tri.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/tri.rst:22
 msgid "WW3 Triangular Mesh"
@@ -2039,6 +2085,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_unstructured_tri_hammer.py>` to "
 "download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_unstructured_tri_hammer.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/tri_hammer.rst:22
 msgid "WW3 Triangular Mesh (Projected)"
@@ -2095,6 +2143,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_vector_data_vectors.py>` to download "
 "the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_vector_data_vectors.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/vector_data/vectors.rst:22
 msgid "Arrows"
@@ -2134,6 +2184,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_warp_from_unstructured__fvcom.py>` to "
 "download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_warp_from_unstructured__fvcom.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__fvcom.rst:22
 msgid "FVCOM Bathymetry"
@@ -2217,6 +2269,9 @@ msgid ""
 "<sphx_glr_download_generated_gallery_warp_from_unstructured__lfric_orog.py>`"
 " to download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_warp_from_unstructured__lfric_orog.py>`"
+" 。"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog.rst:22
 msgid "LFRic Orography"
@@ -2279,6 +2334,9 @@ msgid ""
 "<sphx_glr_download_generated_gallery_warp_from_unstructured__lfric_orog_eqc.py>`"
 " to download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_warp_from_unstructured__lfric_orog_eqc.py>`"
+" 。"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog_eqc.rst:22
 msgid "LFRic Orography (Projected)"

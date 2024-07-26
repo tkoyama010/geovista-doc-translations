@@ -27,6 +27,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_spatial_index_uber_h3.py>` to download "
 "the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_spatial_index_uber_h3.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:22
 msgid "Uber H3 Spatial Index"

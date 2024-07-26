@@ -27,6 +27,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_vector_data_vectors.py>` to download "
 "the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_vector_data_vectors.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/vector_data/vectors.rst:22
 msgid "Arrows"
