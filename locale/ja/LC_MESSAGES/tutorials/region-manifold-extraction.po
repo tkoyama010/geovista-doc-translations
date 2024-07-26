@@ -3,9 +3,6 @@
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-# Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
-# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -13,7 +10,6 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-24 00:26+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -258,7 +254,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:330002
 msgid "{fa}`user-astronaut` Extension"
-msgstr "{fa}`user-astronaut` 拡張機能"
+msgstr ""
 
 #: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:340002
 msgid ""

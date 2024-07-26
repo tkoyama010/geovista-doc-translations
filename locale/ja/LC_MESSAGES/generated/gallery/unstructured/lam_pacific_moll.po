@@ -27,6 +27,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_unstructured_lam_pacific_moll.py>` to "
 "download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_unstructured_lam_pacific_moll.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lam_pacific_moll.rst:22
 msgid "LFRic LAM Mesh (Projected)"

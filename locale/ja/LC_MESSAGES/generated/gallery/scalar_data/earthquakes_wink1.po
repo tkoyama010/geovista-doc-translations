@@ -27,6 +27,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_scalar_data_earthquakes_wink1.py>` to "
 "download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_scalar_data_earthquakes_wink1.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:22
 msgid "Earthquakes (Projected)"
