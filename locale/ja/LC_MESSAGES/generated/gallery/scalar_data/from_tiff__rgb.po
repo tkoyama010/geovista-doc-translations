@@ -27,6 +27,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_scalar_data_from_tiff__rgb.py>` to "
 "download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_scalar_data_from_tiff__rgb.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/from_tiff__rgb.rst:22
 msgid "GeoTIFF RGB"

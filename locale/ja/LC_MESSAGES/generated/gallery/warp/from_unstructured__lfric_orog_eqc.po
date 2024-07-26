@@ -27,6 +27,9 @@ msgid ""
 "<sphx_glr_download_generated_gallery_warp_from_unstructured__lfric_orog_eqc.py>`"
 " to download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_warp_from_unstructured__lfric_orog_eqc.py>`"
+" 。"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog_eqc.rst:22
 msgid "LFRic Orography (Projected)"

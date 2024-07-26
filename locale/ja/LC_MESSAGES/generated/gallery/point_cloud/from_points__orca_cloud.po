@@ -27,6 +27,9 @@ msgid ""
 "<sphx_glr_download_generated_gallery_point_cloud_from_points__orca_cloud.py>`"
 " to download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_point_cloud_from_points__orca_cloud.py>`"
+" 。"
 
 #: ../../geovista/docs/src/generated/gallery/point_cloud/from_points__orca_cloud.rst:22
 msgid "ORCA2 Point Cloud"

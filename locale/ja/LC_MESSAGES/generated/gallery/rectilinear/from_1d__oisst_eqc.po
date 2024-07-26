@@ -27,6 +27,8 @@ msgid ""
 "<sphx_glr_download_generated_gallery_rectilinear_from_1d__oisst_eqc.py>` to "
 "download the full example code."
 msgstr ""
+"サンプルコードを全てダウンロードするには :ref:`末尾に移動 "
+"<sphx_glr_download_generated_gallery_rectilinear_from_1d__oisst_eqc.py>` 。"
 
 #: ../../geovista/docs/src/generated/gallery/rectilinear/from_1d__oisst_eqc.rst:22
 msgid "OISST AVHRR Grid (Projected)"
