@@ -843,22 +843,22 @@ msgstr ""
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:42
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:43
 msgid "Magnitude"
-msgstr ""
+msgstr "マグニチュード"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:42
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:43
 msgid "Earthquake Effects"
-msgstr ""
+msgstr "地震の影響"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:42
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:43
 msgid "Estimated Number per Year"
-msgstr ""
+msgstr "年間推定数"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:44
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:45
 msgid "**<=2.5**"
-msgstr ""
+msgstr "**<=2.5**"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:44
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:45
@@ -873,7 +873,7 @@ msgstr "無数"
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:45
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:46
 msgid "**2.5 - 5.4**"
-msgstr ""
+msgstr "**2.5 - 5.4**"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:45
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:46
@@ -883,12 +883,12 @@ msgstr "しばしば感じられるが、ダメージは軽微。"
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:45
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:46
 msgid "500,000"
-msgstr ""
+msgstr "500,000"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:46
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:47
 msgid "**5.5 - 6.0**"
-msgstr ""
+msgstr "**5.5 - 6.0**"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:46
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:47
@@ -898,12 +898,12 @@ msgstr "建物やその他の構造物にわずかな損傷。"
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:46
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:47
 msgid "350"
-msgstr ""
+msgstr "350"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:47
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:48
 msgid "**6.1 - 6.9**"
-msgstr ""
+msgstr "**6.1 - 6.9**"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:47
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:48
@@ -913,12 +913,12 @@ msgstr "人口密集地では大きな被害をもたらすかもしれません
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:47
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:48
 msgid "100"
-msgstr ""
+msgstr "100"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:48
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:49
 msgid "**7.0 - 7.9**"
-msgstr ""
+msgstr "**7.0 - 7.9**"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:48
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:49
@@ -928,12 +928,12 @@ msgstr "大地震。 深刻な被害。"
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:48
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:49
 msgid "10-15"
-msgstr ""
+msgstr "10-15"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:49
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:50
 msgid "**>=8.0**"
-msgstr ""
+msgstr "**>=8.0**"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:49
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:50
@@ -943,7 +943,7 @@ msgstr "大地震。 震源地近くのコミュニティを破壊する可能�
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:49
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:50
 msgid "One every year or two"
-msgstr ""
+msgstr "1年か2年に1回"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:52
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes_wink1.rst:53
