@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev25\n"
+"Project-Id-Version: GeoVista 0.6.0.dev31\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-24 00:26+0000\n"
+"POT-Creation-Date: 2024-07-29 00:27+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -90,7 +90,7 @@ msgstr "通常は感じないが、地震計で記録することができます
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:44
 msgid "Millions"
-msgstr ""
+msgstr "無数"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:45
 msgid "**2.5 - 5.4**"

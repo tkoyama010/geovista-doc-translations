@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev24\n"
+"Project-Id-Version: GeoVista 0.6.0.dev31\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-22 19:59+0000\n"
+"POT-Creation-Date: 2024-07-29 00:27+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -42,65 +42,65 @@ msgid "Package metadata."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/index.rst:28
-msgid "Environment Variables"
-msgstr "環境変数"
-
-#: ../../geovista/docs/src/reference/index.rst:37
-msgid "Package controls."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/index.rst:39
-msgid "CLI"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/index.rst:48
-msgid "Command line interface."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/index.rst:50
-msgid "Key Bindings"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/index.rst:59
-msgid "GUI hot-keys."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/index.rst:61
-msgid "Glossary"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/index.rst:70
-msgid "Jargon buster."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/index.rst:72
-msgid "Tags"
-msgstr "タグ"
-
-#: ../../geovista/docs/src/reference/index.rst:81
-msgid "Themed content tags."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/index.rst:83
-msgid "🚧 Changelog"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/index.rst:92
-msgid "In depth release details."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/index.rst:94
-msgid "🚧 What's New"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/index.rst:103
-msgid "Release highlights."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/index.rst:105
 msgid "API Reference"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:114
+#: ../../geovista/docs/src/reference/index.rst:37
 msgid "Behaviour and state docstrings."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/index.rst:39
+msgid "Changelog"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/index.rst:48
+msgid "In-depth release notes."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/index.rst:50
+msgid "CLI"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/index.rst:59
+msgid "Command line interface."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/index.rst:61
+msgid "Environment Variables"
+msgstr "環境変数"
+
+#: ../../geovista/docs/src/reference/index.rst:70
+msgid "Package controls."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/index.rst:72
+msgid "Glossary"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/index.rst:81
+msgid "Jargon buster."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/index.rst:83
+msgid "Key Bindings"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/index.rst:92
+msgid "GUI hot-keys."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/index.rst:94
+msgid "Tags"
+msgstr "タグ"
+
+#: ../../geovista/docs/src/reference/index.rst:103
+msgid "Themed content tags."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/index.rst:105
+msgid "🚧 What's New"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/index.rst:114
+msgid "Release highlights."
 msgstr ""
