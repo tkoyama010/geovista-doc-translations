@@ -43,7 +43,6 @@ Key points:
 
 ## Documentation Contribution Agreement
 
-
 ## How to add a new language translation
 
 1.  Add new language to `locale/update.sh`:
