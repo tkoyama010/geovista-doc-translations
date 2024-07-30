@@ -12,6 +12,10 @@
 the Read The Docs platform, in multiple languages.
 
 > [!NOTE]
+> This is following [PEP 545 – Python Documentation Translations
+](https://peps.python.org/pep-0545/)
+
+> [!NOTE]
 > The current procedure is bit tricky because Read The Docs
 > doesn't have a way to specify options for `sphinx-build` command.
 > **conf.py** files for each languages have `language` and `locale_dirs`
@@ -37,6 +41,9 @@ Key points:
 | :----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | English (parent project) | [![Documentation Status](https://readthedocs.org/projects/geovista/badge/?version=latest)](https://geovista.readthedocs.io/en/latest/?badge=latest)       | [![readthedocs.org](https://img.shields.io/badge/readthedocs-en-ff7964.svg?)](https://readthedocs.org/projects/geovista/)    |                                                                                                                                       |
 | 日本語                   | [![Documentation Status](https://readthedocs.org/projects/geovista-ja/badge/?version=latest)](https://geovista-ja.readthedocs.io/ja/latest/?badge=latest) | [![readthedocs.org](https://img.shields.io/badge/readthedocs-ja-ff7964.svg?)](https://readthedocs.org/projects/geovista-ja/) | [![Transifex](https://img.shields.io/badge/Transifex-ja-blue.svg?)](https://app.transifex.com/tkoyama010/geovista-doc/translate/#/ja) |
+
+## Documentation Contribution Agreement
+
 
 ## How to add a new language translation
 
