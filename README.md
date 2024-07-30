@@ -12,6 +12,9 @@
 the Read The Docs platform, in multiple languages.
 
 > [!NOTE]
+> This is following [PEP 545 – Python Documentation Translations](https://peps.python.org/pep-0545/).
+
+> [!NOTE]
 > The current procedure is bit tricky because Read The Docs
 > doesn't have a way to specify options for `sphinx-build` command.
 > **conf.py** files for each languages have `language` and `locale_dirs`
