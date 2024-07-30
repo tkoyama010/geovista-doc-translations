@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev25\n"
+"Project-Id-Version: GeoVista 0.6.0.dev32\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-24 00:26+0000\n"
+"POT-Creation-Date: 2024-07-29 22:41+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -136,7 +136,7 @@ msgstr "PyVistaの概要"
 #: ../../geovista/docs/src/overview.rst:75
 #: ../../geovista/docs/src/overview.rst:81
 msgid "PyVista Examples"
-msgstr ""
+msgstr "PyVista の例"
 
 #: ../../geovista/docs/src/overview.rst:84
 msgid ""
@@ -150,7 +150,7 @@ msgstr "Pythonic な、高レベルで合理化された `VTK`_ への API。"
 
 #: ../../geovista/docs/src/overview.rst:88
 msgid "`Mesh data structures`_"
-msgstr ""
+msgstr "`メッシュデータ構造`_"
 
 #: ../../geovista/docs/src/overview.rst:89
 msgid ""
