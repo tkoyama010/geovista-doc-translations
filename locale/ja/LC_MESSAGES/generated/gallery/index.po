@@ -31,6 +31,8 @@ msgid ""
 "js/index.html>`_ backend does **not** support rendering text or points as "
 "spheres."
 msgstr ""
+"**Interactive Scene** `vtk.js <https://kitware.github.io/vtk-"
+"js/index.html>`_ は、テキストやポイントを球体としてレンダリングすることをサポートして **いません** 。"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:17
 msgid ""
@@ -42,7 +44,7 @@ msgstr "このインタラクティブなギャラリーは、 ``geovista`` の�
 msgid ""
 "It is generated from the ``geovista.examples``, which can also be run from "
 "the command line with:"
-msgstr ""
+msgstr "これは ``geovista.examples`` から生成され、コマンドラインから実行することもできます:"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:32
 msgid "Want to know more?"

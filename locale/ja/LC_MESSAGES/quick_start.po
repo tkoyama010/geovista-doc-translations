@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev25\n"
+"Project-Id-Version: GeoVista 0.6.0.dev32\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-24 00:26+0000\n"
+"POT-Creation-Date: 2024-07-29 22:41+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -68,6 +68,8 @@ msgid ""
 "js/index.html>`_ backend does **not** support rendering text or points as "
 "spheres."
 msgstr ""
+"**Interactive Scene** `vtk.js <https://kitware.github.io/vtk-"
+"js/index.html>`_ は、テキストやポイントを球体としてレンダリングすることをサポートして **いません** 。"
 
 #: ../../geovista/docs/src/quick_start.rst:70
 msgid ""

@@ -33,7 +33,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog.rst:22
 msgid "LFRic Orography"
-msgstr ""
+msgstr "LFRic山岳学"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog.rst:24
 msgid ""

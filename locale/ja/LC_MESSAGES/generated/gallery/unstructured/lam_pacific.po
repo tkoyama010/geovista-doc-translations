@@ -87,7 +87,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lam_pacific.rst:117
 msgid ":download:`Download zipped: lam_pacific.zip <lam_pacific.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: lam_pacific.zip <lam_pacific.zip>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lam_pacific.rst:124
 msgid ""
