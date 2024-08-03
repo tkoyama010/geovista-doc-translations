@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev22\n"
+"Project-Id-Version: GeoVista 0.6.0.dev36\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-22 00:27+0000\n"
+"POT-Creation-Date: 2024-08-03 00:25+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -80,8 +80,8 @@ msgstr ""
 #: ../../geovista/docs/src/index.rst:30
 msgid ""
 "Alternatively, come share with us over on our :fab:`github` `Discussions`_. "
-"We'd 💛 to hear from you."
-msgstr "あるいは、私たちの :fab:`github` `Discussions`_ でシェアしてください。 ご連絡お待ちしています💛"
+"We'd 💚 to hear from you."
+msgstr ""
 
 #: ../../geovista/docs/src/index.rst:40
 msgid "Tutorials"
