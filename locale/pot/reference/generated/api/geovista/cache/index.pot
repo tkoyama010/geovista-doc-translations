@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev44\n"
+"Project-Id-Version: GeoVista 0.6.0.dev52\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-06 00:26+0000\n"
+"POT-Creation-Date: 2024-08-08 00:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:2
-msgid ":py:mod:`geovista.cache`"
+msgid "geovista.cache"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:9
@@ -25,105 +25,105 @@ msgid "Convenience functions to access, download and cache :mod:`geovista` resou
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:22
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:83
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:115
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:81
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:113
 msgid "Notes"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:34
-msgid "Package Contents"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:38
-msgid "Functions"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:46:<autosummary>:1
-msgid ":py:obj:`pooch_mute <geovista.cache.pooch_mute>`\\ \\(\\[silent\\]\\)"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:64
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:46:<autosummary>:1
-msgid "Control the :mod:`pooch` cache manager logger verbosity."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:46:<autosummary>:1
-msgid ":py:obj:`reload_registry <geovista.cache.reload_registry>`\\ \\(\\[fname\\]\\)"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:96
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:46:<autosummary>:1
-msgid "Refresh the registry of the :data:`CACHE`."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:48
 msgid "Attributes"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:46:<autosummary>:1
 msgid ":py:obj:`BASE_URL <geovista.cache.BASE_URL>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:131
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:129
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:46:<autosummary>:1
 msgid "Base URL for :mod:`geovista` resources."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:46:<autosummary>:1
 msgid ":py:obj:`CACHE <geovista.cache.CACHE>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:155
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:153
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:46:<autosummary>:1
 msgid "Cache manager for :mod:`geovista` resources."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:46:<autosummary>:1
 msgid ":py:obj:`DATA_VERSION <geovista.cache.DATA_VERSION>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:181
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:179
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:46:<autosummary>:1
 msgid "The ``geovista-data`` repository version for :mod:`geovista` resources."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:46:<autosummary>:1
 msgid ":py:obj:`GEOVISTA_CACHEDIR <geovista.cache.GEOVISTA_CACHEDIR>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:207
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:205
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:46:<autosummary>:1
 msgid "Environment variable to override :mod:`pooch` cache manager path."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:46:<autosummary>:1
 msgid ":py:obj:`GEOVISTA_DATA_VERSION <geovista.cache.GEOVISTA_DATA_VERSION>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:231
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:229
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:46:<autosummary>:1
 msgid "Environment variable to override default :attr:`DATA_VERSION`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:46:<autosummary>:1
 msgid ":py:obj:`GEOVISTA_POOCH_MUTE <geovista.cache.GEOVISTA_POOCH_MUTE>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:255
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:253
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:46:<autosummary>:1
 msgid "Verbosity status of the :mod:`pooch` cache manager logger."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:46:<autosummary>:1
 msgid ":py:obj:`RETRY_ATTEMPTS <geovista.cache.RETRY_ATTEMPTS>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:281
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:60:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:279
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:46:<autosummary>:1
 msgid "The number of retry attempts to download a resource."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:66
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:48
+msgid "Functions"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:55:<autosummary>:1
+msgid ":py:obj:`pooch_mute <geovista.cache.pooch_mute>`\\ \\(\\[silent\\]\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:62
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:55:<autosummary>:1
+msgid "Control the :mod:`pooch` cache manager logger verbosity."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:55:<autosummary>:1
+msgid ":py:obj:`reload_registry <geovista.cache.reload_registry>`\\ \\(\\[fname\\]\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:94
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:55:<autosummary>:1
+msgid "Refresh the registry of the :data:`CACHE`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:57
+msgid "Package Contents"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:64
 msgid "Updates the status variable :data:`GEOVISTA_POOCH_MUTE`."
 msgstr ""
 
@@ -131,30 +131,30 @@ msgstr ""
 msgid "Parameters"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:70
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:68
 msgid "**silent** : :class:`python:bool`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:69
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:67
 msgid "python:bool, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:71
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:69
 msgid "Whether to silence or activate the :mod:`pooch` cache manager logger messages to the console."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:98
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:96
 msgid "See :meth:`pooch.Pooch.load_registry` for more details."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:102
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:100
 msgid "**fname** : :class:`python:str`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:101
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:99
 msgid "python:str, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:103
+#: ../../geovista/docs/src/reference/generated/api/geovista/cache/index.rst:101
 msgid "The filename of the registry to be loaded. If ``None``, defaults to the ``cache/registry.txt`` resource file packaged with :mod:`geovista`."
 msgstr ""

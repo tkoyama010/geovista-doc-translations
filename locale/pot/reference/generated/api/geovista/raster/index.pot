@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev44\n"
+"Project-Id-Version: GeoVista 0.6.0.dev52\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-06 00:26+0000\n"
+"POT-Creation-Date: 2024-08-08 00:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:2
-msgid ":py:mod:`geovista.raster`"
+msgid "geovista.raster"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:8
@@ -25,28 +25,28 @@ msgid "Minimal geolocated raster utility support."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:11
-#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:60
+#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:58
 msgid "Notes"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:19
-msgid "Module Contents"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:23
 msgid "Functions"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:30:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:25:<autosummary>:1
 msgid ":py:obj:`wrap_texture <geovista.raster.wrap_texture>`\\ \\(texture\\[\\, central\\_meridian\\]\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:34
-#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:30:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:32
+#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:25:<autosummary>:1
 msgid "Re-center and wrap texture about the specified central meridian."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:36
+#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:27
+msgid "Module Contents"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:34
 msgid "Assumes that the source of the texture has global coverage, is on the Geographic projection and uses the WGS84 datum, with square pixels and no rotation."
 msgstr ""
 
@@ -54,27 +54,27 @@ msgstr ""
 msgid "Parameters"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:41
+#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:39
 msgid "**texture** : :obj:`Texture <pyvista.Texture>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:40
+#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:38
 msgid "Texture"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:42
+#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:40
 msgid "The global texture to be re-centered."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:44
+#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:42
 msgid "**central_meridian** : :class:`python:float`, default=0.0"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:43
+#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:41
 msgid "python:float, default=0.0"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:45
+#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:43
 msgid "The meridian (degrees) that specifies the new center of the texture image."
 msgstr ""
 
@@ -82,10 +82,10 @@ msgstr ""
 msgid "Returns"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:49
+#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:47
 msgid ":obj:`Texture <pyvista.Texture>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:50
+#: ../../geovista/docs/src/reference/generated/api/geovista/raster/index.rst:48
 msgid "The re-centered PyVista texture."
 msgstr ""

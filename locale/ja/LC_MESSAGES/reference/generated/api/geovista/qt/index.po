@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev22\n"
+"Project-Id-Version: GeoVista 0.6.0.dev52\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-22 00:27+0000\n"
+"POT-Creation-Date: 2024-08-08 00:26+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:2
-msgid ":py:mod:`geovista.qt`"
+msgid "geovista.qt"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:8
@@ -31,65 +31,65 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:11
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:44
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:74
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:96
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:126
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:148
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:178
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:42
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:72
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:94
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:124
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:146
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:176
 msgid "Notes"
 msgstr "ノート"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:19
-msgid "Module Contents"
-msgstr "モジュール内容"
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:22
 msgid "Classes"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:32:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:27:<autosummary>:1
 msgid ":py:obj:`GeoBackgroundPlotter <geovista.qt.GeoBackgroundPlotter>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:38
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:32:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:36
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:27:<autosummary>:1
 msgid "A Qt interactive background plotter."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:32:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:27:<autosummary>:1
 msgid ":py:obj:`GeoMultiPlotter <geovista.qt.GeoMultiPlotter>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:90
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:32:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:88
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:27:<autosummary>:1
 msgid "A Qt interactive multi-plotter."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:32:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:27:<autosummary>:1
 msgid ":py:obj:`GeoQtInteractor <geovista.qt.GeoQtInteractor>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:142
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:32:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:140
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:27:<autosummary>:1
 msgid "Extend the Qt render window interactor."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:35
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:29
+msgid "Module Contents"
+msgstr "モジュール内容"
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:33
 msgid ""
 "Bases: :py:obj:`geovista.geoplotter.GeoPlotterBase`, "
 ":py:obj:`pyvistaqt.BackgroundPlotter`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:40
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:38
 msgid ""
 "See :class:`geovista.geoplotter.GeoPlotterBase` and "
 ":class:`pyvistaqt.BackgroundPlotter`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:49
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:101
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:153
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:47
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:99
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:151
 msgid "Create geospatial aware plotter."
 msgstr ""
 
@@ -97,79 +97,79 @@ msgstr ""
 msgid "Parameters"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:54
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:106
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:158
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:52
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:104
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:156
 msgid "**\\*args** : :class:`python:tuple`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:53
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:105
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:157
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:51
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:103
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:155
 msgid "python:tuple, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:55
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:63
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:107
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:115
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:159
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:167
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:53
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:61
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:105
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:113
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:157
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:165
 msgid "See :class:`pyvista.Plotter` for further details."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:57
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:109
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:161
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:55
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:107
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:159
 msgid "**crs** : :obj:`CRSLike <geovista.crs.CRSLike>`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:54
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:106
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:158
+msgid "CRSLike, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:56
 #: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:108
 #: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:160
-msgid "CRSLike, optional"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:58
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:110
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:162
 msgid ""
 "The target CRS to render geolocated meshes added to the plotter. May be "
 "anything accepted by :meth:`pyproj.crs.CRS.from_user_input`. Defaults to "
 "``EPSG:4326`` i.e., ``WGS 84``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:62
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:114
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:166
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:60
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:112
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:164
 msgid "**\\*\\*kwargs** : :class:`python:dict`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:61
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:113
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:165
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:59
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:111
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:163
 msgid "python:dict, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:87
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:85
 msgid ""
 "Bases: :py:obj:`geovista.geoplotter.GeoPlotterBase`, "
 ":py:obj:`pyvistaqt.MultiPlotter`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:92
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:90
 msgid ""
 "See :class:`geovista.geoplotter.GeoPlotterBase` and "
 ":class:`pyvistaqt.MultiPlotter`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:139
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:137
 msgid ""
 "Bases: :py:obj:`geovista.geoplotter.GeoPlotterBase`, "
 ":py:obj:`pyvistaqt.QtInteractor`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:144
+#: ../../geovista/docs/src/reference/generated/api/geovista/qt/index.rst:142
 msgid ""
 "See :class:`geovista.geoplotter.GeoPlotterBase` and "
 ":class:`pyvistaqt.QtInteractor`."

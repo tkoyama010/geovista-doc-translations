@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev44\n"
+"Project-Id-Version: GeoVista 0.6.0.dev52\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-06 00:26+0000\n"
+"POT-Creation-Date: 2024-08-08 00:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:2
-msgid ":py:mod:`geovista.bridge`"
+msgid "geovista.bridge"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:8
@@ -29,13 +29,13 @@ msgid "This module provides the :class:`~geovista.bridge.Transform` factory clas
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:15
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:55
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:126
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:216
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:307
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:383
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:463
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:595
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:53
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:124
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:214
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:305
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:381
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:461
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:593
 msgid "Notes"
 msgstr ""
 
@@ -44,82 +44,82 @@ msgid ":doc:`pyvista:user-guide/what-is-a-mesh`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:25
-msgid "Module Contents"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:28
-msgid "Classes"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:36:<autosummary>:1
-msgid ":py:obj:`Transform <geovista.bridge.Transform>`\\"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:52
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:60
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:36:<autosummary>:1
-msgid "Build a mesh from spatial points, connectivity, data and CRS metadata."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:38
 msgid "Attributes"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:49:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:36:<autosummary>:1
 msgid ":py:obj:`BRIDGE_CLEAN <geovista.bridge.BRIDGE_CLEAN>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:612
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:49:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:610
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:36:<autosummary>:1
 msgid "Whether mesh cleaning performed by the bridge."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:49:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:36:<autosummary>:1
 msgid ":py:obj:`NAME_CELLS <geovista.bridge.NAME_CELLS>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:638
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:49:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:636
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:36:<autosummary>:1
 msgid "Default array name for data on the mesh cells."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:49:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:36:<autosummary>:1
 msgid ":py:obj:`NAME_POINTS <geovista.bridge.NAME_POINTS>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:664
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:49:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:662
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:36:<autosummary>:1
 msgid "Default array name for data on the mesh points."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:49:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:36:<autosummary>:1
 msgid ":py:obj:`PathLike <geovista.bridge.PathLike>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:690
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:49:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:688
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:36:<autosummary>:1
 msgid "Type alias for an asset file path."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:49:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:36:<autosummary>:1
 msgid ":py:obj:`RIO_SIEVE_SIZE <geovista.bridge.RIO_SIEVE_SIZE>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:716
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:49:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:714
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:36:<autosummary>:1
 msgid "The default size of the :func:`rasterio.features.sieve` filter."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:49:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:36:<autosummary>:1
 msgid ":py:obj:`Shape <geovista.bridge.Shape>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:742
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:49:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:740
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:36:<autosummary>:1
 msgid "Type alias for a tuple of integers."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:62
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:38
+msgid "Classes"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:44:<autosummary>:1
+msgid ":py:obj:`Transform <geovista.bridge.Transform>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:50
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:58
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:44:<autosummary>:1
+msgid "Build a mesh from spatial points, connectivity, data and CRS metadata."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:46
+msgid "Module Contents"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:60
 msgid "Convenience factory to build multiple identical meshes but with different face or node data."
 msgstr ""
 
@@ -127,85 +127,93 @@ msgstr ""
 msgid "Parameters"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:67
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:153
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:244
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:330
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:519
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:65
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:151
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:242
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:328
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:517
 msgid "**xs** : :obj:`ArrayLike <numpy.typing.ArrayLike>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:66
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:70
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:152
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:158
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:243
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:249
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:329
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:333
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:518
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:522
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:64
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:68
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:150
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:156
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:241
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:247
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:327
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:331
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:516
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:520
 msgid "ArrayLike"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:68
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:520
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:66
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:518
 msgid "A 1-D array of x-values, in canonical `crs` units, defining the vertices of each face in the mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:71
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:159
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:250
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:334
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:523
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:69
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:157
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:248
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:332
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:521
 msgid "**ys** : :obj:`ArrayLike <numpy.typing.ArrayLike>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:70
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:522
+msgid "A 1-D array of y-values, in canonical `crs` units, defining the vertices of each face in the mesh."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:73
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:525
+msgid "**connectivity** : :obj:`ArrayLike <numpy.typing.ArrayLike>` or :obj:`Shape <geovista.bridge.Shape>`, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:72
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:524
-msgid "A 1-D array of y-values, in canonical `crs` units, defining the vertices of each face in the mesh."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:75
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:527
-msgid "**connectivity** : :obj:`ArrayLike <numpy.typing.ArrayLike>` or :obj:`Shape <geovista.bridge.Shape>`, optional"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:74
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:526
 msgid "ArrayLike or Shape, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:76
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:74
 msgid "Defines the topology of each face in the unstructured mesh in terms of indices into the provided `xs` and `ys` mesh geometry arrays. The `connectivity` is a 2-D ``(M, N)`` array, where ``M`` is the number of mesh faces, and ``N`` is the number of nodes per face. Alternatively, an ``(M, N)`` tuple defining the connectivity shape may be provided instead, given that the `xs` and `ys` define ``M*N`` points (at most) in the mesh geometry. If no connectivity is provided, and the `xs` and `ys` are 2-D, then their shape is used to determine the connectivity.  Also, note that masked connectivity may be used to define a mesh consisting of different shaped faces."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:87
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:542
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:85
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:540
 msgid "**start_index** : :class:`python:int`, default=0"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:86
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:102
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:188
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:279
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:435
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:541
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:567
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:84
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:100
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:186
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:277
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:433
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:539
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:565
 msgid "python:int, default=0"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:88
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:543
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:86
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:541
 msgid "Specify the base index of the provided `connectivity` in the closed interval [0, 1]. For example, if `start_index=1`, then the `start_index` will be subtracted from the `connectivity` to result in 0-based indices into the provided mesh geometry. If no `start_index` is provided, then it will be determined from the `connectivity`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:95
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:176
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:267
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:346
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:555
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:93
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:174
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:265
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:344
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:553
 msgid "**crs** : :obj:`CRSLike <geovista.crs.CRSLike>`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:92
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:173
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:264
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:343
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:552
+msgid "CRSLike, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:94
@@ -213,70 +221,80 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:266
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:345
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:554
-msgid "CRSLike, optional"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:96
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:177
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:268
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:347
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:556
 msgid "The Coordinate Reference System of the provided `xs` and `ys`. May be anything accepted by :meth:`pyproj.crs.CRS.from_user_input`. Defaults to ``EPSG:4326`` i.e., ``WGS 84``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:100
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:186
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:277
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:351
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:433
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:565
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:98
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:184
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:275
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:349
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:431
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:563
 msgid "**radius** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:99
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:106
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:185
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:192
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:276
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:283
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:350
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:360
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:432
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:439
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:564
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:571
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:97
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:104
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:183
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:190
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:274
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:281
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:348
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:358
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:430
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:437
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:562
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:569
 msgid "python:float, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:101
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:434
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:566
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:99
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:432
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:564
 msgid "The radius of the mesh sphere. Defaults to :data:`~geovista.common.RADIUS`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:103
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:189
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:280
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:436
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:568
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:101
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:187
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:278
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:434
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:566
 msgid "**zlevel** : :class:`python:int`, default=0"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:104
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:190
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:281
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:437
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:569
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:102
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:188
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:279
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:435
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:567
 msgid "The z-axis level. Used in combination with the `zscale` to offset the `radius` by a proportional amount i.e., ``radius * zlevel * zscale``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:107
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:193
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:284
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:361
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:440
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:572
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:105
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:191
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:282
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:359
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:438
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:570
 msgid "**zscale** : :class:`python:float`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:106
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:192
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:283
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:360
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:439
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:571
+msgid "The proportional multiplier for z-axis `zlevel`. Defaults to :data:`~geovista.common.ZLEVEL_SCALE`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:109
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:195
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:286
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:363
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:442
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:574
+msgid "**clean** : :class:`python:bool`, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:108
@@ -285,120 +303,102 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:362
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:441
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:573
-msgid "The proportional multiplier for z-axis `zlevel`. Defaults to :data:`~geovista.common.ZLEVEL_SCALE`."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:111
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:197
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:288
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:365
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:444
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:576
-msgid "**clean** : :class:`python:bool`, optional"
+msgid "python:bool, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:110
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:196
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:287
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:364
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:443
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:575
-msgid "python:bool, optional"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:112
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:198
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:289
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:445
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:577
 msgid "Specify whether to merge duplicate points, remove unused points, and/or remove degenerate cells in the resultant mesh. See :meth:`pyvista.PolyDataFilters.clean`. Defaults to :data:`BRIDGE_CLEAN`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:142
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:140
 msgid "Build a quad-faced mesh from contiguous 1-D x-values and y-values."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:144
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:142
 msgid "This allows the construction of a uniform or rectilinear quad-faced ``(M, N)`` mesh grid, where the mesh has ``M``-faces in the y-axis, and ``N``-faces in the x-axis, resulting in a mesh consisting of ``M*N`` faces."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:148
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:146
 msgid "The provided `xs` and `ys` will be projected from their `crs` to geographic longitude and latitude values."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:154
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:152
 msgid "A 1-D array of x-values, in canonical `crs` units, defining the contiguous face x-value boundaries of the mesh. Creating a mesh with ``N``-faces in the `crs` x-axis requires a ``(N+1,)`` array. Alternatively, a ``(N, 2)`` contiguous bounds array may be provided."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:160
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:158
 msgid "A 1-D array of y-values, in canonical `crs` units, defining the contiguous face y-value boundaries of the mesh. Creating a mesh with ``M``-faces in the `crs` y-axis requires a ``(M+1,)`` array. Alternatively, a ``(M, 2)`` contiguous bounds array may be provided."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:165
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:256
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:338
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:539
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:163
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:254
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:336
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:537
 msgid "**data** : :obj:`ArrayLike <numpy.typing.ArrayLike>`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:162
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:253
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:335
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:536
+msgid "ArrayLike, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:164
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:255
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:337
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:538
-msgid "ArrayLike, optional"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:166
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:257
 msgid "Data to be optionally attached to the mesh. The size of the data must match either the shape of the fully formed mesh points ``(M+1)*(N+1)``, or the number of mesh faces, ``M*N`` (but see the `rgb` parameter)."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:171
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:262
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:342
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:409
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:550
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:169
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:260
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:340
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:407
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:548
 msgid "**name** : :class:`python:str`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:168
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:259
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:339
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:406
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:547
+msgid "python:str, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:170
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:261
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:341
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:408
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:549
-msgid "python:str, optional"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:172
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:263
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:551
 msgid "The name of the optional data array to be attached to the mesh. If `data` is provided but with no `name`, defaults to either :data:`NAME_POINTS` or :data:`NAME_CELLS`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:181
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:272
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:419
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:560
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:179
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:270
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:417
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:558
 msgid "**rgb** : :class:`python:bool`, default=False"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:178
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:269
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:416
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:420
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:427
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:557
+msgid "python:bool, default=False"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:180
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:271
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:418
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:422
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:429
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:559
-msgid "python:bool, default=False"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:182
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:273
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:561
 msgid "Whether `data` is an ``RGB`` or ``RGBA`` image. When ``rgb=True``, `data` is expected to have an extra dimension for the colour channels (length ``3`` or ``4``)."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:187
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:278
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:185
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:276
 msgid "The radius of the sphere. Defaults to :data:`~geovista.common.RADIUS`."
 msgstr ""
 
@@ -406,161 +406,161 @@ msgstr ""
 msgid "Returns"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:205
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:296
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:372
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:452
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:584
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:203
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:294
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:370
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:450
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:582
 msgid ":obj:`PolyData <pyvista.PolyData>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:206
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:297
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:204
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:295
 msgid "The quad-faced spherical mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:232
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:230
 msgid "Build a quad-faced mesh from 2-D x-values and y-values."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:234
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:232
 msgid "This allows the construction of a uniform, rectilinear or curvilinear quad-faced ``(M, N)`` mesh grid, where the mesh has ``M``-faces in the y-axis, and ``N``-faces in the x-axis, resulting in a mesh consisting of ``M*N`` faces."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:238
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:236
 msgid "The provided `xs` and `ys` define the four vertices of each quad-face in the mesh for the native `crs`, which will then be projected to geographic longitude and latitude values."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:245
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:243
 msgid "A 2-D array of x-values, in canonical `crs` units, defining the face x-value boundaries of the mesh. Creating a ``(M, N)`` mesh requires a ``(M+1, N+1)`` x-axis array. Alternatively, a ``(M, N, 4)`` array may be provided."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:251
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:249
 msgid "A 2-D array of y-values, in canonical `crs` units, defining the face y-value boundaries of the mesh. Creating a ``(M, N)`` mesh requires a ``(M+1, N+1)`` y-axis array. Alternatively, a ``(M, N, 4)`` array may be provided."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:323
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:321
 msgid "Build a point-cloud mesh from x-values, y-values and z-levels."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:325
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:323
 msgid "Note that, any optional mesh `data` provided must be in the same order as the spatial points."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:331
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:329
 msgid "A 1-D, 2-D or 3-D array of point-cloud x-values, in canonical `crs` units. Must have the same shape as the `ys`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:335
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:333
 msgid "A 1-D, 2-D or 3-D array of point-cloud y-values, in canonical `crs` units. Must have the same shape as the `xs`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:339
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:337
 msgid "Data to be optionally attached to the mesh points defined by `xs` and `ys`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:343
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:341
 msgid "The name of the optional data array to be attached to the mesh. If `data` is provided but with no `name`, defaults to :data:`NAME_POINTS`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:352
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:350
 msgid "The radius of the mesh point-cloud. Defaults to :data:`~geovista.common.RADIUS`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:355
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:353
 msgid "**zlevel** : :class:`python:int` or :obj:`ArrayLike <numpy.typing.ArrayLike>`, default=0"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:354
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:352
 msgid "python:int or ArrayLike, default=0"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:356
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:354
 msgid "The z-axis level. Used in combination with the `zscale` to offset the `radius` by a proportional amount i.e., ``radius * zlevel * zscale``. If `zlevel` is not a scalar, then its shape must match or broadcast with the shape of the `xs` and `ys`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:366
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:364
 msgid "Specify whether to merge duplicate points. See :meth:`pyvista.PolyDataFilters.clean`. Defaults to :data:`BRIDGE_CLEAN`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:373
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:371
 msgid "The point-cloud spherical mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:399
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:397
 msgid "Build a quad-faced mesh from the GeoTIFF."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:401
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:399
 msgid "Note that, the GeoTIFF data will be located on the ``points`` of the resultant mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:406
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:404
 msgid "**fname** : :obj:`PathLike`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:405
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:403
 msgid "PathLike"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:407
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:405
 msgid "The file path to the GeoTIFF."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:410
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:408
 msgid "The name of the GeoTIFF data array to be attached to the mesh. Defaults to :data:`NAME_POINTS`. Note that, ``{units}`` may be used as a placeholder for the units of the data array e.g., ``\"Elevation / {units}\"``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:415
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:413
 msgid "**band** : :class:`python:int`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:414
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:426
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:412
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:424
 msgid "python:int, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:416
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:414
 msgid "The band index to read from the GeoTIFF. Note that, the `band` index is one-based. Defaults to the first band i.e., ``band=1``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:420
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:418
 msgid "Specify whether to read the GeoTIFF as an ``RGB`` or ``RGBA`` image. When ``rgb=True``, the `band` index is ignored."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:423
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:421
 msgid "**sieve** : :class:`python:bool`, default=False"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:424
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:422
 msgid "Specify whether to sieve the GeoTIFF mask to remove small connected regions. See :func:`rasterio.features.sieve` for more information."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:427
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:425
 msgid "**size** : :class:`python:int`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:428
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:426
 msgid "The size of the `sieve` filter. Defaults to :data:`RIO_SIEVE_SIZE`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:430
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:428
 msgid "**extract** : :class:`python:bool`, default=False"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:431
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:429
 msgid "Specify whether to extract cells from the mesh with no masked points."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:453
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:451
 msgid "The GeoTIFF spherical mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:466
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:464
 msgid "Optional package dependency :mod:`rasterio` is required."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:470
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:468
 msgid "Examples"
 msgstr ""
 
@@ -576,26 +576,26 @@ msgstr ""
 msgid "Now render the result:"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:507
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:505
 msgid "Build a mesh from unstructured 1-D x-values and y-values."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:509
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:507
 msgid "The `connectivity` defines the topology of faces within the unstructured mesh. This is represented in terms of indices into the provided `xs` and `ys` mesh geometry."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:513
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:511
 msgid "Note that any optional mesh `data` provided must be in the same order as the mesh face `connectivity`, or in the same order as the points described by `xs` & `ys` (data can be on points or on cells)."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:528
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:526
 msgid "Defines the topology of each face in the unstructured mesh in terms of indices into the provided `xs` and `ys` mesh geometry arrays. The `connectivity` is a 2-D ``(M, N)`` array, where ``M`` is the number of mesh faces, and ``N`` is the number of nodes per face. Alternatively, an ``(M, N)`` tuple defining the connectivity shape may be provided instead, given that the `xs` and `ys` define ``M*N`` points (at most) in the mesh geometry. If no connectivity is provided, and the `xs` and `ys` are 2-D, then their shape is used to determine the connectivity. Also, note that masked connectivity may be used to define a mesh consisting of different shaped faces."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:540
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:538
 msgid "Data to be optionally attached to the mesh face or nodes."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:585
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:583
 msgid "The ``(M*N)``-faced spherical mesh."
 msgstr ""

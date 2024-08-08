@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev25\n"
+"Project-Id-Version: GeoVista 0.6.0.dev52\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-24 00:26+0000\n"
+"POT-Creation-Date: 2024-08-08 00:26+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:2
-msgid ":py:mod:`geovista.search`"
+msgid "geovista.search"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:8
@@ -31,144 +31,144 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:11
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:60
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:102
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:167
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:206
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:238
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:270
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:303
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:336
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:386
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:442
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:58
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:100
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:165
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:204
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:236
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:268
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:301
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:334
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:384
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:440
 msgid "Notes"
 msgstr "ノート"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:19
-msgid "Module Contents"
-msgstr "モジュール内容"
+msgid "Attributes"
+msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:22
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:29:<autosummary>:1
+msgid ":py:obj:`KDTREE_EPSILON <geovista.search.KDTREE_EPSILON>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:456
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:29:<autosummary>:1
+msgid "The default kd-tree nearest neighbour epsilon."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:29:<autosummary>:1
+msgid ":py:obj:`KDTREE_K <geovista.search.KDTREE_K>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:482
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:29:<autosummary>:1
+msgid "The default kd-tree number of nearest neighbours."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:29:<autosummary>:1
+msgid ":py:obj:`KDTREE_LEAF_SIZE <geovista.search.KDTREE_LEAF_SIZE>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:508
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:29:<autosummary>:1
+msgid "The default kd-tree leaf-size."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:29:<autosummary>:1
+msgid ":py:obj:`KDTREE_PREFERENCE <geovista.search.KDTREE_PREFERENCE>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:534
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:29:<autosummary>:1
+msgid "The default search preference."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:29:<autosummary>:1
+msgid ":py:obj:`NearestNeighbours <geovista.search.NearestNeighbours>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:557
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:29:<autosummary>:1
+msgid "Type alias for a tuple of nearest neighbour distances and indices."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:31
 msgid "Classes"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:30:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:38:<autosummary>:1
 msgid ":py:obj:`KDTree <geovista.search.KDTree>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:55
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:30:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:53
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:38:<autosummary>:1
 msgid "Construct a kd-tree for fast nearest neighbour search of a mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:30:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:38:<autosummary>:1
 msgid ":py:obj:`SearchPreference <geovista.search.SearchPreference>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:323
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:30:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:321
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:38:<autosummary>:1
 msgid "Enumeration of mesh geometry search preferences."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:32
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:40
 msgid "Functions"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:40:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:47:<autosummary>:1
 msgid ""
 ":py:obj:`find_cell_neighbours <geovista.search.find_cell_neighbours>`\\ "
 "\\(mesh\\, cid\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:359
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:40:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:357
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:47:<autosummary>:1
 msgid "Find all the cells neighbouring the given `cid` cell/s of the `mesh`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:40:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:47:<autosummary>:1
 msgid ""
 ":py:obj:`find_nearest_cell <geovista.search.find_nearest_cell>`\\ \\(mesh\\,"
 " x\\, y\\[\\, z\\, single\\]\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:399
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:40:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:397
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:47:<autosummary>:1
 msgid ""
 "Find the cell in the `mesh` that is closest to the point-of-interest (POI)."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:42
-msgid "Attributes"
-msgstr ""
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:49
+msgid "Module Contents"
+msgstr "モジュール内容"
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:52:<autosummary>:1
-msgid ":py:obj:`KDTREE_EPSILON <geovista.search.KDTREE_EPSILON>`\\"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:458
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:52:<autosummary>:1
-msgid "The default kd-tree nearest neighbour epsilon."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:52:<autosummary>:1
-msgid ":py:obj:`KDTREE_K <geovista.search.KDTREE_K>`\\"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:484
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:52:<autosummary>:1
-msgid "The default kd-tree number of nearest neighbours."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:52:<autosummary>:1
-msgid ":py:obj:`KDTREE_LEAF_SIZE <geovista.search.KDTREE_LEAF_SIZE>`\\"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:510
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:52:<autosummary>:1
-msgid "The default kd-tree leaf-size."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:52:<autosummary>:1
-msgid ":py:obj:`KDTREE_PREFERENCE <geovista.search.KDTREE_PREFERENCE>`\\"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:536
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:52:<autosummary>:1
-msgid "The default search preference."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:52:<autosummary>:1
-msgid ":py:obj:`NearestNeighbours <geovista.search.NearestNeighbours>`\\"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:559
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:52:<autosummary>:1
-msgid "Type alias for a tuple of nearest neighbour distances and indices."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:57
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:55
 msgid "For further details, see https://github.com/storpipfugl/pykdtree."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:65
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:63
 msgid ""
 "Construct kd-tree for nearest neighbour search of mesh points/cell centers."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:67
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:65
 msgid ""
 "Note that, the cell centers will be calculated from the mesh geometry and do"
 " not require to be provided."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:70
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:68
 msgid ""
 "The geolocated mesh data points are converted to cartesian coordinates on a "
 "S2 sphere, as the kd-tree implementation uses Euclidean distance as the "
 "metric for nearest neighbours."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:74
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:72
 msgid ""
 "Nearest neighbour queries are optionally multi-threaded using OpenMP. For "
 "further details see https://github.com/storpipfugl/pykdtree."
@@ -178,32 +178,32 @@ msgstr ""
 msgid "Parameters"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:79
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:366
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:410
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:77
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:364
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:408
 msgid "**mesh** : :obj:`PolyData <pyvista.PolyData>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:78
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:365
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:409
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:76
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:363
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:407
 msgid "PolyData"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:80
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:78
 msgid "The mesh used to construct the kd-tree."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:82
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:80
 msgid "**leaf_size** : :class:`python:int`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:81
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:126
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:79
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:124
 msgid "python:int, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:83
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:81
 msgid ""
 "The number of data points per tree leaf. Used to control the memory overhead"
 " of the kd-tree. Increasing the leaf size will reduce the memory overhead "
@@ -211,62 +211,62 @@ msgid ""
 ":data:`KDTREE_LEAF_SIZE`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:88
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:86
 msgid ""
 "**preference** : :class:`python:str` or :obj:`SearchPreference`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:87
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:85
 msgid "python:str or SearchPreference, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:89
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:87
 msgid ""
 "Construct the kd-tree from the `mesh` points ``point`` or cell centers "
 "``center``. Also see :class:`SearchPreference`. Defaults to "
 ":data:`KDTREE_PREFERENCE`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:116
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:114
 msgid "Query the kd-tree for `k` nearest neighbours per point-of-interest."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:121
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:119
 msgid ""
 "**lons** : :class:`python:float` or :obj:`ArrayLike "
 "<numpy.typing.ArrayLike>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:120
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:123
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:118
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:121
 msgid "python:float or ArrayLike"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:122
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:120
 msgid "One or more longitude values for the query points-of-interest."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:124
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:122
 msgid ""
 "**lats** : :class:`python:float` or :obj:`ArrayLike "
 "<numpy.typing.ArrayLike>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:125
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:123
 msgid "One or more latitude values for the query points-of-interest."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:127
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:125
 msgid "**k** : :class:`python:int`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:128
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:126
 msgid ""
 "The number of nearest neighbours to find per point-of-interest. Defaults to "
 ":data:`KDTREE_K`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:131
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:129
 msgid "**epsilon** : non-negative :class:`python:float`, optional"
 msgstr ""
 
@@ -274,49 +274,49 @@ msgstr ""
 msgid "non-negative"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:132
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:130
 msgid ""
 "Return approximate nearest neighbours; the k-th returned value is guaranteed"
 " to be no further than (1 + epsilon) times the distance to the real k-th "
 "nearest neighbour. Defaults to :data:`KDTREE_EPSILON`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:136
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:134
 msgid ""
 "**distance_upper_bound** : non-negative :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:137
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:135
 msgid ""
 "Return only neighbors within this distance. This is used to prune tree "
 "searches."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:140
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:138
 msgid "**radius** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:139
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:148
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:420
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:137
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:146
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:418
 msgid "python:float, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:141
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:139
 msgid "The radius of the sphere. Defaults to :data:`geovista.common.RADIUS`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:143
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:141
 msgid ""
 "**zlevel** : :class:`python:float` or :obj:`ArrayLike "
 "<numpy.typing.ArrayLike>`, default=0.0"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:142
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:140
 msgid "python:float or ArrayLike, default=0.0"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:144
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:142
 msgid ""
 "The z-axis level. Used in combination with the `zscale` to offset the "
 "`radius` by a proportional amount i.e., ``radius * zlevel * zscale``. If "
@@ -324,11 +324,11 @@ msgid ""
 "shape of `lons` and `lats`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:149
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:147
 msgid "**zscale** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:150
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:148
 msgid ""
 "The proportional multiplier for z-axis `zlevel`. Defaults to "
 ":data:`geovista.common.ZLEVEL_SCALE`."
@@ -338,178 +338,178 @@ msgstr ""
 msgid "Returns"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:155
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:153
 msgid ":obj:`NearestNeighbours`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:156
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:154
 msgid ""
 "The Euclidean distance and index of the k nearest neighbours for each query "
 "point-of-interest."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:185
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:183
 msgid "The number of data points per tree leaf."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:187
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:185
 msgid ""
 "Used to control the memory overhead of the kd-tree. Increasing the leaf size"
 " will reduce the memory overhead and construction time, but increase the "
 "query time."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:194
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:227
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:192
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:225
 msgid ":class:`python:int`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:195
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:193
 msgid ""
 "The leaf size i.e., the number of data points per leaf, for the tree "
 "creation."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:221
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:219
 msgid "Number of mesh points registered with the kd-tree."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:228
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:226
 msgid "The number of mesh points in the kd-tree."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:253
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:251
 msgid "The cartesian data points registered with the kd-tree."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:259
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:257
 msgid ":obj:`np.ndarray <numpy.ndarray>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:260
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:258
 msgid "The cartesian data points in the kd-tree."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:285
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:283
 msgid "The target mesh geometry to search."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:287
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:285
 msgid "Focus either on the mesh points or the mesh cell centers."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:292
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:290
 msgid ":obj:`SearchPreference`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:293
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:291
 msgid "The preference of mesh geometry to search."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:319
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:317
 msgid "Bases: :py:obj:`geovista.common.MixinStrEnum`, :py:obj:`enum.Enum`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:361
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:359
 msgid ""
 "A cell is deemed to neighbour a `cid` cell if it shares at least one vertex."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:367
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:365
 msgid "The mesh defining the points cells."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:369
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:367
 msgid ""
 "**cid** : :class:`python:int` or :class:`python:list` of :class:`python:int`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:368
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:366
 msgid "python:int or python:list of python:int"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:370
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:368
 msgid ""
 "The offset of the cell/s in the `mesh` that is/are the focus of the "
 "neighbourhood."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:375
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:373
 msgid ":class:`python:list` of :class:`python:int`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:376
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:374
 msgid "The sorted list of neighbouring cell-ids."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:401
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:399
 msgid ""
 "Assumes that the POI is in the canonical units of the `gvCRS` associated "
 "with the `mesh`, otherwise assumes geographic longitude and latitude."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:405
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:403
 msgid ""
 "If the POI is coincident with a vertex of the `mesh`, then the ``cellID`` of"
 " each cell face which shares that vertex is returned."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:411
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:409
 msgid "The mesh defining the points, cells and CRS."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:413
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:411
 msgid "**x** : :class:`python:float`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:412
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:416
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:410
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:414
 msgid "python:float"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:414
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:412
 msgid ""
 "The POI x-coordinate. Defaults to ``longitude`` if no `mesh` CRS is "
 "available."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:417
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:415
 msgid "**y** : :class:`python:float`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:418
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:416
 msgid ""
 "The POI y-coordinate. Defaults to ``latitude`` if no `mesh` CRS is "
 "available."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:421
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:419
 msgid "**z** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:422
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:420
 msgid "The POI z-coordinate, if applicable. Defaults to zero."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:424
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:422
 msgid "**single** : :class:`python:bool`, default=False"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:423
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:421
 msgid "python:bool, default=False"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:425
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:423
 msgid ""
 "Enforce expectation of only one nearest ``cellID`` result. Otherwise, a "
 "sorted list of ``cellIDs`` are returned."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:430
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:428
 msgid ":class:`python:int` or :class:`python:list` of :class:`python:int`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:431
+#: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:429
 msgid ""
 "The cellID of the closest mesh cell, or the cellIDs that share the "
 "coincident point-of-interest as a node."

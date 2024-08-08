@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev22\n"
+"Project-Id-Version: GeoVista 0.6.0.dev52\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-22 00:27+0000\n"
+"POT-Creation-Date: 2024-08-08 00:26+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:2
-msgid ":py:mod:`geovista.core`"
+msgid "geovista.core"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:8
@@ -30,154 +30,154 @@ msgid "Core :mod:`geovista` behaviour for processing geolocated meshes."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:11
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:95
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:142
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:311
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:361
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:409
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:465
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:521
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:569
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:93
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:140
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:309
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:359
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:407
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:463
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:519
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:567
 msgid "Notes"
 msgstr "ノート"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:19
-msgid "Module Contents"
-msgstr "モジュール内容"
+msgid "Attributes"
+msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:22
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:26:<autosummary>:1
+msgid ":py:obj:`CUT_OFFSET <geovista.core.CUT_OFFSET>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:583
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:26:<autosummary>:1
+msgid "Cartesian west/east bias offset of a slice."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:26:<autosummary>:1
+msgid ":py:obj:`SPLINE_N_POINTS <geovista.core.SPLINE_N_POINTS>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:609
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:26:<autosummary>:1
+msgid "The default number of interpolation points along a spline."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:28
 msgid "Classes"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:30:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:35:<autosummary>:1
 msgid ":py:obj:`MeridianSlice <geovista.core.MeridianSlice>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:56
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:30:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:54
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:35:<autosummary>:1
 msgid ""
 "Remesh geolocated mesh along a meridian, from the north-pole to the south-"
 "pole."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:30:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:35:<autosummary>:1
 msgid ":py:obj:`SliceBias <geovista.core.SliceBias>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:186
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:30:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:184
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:35:<autosummary>:1
 msgid "Enumerate meridian slice bias."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:32
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:37
 msgid "Functions"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:44:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:48:<autosummary>:1
 msgid ""
 ":py:obj:`add_texture_coords <geovista.core.add_texture_coords>`\\ "
 "\\(mesh\\[\\, meridian\\, antimeridian\\]\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:281
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:44:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:279
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:48:<autosummary>:1
 msgid "Compute and attach texture coordinates, in UV space, to the mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:44:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:48:<autosummary>:1
 msgid ":py:obj:`combine <geovista.core.combine>`\\ \\(\\*meshes\\[\\, data\\, clean\\]\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:324
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:44:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:322
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:48:<autosummary>:1
 msgid "Combine two or more meshes into one mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:44:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:48:<autosummary>:1
 msgid ""
 ":py:obj:`resize <geovista.core.resize>`\\ \\(mesh\\[\\, radius\\, zlevel\\, "
 "zscale\\, inplace\\]\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:374
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:44:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:372
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:48:<autosummary>:1
 msgid "Change the radius of the spherical mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:44:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:48:<autosummary>:1
 msgid ""
 ":py:obj:`slice_cells <geovista.core.slice_cells>`\\ \\(mesh\\[\\, "
 "meridian\\, antimeridian\\, rtol\\, atol\\]\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:422
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:44:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:420
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:48:<autosummary>:1
 msgid "Cut a cell-based mesh along a `meridian`, breaking cell connectivity."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:44:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:48:<autosummary>:1
 msgid ""
 ":py:obj:`slice_lines <geovista.core.slice_lines>`\\ \\(mesh\\[\\, "
 "n\\_points\\, copy\\]\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:478
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:44:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:476
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:48:<autosummary>:1
 msgid ""
 "Cut a line-based mesh along the Antimeridian, breaking line connectivity."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:44:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:48:<autosummary>:1
 msgid ":py:obj:`slice_mesh <geovista.core.slice_mesh>`\\ \\(mesh\\[\\, rtol\\, atol\\]\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:534
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:44:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:532
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:48:<autosummary>:1
 msgid "Cut a mesh along the Antimeridian, breaking connectivities."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:46
-msgid "Attributes"
-msgstr ""
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:50
+msgid "Module Contents"
+msgstr "モジュール内容"
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:53:<autosummary>:1
-msgid ":py:obj:`CUT_OFFSET <geovista.core.CUT_OFFSET>`\\"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:585
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:53:<autosummary>:1
-msgid "Cartesian west/east bias offset of a slice."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:53:<autosummary>:1
-msgid ":py:obj:`SPLINE_N_POINTS <geovista.core.SPLINE_N_POINTS>`\\"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:611
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:53:<autosummary>:1
-msgid "The default number of interpolation points along a spline."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:58
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:56
 msgid ""
 "Remeshing involves introducing a seam into the mesh along the meridian of "
 "choice, splitting cells bisected by the meridian, which will be "
 "triangulated."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:64
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:62
 msgid "Create a `meridian` seam in the `mesh`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:66
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:64
 msgid ""
 "The seam extends from the north-pole to the south-pole in a great circle, "
 "breaking cell connectivity and thus allowing the geolocated mesh to be "
 "correctly projected or texture mapped."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:70
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:428
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:68
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:426
 msgid ""
 "Cells bisected by the `meridian` of choice will be remeshed i.e., split and "
 "triangulated."
@@ -187,116 +187,116 @@ msgstr ""
 msgid "Parameters"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:75
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:288
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:379
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:433
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:495
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:545
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:73
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:286
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:377
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:431
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:493
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:543
 msgid "**mesh** : :class:`~pyvista.PolyData`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:74
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:287
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:378
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:432
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:494
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:544
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:72
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:285
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:376
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:430
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:492
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:542
 msgid "PolyData"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:76
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:74
 msgid "The geolocated mesh to be remeshed along the `meridian`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:78
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:76
 msgid "**meridian** : :class:`python:float`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:77
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:75
 msgid "python:float"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:79
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:77
 msgid "The meridian (degrees longitude) along which to create the mesh seam."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:81
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:79
 msgid "**offset** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:80
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:290
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:381
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:388
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:435
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:442
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:446
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:547
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:551
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:78
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:288
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:379
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:386
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:433
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:440
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:444
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:545
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:549
 msgid "python:float, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:82
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:80
 msgid ""
 "Offset buffer around the meridian, used to determine those cells west and "
 "east of that are coincident or bisected by the `meridian`. Defaults to "
 ":data:`CUT_OFFSET`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:109
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:107
 msgid "Reduce mesh to only the cells intersecting with the meridian."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:111
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:109
 msgid ""
 "Extract the cells participating in the intersection between the meridian "
 "(with or without bias) and the mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:116
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:114
 msgid "**bias** : :obj:`SliceBias`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:115
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:113
 msgid "SliceBias, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:117
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:115
 msgid ""
 "Whether to extract the west, east or exact intersection cells. Defaults to "
 ":attr:`SliceBias.WEST`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:120
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:118
 msgid "**split_cells** : :class:`python:bool`, default=False"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:119
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:294
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:342
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:392
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:439
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:503
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:117
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:292
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:340
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:390
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:437
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:501
 msgid "python:bool, default=False"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:121
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:119
 msgid ""
 "Determine whether to return coincident whole cells (``=False``) or bisected "
 "cells (``=True``) of the meridian."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:124
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:122
 msgid "**clip** : :class:`python:bool`, default=True"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:123
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:338
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:121
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:336
 msgid "python:bool, default=True"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:125
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:123
 msgid ""
 "Determine whether to return the cells of intersection only along the pole-"
 "to-pole meridian (``=True``) or along full great circle for this meridian's "
@@ -307,79 +307,79 @@ msgstr ""
 msgid "Returns"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:131
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:300
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:350
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:398
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:453
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:510
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:558
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:129
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:298
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:348
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:396
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:451
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:508
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:556
 msgid ":class:`~pyvista.PolyData`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:132
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:130
 msgid "The mesh cells from the intersection."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:182
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:180
 msgid "Bases: :py:obj:`enum.Enum`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:209
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:207
 msgid "Preference for a slice to bias cells east of the chosen meridian."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:233
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:231
 msgid "Preference for a slice to be true to the chosen meridian."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:257
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:255
 msgid "Preference for a slice to bias cells west of the chosen meridian."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:283
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:281
 msgid ""
 "Note that, the mesh will be sliced along the `meridian` to ensure that cell "
 "connectivity is appropriately disconnected prior to texture mapping."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:289
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:287
 msgid "The mesh that requires texture coordinates."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:291
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:436
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:289
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:434
 msgid "**meridian** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:292
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:437
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:290
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:435
 msgid ""
 "The meridian (degrees longitude) to slice along. Defaults to "
 ":data:`geovista.common.CENTRAL_MERIDIAN`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:295
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:440
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:293
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:438
 msgid "**antimeridian** : :class:`python:bool`, default=False"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:296
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:441
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:294
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:439
 msgid "Whether to flip the given `meridian` to use its anti-meridian instead."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:301
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:299
 msgid "The original mesh with inplace texture coordinates attached."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:326
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:324
 msgid ""
 "Only meshes with cells will be combined. Support is not yet provided for "
 "combining meshes that consist of only points or lines."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:329
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:327
 msgid ""
 "Note that, no check is performed to ensure that mesh cells do not overlap. "
 "However, meshes may share coincident points. Coincident point data from the "
@@ -387,135 +387,135 @@ msgid ""
 "coincident point in the resultant mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:336
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:334
 msgid "**\\*meshes** : :term:`python:iterable` of :class:`~pyvista.PolyData`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:335
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:333
 msgid "python:iterable of PolyData"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:337
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:335
 msgid ""
 "The meshes to be combined into a single :class:`~pyvista.PolyData` mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:339
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:337
 msgid "**data** : :class:`python:bool`, default=True"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:340
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:338
 msgid ""
 "Whether to also combine and attach common data from the meshes onto the "
 "resultant mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:343
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:341
 msgid "**clean** : :class:`python:bool`, default=False"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:344
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:342
 msgid ""
 "Specify whether to merge duplicate points, remove unused points, and/or "
 "remove degenerate cells in the resultant mesh. See "
 ":meth:`pyvista.PolyDataFilters.clean`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:351
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:349
 msgid "The input meshes combined into a single :class:`~pyvista.PolyData`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:380
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:378
 msgid "The mesh to be resized to the provided ``radius``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:382
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:380
 msgid "**radius** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:383
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:381
 msgid ""
 "The target radius of the ``mesh``. Defaults to "
 ":data:`geovista.common.RADIUS`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:385
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:383
 msgid "**zlevel** : :class:`python:int`, default=0"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:384
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:382
 msgid "python:int, default=0"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:386
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:384
 msgid ""
 "The z-axis level. Used in combination with the `zscale` to offset the "
 "`radius` by a proportional amount i.e., ``radius * zlevel * zscale``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:389
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:387
 msgid "**zscale** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:390
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:388
 msgid ""
 "The proportional multiplier for z-axis `zlevel`. Defaults to "
 ":data:`geovista.common.ZLEVEL_SCALE`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:393
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:391
 msgid "**inplace** : :class:`python:bool`, default=False"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:394
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:392
 msgid "Update `mesh` in-place."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:399
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:397
 msgid "The resized mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:424
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:422
 msgid ""
 "Create a seam along the `meridian` of the geolocated `mesh`, from the north-"
 "pole to the south-pole, breaking cell connectivity thus allowing the mesh to"
 " be correctly transformed (projected) or texture mapped."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:434
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:432
 msgid "The mesh to be sliced along the `meridian`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:443
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:548
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:441
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:546
 msgid "**rtol** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:444
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:549
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:442
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:547
 msgid ""
 "The relative tolerance for longitudes close to the 'wrap meridian' - see "
 ":func:`geovista.common.wrap` for more."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:447
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:552
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:445
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:550
 msgid "**atol** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:448
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:553
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:446
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:551
 msgid ""
 "The absolute tolerance for longitudes close to the 'wrap meridian' - see "
 ":func:`geovista.common.wrap` for more."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:454
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:452
 msgid ""
 "The mesh with a seam along the meridian and remeshed cells, if bisected."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:480
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:478
 msgid ""
 "The connectivity of any line segment in the mesh traversing the Antimeridian"
 " will be broken. Each end-point of the segment will be connected to a new "
@@ -526,31 +526,31 @@ msgid ""
 "point."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:487
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:485
 msgid ""
 "This operation is typically performed prior to reprojection in order to "
 "create a seam in the line segments."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:490
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:488
 msgid ""
 "The mesh is sliced with a ``z-x`` plane formed by extruding a line on the "
 "x-axis along the z-axis."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:496
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:494
 msgid "The line mesh that requires to be sliced."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:498
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:496
 msgid "**n_points** : :class:`python:int`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:497
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:495
 msgid "python:int, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:499
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:497
 msgid ""
 "The number of intermediate points for the line that will be extruded to form"
 " a plane which will slice the `mesh` e.g., with ``n_points=1``, a mid-point "
@@ -558,37 +558,37 @@ msgid ""
 "i.e., the 2 end-points and 1 mid-point. Defaults to :data:`SPLINE_N_POINTS`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:504
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:502
 msgid "**copy** : :class:`python:bool`, default=False"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:505
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:503
 msgid ""
 "Return a deepcopy of the ``mesh`` when there are no points of intersection "
 "with the Antimeridian. Otherwise, the original ``mesh`` is returned."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:511
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:509
 msgid "The line mesh with a seam along the Antimeridian, if bisected."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:536
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:534
 msgid ""
 "A point-cloud cannot be sliced as there are no cells or lines, and will be "
 "returned unaltered. Otherwise, a new instance of the mesh will be returned "
 "regardless of whether it has been bisected or not."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:540
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:538
 msgid ""
 "Basically calls :func:`slice_cells` or :func:`slice_lines`, depending on the"
 " mesh type."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:546
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:544
 msgid "The mesh that requires to be sliced."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:559
+#: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:557
 msgid "The mesh with a seam along the Antimeridian, if bisected."
 msgstr ""

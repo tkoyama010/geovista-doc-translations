@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev22\n"
+"Project-Id-Version: GeoVista 0.6.0.dev52\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-22 00:27+0000\n"
+"POT-Creation-Date: 2024-08-08 00:26+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:2
-msgid ":py:mod:`geovista.geometry`"
+msgid "geovista.geometry"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:8
@@ -30,116 +30,116 @@ msgid "Provide Natural Earth geometry support."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:11
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:70
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:111
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:158
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:68
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:109
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:156
 msgid "Notes"
 msgstr "ノート"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:19
-msgid "Module Contents"
-msgstr "モジュール内容"
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:23
 msgid "Functions"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:32:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:27:<autosummary>:1
 msgid ""
 ":py:obj:`coastlines <geovista.geometry.coastlines>`\\ \\(\\[resolution\\, "
 "radius\\, zlevel\\, zscale\\]\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:36
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:32:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:34
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:27:<autosummary>:1
 msgid "Create or fetch the cached mesh of the coastlines."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:32:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:27:<autosummary>:1
 msgid ""
 ":py:obj:`load_coastline_geometries "
 "<geovista.geometry.load_coastline_geometries>`\\ \\(\\[resolution\\]\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:83
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:32:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:81
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:27:<autosummary>:1
 msgid ""
 "Download Natural Earth coastline shapefile for the required `resolution`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:32:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:27:<autosummary>:1
 msgid ""
 ":py:obj:`load_coastlines <geovista.geometry.load_coastlines>`\\ "
 "\\(\\[resolution\\, radius\\, zlevel\\, zscale\\]\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:124
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:32:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:122
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:27:<autosummary>:1
 msgid "Create a mesh of coastline geometries at the specified `resolution`."
 msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:29
+msgid "Module Contents"
+msgstr "モジュール内容"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:0
 msgid "Parameters"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:41
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:93
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:129
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:39
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:91
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:127
 msgid "**resolution** : :class:`python:str`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:40
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:92
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:128
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:38
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:90
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:126
 msgid "python:str, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:42
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:40
 msgid ""
 "The resolution of the Natural Earth coastlines, which may be either "
 "``110m``, ``50m``, or ``10m``. Defaults to "
 ":data:`geovista.common.COASTLINES_RESOLUTION`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:46
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:134
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:44
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:132
 msgid "**radius** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:45
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:52
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:133
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:140
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:43
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:50
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:131
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:138
 msgid "python:float, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:47
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:135
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:45
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:133
 msgid "The radius of the sphere. Defaults to :data:`geovista.common.RADIUS`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:49
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:47
 msgid "**zlevel** : :class:`python:int`, default=1"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:48
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:46
 msgid "python:int, default=1"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:50
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:138
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:48
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:136
 msgid ""
 "The z-axis level. Used in combination with the `zscale` to offset the "
 "`radius` by a proportional amount i.e., ``radius * zlevel * zscale``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:53
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:141
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:51
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:139
 msgid "**zscale** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:54
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:142
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:52
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:140
 msgid ""
 "The proportional multiplier for z-axis `zlevel`. Defaults to "
 ":data:`geovista.common.ZLEVEL_SCALE`."
@@ -149,59 +149,59 @@ msgstr ""
 msgid "Returns"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:59
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:147
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:57
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:145
 msgid ":obj:`PolyData <pyvista.PolyData>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:60
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:148
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:58
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:146
 msgid "A mesh of the coastlines."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:85
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:83
 msgid ""
 "If the geometries are not already available within the cartopy cache, then "
 "they will be downloaded."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:88
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:86
 msgid ""
 "The 2-D longitude (``φ``) and latitude (``λ``) ``xy`` coastline geometries "
 "will be unpacked as 3-D ``xy0`` coordinates i.e., ``φλ0``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:94
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:92
 msgid ""
 "The resolution of the Natural Earth coastlines, which may be either "
 "``110m``, ``50m`` or ``10m``. Defaults to "
 ":data:`geovista.common.COASTLINES_RESOLUTION`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:100
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:98
 msgid ":class:`python:list` of :obj:`np.ndarray <numpy.ndarray>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:101
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:99
 msgid "A list containing one or more coastline ``xy0`` geometries."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:130
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:128
 msgid ""
 "The resolution of the Natural Earth coastlines, which may be either "
 "``110m``, ``50m``, or ``10m``. Default to "
 ":data:`geovista.common.COASTLINES_RESOLUTION`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:137
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:135
 msgid "**zlevel** : :class:`python:int`, default=0"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:136
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:134
 msgid "python:int, default=0"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:161
+#: ../../geovista/docs/src/reference/generated/api/geovista/geometry/index.rst:159
 msgid ""
 "Calls :func:`load_coastline_geometries` to download the original coastline "
 "geometries."
