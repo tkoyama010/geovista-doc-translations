@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev54\n"
+"Project-Id-Version: GeoVista 0.6.0.dev57\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-09 00:26+0000\n"
+"POT-Creation-Date: 2024-08-10 00:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,11 +25,11 @@ msgid "Provides graticule support and other geographical lines of interest for g
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:11
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:82
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:135
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:208
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:247
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:320
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:84
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:137
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:210
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:249
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:322
 msgid "Notes"
 msgstr ""
 
@@ -286,12 +286,12 @@ msgstr ""
 msgid "Returns"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:124
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:236
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:126
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:238
 msgid ":class:`python:list` of :class:`python:str`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:125
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:127
 msgid "The sequence of string labels for each meridian line."
 msgstr ""
 
@@ -412,12 +412,12 @@ msgstr ""
 msgid "The proportional multiplier for z-axis `zlevel`. Defaults to :data:`geovista.common.ZLEVEL_SCALE`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:197
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:309
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:199
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:311
 msgid ":obj:`GraticuleGrid`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:198
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:200
 msgid "The graticule meridians and points with labels on those meridians."
 msgstr ""
 
@@ -444,7 +444,7 @@ msgstr ""
 msgid "Whether to generate a label for the north/south poles. Defaults to :data:`LATITUDE_POLES_PARALLEL`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:237
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:239
 msgid "The sequence of string labels for each line of latitude."
 msgstr ""
 
@@ -484,6 +484,6 @@ msgstr ""
 msgid "Whether to create a single north/south pole label. Only applies when ``poles_parallel=False``. Defaults to :data:`LATITUDE_POLES_LABEL`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:310
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:312
 msgid "The graticule parallels and points with labels on the parallels."
 msgstr ""

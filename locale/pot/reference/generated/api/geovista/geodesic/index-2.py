@@ -31,6 +31,4 @@ _ = p.add_mesh(region.threshold(), cmap="balance")
 p.view_yz()
 p.show()
 #
-#
-#
 # ..

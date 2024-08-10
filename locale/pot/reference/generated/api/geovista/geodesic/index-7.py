@@ -12,6 +12,4 @@ _ = p.add_mesh(bbox.mesh, color="orange", style="wireframe")
 p.view_xz()
 p.show()
 #
-#
-#
 # ..

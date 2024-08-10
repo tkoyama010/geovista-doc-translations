@@ -16,6 +16,4 @@ _ = p.add_mesh(bbox.boundary(mesh), color="orange", line_width=3)
 p.view_yz()
 p.show()
 #
-#
-#
 # ..

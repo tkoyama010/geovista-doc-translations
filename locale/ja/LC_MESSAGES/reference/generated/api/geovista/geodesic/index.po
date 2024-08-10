@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev54\n"
+"Project-Id-Version: GeoVista 0.6.0.dev57\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-09 00:26+0000\n"
+"POT-Creation-Date: 2024-08-10 00:26+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -30,16 +30,16 @@ msgid "Provide geodesic operators for geolocated meshes."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:11
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:105
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:149
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:231
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:311
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:363
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:452
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:537
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:617
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:677
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:743
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:107
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:151
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:233
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:313
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:365
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:454
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:539
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:619
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:679
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:745
 msgid "Notes"
 msgstr "ノート"
 
@@ -408,25 +408,25 @@ msgstr ""
 msgid "Returns"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:138
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:218
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:300
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:441
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:140
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:220
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:302
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:443
 msgid ":obj:`PolyData <pyvista.PolyData>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:139
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:141
 msgid "The boundary of the bounding-box."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:154
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:236
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:316
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:457
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:542
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:622
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:682
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:748
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:156
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:238
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:318
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:459
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:544
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:624
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:684
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:750
 msgid "Examples"
 msgstr ""
 
@@ -516,7 +516,7 @@ msgid ""
 "the face to be within the bounding-box. Defaults to :data:`PREFERENCE`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:219
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:221
 msgid ""
 "The :class:`pyvista.PolyData` representing those parts of the provided "
 "`surface` enclosed by the bounding-box. This behaviour may be inverted with "
@@ -547,7 +547,7 @@ msgstr ""
 msgid "The manifold bounding-box mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:301
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:303
 msgid "The bounding-box mesh."
 msgstr ""
 
@@ -642,7 +642,7 @@ msgid ""
 ":data:`geovista.common.ZLEVEL_SCALE`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:442
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:444
 msgid "The geodesic line."
 msgstr ""
 
@@ -771,13 +771,13 @@ msgid ""
 ":data:`ELLIPSE`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:525
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:605
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:527
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:607
 msgid ":class:`python:tuple`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:526
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:606
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:528
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:608
 msgid ""
 "Tuple of longitude points and latitude points along the geodesic line "
 "between the start-point and the end-point."
@@ -846,12 +846,12 @@ msgid ""
 "``False``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:666
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:732
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:668
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:734
 msgid ":obj:`BBox`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:667
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:669
 msgid "The bounding-box that encloses the required cubed-sphere panel."
 msgstr ""
 
@@ -885,7 +885,7 @@ msgid ""
 "``False``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:733
+#: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:735
 msgid "The bounding-box that encloses the required geodesic wedge."
 msgstr ""
 

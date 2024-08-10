@@ -27,6 +27,4 @@ _ = p.add_mesh(bahamas, rgb=True)
 p.view_poi()
 p.show()
 #
-#
-#
 # ..

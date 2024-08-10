@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021 - 2024, GeoVista Contributors
+# This file is distributed under the same license as the GeoVista package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GeoVista 0.6.0.dev57\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-10 00:26+0000\n"
+"PO-Revision-Date: 2024-08-10 00:28+0000\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../geovista/docs/src/reference/whatsnew/latest.rst:4
+msgid "|gv_version| |build_date|"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/whatsnew/latest.rst:6
+msgid "This is a **minor** release of ``geovista``."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/whatsnew/latest.rst:8
+msgid ""
+"See the :ref:`changelog <gv-changelog-latest>` for full release details, and"
+" the :fab:`github` `Discussion "
+"<https://github.com/bjlittle/geovista/discussions/1004>`__ for further "
+"information."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/whatsnew/latest.rst:14
+msgid "📢 Announcements"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/whatsnew/latest.rst:16
+#: ../../geovista/docs/src/reference/whatsnew/latest.rst:24
+msgid "``TBD`` prior to release."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/whatsnew/latest.rst:20
+msgid "💎 Highlights"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/whatsnew/latest.rst:22
+msgid "Notable changes in this **minor** release of ``geovista`` include:"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/whatsnew/latest.rst:29
+msgid ""
+"Your feedback is important to us. So don't hesitate to share with us on "
+":fab:`github` :issue:`GitHub<new/choose>`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/whatsnew/latest.rst:32
+msgid "We'd 💚 to hear from you."
+msgstr ""

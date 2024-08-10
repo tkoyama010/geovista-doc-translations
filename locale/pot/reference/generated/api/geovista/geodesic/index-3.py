@@ -14,6 +14,4 @@ _ = p.add_mesh(bbox.mesh, color="white")
 p.camera.zoom(1.5)
 p.show()
 #
-#
-#
 # ..

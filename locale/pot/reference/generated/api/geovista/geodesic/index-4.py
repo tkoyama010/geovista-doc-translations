@@ -10,6 +10,4 @@ _ = p.add_mesh(meridian, color="orange", line_width=3)
 p.view_yz(negative=True)
 p.show()
 #
-#
-#
 # ..

@@ -12,6 +12,4 @@ wrap([179, 180, 181], base=0, period=90)
 # Expected:
 ## array([89.,  0.,  1.])
 #
-#
-#
 # ..

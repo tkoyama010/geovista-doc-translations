@@ -10,6 +10,4 @@ _ = p.add_mesh(bbox.mesh, color="orange", style="wireframe")
 p.view_yz()
 p.show()
 #
-#
-#
 # ..

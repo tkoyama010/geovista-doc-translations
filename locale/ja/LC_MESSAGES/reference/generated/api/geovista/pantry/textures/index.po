@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev54\n"
+"Project-Id-Version: GeoVista 0.6.0.dev57\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-09 00:26+0000\n"
+"POT-Creation-Date: 2024-08-10 00:26+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -30,11 +30,11 @@ msgid "Download, cache and load image textures."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:11
-#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:61
-#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:99
-#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:137
-#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:179
-#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:222
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:63
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:101
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:139
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:181
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:224
 msgid "Notes"
 msgstr "ノート"
 
@@ -144,19 +144,19 @@ msgstr ""
 msgid "Returns"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:50
-#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:88
-#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:126
-#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:168
-#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:211
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:52
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:90
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:128
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:170
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:213
 msgid ":class:`python:str` or :obj:`Texture <pyvista.Texture>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:51
-#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:89
-#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:127
-#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:169
-#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:212
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:53
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:91
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:129
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:171
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/textures/index.rst:214
 msgid "The PyVista texture filename or the texture."
 msgstr ""
 

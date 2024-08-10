@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev54\n"
+"Project-Id-Version: GeoVista 0.6.0.dev57\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-09 00:26+0000\n"
+"POT-Creation-Date: 2024-08-10 00:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,12 +30,12 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:15
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:53
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:124
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:214
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:305
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:381
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:461
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:593
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:126
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:216
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:307
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:383
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:463
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:595
 msgid "Notes"
 msgstr ""
 
@@ -406,16 +406,16 @@ msgstr ""
 msgid "Returns"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:203
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:294
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:370
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:450
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:582
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:205
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:296
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:372
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:452
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:584
 msgid ":obj:`PolyData <pyvista.PolyData>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:204
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:295
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:206
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:297
 msgid "The quad-faced spherical mesh."
 msgstr ""
 
@@ -483,7 +483,7 @@ msgstr ""
 msgid "Specify whether to merge duplicate points. See :meth:`pyvista.PolyDataFilters.clean`. Defaults to :data:`BRIDGE_CLEAN`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:371
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:373
 msgid "The point-cloud spherical mesh."
 msgstr ""
 
@@ -552,15 +552,15 @@ msgstr ""
 msgid "Specify whether to extract cells from the mesh with no masked points."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:451
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:453
 msgid "The GeoTIFF spherical mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:464
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:466
 msgid "Optional package dependency :mod:`rasterio` is required."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:468
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:470
 msgid "Examples"
 msgstr ""
 
@@ -596,6 +596,6 @@ msgstr ""
 msgid "Data to be optionally attached to the mesh face or nodes."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:583
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:585
 msgid "The ``(M*N)``-faced spherical mesh."
 msgstr ""

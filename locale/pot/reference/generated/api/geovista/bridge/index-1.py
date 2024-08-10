@@ -21,6 +21,4 @@ _ = p.add_base_layer(texture=natural_earth_1(), zlevel=0)
 _ = p.add_coastlines(color="white")
 p.show()
 #
-#
-#
 # ..
