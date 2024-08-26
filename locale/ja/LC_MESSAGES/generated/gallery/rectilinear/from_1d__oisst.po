@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev60\n"
+"Project-Id-Version: GeoVista 0.6.0.dev63\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-19 00:27+0000\n"
+"POT-Creation-Date: 2024-08-26 20:09+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -55,8 +55,7 @@ msgstr "出来上がったメッシュには四角形セルが含まれます。
 msgid ""
 "The example uses NOAA/NECI 1/4° Daily Optimum Interpolation Sea Surface "
 "Temperature (OISST) v2.1 Advanced Very High Resolution Radiometer (AVHRR) "
-"gridded data (https://doi.org/10.25921/RE9P-PT57). The data targets the mesh"
-" faces/cells."
+"gridded data. The data targets the mesh faces/cells."
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/rectilinear/from_1d__oisst.rst:37
