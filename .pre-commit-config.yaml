@@ -14,7 +14,7 @@ repos:
       - id: mixed-line-ending
         exclude: ^(locale)
   - repo: https://github.com/python-jsonschema/check-jsonschema
-    rev: 0.29.1
+    rev: 0.29.2
     hooks:
       - id: check-github-workflows
   - repo: https://github.com/pre-commit/mirrors-prettier
@@ -23,7 +23,7 @@ repos:
       - id: prettier
         types_or: [yaml, markdown]
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.6.1
+    rev: v0.6.2
     hooks:
       - id: ruff
         args: [--fix, --show-fixes]
