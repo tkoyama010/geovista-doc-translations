@@ -1034,7 +1034,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/report/index.rst:32
 #: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:42
 msgid "Attributes"
-msgstr ""
+msgstr "属性"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:49:<autosummary>:1
 msgid ":py:obj:`BRIDGE_CLEAN <geovista.bridge.BRIDGE_CLEAN>`\\"

@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev57\n"
+"Project-Id-Version: GeoVista 0.6.0.dev66\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-10 00:26+0000\n"
+"POT-Creation-Date: 2024-08-29 00:27+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -46,7 +46,7 @@ msgstr "ノート"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:19
 msgid "Attributes"
-msgstr ""
+msgstr "属性"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/search/index.rst:29:<autosummary>:1
 msgid ":py:obj:`KDTREE_EPSILON <geovista.search.KDTREE_EPSILON>`\\"

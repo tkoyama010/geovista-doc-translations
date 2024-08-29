@@ -2283,7 +2283,7 @@ msgstr "LFRicオログラフィー"
 msgid ""
 "This example demonstrates how to render a warped unstructured cubed-sphere "
 "mesh."
-msgstr ""
+msgstr "この例では、ワープした非構造化立方体メッシュをレンダリングする方法を示します。"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog.rst:31
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__lfric_orog_eqc.rst:33
