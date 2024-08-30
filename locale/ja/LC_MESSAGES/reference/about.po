@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev59\n"
+"Project-Id-Version: GeoVista 0.6.0.dev67\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-14 00:26+0000\n"
+"POT-Creation-Date: 2024-08-30 00:27+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -47,7 +47,7 @@ msgstr ":fa:`users-line` コントリビュータ"
 msgid ""
 "Anyone can use the |icon| `all-contributors bot 🤖`_  to acknowledge the "
 "efforts of others."
-msgstr ""
+msgstr "他の人の努力を認めるために、誰でも |icon| `all-contributors bot 🤖`_ を使うことができます。"
 
 #: ../../geovista/docs/src/reference/about.rst:63
 msgid "icon"

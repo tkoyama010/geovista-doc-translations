@@ -47,7 +47,7 @@ msgstr ":fa:`users-line` コントリビュータ"
 msgid ""
 "Anyone can use the |icon| `all-contributors bot 🤖`_  to acknowledge the "
 "efforts of others."
-msgstr ""
+msgstr "他の人の努力を認めるために、誰でも |icon| `all-contributors bot 🤖`_ を使うことができます。"
 
 #: ../../geovista/docs/src/reference/about.rst:63
 msgid "icon"
