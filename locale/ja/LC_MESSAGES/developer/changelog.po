@@ -3,37 +3,19 @@
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-# Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
-# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: GeoVista 0.6.0.dev71\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-02 00:28+0000\n"
-"PO-Revision-Date: 2024-07-17 09:58+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
+"PO-Revision-Date: 2024-09-02 00:30+0000\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-#: ../../geovista/docs/src/developer/index.rst:4
-msgid ":fa:`handshake` Contributing"
-msgstr ""
-
-#: ../../geovista/docs/src/developer/index.rst:9
-msgid ""
-"We've just started to bank content for the contributor material, which will "
-"slowly grow and mature over time."
-msgstr ""
-
-#: ../../geovista/docs/src/developer/index.rst:12
-msgid "Thanks for your patience 🙏"
-msgstr "お待たせしております🙏"
 
 #: ../../geovista/docs/src/developer/changelog.md:1
 msgid "{fa}`road` Changelog"

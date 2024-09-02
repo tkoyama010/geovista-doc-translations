@@ -16,18 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../geovista/docs/src/developer/index.rst:4
-msgid ":fa:`handshake` Contributing"
-msgstr ""
-
-#: ../../geovista/docs/src/developer/index.rst:9
-msgid "We've just started to bank content for the contributor material, which will slowly grow and mature over time."
-msgstr ""
-
-#: ../../geovista/docs/src/developer/index.rst:12
-msgid "Thanks for your patience 🙏"
-msgstr ""
-
 #: ../../geovista/docs/src/developer/changelog.md:1
 msgid "{fa}`road` Changelog"
 msgstr ""
