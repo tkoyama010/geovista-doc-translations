@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev71\n"
+"Project-Id-Version: GeoVista 0.6.0.dev76\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-02 00:28+0000\n"
+"POT-Creation-Date: 2024-09-03 00:27+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -34,6 +34,26 @@ msgstr ""
 #: ../../geovista/docs/src/developer/index.rst:12
 msgid "Thanks for your patience 🙏"
 msgstr "お待たせしております🙏"
+
+#: ../../geovista/docs/src/developer/index.rst:17
+msgid "|Contributor Covenant|"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/index.rst:14
+msgid "Contributor Covenant"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/index.rst:20
+msgid ""
+"Firstly, and most importantly, thank you for contributing! All "
+"contributions, no matter how small, are greatly appreciated and welcomed."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/index.rst:23
+msgid ""
+"Here we provide some guidelines to help get you started on your journey, and"
+" clarify the various steps involved in contributing to ``geovista``."
+msgstr ""
 
 #: ../../geovista/docs/src/developer/changelog.md:1
 msgid "{fa}`road` Changelog"
