@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev76\n"
+"Project-Id-Version: GeoVista 0.6.0.dev79\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-03 00:27+0000\n"
+"POT-Creation-Date: 2024-09-05 00:27+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -109,21 +109,25 @@ msgid "`misc`: Catch all for items that don't fit elsewhere"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/changelog.md:62
-msgid "For example, ``123.feature.rst`` or ``456.bugfix.rst``."
+msgid "e.g., ``123.feature.rst`` or ``456.bugfix.rst``."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/changelog.md:64
-msgid "If you are unsure what `<TYPE>` to use, then don't hesitate to ask in your pull-request."
+msgid "For further details see the `[tool.towncrier]` section in the `pyproject.toml`. Note that the order of the `[[tool.towncrier.type]]` entries is significant, as it is mirrored in the final rendered {ref}`changelog <gv-changelog>`."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:68
+#: ../../geovista/docs/src/developer/changelog.md:69
+msgid "If you're unsure what `<TYPE>` to use, then don't hesitate to ask in your pull-request."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/changelog.md:73
 msgid "If a change is associated with **more than one** pull-request, then create a news fragment file for each pull-request with **identical content** e.g., a change associated with 3 pull-requests has the following 3 news fragment files `101.feature.rst`, `102.feature.rst` and `103.feature.rst`, all of which contain exactly the same content."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:75
-msgid "[towncrier](https://github.com/twisted/towncrier) preserves multiple paragraphs in a news fragment file, however concise single paragraph entries are encouraged."
+#: ../../geovista/docs/src/developer/changelog.md:80
+msgid "[towncrier](https://github.com/twisted/towncrier) preserves multiple paragraphs and formatting in a news fragment file, however concise single paragraph entries are encouraged."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:80
-msgid "Run `towncrier --draft` to render a preview of the news fragments."
+#: ../../geovista/docs/src/developer/changelog.md:85
+msgid "Run `towncrier --draft` to render a preview of the news fragment files in the `changelog` directory."
 msgstr ""
