@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev67\n"
+"Project-Id-Version: GeoVista 0.6.0.dev84\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-30 00:27+0000\n"
+"POT-Creation-Date: 2024-09-07 00:27+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -33,27 +33,43 @@ msgstr "``geovista`` に関するパッケージメタデータ一式。"
 msgid ":fa:`feather-pointed` Citation"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:18
+#: ../../geovista/docs/src/reference/about.rst:15
+msgid "|zenodo|"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/about.rst:12
+msgid "zenodo"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/about.rst:17
 msgid ""
 "If ``geovista`` has assisted with your academic research or work, then "
 "please remember to cite us:"
 msgstr "もし ``geovista`` があなたの学術的な研究や仕事を支援したのであれば、引用を忘れないでください:"
 
-#: ../../geovista/docs/src/reference/about.rst:26
+#: ../../geovista/docs/src/reference/about.rst:25
 msgid ":fa:`users-line` Contributors"
 msgstr ":fa:`users-line` コントリビュータ"
 
-#: ../../geovista/docs/src/reference/about.rst:31
+#: ../../geovista/docs/src/reference/about.rst:29
+msgid "|all-contributors|"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/about.rst:27
+msgid "all-contributors"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/about.rst:34
 msgid ""
 "Anyone can use the |icon| `all-contributors bot 🤖`_  to acknowledge the "
 "efforts of others."
 msgstr "他の人の努力を認めるために、誰でも |icon| `all-contributors bot 🤖`_ を使うことができます。"
 
-#: ../../geovista/docs/src/reference/about.rst:63
+#: ../../geovista/docs/src/reference/about.rst:71
 msgid "icon"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:35
+#: ../../geovista/docs/src/reference/about.rst:38
 msgid ""
 "We follow the |icon| `all-contributors`_ specification. Contributions of any"
 " kind to ``geovista`` are welcome!"
@@ -61,7 +77,7 @@ msgstr ""
 "私たちは |icon| `all-contributors`_ の仕様に従っています。どのような種類の ``geovista`` "
 "への貢献でも歓迎します！"
 
-#: ../../geovista/docs/src/reference/about.rst:38
+#: ../../geovista/docs/src/reference/about.rst:41
 msgid ""
 "It's important that we recognise and acknowledge **all** our contributors, "
 "not just the ones who push code. So no matter how large or small, we're "
@@ -70,15 +86,23 @@ msgstr ""
 "私たちは、コードをプッシュする人たちだけでなく、 **すべての** 貢献者を認識し、認めることが重要です。 "
 "そのため、貢献の大小にかかわらず、私たちはあなたの貢献に感謝し、違いを生み出すのに十分な配慮をしています。"
 
-#: ../../geovista/docs/src/reference/about.rst:42
+#: ../../geovista/docs/src/reference/about.rst:45
 msgid "A massive thank-you to all our awesome contributors (`Emoji Key ✨`_):"
 msgstr "私たちの素晴らしい貢献者たち (`Emoji Key ✨`_) に心から感謝します:"
 
-#: ../../geovista/docs/src/reference/about.rst:49
+#: ../../geovista/docs/src/reference/about.rst:52
 msgid ":fa:`file-contract` License"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:51
+#: ../../geovista/docs/src/reference/about.rst:57
+msgid "|bsd-3-clause|"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/about.rst:54
+msgid "bsd-3-clause"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/about.rst:59
 msgid ""
 "``geovista`` is an open-source package distributed under the terms of the "
 "`BSD-3-Clause`_ license."

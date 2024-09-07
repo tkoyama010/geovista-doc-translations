@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev79\n"
+"Project-Id-Version: GeoVista 0.6.0.dev84\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-05 00:27+0000\n"
+"POT-Creation-Date: 2024-09-07 00:27+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,38 +28,62 @@ msgstr ""
 msgid ":fa:`feather-pointed` Citation"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:18
+#: ../../geovista/docs/src/reference/about.rst:15
+msgid "|zenodo|"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/about.rst:12
+msgid "zenodo"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/about.rst:17
 msgid "If ``geovista`` has assisted with your academic research or work, then please remember to cite us:"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:26
+#: ../../geovista/docs/src/reference/about.rst:25
 msgid ":fa:`users-line` Contributors"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:31
+#: ../../geovista/docs/src/reference/about.rst:29
+msgid "|all-contributors|"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/about.rst:27
+msgid "all-contributors"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/about.rst:34
 msgid "Anyone can use the |icon| `all-contributors bot 🤖`_  to acknowledge the efforts of others."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:63
+#: ../../geovista/docs/src/reference/about.rst:71
 msgid "icon"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:35
+#: ../../geovista/docs/src/reference/about.rst:38
 msgid "We follow the |icon| `all-contributors`_ specification. Contributions of any kind to ``geovista`` are welcome!"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:38
+#: ../../geovista/docs/src/reference/about.rst:41
 msgid "It's important that we recognise and acknowledge **all** our contributors, not just the ones who push code. So no matter how large or small, we're grateful for your contribution and caring enough to make a difference."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:42
+#: ../../geovista/docs/src/reference/about.rst:45
 msgid "A massive thank-you to all our awesome contributors (`Emoji Key ✨`_):"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:49
+#: ../../geovista/docs/src/reference/about.rst:52
 msgid ":fa:`file-contract` License"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:51
+#: ../../geovista/docs/src/reference/about.rst:57
+msgid "|bsd-3-clause|"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/about.rst:54
+msgid "bsd-3-clause"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/about.rst:59
 msgid "``geovista`` is an open-source package distributed under the terms of the `BSD-3-Clause`_ license."
 msgstr ""
