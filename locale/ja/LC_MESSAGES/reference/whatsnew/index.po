@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev67\n"
+"Project-Id-Version: GeoVista 0.6.0.dev98\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-30 00:27+0000\n"
+"POT-Creation-Date: 2024-09-12 00:28+0000\n"
 "PO-Revision-Date: 2024-08-10 00:28+0000\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -42,8 +42,9 @@ msgid "📢 Announcements"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/whatsnew/latest.rst:16
-#: ../../geovista/docs/src/reference/whatsnew/latest.rst:24
-msgid "``TBD`` prior to release."
+msgid ""
+"Welcome and congratulations to :user:`ukmo-ccbunney` who became a core "
+"collaborator 🎉"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/whatsnew/latest.rst:20
@@ -52,6 +53,10 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/whatsnew/latest.rst:22
 msgid "Notable changes in this **minor** release of ``geovista`` include:"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/whatsnew/latest.rst:24
+msgid "``TBD`` prior to release."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/whatsnew/latest.rst:29
