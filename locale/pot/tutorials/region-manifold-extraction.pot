@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev99\n"
+"Project-Id-Version: GeoVista 0.6.0.dev100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-14 00:27+0000\n"
+"POT-Creation-Date: 2024-09-15 00:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:10002
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:10004
 msgid "Region Manifold Extraction"
 msgstr ""
 
@@ -49,178 +49,178 @@ msgstr ""
 msgid "Each cubed-sphere is defined by the number of *cells squared* within each panel. In this tutorial we'll use a **C48 cubed-sphere**, so there are ``48 * 48`` cells per panel, and ``6 * 48 * 48`` cells in a mesh overall."
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:80006
-msgid "For further information refer to [LFRic - a modelling system fit for future computers](https://www.metoffice.gov.uk/research/approach/modelling-systems/lfric)."
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:80002
+msgid "First, let's import ``geovista`` and generate some **LFRic Model**[^mn1] cubed-sphere sample data using the {py:func}`~geovista.pantry.meshes.lfric` and {py:func}`~geovista.pantry.meshes.lfric_sst` convenience functions:"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:90002
-msgid "First, let's import ``geovista`` and generate some **LFRic model** cubed-sphere sample data using the {py:func}`~geovista.pantry.meshes.lfric` and {py:func}`~geovista.pantry.meshes.lfric_sst` convenience functions:"
-msgstr ""
-
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:110002
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:100002
 msgid "As the {py:func}`~geovista.pantry.meshes.lfric` and {py:func}`~geovista.pantry.meshes.lfric_sst` functions both return a [](#pyvista.PolyData) we can simply use the [](#pyvista.DataSet.plot) method to render them:"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:130002
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:120002
 msgid "Now create the same C48 cubed-sphere resolution mesh, but this time with cells populated with *Sea Surface Temperature* (SST) data. Note that the land masses are masked, as this is an oceanographic dataset. Masked cells within the mesh will have ``nan`` values:"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:150003
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:140003
 msgid "Our goal is to extract all cubed-sphere cells within the panel covering the Americas."
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:160002
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:150002
 msgid "We can achieve this using the {py:func}`geovista.geodesic.panel` function."
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:160004
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:150004
 msgid "The {py:func}`~geovista.geodesic.panel` function is a convenience which allows you to extract cells from a mesh within **1 of the 6** named cubed-sphere panels i.e., ``africa``, ``americas``, ``antarctic``, ``arctic``, ``asia``, and ``pacific``."
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:160010
-msgid "You can use {py:class}`~geovista.geodesic.BBox` directly to create **generic** geodesic bounding-box manifolds."
-msgstr ""
-
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:160013
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:150006
 msgid "It returns a {py:class}`geovista.geodesic.BBox` instance, which defines a **geodesic bounding-box manifold** for the requested spatial region."
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:160015
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:150012
+msgid "You can use {py:class}`~geovista.geodesic.BBox` directly to create **generic** geodesic bounding-box manifolds."
+msgstr ""
+
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:150015
 msgid "So let's go ahead and create the {py:class}`~geovista.geodesic.BBox` for the ``americas`` cubed-sphere panel and use its {py:meth}`~geovista.geodesic.BBox.mesh` method to visualise the manifold:"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:180002
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:170002
 msgid "Note that, the ``americas_bbox`` is constructed from **geodesic lines** i.e., great circles, and is a 3-D manifold i.e., a water-tight geometric structure. As such, we can then use it to extract points/cells from **any** underlying mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:180004
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:170004
 msgid "Before doing that, first let’s render the ``americas_bbox`` and the ``c48_sst`` mesh together so that we can see their relationship to one another and convince ourselves that the ``americas_bbox`` instance is indeed covering the correct panel of the cubed-sphere:"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:190006
-msgid "``p`` is a {py:class}`~geovista.geoplotter.GeoPlotter` instance. It inherits all the behaviour of a {py:class}`pyvista.Plotter`, but also additional cartographic conveniences from our {py:class}`~geovista.geoplotter.GeoPlotterBase`."
-msgstr ""
-
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:210002
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:190002
 msgid "Seems to be right on the money! 👍"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:210004
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:190008
+msgid "``p`` is a {py:class}`~geovista.geoplotter.GeoPlotter` instance. It inherits all the behaviour of a {py:class}`pyvista.Plotter`, but also additional cartographic conveniences from our {py:class}`~geovista.geoplotter.GeoPlotterBase`."
+msgstr ""
+
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:190011
 msgid "However, let's apply some ``opacity`` to the ``c48_sst`` mesh so that we can see through the surface and view the ``americas_bbox`` from a different angle."
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:210006
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:190013
 msgid "We'll also use the {py:meth}`~geovista.geoplotter.GeoPlotterBase.view_poi` method to perform some cartographic camera controls on the rendered scene. Namey, move the camera to **30°E** longitude."
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:230002
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:210002
 msgid "Rather than viewing the entire bounding-box, sometimes it's more helpful to see only the boundary where the manifold intersects the surface of the mesh that it's enclosing."
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:230004
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:210004
 msgid "We can achieve this by using the {py:meth}`geovista.geodesic.BBox.boundary` method:"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:250002
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:230002
 msgid "Okay, so let's finally use the ``americas_bbox`` to extract cells from the ``c48_sst`` mesh by using the {py:meth}`geovista.geodesic.BBox.enclosed` method:"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:270002
-msgid "[^mn1]The extracted ``region`` returned by {py:meth}`~geovista.geodesic.BBox.enclosed` is a {py:class}`pyvista.PolyData`. Under the hood {py:meth}`~geovista.geodesic.BBox.enclosed` uses the {py:meth}`pyvista.DataSetFilters.select_enclosed_points` method to achieve this."
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:250002
+msgid "The extracted ``region`` returned by {py:meth}`~geovista.geodesic.BBox.enclosed`[^mn2] is a {py:class}`pyvista.PolyData`. Under the hood {py:meth}`~geovista.geodesic.BBox.enclosed` uses the {py:meth}`pyvista.DataSetFilters.select_enclosed_points` method to achieve this."
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:270006
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:250006
 msgid "Anyways, let's go ahead and see the extracted region, which should represent all the cells from the ``c48_sst`` mesh within the ``americas`` bounding-box:"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:290006
-msgid "When you extract data from a mesh use the {py:meth}`~pyvista.Plotter.add_mesh` ``clim`` *kwarg* to ensure the **same** colorbar range."
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:270002
+msgid "Now bring this all together by rendering the *extracted region*[^mn3] along with a [Natural Earth](https://www.naturalearthdata.com/) texture mapped base layer and coastlines:"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:290009
-msgid "Now bring this all together by rendering the extracted region along with a [Natural Earth](https://www.naturalearthdata.com/) texture mapped base layer and coastlines:"
-msgstr ""
-
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:310006
-msgid "Discover the *data arrays* available on a mesh with {py:attr}`~pyvista.DataSet.array_names`, and the *active scalars* with {py:attr}`~pyvista.DataSet.active_scalars_name`."
-msgstr ""
-
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:310009
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:290002
 msgid "As we're not particularly interested in the masked land masses, we can easily remove them using the {py:meth}`pyvista.DataSetFilters.threshold` method available on the ``region`` {py:class}`~pyvista.PolyData` instance."
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:310011
-msgid "By default, the {py:meth}`~pyvista.DataSetFilters.threshold` method will remove cells with ``nan`` values from the active scalars array on the mesh, which is just what we need:"
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:290004
+msgid "By default, the {py:meth}`~pyvista.DataSetFilters.threshold` method will remove cells with ``nan`` values from the *active scalars array*[^mn4] on the mesh, which is just what we need:"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:330002
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:310002
 msgid "Now let's respin the render, but with the ``sea_region`` mesh and add some S.I. units to the scalar bar:"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:350002
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:330002
 msgid "{fa}`user-astronaut` Extension"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:360002
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:340002
 msgid "``geovista`` offers basic support for **Cylindrical** and **Pseudo-Cylindrical** cartographic projections. We're working on maturing this capability, and later extending to other classes of projections, such as **Azimuthal** and **Conic**."
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:360004
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:340004
 msgid "To exercise this, let's transform our ``sea_region`` mesh to a [Robinson](https://proj.org/en/9.4/operations/projections/robin.html) projection using a [PROJ](https://proj.org/en/9.4/) string to define the Coordinate Reference System (CRS):"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:380006
-msgid "If no ``crs`` is provided to {py:class}`~geovista.geoplotter.GeoPlotter`, it will assume geographic longitude and latitudes (``WGS84``), and render the mesh on a sphere."
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:360002
+msgid "We pass the ``crs`` as a *kwarg* to the {py:class}`~geovista.geoplotter.GeoPlotter`[^mn5] and render the projected scene:"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:380009
-msgid "We pass the ``crs`` as a *kwarg* to the {py:class}`~geovista.geoplotter.GeoPlotter` and render the projected scene:"
-msgstr ""
-
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:400002
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:380002
 msgid "Note that, the base layer and coastlines are also automatically transformed to the target projection."
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:400004
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:380004
 msgid "``geovista`` also has an understanding of [cartopy](https://github.com/SciTools/cartopy) CRS's. So let's use ``cartopy`` to create a [Mollweide](https://proj.org/en/9.4/operations/projections/moll.html) CRS:"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:420002
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:400002
 msgid "Before we use this CRS, let's **invert** the ``sea_region`` i.e., find all cells **not** enclosed by the ``americas_bbox`` manifold. We can easily do this using the ``outside`` *kwarg* of {py:meth}`~geovista.geodesic.BBox.enclosed`:"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:440002
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:420002
 msgid "Now let's see the final projected result:"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:460002
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:440002
 msgid "{fab}`elementor` Summary"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:470002
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:450002
 msgid "Key learning points of this tutorial:"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:470004
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:450004
 msgid "using the {py:mod}`geovista.pantry` to generate meshes"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:470005
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:450005
 msgid "creating a geodesic bounding-box manifold with {py:func}`~geovista.geodesic.panel`"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:470006
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:450006
 msgid "introduction to the {py:class}`~geovista.geodesic.BBox` class and using its {py:meth}`~geovista.geodesic.BBox.boundary`, {py:meth}`~geovista.geodesic.BBox.enclosed`, and {py:meth}`~geovista.geodesic.BBox.mesh` methods"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:470007
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:450007
 msgid "cartographic positioning of the camera with {py:meth}`~geovista.geoplotter.GeoPlotterBase.view_poi`"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:470008
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:450008
 msgid "performing a cell {py:meth}`~pyvista.DataSetFilters.threshold` of a mesh"
 msgstr ""
 
-#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:270004
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:80004
+msgid "{-} {fa}`share` **LFRic Model** - For further information refer to [LFRic - a modelling system fit for future computers](https://www.metoffice.gov.uk/research/approach/modelling-systems/lfric)."
+msgstr ""
+
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:250004
 msgid "{-} {fa}`flask` You may want to experiment with the ``preference`` *kwarg* of the {py:meth}`~geovista.geodesic.BBox.enclosed` method to see the impact on the end result."
+msgstr ""
+
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:270004
+msgid "{-} {fa}`circle-info` When you extract data from a mesh use the {py:meth}`~pyvista.Plotter.add_mesh` ``clim`` *kwarg* to ensure the **same** colorbar range. Compare this render of the ``region`` mesh with the previous render without ``clim``. Notice the difference?"
+msgstr ""
+
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:290006
+msgid "{-} {fa}`circle-info` Discover the *data arrays* available on a mesh with {py:attr}`~pyvista.DataSet.array_names`, and the *active scalars* with {py:attr}`~pyvista.DataSet.active_scalars_name`."
+msgstr ""
+
+#: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:360004
+msgid "{-} {fa}`circle-info` If no ``crs`` is provided to {py:class}`~geovista.geoplotter.GeoPlotter`, it will assume geographic longitude and latitudes (``WGS84``), and render the mesh on a sphere."
 msgstr ""
