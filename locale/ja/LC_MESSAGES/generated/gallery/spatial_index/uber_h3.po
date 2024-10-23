@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev157\n"
+"Project-Id-Version: GeoVista 0.6.0.dev162\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-19 00:29+0000\n"
+"POT-Creation-Date: 2024-10-23 00:29+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -246,7 +246,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:482
 msgid ""
-"We also use the :func:`h3.get_res0_indexes` function to bootstrap the Uber "
+"We also use the :func:`h3.get_res0_cells` function to bootstrap the Uber "
 "``H3`` hierarchy by generating the ``H3Index`` strings for all the cells "
 "participating in the base (coarsest) resolution ."
 msgstr ""
