@@ -23,23 +23,23 @@ msgstr ""
 
 #: ../../geovista/docs/src/tutorials/index.rst:4
 msgid ":fa:`water` Tutorials"
-msgstr ":fa:`water` チュートリアル"
+msgstr ""
 
 #: ../../geovista/docs/src/tutorials/index.rst:9
 msgid ""
 "We've just started to bank content for the tutorial material, which will "
 "slowly grow and mature over time."
-msgstr "チュートリアル教材のコンテンツは、時間をかけてゆっくりと成長し、成熟していくでしょう。"
+msgstr ""
 
 #: ../../geovista/docs/src/tutorials/index.rst:12
 msgid "Thanks for your patience 🙏"
-msgstr "お待たせしております🙏"
+msgstr ""
 
 #: ../../geovista/docs/src/tutorials/index.rst:15
 msgid "A collection of themed practical lessons to work though."
-msgstr "テーマに沿った実践的なレッスン集。"
+msgstr ""
 
 #: ../../geovista/docs/src/tutorials/index.rst:25
 #: ../../geovista/docs/src/tutorials/index.rst:29
 msgid "Region Manifold Extraction"
-msgstr "領域の多面的な抽出"
+msgstr ""
