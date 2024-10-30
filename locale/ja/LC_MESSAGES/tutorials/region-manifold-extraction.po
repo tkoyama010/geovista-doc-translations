@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:10004
 msgid "Region Manifold Extraction"
-msgstr "領域の多面的な抽出"
+msgstr ""
 
 #: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:30002
 msgid ""
