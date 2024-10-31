@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev157\n"
+"Project-Id-Version: GeoVista 0.6.0.dev172\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-19 00:29+0000\n"
+"POT-Creation-Date: 2024-10-31 00:30+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -37,7 +37,7 @@ msgstr ""
 #: ../../geovista/docs/src/generated/gallery/unstructured/icon.rst:24
 msgid ""
 "This example demonstrates how to render an unstructured triangular mesh."
-msgstr ""
+msgstr "この例では、非構造化三角形メッシュをレンダリングする方法を示します。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/icon.rst:27
 msgid "📋 Summary"
