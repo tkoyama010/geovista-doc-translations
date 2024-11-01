@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev157\n"
+"Project-Id-Version: GeoVista 0.6.0.dev174\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-19 00:29+0000\n"
+"POT-Creation-Date: 2024-11-01 00:33+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -57,7 +57,7 @@ msgstr ""
 msgid ""
 "WAVEWATCH III (WW3) sea surface wave significant height data is located on "
 "mesh nodes/points, which are then interpolated across the mesh faces/cells."
-msgstr ""
+msgstr "WAVEWATCH III (WW3) の海面波の有義波高データは、メッシュの節点/点に配置され、メッシュ面/セルに渡って補間されます。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/tri_hammer.rst:37
 msgid ""
