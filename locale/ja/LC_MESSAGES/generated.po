@@ -2061,7 +2061,7 @@ msgstr "連結性は、構造化されていない点にインデックスを付
 msgid ""
 "WAVEWATCH III (WW3) sea surface wave significant height data is located on "
 "mesh nodes/points, which are then interpolated across the mesh faces/cells."
-msgstr ""
+msgstr "WAVEWATCH III (WW3) の海面波の有義波高データは、メッシュの節点/点に配置され、メッシュ面/セルに渡って補間されます。"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/tri.rst:37
 msgid ""
