@@ -43,7 +43,7 @@ msgstr "テーマに沿った実践的なレッスン集。"
 #: ../../geovista/docs/src/tutorials/index.rst:28
 #: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:10002
 msgid "Region Manifold Extraction"
-msgstr "領域の多面的な抽出"
+msgstr ""
 
 #: ../../geovista/docs/src/tutorials/region-manifold-extraction.ipynb:30002
 msgid "{fa}`comment-dots` Introduction"
