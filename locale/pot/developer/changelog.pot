@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev187\n"
+"Project-Id-Version: GeoVista 0.6.0.dev190\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-18 00:32+0000\n"
+"POT-Creation-Date: 2024-11-18 21:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -101,7 +101,7 @@ msgid "`internal`: Miscellaneous internal and maintenance changes"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/changelog.md:59
-msgid "`community`: Celebrate our awesome community members and contributions"
+msgid "`community`: Celebrate our awesome community members and their contributions, including social changes"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/changelog.md:60
