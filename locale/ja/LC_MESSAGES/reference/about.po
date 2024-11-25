@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev180\n"
+"Project-Id-Version: GeoVista 0.6.0.dev203\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-09 00:28+0000\n"
+"POT-Creation-Date: 2024-11-25 00:32+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -92,7 +92,7 @@ msgstr "私たちの素晴らしい貢献者たち (`Emoji Key ✨`_) に心か�
 
 #: ../../geovista/docs/src/reference/about.rst:52
 msgid ":fa:`file-contract` License"
-msgstr ""
+msgstr ":fa:`file-contract` ライセンス"
 
 #: ../../geovista/docs/src/reference/about.rst:57
 msgid "|bsd-3-clause|"

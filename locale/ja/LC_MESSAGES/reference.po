@@ -76,7 +76,7 @@ msgstr "私たちの素晴らしい貢献者たち (`Emoji Key ✨`_) に心か�
 
 #: ../../geovista/docs/src/reference/about.rst:49
 msgid ":fa:`file-contract` License"
-msgstr ""
+msgstr ":fa:`file-contract` ライセンス"
 
 #: ../../geovista/docs/src/reference/about.rst:51
 msgid ""
@@ -86,28 +86,28 @@ msgstr "``geovista`` はオープンソースのパッケージで、 `BSD-3-Cla
 
 #: ../../geovista/docs/src/reference/bindings.rst:6
 msgid ":fa:`keyboard` Key Bindings"
-msgstr ""
+msgstr ":fa:`keyboard` キーバインド"
 
 #: ../../geovista/docs/src/reference/bindings.rst:11
 msgid "For further details also see the `pyvista keyboard bindings`_."
-msgstr ""
+msgstr "詳細は `pyvista keyboard bindings`_ も参照してください。"
 
 #: ../../geovista/docs/src/reference/bindings.rst:13
 msgid "Primary keyboard and mouse bindings that control the rendered scene."
-msgstr ""
+msgstr "レンダリングシーンをコントロールする主要なキーボードとマウスのバインディング。"
 
 #: ../../geovista/docs/src/reference/bindings.rst:0
 msgid ":fab:`linux` / :fab:`windows`"
-msgstr ""
+msgstr ":fab:`linux` / :fab:`windows`"
 
 #: ../../geovista/docs/src/reference/bindings.rst:19
 msgid "Bindings (Linux/Windows)"
-msgstr ""
+msgstr "バインディング（Linux/Windows）"
 
 #: ../../geovista/docs/src/reference/bindings.rst:23
 #: ../../geovista/docs/src/reference/bindings.rst:59
 msgid ":fa:`keyboard` + :fa:`computer-mouse`"
-msgstr ""
+msgstr ":fa:`keyboard` + :fa:`computer-mouse`"
 
 #: ../../geovista/docs/src/reference/bindings.rst:23
 #: ../../geovista/docs/src/reference/bindings.rst:59
@@ -122,17 +122,17 @@ msgstr "例"
 #: ../../geovista/docs/src/reference/bindings.rst:25
 #: ../../geovista/docs/src/reference/bindings.rst:61
 msgid ":guilabel:`f` (`Qt`_)"
-msgstr ""
+msgstr ":guilabel:`f` (`Qt`_)"
 
 #: ../../geovista/docs/src/reference/bindings.rst:25
 #: ../../geovista/docs/src/reference/bindings.rst:61
 msgid "Focus and zoom to a point."
-msgstr ""
+msgstr "ピントを合わせ、ズームする。"
 
 #: ../../geovista/docs/src/reference/bindings.rst:25
 #: ../../geovista/docs/src/reference/bindings.rst:61
 msgid "|fvcom-f|"
-msgstr ""
+msgstr "|fvcom-f|"
 
 #: ../../geovista/docs/src/reference/bindings.rst:112
 msgid "Camera Follow"
@@ -141,7 +141,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/bindings.rst:27
 #: ../../geovista/docs/src/reference/bindings.rst:63
 msgid ":guilabel:`q`"
-msgstr ""
+msgstr ":guilabel:`q`"
 
 #: ../../geovista/docs/src/reference/bindings.rst:27
 #: ../../geovista/docs/src/reference/bindings.rst:63
@@ -151,7 +151,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/bindings.rst:29
 #: ../../geovista/docs/src/reference/bindings.rst:65
 msgid ":guilabel:`r`"
-msgstr ""
+msgstr ":guilabel:`r`"
 
 #: ../../geovista/docs/src/reference/bindings.rst:29
 #: ../../geovista/docs/src/reference/bindings.rst:65
@@ -161,7 +161,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/bindings.rst:31
 #: ../../geovista/docs/src/reference/bindings.rst:67
 msgid ":guilabel:`s`"
-msgstr ""
+msgstr ":guilabel:`s`"
 
 #: ../../geovista/docs/src/reference/bindings.rst:31
 #: ../../geovista/docs/src/reference/bindings.rst:67
@@ -171,16 +171,16 @@ msgstr ""
 #: ../../geovista/docs/src/reference/bindings.rst:31
 #: ../../geovista/docs/src/reference/bindings.rst:67
 msgid "|fvcom-s|"
-msgstr ""
+msgstr "|fvcom-s|"
 
 #: ../../geovista/docs/src/reference/bindings.rst:97
 msgid "FVCOM surface"
-msgstr ""
+msgstr "FVCOM表面"
 
 #: ../../geovista/docs/src/reference/bindings.rst:33
 #: ../../geovista/docs/src/reference/bindings.rst:69
 msgid ":guilabel:`v` (`Qt`_)"
-msgstr ""
+msgstr ":guilabel:`v` (`Qt`_)"
 
 #: ../../geovista/docs/src/reference/bindings.rst:33
 #: ../../geovista/docs/src/reference/bindings.rst:69
@@ -190,17 +190,17 @@ msgstr ""
 #: ../../geovista/docs/src/reference/bindings.rst:35
 #: ../../geovista/docs/src/reference/bindings.rst:71
 msgid ":guilabel:`v` (`Trame`_)"
-msgstr ""
+msgstr ":guilabel:`v` (`Trame`_)"
 
 #: ../../geovista/docs/src/reference/bindings.rst:35
 #: ../../geovista/docs/src/reference/bindings.rst:71
 msgid "Render scene using ``points`` style."
-msgstr ""
+msgstr "シーンを ``points`` スタイルでレンダリングします。"
 
 #: ../../geovista/docs/src/reference/bindings.rst:35
 #: ../../geovista/docs/src/reference/bindings.rst:71
 msgid "|fvcom-p|"
-msgstr ""
+msgstr "|fvcom-p|"
 
 #: ../../geovista/docs/src/reference/bindings.rst:107
 msgid "FVCOM points"
@@ -214,34 +214,34 @@ msgstr ""
 #: ../../geovista/docs/src/reference/bindings.rst:37
 #: ../../geovista/docs/src/reference/bindings.rst:73
 msgid "Render scene using ``wireframe`` style."
-msgstr ""
+msgstr "シーンを ``wireframe`` スタイルでレンダリングします。"
 
 #: ../../geovista/docs/src/reference/bindings.rst:37
 #: ../../geovista/docs/src/reference/bindings.rst:73
 msgid "|fvcom-w|"
-msgstr ""
+msgstr "|fvcom-w|"
 
 #: ../../geovista/docs/src/reference/bindings.rst:102
 msgid "FVCOM wireframe"
-msgstr ""
+msgstr "FVCOMのワイヤーフレーム"
 
 #: ../../geovista/docs/src/reference/bindings.rst:39
 msgid ":guilabel:`L-Click`"
-msgstr ""
+msgstr ":guilabel:`L-Click`"
 
 #: ../../geovista/docs/src/reference/bindings.rst:39
 #: ../../geovista/docs/src/reference/bindings.rst:75
 msgid "Rotate the rendered scene in 3-D."
-msgstr ""
+msgstr "レンダリングしたシーンを3Dで回転させます。"
 
 #: ../../geovista/docs/src/reference/bindings.rst:39
 #: ../../geovista/docs/src/reference/bindings.rst:75
 msgid "|fvcom-3d|"
-msgstr ""
+msgstr "|fvcom-3d|"
 
 #: ../../geovista/docs/src/reference/bindings.rst:119
 msgid "Rotate 3-D"
-msgstr ""
+msgstr "3D回転"
 
 #: ../../geovista/docs/src/reference/bindings.rst:41
 msgid ":guilabel:`Ctrl + L-Click`"

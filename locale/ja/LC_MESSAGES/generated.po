@@ -681,7 +681,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/rectilinear/from_1d__oisst.rst:22
 msgid "OISST AVHRR Grid"
-msgstr ""
+msgstr "OISST AVHRR グリッド"
 
 #: ../../geovista/docs/src/generated/gallery/rectilinear/from_1d__oisst.rst:24
 msgid "This example demonstrates how to render a rectilinear grid."
