@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GeoVista 0.6.0.dev206\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-28 00:31+0000\n"
+"POT-Creation-Date: 2024-12-01 00:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -51,7 +51,7 @@ msgstr ""
 msgid ":py:obj:`PlateCarree <geovista.crs.PlateCarree>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:291
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:293
 #: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:27:<autosummary>:1
 msgid "WGS84 / Plate Carree (Equidistant Cylindrical)."
 msgstr ""
@@ -60,7 +60,7 @@ msgstr ""
 msgid ":py:obj:`WGS84 <geovista.crs.WGS84>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:314
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:318
 #: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:27:<autosummary>:1
 msgid "Geographic WGS84."
 msgstr ""
