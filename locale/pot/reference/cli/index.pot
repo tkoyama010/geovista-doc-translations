@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev245\n"
+"Project-Id-Version: GeoVista 0.6.0.dev252\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-21 00:29+0000\n"
+"POT-Creation-Date: 2025-01-22 00:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgid ":fa:`code` CLI"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/cli/index.rst:6
-msgid "Once ``geovista`` has been :ref:`installed <gv-installation>`, a :ref:`console script <gv-cli-geovista>` [#]_ will be available with several convenience commands to assist with the management of ``geovista`` and its resources."
+msgid "Once ``geovista`` has been :ref:`installed <gv-installation>`, a :ref:`console script <gv-reference-cli-geovista>` [#]_ will be available with several convenience commands to assist with the management of ``geovista`` and its resources."
 msgstr ""
 
 #: ../geovista:1
@@ -49,7 +49,7 @@ msgid "Commands"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/cli/index.rst:23
-msgid "The following :ref:`geovista console script <gv-cli-geovista>` commands are available:"
+msgid "The following :ref:`geovista console script <gv-reference-cli-geovista>` commands are available:"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/cli/index.rst:37
