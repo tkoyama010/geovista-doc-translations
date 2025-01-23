@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev252\n"
+"Project-Id-Version: GeoVista 0.6.0.dev254\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-22 00:29+0000\n"
+"POT-Creation-Date: 2025-01-23 00:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,15 +20,15 @@ msgstr ""
 msgid "GeoVista 101"
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:105
+#: ../../geovista/docs/src/index.rst:106
 msgid "Contents"
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:116
+#: ../../geovista/docs/src/index.rst:117
 msgid "Gallery"
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:124
+#: ../../geovista/docs/src/index.rst:125
 msgid "Developer"
 msgstr ""
 
