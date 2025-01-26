@@ -18,6 +18,10 @@ submodules:
 conda:
   environment: geovista/requirements/locks/rtd.yml
 
+sphinx:
+  configuration: geovista/docs/src/conf.py
+  fail_on_warning: false
+
 python:
   install:
     - method: pip
