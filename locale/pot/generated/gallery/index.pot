@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev259\n"
+"Project-Id-Version: GeoVista 0.6.0.dev266\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-27 00:30+0000\n"
+"POT-Creation-Date: 2025-01-27 21:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,7 +49,7 @@ msgid ":ref:`sphx_glr_generated_gallery_curvilinear_from_2d__orca_moll.py`"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:104
-msgid "Region Manifold Extraction"
+msgid "Region Extraction"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:123
