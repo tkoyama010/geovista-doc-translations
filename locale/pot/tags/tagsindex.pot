@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev257\n"
+"Project-Id-Version: GeoVista 0.6.0.dev259\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-25 00:28+0000\n"
+"POT-Creation-Date: 2025-01-27 00:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "component: coastlines (21)"
+msgid "component: coastlines (22)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
@@ -25,7 +25,11 @@ msgid "component: graticule (6)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "component: texture (18)"
+msgid "component: manifold (1)"
+msgstr ""
+
+#: ../../geovista/docs/src/tags/tagsindex.rst:8
+msgid "component: texture (19)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
@@ -41,7 +45,7 @@ msgid "domain: oceanography (13)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "domain: orography (3)"
+msgid "domain: orography (4)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
@@ -77,7 +81,7 @@ msgid "load: rectilinear (2)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "load: unstructured (16)"
+msgid "load: unstructured (17)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8

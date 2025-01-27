@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev236\n"
+"Project-Id-Version: GeoVista 0.6.0.dev259\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-11 00:30+0000\n"
+"POT-Creation-Date: 2025-01-27 00:30+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -63,142 +63,150 @@ msgid ":ref:`sphx_glr_generated_gallery_curvilinear_from_2d__orca_moll.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_curvilinear_from_2d__orca_moll.py`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:104
+msgid "Region Manifold Extraction"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/index.rst:123
+msgid ":ref:`sphx_glr_generated_gallery_extraction_wedge_manifold.py`"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/index.rst:138
 msgid "Point Cloud"
 msgstr "点群"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:123
+#: ../../geovista/docs/src/generated/gallery/index.rst:157
 msgid ""
 ":ref:`sphx_glr_generated_gallery_point_cloud_from_points__orca_cloud.py`"
 msgstr ""
 ":ref:`sphx_glr_generated_gallery_point_cloud_from_points__orca_cloud.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:140
+#: ../../geovista/docs/src/generated/gallery/index.rst:174
 msgid ""
 ":ref:`sphx_glr_generated_gallery_point_cloud_from_points__orca_cloud_eqc.py`"
 msgstr ""
 ":ref:`sphx_glr_generated_gallery_point_cloud_from_points__orca_cloud_eqc.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:155
+#: ../../geovista/docs/src/generated/gallery/index.rst:189
 msgid "Rectilinear Grid"
 msgstr "直線グリッド"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:174
+#: ../../geovista/docs/src/generated/gallery/index.rst:208
 msgid ":ref:`sphx_glr_generated_gallery_rectilinear_from_1d__oisst.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_rectilinear_from_1d__oisst.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:191
+#: ../../geovista/docs/src/generated/gallery/index.rst:225
 msgid ":ref:`sphx_glr_generated_gallery_rectilinear_from_1d__oisst_eqc.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_rectilinear_from_1d__oisst_eqc.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:206
+#: ../../geovista/docs/src/generated/gallery/index.rst:240
 msgid "Scalar Data"
 msgstr "スカラーデータ"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:225
+#: ../../geovista/docs/src/generated/gallery/index.rst:259
 msgid ":ref:`sphx_glr_generated_gallery_scalar_data_earthquakes.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_scalar_data_earthquakes.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:242
+#: ../../geovista/docs/src/generated/gallery/index.rst:276
 msgid ":ref:`sphx_glr_generated_gallery_scalar_data_earthquakes_wink1.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_scalar_data_earthquakes_wink1.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:259
+#: ../../geovista/docs/src/generated/gallery/index.rst:293
 msgid ":ref:`sphx_glr_generated_gallery_scalar_data_from_tiff__dem.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_scalar_data_from_tiff__dem.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:276
+#: ../../geovista/docs/src/generated/gallery/index.rst:310
 msgid ":ref:`sphx_glr_generated_gallery_scalar_data_from_tiff__rgb.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_scalar_data_from_tiff__rgb.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:291
+#: ../../geovista/docs/src/generated/gallery/index.rst:325
 msgid "Spatial Index"
 msgstr "空間インデックス"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:310
+#: ../../geovista/docs/src/generated/gallery/index.rst:344
 msgid ":ref:`sphx_glr_generated_gallery_spatial_index_uber_h3.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_spatial_index_uber_h3.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:325
+#: ../../geovista/docs/src/generated/gallery/index.rst:359
 msgid "Unstructured Mesh"
 msgstr "非構造化メッシュ"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:344
+#: ../../geovista/docs/src/generated/gallery/index.rst:378
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_dynamico.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_dynamico.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:361
+#: ../../geovista/docs/src/generated/gallery/index.rst:395
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_dynamico_poly.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_dynamico_poly.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:378
+#: ../../geovista/docs/src/generated/gallery/index.rst:412
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_icon.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_icon.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:395
+#: ../../geovista/docs/src/generated/gallery/index.rst:429
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_icon_eqc.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_icon_eqc.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:412
+#: ../../geovista/docs/src/generated/gallery/index.rst:446
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_lam_pacific.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_lam_pacific.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:429
+#: ../../geovista/docs/src/generated/gallery/index.rst:463
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_lam_pacific_moll.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_lam_pacific_moll.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:446
+#: ../../geovista/docs/src/generated/gallery/index.rst:480
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_lfric_sst.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_lfric_sst.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:463
+#: ../../geovista/docs/src/generated/gallery/index.rst:497
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_lfric_sst_bonne.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_lfric_sst_bonne.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:480
+#: ../../geovista/docs/src/generated/gallery/index.rst:514
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_smc.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_smc.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:497
+#: ../../geovista/docs/src/generated/gallery/index.rst:531
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_smc_sinu.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_smc_sinu.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:514
+#: ../../geovista/docs/src/generated/gallery/index.rst:548
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_tri.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_tri.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:531
+#: ../../geovista/docs/src/generated/gallery/index.rst:565
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_tri_hammer.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_tri_hammer.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:546
+#: ../../geovista/docs/src/generated/gallery/index.rst:580
 msgid "Vector Data"
 msgstr "ベクトルデータ"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:565
+#: ../../geovista/docs/src/generated/gallery/index.rst:599
 msgid ":ref:`sphx_glr_generated_gallery_vector_data_vectors.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_vector_data_vectors.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:580
+#: ../../geovista/docs/src/generated/gallery/index.rst:614
 msgid "Warp Mesh"
 msgstr "メッシュワープ"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:599
+#: ../../geovista/docs/src/generated/gallery/index.rst:633
 msgid ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__fvcom.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__fvcom.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:616
+#: ../../geovista/docs/src/generated/gallery/index.rst:650
 msgid ""
 ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__lfric_orog.py`"
 msgstr ""
 ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__lfric_orog.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:633
+#: ../../geovista/docs/src/generated/gallery/index.rst:667
 msgid ""
 ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__lfric_orog_eqc.py`"
 msgstr ""
 ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__lfric_orog_eqc.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:668
+#: ../../geovista/docs/src/generated/gallery/index.rst:703
 msgid ""
 "`Gallery generated by Sphinx-Gallery <https://sphinx-gallery.github.io>`_"
 msgstr "`Sphinx-Galleryによって生成されたギャラリー <https://sphinx-gallery.github.io>`_"
