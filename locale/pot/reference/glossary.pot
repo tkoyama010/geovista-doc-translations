@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev266\n"
+"Project-Id-Version: GeoVista 0.6.0.dev269\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-27 21:38+0000\n"
+"POT-Creation-Date: 2025-01-29 00:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -105,73 +105,81 @@ msgid "A spatially referenced dataset that may be a surface or volume in 3-D spa
 msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:51
-msgid "Node"
+msgid "MyST"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:53
-msgid "Nodes are the vertices of a mesh. Also see :term:`Point`."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/glossary.rst:54
-msgid "Perceptually Uniform Colormap"
+msgid "*Markedly Structured Text* is a rich and extensible flavour of ``Markdown`` for authoring technical and scientific documents. See `myst-nb`_ and `myst-parser`_ from the `Executable Books`_ organisation."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:56
-msgid "A colormap in which equal steps in data are perceived as equal steps in the color space."
+msgid "Node"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:58
+msgid "Nodes are the vertices of a mesh. Also see :term:`Point`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:59
+msgid "Perceptually Uniform Colormap"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:61
+msgid "A colormap in which equal steps in data are perceived as equal steps in the color space."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:63
 msgid "Point"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:60
+#: ../../geovista/docs/src/reference/glossary.rst:65
 msgid "Points are the vertices of the mesh, also referred to as the Cartesian coordinates of the underlying structure. See `What is a Point?`_"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:62
+#: ../../geovista/docs/src/reference/glossary.rst:67
 msgid "Rectilinear Grid"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:64
+#: ../../geovista/docs/src/reference/glossary.rst:69
 msgid "For example, a quadrilateral-cell surface that can be created from an array of 1-D ``x`` and ``y`` spatial points."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:66
+#: ../../geovista/docs/src/reference/glossary.rst:71
 msgid "Sea Mask"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:68
+#: ../../geovista/docs/src/reference/glossary.rst:73
 msgid "Typically a boolean array used to indicate the cells in a mesh that represent water e.g., river, lake, sea, ocean."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:70
+#: ../../geovista/docs/src/reference/glossary.rst:75
 msgid "Texture Map"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:72
+#: ../../geovista/docs/src/reference/glossary.rst:77
 msgid "A graphical technique where a raster image is wrapped over the surface of a geometric object."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:74
+#: ../../geovista/docs/src/reference/glossary.rst:79
 msgid "Threshold"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:76
+#: ../../geovista/docs/src/reference/glossary.rst:81
 msgid "To remove the cells from a mesh based on criteria of data associated with the mesh cells or points. See `PyVista threshold`_."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:78
+#: ../../geovista/docs/src/reference/glossary.rst:83
 msgid "Unstructured Mesh"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:80
+#: ../../geovista/docs/src/reference/glossary.rst:85
 msgid "A surface that is created from a geometry of points and a topology of indices that define how cells are constructed from those points. See :term:`Connectivity`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:83
+#: ../../geovista/docs/src/reference/glossary.rst:88
 msgid "Warp"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:85
+#: ../../geovista/docs/src/reference/glossary.rst:90
 msgid "Extrude the points in a mesh by a proportional amount along the surface normals. See `PyVista warp_by_scalar`_."
 msgstr ""
