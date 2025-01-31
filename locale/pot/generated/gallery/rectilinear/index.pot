@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev270\n"
+"Project-Id-Version: GeoVista 0.6.0.dev273\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-30 00:29+0000\n"
+"POT-Creation-Date: 2025-01-31 00:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,14 +16,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../geovista/docs/src/generated/gallery/rectilinear/index.rst:6
+#: ../../geovista/docs/src/generated/gallery/rectilinear/index.rst:8
 msgid "Rectilinear Grid"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/rectilinear/index.rst:25
+#: ../../geovista/docs/src/generated/gallery/rectilinear/index.rst:27
 msgid ":ref:`sphx_glr_generated_gallery_rectilinear_from_1d__oisst.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/rectilinear/index.rst:42
+#: ../../geovista/docs/src/generated/gallery/rectilinear/index.rst:44
 msgid ":ref:`sphx_glr_generated_gallery_rectilinear_from_1d__oisst_eqc.py`"
 msgstr ""
