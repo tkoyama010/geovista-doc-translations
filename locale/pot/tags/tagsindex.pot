@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev273\n"
+"Project-Id-Version: GeoVista 0.6.0.dev279\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-31 00:29+0000\n"
+"POT-Creation-Date: 2025-02-01 00:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "component: coastlines (22)"
+msgid "component: coastlines (23)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
@@ -29,7 +29,7 @@ msgid "component: manifold (1)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "component: texture (19)"
+msgid "component: texture (20)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
@@ -45,7 +45,7 @@ msgid "domain: oceanography (13)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "domain: orography (4)"
+msgid "domain: orography (5)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
@@ -53,11 +53,23 @@ msgid "domain: seismology (2)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
+msgid "filter: cast (2)"
+msgstr ""
+
+#: ../../geovista/docs/src/tags/tagsindex.rst:8
+msgid "filter: contour (1)"
+msgstr ""
+
+#: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "filter: extrude (1)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "filter: threshold (8)"
+msgid "filter: threshold (9)"
+msgstr ""
+
+#: ../../geovista/docs/src/tags/tagsindex.rst:8
+msgid "filter: triangulate (1)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
@@ -97,7 +109,11 @@ msgid "render: camera (1)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "style: colormap (2)"
+msgid "sample: unstructured (1)"
+msgstr ""
+
+#: ../../geovista/docs/src/tags/tagsindex.rst:8
+msgid "style: colormap (3)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8

@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev273\n"
+"Project-Id-Version: GeoVista 0.6.0.dev279\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-31 00:29+0000\n"
+"POT-Creation-Date: 2025-02-01 00:32+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -71,7 +71,7 @@ msgstr ""
 
 #: ../geovista download:1
 msgid ""
-"Download target directory (default: /home/runner/.cache/geovista/2025.01.4)"
+"Download target directory (default: /home/runner/.cache/geovista/2025.01.5)"
 msgstr ""
 
 #: ../geovista download:1

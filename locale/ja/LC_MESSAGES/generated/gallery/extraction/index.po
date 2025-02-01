@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev273\n"
+"Project-Id-Version: GeoVista 0.6.0.dev279\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-31 00:29+0000\n"
+"POT-Creation-Date: 2025-02-01 00:32+0000\n"
 "PO-Revision-Date: 2025-01-27 00:31+0000\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -18,9 +18,14 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../geovista/docs/src/generated/gallery/extraction/index.rst:8
-msgid "Region Extraction"
+msgid "Extraction"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/extraction/index.rst:27
+#: ../../geovista/docs/src/generated/gallery/extraction/index.rst:10
+msgid ""
+"Highlights various region :term:`manifold` extraction techniques available."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/extraction/index.rst:29
 msgid ":ref:`sphx_glr_generated_gallery_extraction_wedge_manifold.py`"
 msgstr ""
