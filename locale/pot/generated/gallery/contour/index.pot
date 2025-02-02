@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev279\n"
+"Project-Id-Version: GeoVista 0.6.0.dev280\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-01 00:32+0000\n"
+"POT-Creation-Date: 2025-02-02 00:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,6 +20,10 @@ msgstr ""
 msgid "Contour"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/contour/index.rst:27
+#: ../../geovista/docs/src/generated/gallery/contour/index.rst:13
+msgid "There is an open `pyvista <https://github.com/pyvista/pyvista>`__ :fab:`github` **issue** regarding :meth:`~pyvista.PolyDataFilters.contour_banded` rendering using the `trame <https://github.com/Kitware/trame>`__ framework within a browser interactive scene. See :far:`circle-dot` `#7145 <https://github.com/pyvista/pyvista/issues/7145>`__."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/contour/index.rst:35
 msgid ":ref:`sphx_glr_generated_gallery_contour_banded_contour.py`"
 msgstr ""
