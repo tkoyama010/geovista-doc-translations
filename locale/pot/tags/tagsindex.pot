@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev297\n"
+"Project-Id-Version: GeoVista 0.6.0.dev299\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-15 00:29+0000\n"
+"POT-Creation-Date: 2025-02-16 00:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -93,7 +93,7 @@ msgid "load: rectilinear (2)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "load: unstructured (17)"
+msgid "load: unstructured (14)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
@@ -109,7 +109,7 @@ msgid "render: camera (1)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "sample: unstructured (1)"
+msgid "sample: unstructured (4)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
