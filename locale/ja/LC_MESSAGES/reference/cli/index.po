@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev314\n"
+"Project-Id-Version: GeoVista 0.6.0.dev322\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-04 00:30+0000\n"
+"POT-Creation-Date: 2025-03-13 00:31+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -17,16 +17,16 @@ msgstr ""
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../geovista/docs/src/reference/cli/index.rst:4
+#: ../../geovista/docs/src/reference/cli/index.rst:5
 msgid ":fa:`code` CLI"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/cli/index.rst:6
+#: ../../geovista/docs/src/reference/cli/index.rst:7
 msgid ""
-"Once ``geovista`` has been :ref:`installed <gv-installation>`, a "
-":ref:`console script <gv-reference-cli-geovista>` [#]_ will be available "
-"with several convenience commands to assist with the management of "
-"``geovista`` and its resources."
+"Once ``geovista`` has been :ref:`installed <tippy-gv-installation>`, a "
+":ref:`console script <tippy-gv-reference-cli-geovista>` [#]_ will be "
+"available with several convenience commands to assist with the management of"
+" ``geovista`` and its resources."
 msgstr ""
 
 #: ../geovista:1
@@ -49,16 +49,16 @@ msgstr ""
 msgid "Show geovista package version."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/cli/index.rst:21
+#: ../../geovista/docs/src/reference/cli/index.rst:23
 msgid "Commands"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/cli/index.rst:23
+#: ../../geovista/docs/src/reference/cli/index.rst:25
 msgid ""
-"The following :ref:`geovista console script <gv-reference-cli-geovista>` "
-"commands are available:"
+"The following :ref:`geovista console script <tippy-gv-reference-cli-"
+"geovista>` commands are available:"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/cli/index.rst:37
+#: ../../geovista/docs/src/reference/cli/index.rst:39
 msgid "See `entry-points`_ for further information."
 msgstr ""

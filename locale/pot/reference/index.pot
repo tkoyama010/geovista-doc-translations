@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev321\n"
+"Project-Id-Version: GeoVista 0.6.0.dev322\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-11 00:31+0000\n"
+"POT-Creation-Date: 2025-03-13 00:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,82 +16,82 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../geovista/docs/src/reference/index.rst:4
+#: ../../geovista/docs/src/reference/index.rst:5
 msgid ":fa:`mountain` Reference"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:6
+#: ../../geovista/docs/src/reference/index.rst:7
 msgid "Consult our reference material for no fuss facts about ``geovista``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:11
+#: ../../geovista/docs/src/reference/index.rst:12
 msgid "About"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:20
+#: ../../geovista/docs/src/reference/index.rst:21
 msgid "Package metadata."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:22
+#: ../../geovista/docs/src/reference/index.rst:23
 msgid "API Reference"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:31
+#: ../../geovista/docs/src/reference/index.rst:32
 msgid "Behaviour & state docstrings."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:33
+#: ../../geovista/docs/src/reference/index.rst:34
 msgid "Changelog"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:42
+#: ../../geovista/docs/src/reference/index.rst:43
 msgid "In-depth release notes."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:44
+#: ../../geovista/docs/src/reference/index.rst:45
 msgid "CLI"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:53
+#: ../../geovista/docs/src/reference/index.rst:54
 msgid "Command line interface."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:55
+#: ../../geovista/docs/src/reference/index.rst:56
 msgid "Environment Variables"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:64
+#: ../../geovista/docs/src/reference/index.rst:65
 msgid "Package controls."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:66
+#: ../../geovista/docs/src/reference/index.rst:67
 msgid "Glossary"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:75
+#: ../../geovista/docs/src/reference/index.rst:76
 msgid "Jargon buster."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:77
+#: ../../geovista/docs/src/reference/index.rst:78
 msgid "Key Bindings"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:86
+#: ../../geovista/docs/src/reference/index.rst:87
 msgid "GUI hot-keys."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:88
+#: ../../geovista/docs/src/reference/index.rst:89
 msgid "Tags"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:97
+#: ../../geovista/docs/src/reference/index.rst:98
 msgid "Themed content tags."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:99
+#: ../../geovista/docs/src/reference/index.rst:100
 msgid "What's New"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/index.rst:108
+#: ../../geovista/docs/src/reference/index.rst:109
 msgid "Release highlights."
 msgstr ""

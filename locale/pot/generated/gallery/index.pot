@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev321\n"
+"Project-Id-Version: GeoVista 0.6.0.dev322\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-11 00:31+0000\n"
+"POT-Creation-Date: 2025-03-13 00:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,190 +16,190 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:7
+#: ../../geovista/docs/src/generated/gallery/index.rst:8
 msgid ":fa:`images` Examples"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:12
+#: ../../geovista/docs/src/generated/gallery/index.rst:13
 msgid "The **Interactive Scene** `vtk.js <https://kitware.github.io/vtk-js/index.html>`_ backend does **not** support rendering text or points as spheres."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:17
+#: ../../geovista/docs/src/generated/gallery/index.rst:18
 msgid "This interactive gallery highlights the growing capabilities and features of ``geovista``."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:20
+#: ../../geovista/docs/src/generated/gallery/index.rst:21
 msgid "It is generated from the ``geovista.examples``, which can also be run from the command line with:"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:32
+#: ../../geovista/docs/src/generated/gallery/index.rst:33
 msgid "Want to know more?"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:54
+#: ../../geovista/docs/src/generated/gallery/index.rst:55
 msgid "Contour"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:59
+#: ../../geovista/docs/src/generated/gallery/index.rst:60
 msgid "There is an open `pyvista <https://github.com/pyvista/pyvista>`__ :fab:`github` **issue** regarding :meth:`~pyvista.PolyDataFilters.contour_banded` rendering using the `trame <https://github.com/Kitware/trame>`__ framework within a browser interactive scene. See :far:`circle-dot` `#7145 <https://github.com/pyvista/pyvista/issues/7145>`__."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:81
+#: ../../geovista/docs/src/generated/gallery/index.rst:82
 msgid ":ref:`sphx_glr_generated_gallery_contour_banded_contour.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:97
+#: ../../geovista/docs/src/generated/gallery/index.rst:98
 msgid "Curvilinear Grid"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:116
+#: ../../geovista/docs/src/generated/gallery/index.rst:117
 msgid ":ref:`sphx_glr_generated_gallery_curvilinear_from_2d__orca.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:133
+#: ../../geovista/docs/src/generated/gallery/index.rst:134
 msgid ":ref:`sphx_glr_generated_gallery_curvilinear_from_2d__orca_moll.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:149
+#: ../../geovista/docs/src/generated/gallery/index.rst:150
 msgid "Extraction"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:151
+#: ../../geovista/docs/src/generated/gallery/index.rst:152
 msgid "Highlights various region :term:`manifold` extraction techniques available."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:170
+#: ../../geovista/docs/src/generated/gallery/index.rst:171
 msgid ":ref:`sphx_glr_generated_gallery_extraction_wedge_manifold.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:186
+#: ../../geovista/docs/src/generated/gallery/index.rst:187
 msgid "Point Cloud"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:205
+#: ../../geovista/docs/src/generated/gallery/index.rst:206
 msgid ":ref:`sphx_glr_generated_gallery_point_cloud_from_points__orca_cloud.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:222
+#: ../../geovista/docs/src/generated/gallery/index.rst:223
 msgid ":ref:`sphx_glr_generated_gallery_point_cloud_from_points__orca_cloud_eqc.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:238
+#: ../../geovista/docs/src/generated/gallery/index.rst:239
 msgid "Rectilinear Grid"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:257
+#: ../../geovista/docs/src/generated/gallery/index.rst:258
 msgid ":ref:`sphx_glr_generated_gallery_rectilinear_from_1d__oisst.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:274
+#: ../../geovista/docs/src/generated/gallery/index.rst:275
 msgid ":ref:`sphx_glr_generated_gallery_rectilinear_from_1d__oisst_eqc.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:290
+#: ../../geovista/docs/src/generated/gallery/index.rst:291
 msgid "Scalar Data"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:309
+#: ../../geovista/docs/src/generated/gallery/index.rst:310
 msgid ":ref:`sphx_glr_generated_gallery_scalar_data_earthquakes.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:326
+#: ../../geovista/docs/src/generated/gallery/index.rst:327
 msgid ":ref:`sphx_glr_generated_gallery_scalar_data_earthquakes_wink1.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:343
+#: ../../geovista/docs/src/generated/gallery/index.rst:344
 msgid ":ref:`sphx_glr_generated_gallery_scalar_data_from_tiff__dem.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:360
+#: ../../geovista/docs/src/generated/gallery/index.rst:361
 msgid ":ref:`sphx_glr_generated_gallery_scalar_data_from_tiff__rgb.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:376
+#: ../../geovista/docs/src/generated/gallery/index.rst:377
 msgid "Spatial Index"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:395
+#: ../../geovista/docs/src/generated/gallery/index.rst:396
 msgid ":ref:`sphx_glr_generated_gallery_spatial_index_uber_h3.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:411
+#: ../../geovista/docs/src/generated/gallery/index.rst:412
 msgid "Unstructured Mesh"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:430
+#: ../../geovista/docs/src/generated/gallery/index.rst:431
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_dynamico.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:447
+#: ../../geovista/docs/src/generated/gallery/index.rst:448
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_dynamico_poly.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:464
+#: ../../geovista/docs/src/generated/gallery/index.rst:465
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_icon.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:481
+#: ../../geovista/docs/src/generated/gallery/index.rst:482
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_icon_eqc.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:498
+#: ../../geovista/docs/src/generated/gallery/index.rst:499
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_lam_pacific.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:515
+#: ../../geovista/docs/src/generated/gallery/index.rst:516
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_lam_pacific_moll.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:532
+#: ../../geovista/docs/src/generated/gallery/index.rst:533
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_lfric_sst.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:549
+#: ../../geovista/docs/src/generated/gallery/index.rst:550
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_lfric_sst_bonne.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:566
+#: ../../geovista/docs/src/generated/gallery/index.rst:567
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_smc.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:583
+#: ../../geovista/docs/src/generated/gallery/index.rst:584
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_smc_sinu.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:600
+#: ../../geovista/docs/src/generated/gallery/index.rst:601
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_tri.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:617
+#: ../../geovista/docs/src/generated/gallery/index.rst:618
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_tri_hammer.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:633
+#: ../../geovista/docs/src/generated/gallery/index.rst:634
 msgid "Vector Data"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:652
+#: ../../geovista/docs/src/generated/gallery/index.rst:653
 msgid ":ref:`sphx_glr_generated_gallery_vector_data_vectors.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:668
+#: ../../geovista/docs/src/generated/gallery/index.rst:669
 msgid "Warp Mesh"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:687
+#: ../../geovista/docs/src/generated/gallery/index.rst:688
 msgid ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__fvcom.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:704
+#: ../../geovista/docs/src/generated/gallery/index.rst:705
 msgid ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__lfric_orog.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:721
+#: ../../geovista/docs/src/generated/gallery/index.rst:722
 msgid ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__lfric_orog_eqc.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:758
+#: ../../geovista/docs/src/generated/gallery/index.rst:759
 msgid "`Gallery generated by Sphinx-Gallery <https://sphinx-gallery.github.io>`_"
 msgstr ""

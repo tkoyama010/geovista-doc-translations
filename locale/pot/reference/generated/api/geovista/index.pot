@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev321\n"
+"Project-Id-Version: GeoVista 0.6.0.dev322\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-11 00:31+0000\n"
+"POT-Creation-Date: 2025-03-13 00:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,42 +16,42 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:4
+#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:5
 msgid ":fa:`file-lines` API Reference"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:7
+#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:8
 msgid "GeoVista"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:14
+#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:15
 msgid "Cartographic rendering and mesh analytics powered by PyVista."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:16
+#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:17
 msgid "Provides:"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:17
+#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:18
 msgid "An agnostic bridge to transform rectilinear, curvilinear and unstructured geospatial data to native geolocated PyVista mesh instances."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:19
+#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:20
 msgid "Compliments PyVista with cartographic features for processing, projecting and rendering geolocated meshes."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:21
+#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:22
 msgid "Support for interactive 3D visualization of geolocated meshes."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:22
+#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:23
 msgid "Coordinate Reference System (CRS) support, with an awareness of Cartopy CRSs through the commonality of the Python interface to PROJ (PyPROJ) package."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:38
+#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:39
 msgid "Notes"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:48
+#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:49
 msgid "Submodules"
 msgstr ""

@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev321\n"
+"Project-Id-Version: GeoVista 0.6.0.dev322\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-11 00:31+0000\n"
+"POT-Creation-Date: 2025-03-13 00:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,14 +16,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../geovista/docs/src/explanation/index.rst:4
+#: ../../geovista/docs/src/explanation/index.rst:5
 msgid "🚧 :fa:`wind` Explanation"
 msgstr ""
 
-#: ../../geovista/docs/src/explanation/index.rst:9
+#: ../../geovista/docs/src/explanation/index.rst:10
 msgid "Content marked with 🚧 indicates it's still under construction."
 msgstr ""
 
-#: ../../geovista/docs/src/explanation/index.rst:12
+#: ../../geovista/docs/src/explanation/index.rst:13
 msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt mi vitae erat condimentum porttitor. Sed a."
 msgstr ""

@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev321\n"
+"Project-Id-Version: GeoVista 0.6.0.dev322\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-11 00:31+0000\n"
+"POT-Creation-Date: 2025-03-13 00:31+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -21,22 +21,22 @@ msgstr ""
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../geovista/docs/src/generated/gallery/scalar_data/index.rst:8
+#: ../../geovista/docs/src/generated/gallery/scalar_data/index.rst:9
 msgid "Scalar Data"
 msgstr "スカラーデータ"
 
-#: ../../geovista/docs/src/generated/gallery/scalar_data/index.rst:27
+#: ../../geovista/docs/src/generated/gallery/scalar_data/index.rst:28
 msgid ":ref:`sphx_glr_generated_gallery_scalar_data_earthquakes.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_scalar_data_earthquakes.py`"
 
-#: ../../geovista/docs/src/generated/gallery/scalar_data/index.rst:44
+#: ../../geovista/docs/src/generated/gallery/scalar_data/index.rst:45
 msgid ":ref:`sphx_glr_generated_gallery_scalar_data_earthquakes_wink1.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_scalar_data_earthquakes_wink1.py`"
 
-#: ../../geovista/docs/src/generated/gallery/scalar_data/index.rst:61
+#: ../../geovista/docs/src/generated/gallery/scalar_data/index.rst:62
 msgid ":ref:`sphx_glr_generated_gallery_scalar_data_from_tiff__dem.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_scalar_data_from_tiff__dem.py`"
 
-#: ../../geovista/docs/src/generated/gallery/scalar_data/index.rst:78
+#: ../../geovista/docs/src/generated/gallery/scalar_data/index.rst:79
 msgid ":ref:`sphx_glr_generated_gallery_scalar_data_from_tiff__rgb.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_scalar_data_from_tiff__rgb.py`"

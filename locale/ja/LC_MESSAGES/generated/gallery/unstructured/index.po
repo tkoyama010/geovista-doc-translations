@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev321\n"
+"Project-Id-Version: GeoVista 0.6.0.dev322\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-11 00:31+0000\n"
+"POT-Creation-Date: 2025-03-13 00:31+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -21,54 +21,54 @@ msgstr ""
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:8
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:9
 msgid "Unstructured Mesh"
 msgstr "非構造メッシュ"
 
-#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:27
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:28
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_dynamico.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_dynamico.py`"
 
-#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:44
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:45
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_dynamico_poly.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_dynamico_poly.py`"
 
-#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:61
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:62
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_icon.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_icon.py`"
 
-#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:78
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:79
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_icon_eqc.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_icon_eqc.py`"
 
-#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:95
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:96
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_lam_pacific.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_lam_pacific.py`"
 
-#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:112
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:113
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_lam_pacific_moll.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_lam_pacific_moll.py`"
 
-#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:129
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:130
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_lfric_sst.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_lfric_sst.py`"
 
-#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:146
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:147
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_lfric_sst_bonne.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_lfric_sst_bonne.py`"
 
-#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:163
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:164
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_smc.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_smc.py`"
 
-#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:180
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:181
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_smc_sinu.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_smc_sinu.py`"
 
-#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:197
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:198
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_tri.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_tri.py`"
 
-#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:214
+#: ../../geovista/docs/src/generated/gallery/unstructured/index.rst:215
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_tri_hammer.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_tri_hammer.py`"

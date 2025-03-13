@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev321\n"
+"Project-Id-Version: GeoVista 0.6.0.dev322\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-11 00:31+0000\n"
+"POT-Creation-Date: 2025-03-13 00:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,12 +16,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../geovista/docs/src/reference/cli/index.rst:4
+#: ../../geovista/docs/src/reference/cli/index.rst:5
 msgid ":fa:`code` CLI"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/cli/index.rst:6
-msgid "Once ``geovista`` has been :ref:`installed <gv-installation>`, a :ref:`console script <gv-reference-cli-geovista>` [#]_ will be available with several convenience commands to assist with the management of ``geovista`` and its resources."
+#: ../../geovista/docs/src/reference/cli/index.rst:7
+msgid "Once ``geovista`` has been :ref:`installed <tippy-gv-installation>`, a :ref:`console script <tippy-gv-reference-cli-geovista>` [#]_ will be available with several convenience commands to assist with the management of ``geovista`` and its resources."
 msgstr ""
 
 #: ../geovista:1
@@ -44,14 +44,14 @@ msgstr ""
 msgid "Show geovista package version."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/cli/index.rst:21
+#: ../../geovista/docs/src/reference/cli/index.rst:23
 msgid "Commands"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/cli/index.rst:23
-msgid "The following :ref:`geovista console script <gv-reference-cli-geovista>` commands are available:"
+#: ../../geovista/docs/src/reference/cli/index.rst:25
+msgid "The following :ref:`geovista console script <tippy-gv-reference-cli-geovista>` commands are available:"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/cli/index.rst:37
+#: ../../geovista/docs/src/reference/cli/index.rst:39
 msgid "See `entry-points`_ for further information."
 msgstr ""

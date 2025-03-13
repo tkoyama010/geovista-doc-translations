@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev321\n"
+"Project-Id-Version: GeoVista 0.6.0.dev322\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-11 00:31+0000\n"
+"POT-Creation-Date: 2025-03-13 00:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,46 +16,46 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../geovista/docs/src/developer/index.rst:4
+#: ../../geovista/docs/src/developer/index.rst:5
 msgid ":fa:`handshake` Contributing"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/index.rst:9
+#: ../../geovista/docs/src/developer/index.rst:10
 msgid "We've just started to bank content for the contributor material, which will slowly grow and mature over time."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/index.rst:12
+#: ../../geovista/docs/src/developer/index.rst:13
 msgid "Thanks for your patience 🙏"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/index.rst:17
+#: ../../geovista/docs/src/developer/index.rst:18
 msgid "|Contributor Covenant|"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/index.rst:14
+#: ../../geovista/docs/src/developer/index.rst:15
 msgid "Contributor Covenant"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/index.rst:19
+#: ../../geovista/docs/src/developer/index.rst:20
 msgid "Firstly, and most importantly, thanks for contributing! All contributions, no matter how large or small are greatly appreciated and welcomed."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/index.rst:22
+#: ../../geovista/docs/src/developer/index.rst:23
 msgid "Here we provide some guidelines to help get you started on your journey, and clarify the various steps involved in how to contribute to ``geovista``."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/index.rst:28
+#: ../../geovista/docs/src/developer/index.rst:29
 msgid "Changelog"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/index.rst:37
+#: ../../geovista/docs/src/developer/index.rst:38
 msgid "Towncrier guidelines."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/index.rst:39
+#: ../../geovista/docs/src/developer/index.rst:40
 msgid "Documentation"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/index.rst:48
+#: ../../geovista/docs/src/developer/index.rst:49
 msgid "Author & build guidelines."
 msgstr ""
