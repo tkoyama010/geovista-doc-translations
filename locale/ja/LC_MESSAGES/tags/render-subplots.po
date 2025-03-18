@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2025
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: GeoVista 0.6.0.dev327\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-17 18:17+0000\n"
-"PO-Revision-Date: 2025-01-27 00:31+0000\n"
+"PO-Revision-Date: 2025-03-17 18:18+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,18 +21,10 @@ msgstr ""
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../geovista/docs/src/generated/gallery/extraction/index.rst:9
-msgid "Extraction"
-msgstr ""
+#: ../../geovista/docs/src/tags/render-subplots.rst:6
+msgid "Tagged content:"
+msgstr "タグ付けされたコンテンツ:"
 
-#: ../../geovista/docs/src/generated/gallery/extraction/index.rst:11
-msgid "Highlights various region :term:`manifold` extraction techniques."
-msgstr ""
-
-#: ../../geovista/docs/src/generated/gallery/extraction/index.rst:30
-msgid ":ref:`sphx_glr_generated_gallery_extraction_panel_manifold.py`"
-msgstr ""
-
-#: ../../geovista/docs/src/generated/gallery/extraction/index.rst:47
-msgid ":ref:`sphx_glr_generated_gallery_extraction_wedge_manifold.py`"
+#: ../../geovista/docs/src/tags/render-subplots.rst:4
+msgid ":fa:`tags` Tag: render: subplots"
 msgstr ""

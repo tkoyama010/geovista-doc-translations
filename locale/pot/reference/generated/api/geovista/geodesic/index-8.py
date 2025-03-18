@@ -1,13 +1,15 @@
-# Add a ``C8`` sixty-degree wide ``wireframe`` bounding-box wedge to the plotter. A
-# texture mapped NASA Blue Marble base layer is also rendered.
+# Add a ``wireframe`` bounding-box to the plotter for the ``americas`` panel of a
+# cubed-sphere. The geodesic bounding-box is generated from the 4 corners of the
+# cubed-sphere panel located over Americas.  A texture mapped Natural Earth base
+# layer is also rendered.
 #
 import geovista
-from geovista.geodesic import wedge
+from geovista.geodesic import panel
 p = geovista.GeoPlotter()
-_ = p.add_base_layer(texture=geovista.blue_marble(), opacity=0.5)
-bbox = wedge(-30, 30, c=8)
+_ = p.add_base_layer(texture=geovista.natural_earth_hypsometric(), opacity=0.5)
+bbox = panel("americas", c=8)
 _ = p.add_mesh(bbox.mesh, color="orange", style="wireframe")
-p.view_yz()
+p.view_xz()
 p.show()
 #
 # ..

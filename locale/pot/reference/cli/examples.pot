@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev325\n"
+"Project-Id-Version: GeoVista 0.6.0.dev329\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 00:33+0000\n"
+"POT-Creation-Date: 2025-03-18 00:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,7 +41,7 @@ msgid "options"
 msgstr ""
 
 #: ../geovista examples:1
-msgid "all | clouds | clouds_robin | contour.banded_contour | curvilinear.from_2d__orca | curvilinear.from_2d__orca_moll | extraction.wedge_manifold | point_cloud.from_points__orca_cloud | point_cloud.from_points__orca_cloud_eqc | rectilinear.from_1d__oisst | rectilinear.from_1d__oisst_eqc | rectilinear.from_1d__synthetic_face_m1_n1 | rectilinear.from_1d__synthetic_face_m1_n1_robin | rectilinear.from_1d__synthetic_node_m1_n1 | rectilinear.from_1d__synthetic_node_m1_n1_moll | rectilinear.from_2d__synthetic_face_m1n1 | rectilinear.from_2d__synthetic_face_m1n1_robin | rectilinear.from_2d__synthetic_node_m1n1 | rectilinear.from_2d__synthetic_node_m1n1_moll | scalar_data.earthquakes | scalar_data.earthquakes_wink1 | scalar_data.from_tiff__dem | scalar_data.from_tiff__rgb | spatial_index.uber_h3 | unstructured.dynamico | unstructured.dynamico_poly | unstructured.fesom | unstructured.fesom_fouc | unstructured.icon | unstructured.icon_eqc | unstructured.lam_pacific | unstructured.lam_pacific_moll | unstructured.lfric_sst | unstructured.lfric_sst_bonne | unstructured.smc | unstructured.smc_sinu | unstructured.tri | unstructured.tri_hammer | vector_data.vectors | warp.from_unstructured__fvcom | warp.from_unstructured__lfric_orog | warp.from_unstructured__lfric_orog_eqc"
+msgid "all | clouds | clouds_robin | contour.banded_contour | curvilinear.from_2d__orca | curvilinear.from_2d__orca_moll | extraction.panel_manifold | extraction.wedge_manifold | point_cloud.from_points__orca_cloud | point_cloud.from_points__orca_cloud_eqc | rectilinear.from_1d__oisst | rectilinear.from_1d__oisst_eqc | rectilinear.from_1d__synthetic_face_m1_n1 | rectilinear.from_1d__synthetic_face_m1_n1_robin | rectilinear.from_1d__synthetic_node_m1_n1 | rectilinear.from_1d__synthetic_node_m1_n1_moll | rectilinear.from_2d__synthetic_face_m1n1 | rectilinear.from_2d__synthetic_face_m1n1_robin | rectilinear.from_2d__synthetic_node_m1n1 | rectilinear.from_2d__synthetic_node_m1n1_moll | scalar_data.earthquakes | scalar_data.earthquakes_wink1 | scalar_data.from_tiff__dem | scalar_data.from_tiff__rgb | spatial_index.uber_h3 | unstructured.dynamico | unstructured.dynamico_poly | unstructured.fesom | unstructured.fesom_fouc | unstructured.icon | unstructured.icon_eqc | unstructured.lam_pacific | unstructured.lam_pacific_moll | unstructured.lfric_sst | unstructured.lfric_sst_bonne | unstructured.smc | unstructured.smc_sinu | unstructured.tri | unstructured.tri_hammer | vector_data.vectors | warp.from_unstructured__fvcom | warp.from_unstructured__lfric_orog | warp.from_unstructured__lfric_orog_eqc"
 msgstr ""
 
 #: ../geovista examples:1

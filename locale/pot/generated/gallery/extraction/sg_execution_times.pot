@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev325\n"
+"Project-Id-Version: GeoVista 0.6.0.dev329\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 00:33+0000\n"
+"POT-Creation-Date: 2025-03-18 00:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgid "Computation times"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/extraction/sg_execution_times.rst:9
-msgid "**00:00.000** total execution time for 1 file **from generated/gallery/extraction**:"
+msgid "**00:00.000** total execution time for 2 files **from generated/gallery/extraction**:"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/extraction/sg_execution_times.rst:32
@@ -37,13 +37,19 @@ msgid "Mem (MB)"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/extraction/sg_execution_times.rst:35
-msgid ":ref:`sphx_glr_generated_gallery_extraction_wedge_manifold.py` (``wedge_manifold.py``)"
+msgid ":ref:`sphx_glr_generated_gallery_extraction_panel_manifold.py` (``panel_manifold.py``)"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/extraction/sg_execution_times.rst:36
+#: ../../geovista/docs/src/generated/gallery/extraction/sg_execution_times.rst:39
 msgid "00:00.000"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/extraction/sg_execution_times.rst:37
+#: ../../geovista/docs/src/generated/gallery/extraction/sg_execution_times.rst:40
 msgid "0.0"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/extraction/sg_execution_times.rst:38
+msgid ":ref:`sphx_glr_generated_gallery_extraction_wedge_manifold.py` (``wedge_manifold.py``)"
 msgstr ""

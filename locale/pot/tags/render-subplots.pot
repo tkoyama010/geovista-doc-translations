@@ -16,10 +16,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../geovista/docs/src/tags/widget-logo.rst:6
+#: ../../geovista/docs/src/tags/render-subplots.rst:6
 msgid "Tagged content:"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/widget-logo.rst:4
-msgid ":fa:`tags` Tag: widget: logo"
+#: ../../geovista/docs/src/tags/render-subplots.rst:4
+msgid ":fa:`tags` Tag: render: subplots"
 msgstr ""

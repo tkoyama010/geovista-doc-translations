@@ -1,15 +1,11 @@
-# Add a ``wireframe`` bounding-box to the plotter for the ``americas`` panel of a
-# cubed-sphere. The geodesic bounding-box is generated from the 4 corners of the
-# cubed-sphere panel located over Americas.  A texture mapped Natural Earth base
-# layer is also rendered.
-#
-import geovista
-from geovista.geodesic import panel
-p = geovista.GeoPlotter()
-_ = p.add_base_layer(texture=geovista.natural_earth_hypsometric(), opacity=0.5)
-bbox = panel("americas", c=8)
-_ = p.add_mesh(bbox.mesh, color="orange", style="wireframe")
-p.view_xz()
-p.show()
+from geovista.geodesic import npoints_by_idx
+import numpy as np
+points = npoints_by_idx(
+    lons=[-10, 0, 10], lats=[20, 25, 30], start_idx=0, end_idx=1, npts=5
+)
+np.array(points, dtype=np.float16)
+# Expected:
+## array([[-8.38 , -6.746, -5.09 , -3.414, -1.718],
+##        [20.88 , 21.73 , 22.58 , 23.4  , 24.22 ]], dtype=float16)
 #
 # ..
