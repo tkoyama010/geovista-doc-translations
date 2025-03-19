@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev322\n"
+"Project-Id-Version: GeoVista 0.6.0.dev331\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-13 00:31+0000\n"
+"POT-Creation-Date: 2025-03-19 00:31+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -92,16 +92,16 @@ msgid "Topic driven themed lessons."
 msgstr "トピックに沿ったテーマ別レッスン。"
 
 #: ../../geovista/docs/src/index.rst:52
-msgid "🚧 How-To Guides"
-msgstr "🚧 ハウツーガイド"
+msgid "How-To Guides 🚧"
+msgstr ""
 
 #: ../../geovista/docs/src/index.rst:61
 msgid "Treasure trove of focused guides."
 msgstr "集中ガイドの宝庫。"
 
 #: ../../geovista/docs/src/index.rst:63
-msgid "🚧 Explanation"
-msgstr "🚧 説明"
+msgid "Explanation 🚧"
+msgstr ""
 
 #: ../../geovista/docs/src/index.rst:72
 msgid "Deeper understanding awaits."
