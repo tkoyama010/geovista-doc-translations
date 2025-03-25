@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev327\n"
+"Project-Id-Version: GeoVista 0.6.0.dev339\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 18:17+0000\n"
+"POT-Creation-Date: 2025-03-24 18:12+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "component: coastlines (24)"
+msgid "component: coastlines (26)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
@@ -34,7 +34,7 @@ msgid "component: manifold (2)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "component: texture (21)"
+msgid "component: texture (23)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
@@ -42,7 +42,7 @@ msgid "component: vectors (1)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "domain: meteorology (4)"
+msgid "domain: meteorology (6)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
@@ -70,7 +70,7 @@ msgid "filter: extrude (1)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "filter: threshold (10)"
+msgid "filter: threshold (12)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
@@ -98,11 +98,11 @@ msgid "load: rectilinear (2)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "load: unstructured (14)"
+msgid "load: unstructured (16)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "projection: crs (11)"
+msgid "projection: crs (12)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
@@ -118,6 +118,10 @@ msgid "render: subplots (1)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
+msgid "resolution: high (2)"
+msgstr ""
+
+#: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid "sample: unstructured (5)"
 msgstr ""
 
@@ -130,7 +134,7 @@ msgid "style: lighting (2)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "style: opacity (3)"
+msgid "style: opacity (4)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:8
