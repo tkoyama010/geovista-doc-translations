@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev350\n"
+"Project-Id-Version: GeoVista 0.6.0.dev359\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-31 00:34+0000\n"
+"POT-Creation-Date: 2025-04-01 00:03+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -73,7 +73,7 @@ msgid "The visibility of each actor, apart from the coastlines, can be toggled i
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:84
-msgid "For further information see https://h3geo.org/."
+msgid "For further information see https://github.com/uber/h3."
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:91
