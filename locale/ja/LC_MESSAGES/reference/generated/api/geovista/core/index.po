@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev387\n"
+"Project-Id-Version: GeoVista 0.6.0.dev395\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-17 00:33+0000\n"
+"POT-Creation-Date: 2025-06-04 00:35+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -93,8 +93,8 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:48:<autosummary>:1
 msgid ""
-":py:obj:`add_texture_coords <geovista.core.add_texture_coords>`\\ "
-"\\(mesh\\[\\, meridian\\, antimeridian\\]\\)"
+":py:obj:`add_texture_coords <geovista.core.add_texture_coords>`\\ \\(mesh\\,"
+" \\/\\, \\*\\[\\, meridian\\, antimeridian\\]\\)"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:278
@@ -113,8 +113,8 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:48:<autosummary>:1
 msgid ""
-":py:obj:`resize <geovista.core.resize>`\\ \\(mesh\\[\\, radius\\, zlevel\\, "
-"zscale\\, inplace\\]\\)"
+":py:obj:`resize <geovista.core.resize>`\\ \\(mesh\\, \\/\\, \\*\\[\\, "
+"radius\\, zlevel\\, zscale\\, inplace\\]\\)"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:371
@@ -124,8 +124,8 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:48:<autosummary>:1
 msgid ""
-":py:obj:`slice_cells <geovista.core.slice_cells>`\\ \\(mesh\\[\\, "
-"meridian\\, antimeridian\\, rtol\\, atol\\]\\)"
+":py:obj:`slice_cells <geovista.core.slice_cells>`\\ \\(mesh\\, \\/\\, "
+"\\*\\[\\, meridian\\, antimeridian\\, ...\\]\\)"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:419
@@ -135,8 +135,8 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:48:<autosummary>:1
 msgid ""
-":py:obj:`slice_lines <geovista.core.slice_lines>`\\ \\(mesh\\[\\, "
-"n\\_points\\, copy\\]\\)"
+":py:obj:`slice_lines <geovista.core.slice_lines>`\\ \\(mesh\\, \\/\\, "
+"\\*\\[\\, n\\_points\\, copy\\]\\)"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:475
@@ -146,7 +146,9 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:48:<autosummary>:1
-msgid ":py:obj:`slice_mesh <geovista.core.slice_mesh>`\\ \\(mesh\\[\\, rtol\\, atol\\]\\)"
+msgid ""
+":py:obj:`slice_mesh <geovista.core.slice_mesh>`\\ \\(mesh\\, \\/\\, "
+"\\*\\[\\, rtol\\, atol\\]\\)"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:531

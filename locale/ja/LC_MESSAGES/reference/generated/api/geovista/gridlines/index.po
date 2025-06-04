@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev387\n"
+"Project-Id-Version: GeoVista 0.6.0.dev395\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-17 00:33+0000\n"
+"POT-Creation-Date: 2025-06-04 00:35+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -255,7 +255,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:62:<autosummary>:1
 msgid ""
 ":py:obj:`create_meridians <geovista.gridlines.create_meridians>`\\ "
-"\\(\\[start\\, stop\\, step\\, lat\\_step\\, ...\\]\\)"
+"\\(\\*\\[\\, start\\, stop\\, step\\, lat\\_step\\, ...\\]\\)"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:148
@@ -267,7 +267,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:62:<autosummary>:1
 msgid ""
 ":py:obj:`create_parallel_labels "
-"<geovista.gridlines.create_parallel_labels>`\\ \\(lats\\[\\, "
+"<geovista.gridlines.create_parallel_labels>`\\ \\(lats\\, \\*\\[\\, "
 "poles\\_parallel\\]\\)"
 msgstr ""
 
@@ -279,7 +279,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:62:<autosummary>:1
 msgid ""
 ":py:obj:`create_parallels <geovista.gridlines.create_parallels>`\\ "
-"\\(\\[start\\, stop\\, step\\, lon\\_step\\, ...\\]\\)"
+"\\(\\*\\[\\, start\\, stop\\, step\\, lon\\_step\\, ...\\]\\)"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:260

@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev391\n"
+"Project-Id-Version: GeoVista 0.6.0.dev395\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-02 00:36+0000\n"
+"POT-Creation-Date: 2025-06-04 00:35+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -305,8 +305,8 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
 msgid ""
 ":py:obj:`cast_UnstructuredGrid_to_PolyData "
-"<geovista.common.cast_UnstructuredGrid_to_PolyData>`\\ \\(mesh\\[\\, "
-"clean\\]\\)"
+"<geovista.common.cast_UnstructuredGrid_to_PolyData>`\\ \\(mesh\\, \\/\\, "
+"\\*\\[\\, clean\\]\\)"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:266
@@ -317,7 +317,9 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
-msgid ":py:obj:`distance <geovista.common.distance>`\\ \\(mesh\\[\\, origin\\, mean\\]\\)"
+msgid ""
+":py:obj:`distance <geovista.common.distance>`\\ \\(mesh\\, \\/\\, \\*\\[\\, "
+"origin\\, mean\\]\\)"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:305
@@ -328,8 +330,8 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
 msgid ""
-":py:obj:`from_cartesian <geovista.common.from_cartesian>`\\ \\(mesh\\[\\, "
-"stacked\\, closed\\_interval\\, rtol\\, ...\\]\\)"
+":py:obj:`from_cartesian <geovista.common.from_cartesian>`\\ \\(mesh\\, "
+"\\/\\, \\*\\[\\, stacked\\, closed\\_interval\\, ...\\]\\)"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:348
@@ -340,7 +342,9 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
-msgid ":py:obj:`get_modules <geovista.common.get_modules>`\\ \\(root\\[\\, base\\]\\)"
+msgid ""
+":py:obj:`get_modules <geovista.common.get_modules>`\\ \\(root\\, \\/\\, "
+"\\*\\[\\, base\\]\\)"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:400
@@ -378,7 +382,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
 msgid ""
 ":py:obj:`set_jupyter_backend <geovista.common.set_jupyter_backend>`\\ "
-"\\(\\[backend\\]\\)"
+"\\(\\*\\[\\, backend\\]\\)"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:542
@@ -388,8 +392,8 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
 msgid ""
-":py:obj:`to_cartesian <geovista.common.to_cartesian>`\\ \\(lons\\, "
-"lats\\[\\, radius\\, zlevel\\, zscale\\, stacked\\]\\)"
+":py:obj:`to_cartesian <geovista.common.to_cartesian>`\\ \\(lons\\, lats\\, "
+"\\*\\[\\, radius\\, zlevel\\, zscale\\, ...\\]\\)"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:578
@@ -400,8 +404,8 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
 msgid ""
-":py:obj:`to_lonlat <geovista.common.to_lonlat>`\\ \\(xyz\\[\\, radians\\, "
-"radius\\, rtol\\, atol\\]\\)"
+":py:obj:`to_lonlat <geovista.common.to_lonlat>`\\ \\(xyz\\, \\/\\, \\*\\[\\,"
+" radians\\, radius\\, rtol\\, atol\\]\\)"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:632
@@ -413,8 +417,8 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
 msgid ""
-":py:obj:`to_lonlats <geovista.common.to_lonlats>`\\ \\(xyz\\[\\, radians\\, "
-"radius\\, stacked\\, rtol\\, atol\\]\\)"
+":py:obj:`to_lonlats <geovista.common.to_lonlats>`\\ \\(xyz\\, \\/\\, "
+"\\*\\[\\, radians\\, radius\\, stacked\\, ...\\]\\)"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:681
@@ -453,8 +457,8 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
 msgid ""
-":py:obj:`wrap <geovista.common.wrap>`\\ \\(lons\\[\\, base\\, period\\, "
-"rtol\\, atol\\, dtype\\]\\)"
+":py:obj:`wrap <geovista.common.wrap>`\\ \\(lons\\, \\*\\[\\, base\\, "
+"period\\, rtol\\, atol\\, dtype\\]\\)"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:821
