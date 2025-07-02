@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev391\n"
+"Project-Id-Version: GeoVista 0.6.0.dev435\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-01 00:43+0000\n"
+"POT-Creation-Date: 2025-07-02 21:20+0000\n"
 "PO-Revision-Date: 2025-01-29 00:30+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -73,15 +73,15 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:41
 #: ../../geovista/docs/src/developer/documentation.rst:64
-#: ../../geovista/docs/src/developer/documentation.rst:98
-#: ../../geovista/docs/src/developer/documentation.rst:115
+#: ../../geovista/docs/src/developer/documentation.rst:97
+#: ../../geovista/docs/src/developer/documentation.rst:114
 msgid "Make Command"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:41
 #: ../../geovista/docs/src/developer/documentation.rst:64
-#: ../../geovista/docs/src/developer/documentation.rst:98
-#: ../../geovista/docs/src/developer/documentation.rst:115
+#: ../../geovista/docs/src/developer/documentation.rst:97
+#: ../../geovista/docs/src/developer/documentation.rst:114
 msgid "Description"
 msgstr "説明"
 
@@ -139,8 +139,9 @@ msgstr ""
 #: ../../geovista/docs/src/developer/documentation.rst:66
 #: ../../geovista/docs/src/developer/documentation.rst:69
 #: ../../geovista/docs/src/developer/documentation.rst:72
-#: ../../geovista/docs/src/developer/documentation.rst:80
-#: ../../geovista/docs/src/developer/documentation.rst:83
+#: ../../geovista/docs/src/developer/documentation.rst:76
+#: ../../geovista/docs/src/developer/documentation.rst:79
+#: ../../geovista/docs/src/developer/documentation.rst:82
 msgid ":fas:`square-check`"
 msgstr ""
 
@@ -173,83 +174,69 @@ msgid ":guilabel:`html-inline`"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:76
-msgid ":fas:`square-xmark`"
-msgstr ""
-
-#: ../../geovista/docs/src/developer/documentation.rst:76
 msgid ""
 "Build the full suite of documentation and only inline documentation images "
-"and scenes. See :far:`circle-dot` :issue:`1150`."
+"and scenes."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:80
+#: ../../geovista/docs/src/developer/documentation.rst:79
 msgid ":guilabel:`html-noplot`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:80
+#: ../../geovista/docs/src/developer/documentation.rst:79
 msgid ""
 "Build the full suite of documentation with no static images and no "
 "interactive scenes."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:83
+#: ../../geovista/docs/src/developer/documentation.rst:82
 msgid ":guilabel:`html-tutorial`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:83
+#: ../../geovista/docs/src/developer/documentation.rst:82
 msgid "Build the full suite of documentation and only the tutorial notebooks."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:89
+#: ../../geovista/docs/src/developer/documentation.rst:88
 msgid ":fab:`readme` Render"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:91
+#: ../../geovista/docs/src/developer/documentation.rst:90
 msgid ""
 "How-to serve the rendered documentation for inspection in a local browser."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:93
+#: ../../geovista/docs/src/developer/documentation.rst:92
 msgid "Render Commands"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:100
+#: ../../geovista/docs/src/developer/documentation.rst:99
 msgid ":guilabel:`serve-html`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:100
+#: ../../geovista/docs/src/developer/documentation.rst:99
 msgid ""
 "Start a local ``HTTP`` server on port ``11000`` to view the rendered "
 "documentation. This is necessary in order to support interactive scenes."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:106
+#: ../../geovista/docs/src/developer/documentation.rst:105
 msgid ":fa:`vial-circle-check` Test"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:108
+#: ../../geovista/docs/src/developer/documentation.rst:107
 msgid "Perform documentation quality assurance."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:110
+#: ../../geovista/docs/src/developer/documentation.rst:109
 msgid "Test Commands"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:117
+#: ../../geovista/docs/src/developer/documentation.rst:116
 msgid ":guilabel:`doctest`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:117
+#: ../../geovista/docs/src/developer/documentation.rst:116
 msgid ""
 "Execute `sphinx.ext.doctest`_ to test snippets within the documentation."
-msgstr ""
-
-#: ../../geovista/docs/src/developer/documentation.rst:119
-msgid ":guilabel:`linkcheck`"
-msgstr ""
-
-#: ../../geovista/docs/src/developer/documentation.rst:119
-msgid ""
-"Check the integrity of all external links referenced within the "
-"documentation using the `sphinx linkcheck builder`_."
 msgstr ""
