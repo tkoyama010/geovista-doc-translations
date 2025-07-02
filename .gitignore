@@ -3,4 +3,5 @@
 _build/*
 locale/jupyter_execute/*
 locale/pot/*
+locale/.jupyter_cache/*
 tx
