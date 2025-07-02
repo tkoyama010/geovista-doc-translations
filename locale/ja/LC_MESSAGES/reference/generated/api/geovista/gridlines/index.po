@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021 - 2024, GeoVista Contributors
+# Copyright (C) 2021 - 2025, GeoVista Contributors
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev186\n"
+"Project-Id-Version: GeoVista 0.6.0.dev435\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-17 00:33+0000\n"
+"POT-Creation-Date: 2025-07-02 21:20+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -79,7 +79,7 @@ msgstr ""
 msgid ":py:obj:`LABEL_EAST <geovista.gridlines.LABEL_EAST>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:412
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:414
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:43:<autosummary>:1
 msgid "The east of the prime meridian label."
 msgstr ""
@@ -88,7 +88,7 @@ msgstr ""
 msgid ":py:obj:`LABEL_NORTH <geovista.gridlines.LABEL_NORTH>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:436
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:440
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:43:<autosummary>:1
 msgid "The north of the equatorial parallel label."
 msgstr ""
@@ -97,7 +97,7 @@ msgstr ""
 msgid ":py:obj:`LABEL_SOUTH <geovista.gridlines.LABEL_SOUTH>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:460
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:466
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:43:<autosummary>:1
 msgid "The south of the equatorial parallel label."
 msgstr ""
@@ -106,7 +106,7 @@ msgstr ""
 msgid ":py:obj:`LABEL_WEST <geovista.gridlines.LABEL_WEST>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:484
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:492
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:43:<autosummary>:1
 msgid "The west of the prime meridian label."
 msgstr ""
@@ -115,7 +115,7 @@ msgstr ""
 msgid ":py:obj:`LATITUDE_N_SAMPLES <geovista.gridlines.LATITUDE_N_SAMPLES>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:510
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:518
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:43:<autosummary>:1
 msgid "The default number of points in a line of latitude."
 msgstr ""
@@ -125,7 +125,7 @@ msgid ""
 ":py:obj:`LATITUDE_POLES_LABEL <geovista.gridlines.LATITUDE_POLES_LABEL>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:536
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:544
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:43:<autosummary>:1
 msgid "Whether to generate a north/south pole label."
 msgstr ""
@@ -136,7 +136,7 @@ msgid ""
 "<geovista.gridlines.LATITUDE_POLES_PARALLEL>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:562
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:570
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:43:<autosummary>:1
 msgid "Whether to generate parallels at the north/south poles."
 msgstr ""
@@ -145,7 +145,7 @@ msgstr ""
 msgid ":py:obj:`LATITUDE_START <geovista.gridlines.LATITUDE_START>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:586
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:596
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:43:<autosummary>:1
 msgid "The first graticule line of latitude (degrees)."
 msgstr ""
@@ -154,7 +154,7 @@ msgstr ""
 msgid ":py:obj:`LATITUDE_STEP <geovista.gridlines.LATITUDE_STEP>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:612
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:622
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:43:<autosummary>:1
 msgid "The default step size between graticule parallels (degrees)."
 msgstr ""
@@ -164,7 +164,7 @@ msgid ""
 ":py:obj:`LATITUDE_STEP_PERIOD <geovista.gridlines.LATITUDE_STEP_PERIOD>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:638
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:648
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:43:<autosummary>:1
 msgid "The period or upper bound (degrees) for parallel step size."
 msgstr ""
@@ -173,7 +173,7 @@ msgstr ""
 msgid ":py:obj:`LATITUDE_STOP <geovista.gridlines.LATITUDE_STOP>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:664
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:674
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:43:<autosummary>:1
 msgid "The last graticule line of latitude (degrees)."
 msgstr ""
@@ -182,7 +182,7 @@ msgstr ""
 msgid ":py:obj:`LONGITUDE_N_SAMPLES <geovista.gridlines.LONGITUDE_N_SAMPLES>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:690
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:700
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:43:<autosummary>:1
 msgid "The default number of points in a meridian line."
 msgstr ""
@@ -191,7 +191,7 @@ msgstr ""
 msgid ":py:obj:`LONGITUDE_START <geovista.gridlines.LONGITUDE_START>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:714
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:726
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:43:<autosummary>:1
 msgid "The first meridian line in the graticule (degrees)."
 msgstr ""
@@ -200,7 +200,7 @@ msgstr ""
 msgid ":py:obj:`LONGITUDE_STEP <geovista.gridlines.LONGITUDE_STEP>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:740
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:752
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:43:<autosummary>:1
 msgid "The default step size between graticule meridians (degrees)."
 msgstr ""
@@ -210,7 +210,7 @@ msgid ""
 ":py:obj:`LONGITUDE_STEP_PERIOD <geovista.gridlines.LONGITUDE_STEP_PERIOD>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:766
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:778
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:43:<autosummary>:1
 msgid "The period or upper bound (degrees) for meridian step size."
 msgstr ""
@@ -219,7 +219,7 @@ msgstr ""
 msgid ":py:obj:`LONGITUDE_STOP <geovista.gridlines.LONGITUDE_STOP>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:790
+#: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:804
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:43:<autosummary>:1
 msgid "The last graticule meridian (degrees)."
 msgstr ""
@@ -255,7 +255,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:62:<autosummary>:1
 msgid ""
 ":py:obj:`create_meridians <geovista.gridlines.create_meridians>`\\ "
-"\\(\\[start\\, stop\\, step\\, lat\\_step\\, ...\\]\\)"
+"\\(\\*\\[\\, start\\, stop\\, step\\, lat\\_step\\, ...\\]\\)"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:148
@@ -267,7 +267,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:62:<autosummary>:1
 msgid ""
 ":py:obj:`create_parallel_labels "
-"<geovista.gridlines.create_parallel_labels>`\\ \\(lats\\[\\, "
+"<geovista.gridlines.create_parallel_labels>`\\ \\(lats\\, \\*\\[\\, "
 "poles\\_parallel\\]\\)"
 msgstr ""
 
@@ -279,7 +279,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:62:<autosummary>:1
 msgid ""
 ":py:obj:`create_parallels <geovista.gridlines.create_parallels>`\\ "
-"\\(\\[start\\, stop\\, step\\, lon\\_step\\, ...\\]\\)"
+"\\(\\*\\[\\, start\\, stop\\, step\\, lon\\_step\\, ...\\]\\)"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/gridlines/index.rst:260

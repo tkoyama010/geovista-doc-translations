@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021 - 2024, GeoVista Contributors
+# Copyright (C) 2021 - 2025, GeoVista Contributors
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev186\n"
+"Project-Id-Version: GeoVista 0.6.0.dev435\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-17 00:33+0000\n"
+"POT-Creation-Date: 2025-07-02 21:20+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -48,7 +48,7 @@ msgstr "属性"
 msgid ":py:obj:`REMESH_SEAM_EAST <geovista.filters.REMESH_SEAM_EAST>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:104
+#: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:106
 #: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:31:<autosummary>:1
 msgid "Marker for remesh filter eastern cell boundary point."
 msgstr ""
@@ -58,7 +58,7 @@ msgid ""
 ":py:obj:`VTK_BAD_TRIANGLE_MASK <geovista.filters.VTK_BAD_TRIANGLE_MASK>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:130
+#: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:132
 #: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:31:<autosummary>:1
 msgid "``vtkIntersectionPolyDataFilter`` bad triangle cell array name."
 msgstr ""
@@ -67,7 +67,7 @@ msgstr ""
 msgid ":py:obj:`VTK_BOUNDARY_MASK <geovista.filters.VTK_BOUNDARY_MASK>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:156
+#: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:158
 #: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:31:<autosummary>:1
 msgid "``vtkIntersectionPolyDataFilter`` intersection point array name."
 msgstr ""
@@ -76,7 +76,7 @@ msgstr ""
 msgid ":py:obj:`VTK_FREE_EDGE_MASK <geovista.filters.VTK_FREE_EDGE_MASK>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:182
+#: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:184
 #: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:31:<autosummary>:1
 msgid "``vtkIntersectionPolyDataFilter`` free edge cell array name."
 msgstr ""
@@ -87,8 +87,8 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:39:<autosummary>:1
 msgid ""
-":py:obj:`remesh <geovista.filters.remesh>`\\ \\(mesh\\, meridian\\[\\, "
-"boundary\\, check\\, rtol\\, atol\\]\\)"
+":py:obj:`remesh <geovista.filters.remesh>`\\ \\(mesh\\, \\/\\, meridian\\, "
+"\\*\\[\\, boundary\\, check\\, rtol\\, atol\\]\\)"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:46

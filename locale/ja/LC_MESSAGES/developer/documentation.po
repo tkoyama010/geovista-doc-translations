@@ -1,0 +1,242 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021 - 2025, GeoVista Contributors
+# This file is distributed under the same license as the GeoVista package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2025
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GeoVista 0.6.0.dev435\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-02 21:20+0000\n"
+"PO-Revision-Date: 2025-01-29 00:30+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../geovista/docs/src/developer/documentation.rst:7
+msgid ":fa:`square-pen` Documentation"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:9
+msgid ""
+"Here we provide some high-level guidelines and best practice advice for "
+"authors and contributors wishing to build and render the documentation."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:14
+msgid ":fa:`screwdriver-wrench` Building"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:16
+msgid ""
+"The documentation is built using `sphinx`_ to parse and render "
+"`reStructuredText`_ (``rst``) documents into ``HTML``."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:19
+msgid ""
+"We also use `myst-parser`_, a ``sphinx`` and `docutils`_ extension to parse "
+"and convert :term:`MyST` to ``rst``, and `myst-nb`_ to execute and convert "
+"`Jupyter Notebooks`_ into ``sphinx`` documents."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:26
+msgid "For configuration details see ``Makefile`` and ``conf.py``."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:28
+msgid ""
+"The documentation is built using `sphinx-build`_ and the `GNU make`_ tool."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:32
+msgid ":fa:`pump-medical` Hygiene"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:34
+msgid ""
+"Start afresh by performing documentation hygiene to purge various build "
+"artifacts."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:36
+msgid "Housekeeping Commands"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:41
+#: ../../geovista/docs/src/developer/documentation.rst:64
+#: ../../geovista/docs/src/developer/documentation.rst:97
+#: ../../geovista/docs/src/developer/documentation.rst:114
+msgid "Make Command"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:41
+#: ../../geovista/docs/src/developer/documentation.rst:64
+#: ../../geovista/docs/src/developer/documentation.rst:97
+#: ../../geovista/docs/src/developer/documentation.rst:114
+msgid "Description"
+msgstr "説明"
+
+#: ../../geovista/docs/src/developer/documentation.rst:43
+msgid ":guilabel:`clean`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:43
+msgid ""
+"Purge all `sphinx-autoapi`_, `sphinx-gallery`_, `sphinx-tags`_, carousel, "
+"and other `sphinx-build`_ artifacts."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:46
+msgid ":guilabel:`clean-all`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:46
+msgid "Perform both a ``clean`` and ``clean-cache``."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:48
+msgid ":guilabel:`clean-cache`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:48
+msgid ""
+"Purge the `myst-nb`_ Jupyter cache. See `myst-nb configuration`_ for further"
+" details."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:54
+msgid ":fa:`pen-to-square` Build"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:56
+msgid ""
+"Build the documentation along with various controls to limit image creation."
+" Note that building the documentation static images and interactive scenes "
+"can be resource hungry and time consuming."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:59
+msgid "Build Commands"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:64
+msgid "Status"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:66
+msgid ":guilabel:`html`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:66
+#: ../../geovista/docs/src/developer/documentation.rst:69
+#: ../../geovista/docs/src/developer/documentation.rst:72
+#: ../../geovista/docs/src/developer/documentation.rst:76
+#: ../../geovista/docs/src/developer/documentation.rst:79
+#: ../../geovista/docs/src/developer/documentation.rst:82
+msgid ":fas:`square-check`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:66
+msgid "Build the full suite of documentation including all images and scenes."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:69
+msgid ":guilabel:`html-docstring`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:69
+msgid ""
+"Build the full suite of documentation and only the ``docstring`` images and "
+"scenes."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:72
+msgid ":guilabel:`html-gallery`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:72
+msgid ""
+"Build the full suite of documentation and only the `sphinx-gallery`_ images "
+"and scenes, which also includes the carousel."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:76
+msgid ":guilabel:`html-inline`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:76
+msgid ""
+"Build the full suite of documentation and only inline documentation images "
+"and scenes."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:79
+msgid ":guilabel:`html-noplot`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:79
+msgid ""
+"Build the full suite of documentation with no static images and no "
+"interactive scenes."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:82
+msgid ":guilabel:`html-tutorial`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:82
+msgid "Build the full suite of documentation and only the tutorial notebooks."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:88
+msgid ":fab:`readme` Render"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:90
+msgid ""
+"How-to serve the rendered documentation for inspection in a local browser."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:92
+msgid "Render Commands"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:99
+msgid ":guilabel:`serve-html`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:99
+msgid ""
+"Start a local ``HTTP`` server on port ``11000`` to view the rendered "
+"documentation. This is necessary in order to support interactive scenes."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:105
+msgid ":fa:`vial-circle-check` Test"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:107
+msgid "Perform documentation quality assurance."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:109
+msgid "Test Commands"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:116
+msgid ":guilabel:`doctest`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:116
+msgid ""
+"Execute `sphinx.ext.doctest`_ to test snippets within the documentation."
+msgstr ""

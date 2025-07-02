@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021 - 2024, GeoVista Contributors
+# Copyright (C) 2021 - 2025, GeoVista Contributors
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev180\n"
+"Project-Id-Version: GeoVista 0.6.0.dev435\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-09 00:28+0000\n"
+"POT-Creation-Date: 2025-07-02 21:20+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -21,15 +21,15 @@ msgstr ""
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../geovista/docs/src/installation.rst:6
+#: ../../geovista/docs/src/installation.rst:7
 msgid ":fa:`circle-down` Installation"
 msgstr ":fa:`circle-down` インストール"
 
-#: ../../geovista/docs/src/installation.rst:9
+#: ../../geovista/docs/src/installation.rst:10
 msgid "Stable"
 msgstr "安定版"
 
-#: ../../geovista/docs/src/installation.rst:11
+#: ../../geovista/docs/src/installation.rst:12
 msgid ""
 "The latest **stable release** of ``geovista`` is available on `conda-forge`_"
 " and `PyPI`_, and can be easily installed:"
@@ -44,28 +44,26 @@ msgstr "conda-forge"
 msgid "PyPI"
 msgstr "PyPI"
 
-#: ../../geovista/docs/src/installation.rst:28
+#: ../../geovista/docs/src/installation.rst:29
 msgid ""
 "Additional package dependencies will be required by some of the ``geovista``"
-" :ref:`Gallery Examples <gv-examples-gallery>`."
+" :ref:`Gallery Examples <tippy-gv-examples>`."
 msgstr ""
-"いくつかの ``geovista`` :ref:`Gallery Examples <gv-examples-gallery>` "
-"では、追加のパッケージが必要になります。"
 
-#: ../../geovista/docs/src/installation.rst:31
+#: ../../geovista/docs/src/installation.rst:32
 msgid "These packages may be installed with:"
 msgstr "これらのパッケージは次のようにインストールできます:"
 
-#: ../../geovista/docs/src/installation.rst:40
+#: ../../geovista/docs/src/installation.rst:41
 msgid ""
 "`conda`_ users should also install `pip`_ into their `conda`_ environment."
 msgstr "`conda`_ ユーザーは `pip`_ も `conda`_ 環境にインストールする必要があります。"
 
-#: ../../geovista/docs/src/installation.rst:44
+#: ../../geovista/docs/src/installation.rst:45
 msgid "Development"
 msgstr "開発"
 
-#: ../../geovista/docs/src/installation.rst:46
+#: ../../geovista/docs/src/installation.rst:47
 msgid ""
 "If you simply can't wait for the next **stable release** of ``geovista``, "
 "then install the latest **development version** from the ``main`` "
@@ -78,7 +76,7 @@ msgstr ""
 msgid "conda"
 msgstr "conda"
 
-#: ../../geovista/docs/src/installation.rst:54
+#: ../../geovista/docs/src/installation.rst:55
 msgid "Include the following in your `conda environment.yml file`_:"
 msgstr "以下を `conda environment.yml ファイル`_ にインクルードします:"
 
@@ -86,26 +84,26 @@ msgstr "以下を `conda environment.yml ファイル`_ にインクルードし
 msgid "pip"
 msgstr "pip"
 
-#: ../../geovista/docs/src/installation.rst:70
+#: ../../geovista/docs/src/installation.rst:71
 msgid "Developer"
 msgstr "開発者"
 
-#: ../../geovista/docs/src/installation.rst:72
+#: ../../geovista/docs/src/installation.rst:73
 msgid ""
 "To configure a full **developer environment**, first clone the ``geovista`` "
 "repository from :fab:`github`:"
 msgstr ""
 "完全な **開発環境** を設定するには、まず :fab:`github` から ``geovista`` リポジトリをクローンしてください:"
 
-#: ../../geovista/docs/src/installation.rst:79
+#: ../../geovista/docs/src/installation.rst:80
 msgid "Change to the root directory of cloned repository:"
 msgstr "クローンしたリポジトリのルートディレクトリに変更します:"
 
-#: ../../geovista/docs/src/installation.rst:85
+#: ../../geovista/docs/src/installation.rst:86
 msgid "Create the ``geovista-dev`` `conda`_ environment:"
 msgstr "``geovista-dev`` `conda`_ 環境を作成します:"
 
-#: ../../geovista/docs/src/installation.rst:92
+#: ../../geovista/docs/src/installation.rst:93
 msgid ""
 "Now **activate** the environment and **install** the ``main`` development "
 "branch of ``geovista``:"
@@ -113,14 +111,14 @@ msgstr ""
 "さて、環境を **activate** にして、 ``geovista`` の ``main`` 開発ブランチを ** install** "
 "してください:"
 
-#: ../../geovista/docs/src/installation.rst:100
+#: ../../geovista/docs/src/installation.rst:101
 msgid "Finally, you're good to roll 🥳"
 msgstr "ついに、あなたはロールすることができます🥳"
 
-#: ../../geovista/docs/src/installation.rst:102
+#: ../../geovista/docs/src/installation.rst:103
 msgid "And for extra credit, install our developer `pre-commit`_ git-hooks:"
 msgstr "おまけに、開発者用の `pre-commit`_ git-hooks をインストールしてください:"
 
-#: ../../geovista/docs/src/installation.rst:111
+#: ../../geovista/docs/src/installation.rst:112
 msgid "Please ensure to install `pre-commit`_ into your environment first."
 msgstr "`pre-commit`_ をあなたの環境にインストールしてください。"

@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021 - 2024, GeoVista Contributors
+# Copyright (C) 2021 - 2025, GeoVista Contributors
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev202\n"
+"Project-Id-Version: GeoVista 0.6.0.dev435\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-23 00:30+0000\n"
+"POT-Creation-Date: 2025-07-02 21:20+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -17,16 +17,16 @@ msgstr ""
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../geovista/docs/src/reference/cli/index.rst:4
+#: ../../geovista/docs/src/reference/cli/index.rst:5
 msgid ":fa:`code` CLI"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/cli/index.rst:6
+#: ../../geovista/docs/src/reference/cli/index.rst:7
 msgid ""
-"Once ``geovista`` has been :ref:`installed <gv-installation>`, a "
-":ref:`console script <gv-cli-geovista>` [#]_ will be available with several "
-"convenience commands to assist with the management of ``geovista`` and its "
-"resources."
+"Once ``geovista`` has been :ref:`installed <tippy-gv-installation>`, a "
+":ref:`console script <tippy-gv-reference-cli-geovista>` [#]_ will be "
+"available with several convenience commands to assist with the management of"
+" ``geovista`` and its resources."
 msgstr ""
 
 #: ../geovista:1
@@ -42,6 +42,10 @@ msgid "Show geovista cache directory."
 msgstr ""
 
 #: ../geovista:1
+msgid "Show geovista data version."
+msgstr ""
+
+#: ../geovista:1
 msgid "Show GPU and environment package report."
 msgstr ""
 
@@ -49,16 +53,16 @@ msgstr ""
 msgid "Show geovista package version."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/cli/index.rst:21
+#: ../../geovista/docs/src/reference/cli/index.rst:23
 msgid "Commands"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/cli/index.rst:23
+#: ../../geovista/docs/src/reference/cli/index.rst:25
 msgid ""
-"The following :ref:`geovista console script <gv-cli-geovista>` commands are "
-"available:"
+"The following :ref:`geovista console script <tippy-gv-reference-cli-"
+"geovista>` commands are available:"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/cli/index.rst:37
+#: ../../geovista/docs/src/reference/cli/index.rst:39
 msgid "See `entry-points`_ for further information."
 msgstr ""

@@ -1,10 +1,7 @@
 *.png
 *.vtksz
 _build/*
-locale/**/*.mo
 locale/jupyter_execute/*
-locale/pot/.doctrees
-locale/pot/_images/*
-locale/pot/_sphinx_design_static/*
-locale/pot/_static/*
+locale/pot/*
+locale/.jupyter_cache/*
 tx
