@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev391\n"
+"Project-Id-Version: GeoVista 0.6.0.dev435\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-01 00:43+0000\n"
+"POT-Creation-Date: 2025-07-02 21:20+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -125,11 +125,11 @@ msgstr ""
 msgid "Interactive Scene"
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:129
+#: ../../geovista/docs/src/quick_start.rst:130
 msgid "NEMO ORCA2"
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:131
+#: ../../geovista/docs/src/quick_start.rst:132
 msgid ""
 "This example renders a 2-D data array with 2-D X and Y **curvilinear** "
 "coordinates as a :term:`mesh <Mesh>` of quadilateral :term:`cells <Cell>` in"
@@ -139,7 +139,7 @@ msgid ""
 "Carrée`_ projection."
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:138
+#: ../../geovista/docs/src/quick_start.rst:139
 msgid ""
 "The data source is a `Nucleus for European Modelling of the Ocean`_ (NEMO) "
 "ORCA2 global ocean tripolar :term:`curvilinear grid <Curvilinear Grid>` "
@@ -147,7 +147,7 @@ msgid ""
 "<Point>`."
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:143
+#: ../../geovista/docs/src/quick_start.rst:144
 msgid ""
 "As the grid is curvilinear, it is created from the bounds of 2-D geographic "
 "longitude and latitude coordinates using the "
@@ -155,7 +155,7 @@ msgid ""
 "has 4 coordinate bounds describing a quadrilateral cell."
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:148
+#: ../../geovista/docs/src/quick_start.rst:149
 msgid ""
 "As ORCA2 is an ocean model, we use a `threshold`_ to remove ``10,209`` "
 "``nan`` :term:`land mask <Land Mask>` cells , and :term:`texture map "
@@ -163,7 +163,7 @@ msgid ""
 "raster."
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:153
+#: ../../geovista/docs/src/quick_start.rst:154
 msgid ""
 "A :term:`perceptually uniform <Perceptually Uniform Colormap>` `cmocean "
 "thermal`_ colormap is used to render the *Sea Water Potential Temperature* "
@@ -171,14 +171,14 @@ msgid ""
 " Earth coastlines`_."
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:158
+#: ../../geovista/docs/src/quick_start.rst:159
 msgid ""
 "Finally, a `cartopy`_ :term:`CRS <Coordinate Reference System>` is used to "
 "transform the :term:`actors <Actor>` in the scene to the `Equidistant "
 "Cylindrical`_ (Plate Carrée`) conformal cylindrical projection."
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:166
+#: ../../geovista/docs/src/quick_start.rst:167
 msgid ""
 "Basic projection support is available within ``geovista`` for "
 "**Cylindrical** and **Pseudo-Cylindrical** projections. As ``geovista`` "
@@ -186,17 +186,17 @@ msgid ""
 "classes of projections, such as **Azimuthal** and **Conic**."
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:209
+#: ../../geovista/docs/src/quick_start.rst:211
 msgid "WAVEWATCH III"
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:211
+#: ../../geovista/docs/src/quick_start.rst:213
 msgid ""
 "``geovista`` provides rich support for easily constructing a :term:`mesh "
 "<Mesh>` surface from various unstructured Earth Science model data."
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:215
+#: ../../geovista/docs/src/quick_start.rst:217
 msgid ""
 "To demonstrate this we create a `WAVEWATCH III`_ (WW3) unstructured "
 "triangular mesh from 1-D X and Y **unstructured** coordinates and 2-D "
@@ -204,14 +204,14 @@ msgid ""
 ":meth:`~geovista.bridge.Transform.from_unstructured` method."
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:220
+#: ../../geovista/docs/src/quick_start.rst:222
 msgid ""
 "The ``sample.connectivity``, with shape ``(30559, 3)``, is used to index "
 "into the ``16,160`` 1-D geographical longitude and latitude points to create"
 " a mesh containing ``30,559`` triangular :term:`cells <Cell>`."
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:224
+#: ../../geovista/docs/src/quick_start.rst:226
 msgid ""
 "A 1-D array of *Sea Surface Wave Significant Height* data is located on the "
 "mesh :term:`nodes <Node>`, which is then interpolated across the mesh cells "
@@ -219,7 +219,7 @@ msgid ""
 "Colormap>` `cmocean balance`_ divergent colormap."
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:230
+#: ../../geovista/docs/src/quick_start.rst:232
 msgid ""
 "As the WAVEWATCH III contains no land based cells, the `1:50m Natural Earth "
 "Cross-Blended Hypsometric Tints`_ :term:`texture mapped <Texture Map>` "
@@ -227,35 +227,35 @@ msgid ""
 "`threshold`_ the mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:235
+#: ../../geovista/docs/src/quick_start.rst:237
 msgid "Finally, the render is decorated with `10m Natural Earth coastlines`_."
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:270
+#: ../../geovista/docs/src/quick_start.rst:273
 msgid "Finite Volume Community Ocean Model"
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:272
+#: ../../geovista/docs/src/quick_start.rst:275
 msgid ""
 "This final example showcases how `PyVista`_ can take visualization of Earth "
 "Science data to the next dimension, quite literally."
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:275
+#: ../../geovista/docs/src/quick_start.rst:278
 msgid ""
 "We use `Finite Volume Community Ocean Model`_ (FVCOM) data to create an "
 "extruded :term:`mesh <Mesh>` of the `Plymouth Sound and Tamar River`_ "
 "bathymetry in Cornwall, England."
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:279
+#: ../../geovista/docs/src/quick_start.rst:282
 msgid ""
 "First the :meth:`~geovista.bridge.Transform.from_unstructured` method is "
 "used to create a triangular mesh from 1-D X and Y **unstructured** "
 "coordinates and 2-D :term:`connectivity <Connectivity>`."
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:283
+#: ../../geovista/docs/src/quick_start.rst:286
 msgid ""
 "A 1-D array of *Sea Floor Depth Below Geoid* data is added to the mesh "
 ":term:`cells <Cell>`, but also the mesh :term:`points <Point>`, which are "
@@ -263,24 +263,24 @@ msgid ""
 "the direction of the mesh surface normals."
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:288
+#: ../../geovista/docs/src/quick_start.rst:291
 msgid ""
 "This displacement or :term:`warping <Warp>` of the mesh reveals the relief "
 "of the river and sea floor bathymetry, which we are then free to explore "
 "interactively."
 msgstr ""
 
-#: ../../geovista/docs/src/quick_start.rst:328
+#: ../../geovista/docs/src/quick_start.rst:332
 msgid "And Finally ..."
 msgstr "そして最後に..."
 
-#: ../../geovista/docs/src/quick_start.rst:330
+#: ../../geovista/docs/src/quick_start.rst:334
 msgid ""
 "Hopefully this whirlwind tour of ``geovista`` has whet your appetite for "
 "much more!"
 msgstr "この ``geovista`` 旋風ツアーが、あなたの食欲を刺激してくれることを願っています!"
 
-#: ../../geovista/docs/src/quick_start.rst:333
+#: ../../geovista/docs/src/quick_start.rst:337
 msgid ""
 "If so, then let's explore the :ref:`next steps <tippy-gv-next-steps>` on "
 "your ``geovista`` journey."
