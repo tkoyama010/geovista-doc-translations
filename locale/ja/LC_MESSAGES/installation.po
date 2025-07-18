@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev435\n"
+"Project-Id-Version: GeoVista 0.6.0.dev454\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-02 21:20+0000\n"
+"POT-Creation-Date: 2025-07-18 00:36+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -41,84 +41,61 @@ msgid "conda-forge"
 msgstr "conda-forge"
 
 #: ../../geovista/docs/src/installation.rst:0
-msgid "PyPI"
-msgstr "PyPI"
+msgid "pip"
+msgstr "pip"
 
-#: ../../geovista/docs/src/installation.rst:29
-msgid ""
-"Additional package dependencies will be required by some of the ``geovista``"
-" :ref:`Gallery Examples <tippy-gv-examples>`."
+#: ../../geovista/docs/src/installation.rst:0
+msgid "pixi"
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:32
-msgid "These packages may be installed with:"
-msgstr "これらのパッケージは次のようにインストールできます:"
-
-#: ../../geovista/docs/src/installation.rst:41
+#: ../../geovista/docs/src/installation.rst:38
 msgid ""
-"`conda`_ users should also install `pip`_ into their `conda`_ environment."
-msgstr "`conda`_ ユーザーは `pip`_ も `conda`_ 環境にインストールする必要があります。"
+"Additional package dependencies will be required by some of the ``geovista``"
+" :ref:`examples <tippy-gv-examples>`. If these are required then instead "
+"install the latest **stable release** as follows:"
+msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:45
+#: ../../geovista/docs/src/installation.rst:71
+msgid "`conda`_ users must also install `pip`_ into their environment."
+msgstr ""
+
+#: ../../geovista/docs/src/installation.rst:75
 msgid "Development"
 msgstr "開発"
 
-#: ../../geovista/docs/src/installation.rst:47
+#: ../../geovista/docs/src/installation.rst:77
 msgid ""
 "If you simply can't wait for the next **stable release** of ``geovista``, "
-"then install the latest **development version** from the ``main`` "
-"development branch of :fab:`github`:"
+"then install the latest **development version** from the :fab:`github` "
+"``main`` branch:"
 msgstr ""
-"``geovista`` の次の **安定版リリース** を待てない場合は、 :fab:`github` の ``main`` 開発ブランチから最新の "
-"**開発版** をインストールしてください:"
 
 #: ../../geovista/docs/src/installation.rst:0
 msgid "conda"
 msgstr "conda"
 
-#: ../../geovista/docs/src/installation.rst:55
-msgid "Include the following in your `conda environment.yml file`_:"
-msgstr "以下を `conda environment.yml ファイル`_ にインクルードします:"
-
-#: ../../geovista/docs/src/installation.rst:0
-msgid "pip"
-msgstr "pip"
-
-#: ../../geovista/docs/src/installation.rst:71
+#: ../../geovista/docs/src/installation.rst:109
 msgid "Developer"
 msgstr "開発者"
 
-#: ../../geovista/docs/src/installation.rst:73
+#: ../../geovista/docs/src/installation.rst:111
 msgid ""
-"To configure a full **developer environment**, first clone the ``geovista`` "
-"repository from :fab:`github`:"
+"To configure a full **developer environment**, first clone the :fab:`github`"
+" ``geovista`` repository:"
 msgstr ""
-"完全な **開発環境** を設定するには、まず :fab:`github` から ``geovista`` リポジトリをクローンしてください:"
 
-#: ../../geovista/docs/src/installation.rst:80
-msgid "Change to the root directory of cloned repository:"
-msgstr "クローンしたリポジトリのルートディレクトリに変更します:"
-
-#: ../../geovista/docs/src/installation.rst:86
-msgid "Create the ``geovista-dev`` `conda`_ environment:"
-msgstr "``geovista-dev`` `conda`_ 環境を作成します:"
-
-#: ../../geovista/docs/src/installation.rst:93
-msgid ""
-"Now **activate** the environment and **install** the ``main`` development "
-"branch of ``geovista``:"
+#: ../../geovista/docs/src/installation.rst:118
+msgid "Change to the root directory of the cloned repository:"
 msgstr ""
-"さて、環境を **activate** にして、 ``geovista`` の ``main`` 開発ブランチを ** install** "
-"してください:"
 
-#: ../../geovista/docs/src/installation.rst:101
+#: ../../geovista/docs/src/installation.rst:124
+msgid "Now install ``geovista`` and all its dependencies:"
+msgstr ""
+
+#: ../../geovista/docs/src/installation.rst:147
+msgid "For extra credit, install our developer `pre-commit`_ git-hooks:"
+msgstr ""
+
+#: ../../geovista/docs/src/installation.rst:153
 msgid "Finally, you're good to roll 🥳"
 msgstr "ついに、あなたはロールすることができます🥳"
-
-#: ../../geovista/docs/src/installation.rst:103
-msgid "And for extra credit, install our developer `pre-commit`_ git-hooks:"
-msgstr "おまけに、開発者用の `pre-commit`_ git-hooks をインストールしてください:"
-
-#: ../../geovista/docs/src/installation.rst:112
-msgid "Please ensure to install `pre-commit`_ into your environment first."
-msgstr "`pre-commit`_ をあなたの環境にインストールしてください。"
