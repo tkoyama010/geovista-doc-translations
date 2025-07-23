@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev436\n"
+"Project-Id-Version: GeoVista 0.6.0.dev465\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-06 00:39+0000\n"
+"POT-Creation-Date: 2025-07-23 00:37+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -54,7 +54,11 @@ msgstr "もっと知りたい？"
 msgid "Contour"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:60
+#: ../../geovista/docs/src/generated/gallery/index.rst:57
+msgid "Showcases various contouring examples."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/index.rst:62
 msgid ""
 "There is an open `pyvista <https://github.com/pyvista/pyvista>`__ "
 ":fab:`github` **issue** regarding "
@@ -64,191 +68,228 @@ msgid ""
 "<https://github.com/pyvista/pyvista/issues/7145>`__."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:82
+#: ../../geovista/docs/src/generated/gallery/index.rst:84
 msgid ":ref:`sphx_glr_generated_gallery_contour_banded_contour.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:98
+#: ../../geovista/docs/src/generated/gallery/index.rst:100
 msgid "Curvilinear Grid"
 msgstr "曲線グリッド"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:117
+#: ../../geovista/docs/src/generated/gallery/index.rst:102
+msgid "Demonstrates support for 2-D curvilinear grid surfaces."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/index.rst:121
 msgid ":ref:`sphx_glr_generated_gallery_curvilinear_from_2d__orca.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_curvilinear_from_2d__orca.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:134
+#: ../../geovista/docs/src/generated/gallery/index.rst:138
 msgid ":ref:`sphx_glr_generated_gallery_curvilinear_from_2d__orca_moll.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_curvilinear_from_2d__orca_moll.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:150
+#: ../../geovista/docs/src/generated/gallery/index.rst:154
 msgid "Domain"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:152
+#: ../../geovista/docs/src/generated/gallery/index.rst:156
 msgid "Highlights various science domain specific examples."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:171
+#: ../../geovista/docs/src/generated/gallery/index.rst:175
 msgid ":ref:`sphx_glr_generated_gallery_domain_clouds.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:188
+#: ../../geovista/docs/src/generated/gallery/index.rst:192
 msgid ":ref:`sphx_glr_generated_gallery_domain_clouds_robin.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:204
+#: ../../geovista/docs/src/generated/gallery/index.rst:208
 msgid "Extraction"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:206
+#: ../../geovista/docs/src/generated/gallery/index.rst:210
 msgid "Highlights various region :term:`manifold` extraction techniques."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:225
+#: ../../geovista/docs/src/generated/gallery/index.rst:229
 msgid ":ref:`sphx_glr_generated_gallery_extraction_panel_manifold.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:242
+#: ../../geovista/docs/src/generated/gallery/index.rst:246
 msgid ":ref:`sphx_glr_generated_gallery_extraction_wedge_manifold.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:258
+#: ../../geovista/docs/src/generated/gallery/index.rst:262
 msgid "Point Cloud"
 msgstr "点群"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:277
+#: ../../geovista/docs/src/generated/gallery/index.rst:264
+msgid "Examples of 3-D cartographic point clouds."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/index.rst:283
 msgid ""
 ":ref:`sphx_glr_generated_gallery_point_cloud_from_points__orca_cloud.py`"
 msgstr ""
 ":ref:`sphx_glr_generated_gallery_point_cloud_from_points__orca_cloud.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:294
+#: ../../geovista/docs/src/generated/gallery/index.rst:300
 msgid ""
 ":ref:`sphx_glr_generated_gallery_point_cloud_from_points__orca_cloud_eqc.py`"
 msgstr ""
 ":ref:`sphx_glr_generated_gallery_point_cloud_from_points__orca_cloud_eqc.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:310
+#: ../../geovista/docs/src/generated/gallery/index.rst:316
 msgid "Rectilinear Grid"
 msgstr "直線グリッド"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:329
+#: ../../geovista/docs/src/generated/gallery/index.rst:318
+msgid "Demonstrates support for traditional 2-D rectilinear grids."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/index.rst:337
 msgid ":ref:`sphx_glr_generated_gallery_rectilinear_from_1d__oisst.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_rectilinear_from_1d__oisst.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:346
+#: ../../geovista/docs/src/generated/gallery/index.rst:354
 msgid ":ref:`sphx_glr_generated_gallery_rectilinear_from_1d__oisst_eqc.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_rectilinear_from_1d__oisst_eqc.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:362
+#: ../../geovista/docs/src/generated/gallery/index.rst:370
 msgid "Scalar Data"
 msgstr "スカラーデータ"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:381
+#: ../../geovista/docs/src/generated/gallery/index.rst:372
+msgid "Examples of various scalar data visualization techniques."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/index.rst:391
 msgid ":ref:`sphx_glr_generated_gallery_scalar_data_earthquakes.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_scalar_data_earthquakes.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:398
+#: ../../geovista/docs/src/generated/gallery/index.rst:408
 msgid ":ref:`sphx_glr_generated_gallery_scalar_data_earthquakes_wink1.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_scalar_data_earthquakes_wink1.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:415
+#: ../../geovista/docs/src/generated/gallery/index.rst:425
 msgid ":ref:`sphx_glr_generated_gallery_scalar_data_from_tiff__dem.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_scalar_data_from_tiff__dem.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:432
+#: ../../geovista/docs/src/generated/gallery/index.rst:442
 msgid ":ref:`sphx_glr_generated_gallery_scalar_data_from_tiff__rgb.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_scalar_data_from_tiff__rgb.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:448
+#: ../../geovista/docs/src/generated/gallery/index.rst:458
 msgid "Spatial Index"
 msgstr "空間インデックス"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:467
+#: ../../geovista/docs/src/generated/gallery/index.rst:460
+msgid ""
+"Demonstrates visualization of Discrete Global Grid Systems (DGGS) and "
+"spatial indexing techniques."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/index.rst:479
 msgid ":ref:`sphx_glr_generated_gallery_spatial_index_uber_h3.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_spatial_index_uber_h3.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:483
+#: ../../geovista/docs/src/generated/gallery/index.rst:495
 msgid "Unstructured Mesh"
 msgstr "非構造化メッシュ"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:502
+#: ../../geovista/docs/src/generated/gallery/index.rst:497
+msgid ""
+"A collection of examples demonstrating the visualization of unstructured "
+"meshes from various atmospheric and oceanographic models."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/index.rst:517
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_dynamico.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_dynamico.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:519
+#: ../../geovista/docs/src/generated/gallery/index.rst:534
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_dynamico_poly.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_dynamico_poly.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:536
+#: ../../geovista/docs/src/generated/gallery/index.rst:551
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_icon.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_icon.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:553
+#: ../../geovista/docs/src/generated/gallery/index.rst:568
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_icon_eqc.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_icon_eqc.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:570
+#: ../../geovista/docs/src/generated/gallery/index.rst:585
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_lam_pacific.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_lam_pacific.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:587
+#: ../../geovista/docs/src/generated/gallery/index.rst:602
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_lam_pacific_moll.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_lam_pacific_moll.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:604
+#: ../../geovista/docs/src/generated/gallery/index.rst:619
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_lfric_sst.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_lfric_sst.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:621
+#: ../../geovista/docs/src/generated/gallery/index.rst:636
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_lfric_sst_bonne.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_lfric_sst_bonne.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:638
+#: ../../geovista/docs/src/generated/gallery/index.rst:653
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_smc.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_smc.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:655
+#: ../../geovista/docs/src/generated/gallery/index.rst:670
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_smc_sinu.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_smc_sinu.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:672
+#: ../../geovista/docs/src/generated/gallery/index.rst:687
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_tri.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_tri.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:689
+#: ../../geovista/docs/src/generated/gallery/index.rst:704
 msgid ":ref:`sphx_glr_generated_gallery_unstructured_tri_hammer.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_unstructured_tri_hammer.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:705
+#: ../../geovista/docs/src/generated/gallery/index.rst:720
 msgid "Vector Data"
 msgstr "ベクトルデータ"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:724
+#: ../../geovista/docs/src/generated/gallery/index.rst:722
+msgid "Examples of wind vector data."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/index.rst:741
 msgid ":ref:`sphx_glr_generated_gallery_vector_data_vectors.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_vector_data_vectors.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:740
+#: ../../geovista/docs/src/generated/gallery/index.rst:757
 msgid "Warp"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:759
+msgid ""
+"Manipulation of mesh surfaces to reveal surface bathymetry and topography."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/index.rst:778
 msgid ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__fvcom.py`"
 msgstr ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__fvcom.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:776
+#: ../../geovista/docs/src/generated/gallery/index.rst:795
 msgid ""
 ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__lfric_orog.py`"
 msgstr ""
 ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__lfric_orog.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:793
+#: ../../geovista/docs/src/generated/gallery/index.rst:812
 msgid ""
 ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__lfric_orog_eqc.py`"
 msgstr ""
 ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__lfric_orog_eqc.py`"
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:831
+#: ../../geovista/docs/src/generated/gallery/index.rst:850
 msgid ""
 "`Gallery generated by Sphinx-Gallery <https://sphinx-gallery.github.io>`_"
 msgstr "`Sphinx-Galleryによって生成されたギャラリー <https://sphinx-gallery.github.io>`_"
