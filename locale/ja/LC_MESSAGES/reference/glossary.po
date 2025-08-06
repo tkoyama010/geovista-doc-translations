@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev465\n"
+"Project-Id-Version: GeoVista 0.6.0.dev508\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-23 00:37+0000\n"
+"POT-Creation-Date: 2025-08-06 00:38+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -90,136 +90,176 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:38
-msgid "Face"
+msgid "Environment"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:40
+msgid ""
+"A `pixi environment`_ is a collection of one or more :term:`features "
+"<Feature>` that encapsulate its dependencies, configurations and tasks. "
+"Environments can be installed and activated to run :term:`tasks <Task>`. Our"
+" environments are defined under the ``[tool.pixi.environments]`` table in "
+"the ``pyproject.toml`` manifest file. See these `design considerations`_ for"
+" further details."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:47
+msgid "Face"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:49
 msgid "A polygonal cell in a mesh geometry. Also see :term:`Cell`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:41
+#: ../../geovista/docs/src/reference/glossary.rst:50
+msgid "Feature"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:52
+msgid ""
+"A `pixi feature`_ defines part of an :term:`environment <Environment>` and "
+"may contain ``dependencies``, ``platforms``, ``channels``, ``tasks`` and "
+"various other configurations. Our features are defined under "
+"``[tools.pixi.feature.<feature-name>.*]`` tables in the ``pyproject.toml`` "
+"manifest file. See these `design considerations`_ for further details."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:58
 msgid "Land Mask"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:43
+#: ../../geovista/docs/src/reference/glossary.rst:60
 msgid ""
 "Typically a boolean array used to indicate the cells in a mesh that "
 "represent land."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:45
+#: ../../geovista/docs/src/reference/glossary.rst:62
 msgid "Manifold"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:47
+#: ../../geovista/docs/src/reference/glossary.rst:64
 msgid "A water-tight, closed geometric structure e.g., a sphere."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:48
+#: ../../geovista/docs/src/reference/glossary.rst:65
 msgid "Mesh"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:50
+#: ../../geovista/docs/src/reference/glossary.rst:67
 msgid ""
 "A spatially referenced dataset that may be a surface or volume in 3-D space."
 " See `What is a Mesh?`_"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:52
+#: ../../geovista/docs/src/reference/glossary.rst:69
 msgid "MyST"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:54
+#: ../../geovista/docs/src/reference/glossary.rst:71
 msgid ""
 "*Markedly Structured Text* is a rich and extensible flavour of ``Markdown`` "
 "for authoring technical and scientific documents. See `myst-nb`_ and `myst-"
 "parser`_ from the `Executable Books`_ organisation."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:57
+#: ../../geovista/docs/src/reference/glossary.rst:74
 msgid "Node"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:59
+#: ../../geovista/docs/src/reference/glossary.rst:76
 msgid "Nodes are the vertices of a mesh. Also see :term:`Point`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:60
+#: ../../geovista/docs/src/reference/glossary.rst:77
 msgid "Perceptually Uniform Colormap"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:62
+#: ../../geovista/docs/src/reference/glossary.rst:79
 msgid ""
 "A colormap in which equal steps in data are perceived as equal steps in the "
 "color space."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:64
+#: ../../geovista/docs/src/reference/glossary.rst:81
 msgid "Point"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:66
+#: ../../geovista/docs/src/reference/glossary.rst:83
 msgid ""
 "Points are the vertices of the mesh, also referred to as the Cartesian "
 "coordinates of the underlying structure. See `What is a Point?`_"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:68
+#: ../../geovista/docs/src/reference/glossary.rst:85
 msgid "Rectilinear Grid"
 msgstr "直線グリッド"
 
-#: ../../geovista/docs/src/reference/glossary.rst:70
+#: ../../geovista/docs/src/reference/glossary.rst:87
 msgid ""
 "For example, a quadrilateral-cell surface that can be created from an array "
 "of 1-D ``x`` and ``y`` spatial points."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:72
+#: ../../geovista/docs/src/reference/glossary.rst:89
 msgid "Sea Mask"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:74
+#: ../../geovista/docs/src/reference/glossary.rst:91
 msgid ""
 "Typically a boolean array used to indicate the cells in a mesh that "
 "represent water e.g., river, lake, sea, ocean."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:76
+#: ../../geovista/docs/src/reference/glossary.rst:93
+msgid "Task"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:95
+msgid ""
+"A `pixi task`_ is defined as part of a :term:`feature <Feature>` to perform "
+"a cross-platform workflow command within an :term:`environment "
+"<Environment>`. Tasks are defined under the ``[tool.pixi.feature.<feature-"
+"name>.tasks.<task-name>]`` table in the ``pyproject.toml`` manifest file. "
+"See the `tasks documentation`_. for further details."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/glossary.rst:101
 msgid "Texture Map"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:78
+#: ../../geovista/docs/src/reference/glossary.rst:103
 msgid ""
 "A graphical technique where a raster image is wrapped over the surface of a "
 "geometric object."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:80
+#: ../../geovista/docs/src/reference/glossary.rst:105
 msgid "Threshold"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:82
+#: ../../geovista/docs/src/reference/glossary.rst:107
 msgid ""
 "To remove the cells from a mesh based on criteria of data associated with "
 "the mesh cells or points. See `PyVista threshold`_."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:84
+#: ../../geovista/docs/src/reference/glossary.rst:109
 msgid "Unstructured Mesh"
 msgstr "非構造化メッシュ"
 
-#: ../../geovista/docs/src/reference/glossary.rst:86
+#: ../../geovista/docs/src/reference/glossary.rst:111
 msgid ""
 "A surface that is created from a geometry of points and a topology of "
 "indices that define how cells are constructed from those points. See "
 ":term:`Connectivity`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:89
+#: ../../geovista/docs/src/reference/glossary.rst:114
 msgid "Warp"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/glossary.rst:91
+#: ../../geovista/docs/src/reference/glossary.rst:116
 msgid ""
 "Extrude the points in a mesh by a proportional amount along the surface "
 "normals. See `PyVista warp_by_scalar`_."
