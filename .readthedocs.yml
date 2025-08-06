@@ -16,14 +16,14 @@ build:
       # keep checkout untainted from RTD to ensure correct setuptools-scm version
       - git stash || true
     install:
-      - pixi install --cwd geovista --frozen --environment docs
+      - (cd geovista && pixi install --frozen --environment docs)
     post_install:
       - git stash pop || true
-      - pixi run --cwd geovista --frozen --environment docs geovista download --operational --decompress
+      - (cd geovista && pixi run geovista --frozen --environment docs geovista download --operational --decompress)
       - cp -a locale geovista/docs/src/
     build:
       html:
-        - pixi --cwd geovista run --frozen --environment docs sphinx-build -T -b html -d _build/doctrees docs/src $READTHEDOCS_OUTPUT/html
+        - (cd geovista && pixi run --frozen --environment docs sphinx-build -T -b html -d _build/doctrees docs/src $READTHEDOCS_OUTPUT/html)
 
 submodules:
   include: all
