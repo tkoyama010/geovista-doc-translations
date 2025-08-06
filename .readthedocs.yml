@@ -16,7 +16,7 @@ build:
       # keep checkout untainted from RTD to ensure correct setuptools-scm version
       - git stash || true
     install:
-      - cd geovista && pixi install --frozen --environment docs
+      - pixi install --frozen --environment docs --cwd geovista
     post_install:
       - git stash pop || true
       - cd geovista && pixi run --frozen --environment docs geovista download --operational --decompress
