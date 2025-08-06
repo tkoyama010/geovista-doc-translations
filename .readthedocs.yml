@@ -19,7 +19,7 @@ build:
       - pixi install --frozen --environment docs --cwd geovista
     post_install:
       - git stash pop || true
-      - cd geovista && pixi run --frozen --environment docs geovista download --operational --decompress
+      - pixi run --frozen --environment docs geovista download --operational --decompress --cwd geovista
       - cp -a locale geovista/docs/src/
     build:
       html:
