@@ -23,7 +23,7 @@ build:
       - cp -a locale geovista/docs/src/
     build:
       html:
-        - cd geovista && pixi run --frozen --environment docs sphinx-build -T -b html -d _build/doctrees docs/src $READTHEDOCS_OUTPUT/html
+        - pixi run --frozen --environment docs sphinx-build -T -b html -d _build/doctrees docs/src $READTHEDOCS_OUTPUT/html --cwd geovista
 
 submodules:
   include: all
