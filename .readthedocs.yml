@@ -12,13 +12,9 @@ build:
       - asdf plugin add pixi
       - asdf install pixi latest
       - asdf global pixi latest
-    pre_install:
-      # keep checkout untainted from RTD to ensure correct setuptools-scm version
-      - git stash || true
     install:
       - (cd geovista && pixi install --frozen --environment docs)
     post_install:
-      - git stash pop || true
       - (cd geovista && pixi run --frozen --environment docs geovista download --operational --decompress)
       - cp -a locale geovista/docs/src/
     build:
