@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev503\n"
+"Project-Id-Version: GeoVista 0.6.0.dev508\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-04 00:41+0000\n"
+"POT-Creation-Date: 2025-08-06 00:38+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -42,46 +42,46 @@ msgstr "conda-forge"
 
 #: ../../geovista/docs/src/installation.rst:23
 msgid ""
-"ℹ️ Consult the ``conda`` `installation instructions "
-"<https://docs.conda.io/projects/conda/en/stable/>`__."
+"ℹ️ Consult the ``conda`` `Installation "
+"<https://docs.conda.io/projects/conda/en/stable/>`__ instructions."
 msgstr ""
 
 #: ../../geovista/docs/src/installation.rst:0
 msgid "pip"
 msgstr "pip"
 
-#: ../../geovista/docs/src/installation.rst:32
+#: ../../geovista/docs/src/installation.rst:33
 msgid ""
-"ℹ️ Consult the ``pip`` `installation instructions "
-"<https://pip.pypa.io/en/stable/installation/#>`__."
+"ℹ️ Consult the ``pip`` `Installation "
+"<https://pip.pypa.io/en/stable/installation/#>`__ instructions."
 msgstr ""
 
 #: ../../geovista/docs/src/installation.rst:0
 msgid "pixi"
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:44
+#: ../../geovista/docs/src/installation.rst:46
 msgid ""
-"ℹ️ Consult the ``pixi`` `installation instructions "
-"<https://pixi.sh/latest/installation/>`__."
+"ℹ️ Consult the ``pixi`` `Installation "
+"<https://pixi.sh/latest/installation/>`__ instructions."
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:47
+#: ../../geovista/docs/src/installation.rst:50
 msgid ""
 "Additional package dependencies will be required by some of the ``geovista``"
 " gallery :ref:`tippy-gv-examples`. If these are required then instead "
 "install the latest **stable release** as follows:"
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:61
+#: ../../geovista/docs/src/installation.rst:64
 msgid "ℹ️ `conda`_ users must also install `pip`_ into their environment."
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:81
+#: ../../geovista/docs/src/installation.rst:84
 msgid "Latest"
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:83
+#: ../../geovista/docs/src/installation.rst:86
 msgid ""
 "If you simply can't wait for the next **stable release** of ``geovista``, "
 "then install the latest **development version** from the :fab:`github` "
@@ -92,28 +92,28 @@ msgstr ""
 msgid "conda"
 msgstr "conda"
 
-#: ../../geovista/docs/src/installation.rst:115
+#: ../../geovista/docs/src/installation.rst:118
 msgid "Developer"
 msgstr "開発者"
 
-#: ../../geovista/docs/src/installation.rst:130
+#: ../../geovista/docs/src/installation.rst:133
 msgid ""
 "To configure a full **developer environment**, first clone the :fab:`github`"
 " ``geovista`` repository:"
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:137
+#: ../../geovista/docs/src/installation.rst:140
 msgid "Change to the root directory of the cloned repository:"
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:143
+#: ../../geovista/docs/src/installation.rst:146
 msgid "Now install ``geovista`` and all its dependencies:"
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:166
+#: ../../geovista/docs/src/installation.rst:169
 msgid "For extra credit, install our developer `pre-commit`_ git-hooks:"
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:172
+#: ../../geovista/docs/src/installation.rst:175
 msgid "Finally, you're good to roll 🥳"
 msgstr "ついに、あなたはロールすることができます🥳"
