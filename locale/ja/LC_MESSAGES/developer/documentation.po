@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev530\n"
+"Project-Id-Version: GeoVista 0.6.0.dev546\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-23 00:32+0000\n"
+"POT-Creation-Date: 2025-09-04 00:31+0000\n"
 "PO-Revision-Date: 2025-01-29 00:30+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -87,24 +87,24 @@ msgstr ""
 #: ../../geovista/docs/src/developer/documentation.rst:74
 #: ../../geovista/docs/src/developer/documentation.rst:104
 #: ../../geovista/docs/src/developer/documentation.rst:121
-#: ../../geovista/docs/src/developer/documentation.rst:242
+#: ../../geovista/docs/src/developer/documentation.rst:268
 msgid "Description"
 msgstr "説明"
 
 #: ../../geovista/docs/src/developer/documentation.rst:53
-#: ../../geovista/docs/src/developer/documentation.rst:244
+#: ../../geovista/docs/src/developer/documentation.rst:270
 msgid ":guilabel:`clean`"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:53
-#: ../../geovista/docs/src/developer/documentation.rst:244
+#: ../../geovista/docs/src/developer/documentation.rst:270
 msgid ""
 "Purge all `sphinx-autoapi`_, `sphinx-gallery`_, `sphinx-tags`_, carousel, "
 "and other `sphinx-build`_ artifacts."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:56
-#: ../../geovista/docs/src/developer/documentation.rst:247
+#: ../../geovista/docs/src/developer/documentation.rst:273
 msgid ":guilabel:`clean-all`"
 msgstr ""
 
@@ -113,12 +113,12 @@ msgid "Perform both a ``clean`` and ``clean-cache``."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:58
-#: ../../geovista/docs/src/developer/documentation.rst:249
+#: ../../geovista/docs/src/developer/documentation.rst:275
 msgid ":guilabel:`clean-cache`"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:58
-#: ../../geovista/docs/src/developer/documentation.rst:249
+#: ../../geovista/docs/src/developer/documentation.rst:275
 msgid ""
 "Purge the `myst-nb`_ Jupyter cache. See `myst-nb configuration`_ for further"
 " details."
@@ -209,7 +209,7 @@ msgid "Render Tasks"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:106
-#: ../../geovista/docs/src/developer/documentation.rst:260
+#: ../../geovista/docs/src/developer/documentation.rst:286
 msgid ":guilabel:`serve-html`"
 msgstr ""
 
@@ -232,7 +232,7 @@ msgid "Test Tasks"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:123
-#: ../../geovista/docs/src/developer/documentation.rst:252
+#: ../../geovista/docs/src/developer/documentation.rst:278
 msgid ":guilabel:`doctest`"
 msgstr ""
 
@@ -362,10 +362,45 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:227
-msgid ":fa:`share-nodes` Pixi Workflow"
+msgid ":fa:`file-contract` Copyright & License"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:229
+msgid ""
+"Source code must contain the following copyright and license preamble at the"
+" top of the file:"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:238
+msgid ""
+"Quality assurance of preamble compliance is provided by the `ruff`_ preview "
+"rule `CPY001`_ (``flake8-copyright``)."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:241
+msgid ""
+"Configuration of this `single preview rule`_ is defined in the "
+"``pyproject.toml`` file. For further details refer to the following TOML "
+"tables:"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:244
+msgid "``[tool.ruff.lint]``"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:245
+msgid "``[tool.ruff.lint.flake8-copyright]``"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:246
+msgid "``[tool.ruff.lint.per-file-ignores]``"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:253
+msgid ":fa:`share-nodes` Pixi Workflow"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:255
 msgid ""
 "The documentation may be built and rendered using `pixi run "
 "<https://pixi.sh/latest/reference/cli/pixi/run>`__ tasks, all of which do "
@@ -373,29 +408,29 @@ msgid ""
 ":ref:`tippy-gv-developer-documentation-building` ``make`` tasks e.g.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:237
+#: ../../geovista/docs/src/developer/documentation.rst:263
 msgid "Pixi Tasks"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:242
+#: ../../geovista/docs/src/developer/documentation.rst:268
 msgid "Pixi Task"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:247
+#: ../../geovista/docs/src/developer/documentation.rst:273
 msgid "Perform both a ``clean`` and ``clean-cache`` tasks."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:252
+#: ../../geovista/docs/src/developer/documentation.rst:278
 msgid ""
 "Execute `sphinx.ext.doctest`_ to test snippets within the documentation. "
 "Note that the ``clean`` task is called prior to running this task."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:255
+#: ../../geovista/docs/src/developer/documentation.rst:281
 msgid ":guilabel:`make`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:255
+#: ../../geovista/docs/src/developer/documentation.rst:281
 msgid ""
 "Build the documentation using ``html-noplot`` by default. Pass either "
 "``html``, ``html-docstring``, ``html-gallery``, ``html-inline`` or ``html-"
@@ -403,7 +438,7 @@ msgid ""
 " Note that the ``clean`` task is called prior to running this task."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:260
+#: ../../geovista/docs/src/developer/documentation.rst:286
 msgid ""
 "Build the documentation using ``html-noplot`` by default and start a local "
 "``HTTP`` server on port ``11000`` to view the rendered documentation. This "
@@ -413,13 +448,13 @@ msgid ""
 "the ``clean`` and ``make`` tasks are called prior to running this task."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:271
+#: ../../geovista/docs/src/developer/documentation.rst:297
 msgid ""
 "Apply the ``--frozen`` option to avoid `pixi`_ checking and updating the "
 "``pixi.lock`` file."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:273
+#: ../../geovista/docs/src/developer/documentation.rst:299
 msgid ""
 "e.g., To only build the ``Gallery`` examples and serve the rendered "
 "documentation:"
