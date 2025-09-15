@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2025
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev560\n"
+"Project-Id-Version: GeoVista 0.6.0.dev566\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-11 00:32+0000\n"
+"POT-Creation-Date: 2025-09-15 19:28+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/bindings.rst:7
 msgid ":fa:`keyboard` Key Bindings"
-msgstr "fa:`keyboard` キーバインド"
+msgstr ":fa:`keyboard` キーバインド"
 
 #: ../../geovista/docs/src/reference/bindings.rst:12
 msgid "For further details also see the `pyvista keyboard bindings`_."
