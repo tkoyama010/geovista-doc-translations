@@ -9,10 +9,10 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev569\n"
+"Project-Id-Version: GeoVista 0.6.0.dev573\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-22 00:36+0000\n"
-"PO-Revision-Date: 2025-03-17 18:18+0000\n"
+"POT-Creation-Date: 2025-09-24 00:33+0000\n"
+"PO-Revision-Date: 2025-09-24 00:36+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -21,10 +21,10 @@ msgstr ""
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../geovista/docs/src/tags/render-subplots.rst:6
+#: ../../geovista/docs/src/tags/plot-subplots.rst:6
 msgid "Tagged content:"
 msgstr "タグ付けされたコンテンツ:"
 
-#: ../../geovista/docs/src/tags/render-subplots.rst:4
-msgid ":fa:`tags` Tag: render: subplots"
+#: ../../geovista/docs/src/tags/plot-subplots.rst:4
+msgid ":fa:`tags` Tag: plot: subplots"
 msgstr ""

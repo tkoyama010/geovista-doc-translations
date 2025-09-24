@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev569\n"
+"Project-Id-Version: GeoVista 0.6.0.dev573\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-22 00:36+0000\n"
+"POT-Creation-Date: 2025-09-24 00:33+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -21,138 +21,138 @@ msgstr ""
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "component: coastlines (26)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "component: graticule (6)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "component: manifold (2)"
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
+msgid "component: manifold (3)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "component: texture (23)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "component: vectors (1)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "domain: meteorology (6)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "domain: oceanography (13)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "domain: orography (5)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "domain: seismology (2)"
 msgstr "domain: seismology (2)"
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "filter: cast (2)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "filter: contour (1)"
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
+msgid "filter: contour (2)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "filter: extrude (1)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "filter: threshold (12)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "filter: triangulate (1)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "filter: warp (4)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "load: curvilinear (2)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "load: geotiff (2)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "load: points (4)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "load: rectilinear (2)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "load: unstructured (16)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
+msgid "plot: camera (2)"
+msgstr ""
+
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
+msgid "plot: subplots (1)"
+msgstr ""
+
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "projection: crs (12)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "projection: transform (2)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "render: camera (2)"
-msgstr ""
-
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
-msgid "render: subplots (1)"
-msgstr ""
-
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "resolution: high (2)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "sample: unstructured (5)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "style: colormap (5)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "style: lighting (2)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "style: opacity (4)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "style: shading (1)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "widget: checkbox (1)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "widget: logo (1)"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:8
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "Themed content tags:"
 msgstr ""
 
-#: ../../geovista/docs/src/tags/tagsindex.rst:6
+#: ../../geovista/docs/src/tags/tagsindex.rst:8
 msgid ":fa:`tags` Tags"
 msgstr ":fa:`tags` Tags"
