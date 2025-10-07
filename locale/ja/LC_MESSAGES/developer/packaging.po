@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev588\n"
+"Project-Id-Version: GeoVista 0.6.0.dev590\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-06 00:33+0000\n"
+"POT-Creation-Date: 2025-10-07 00:32+0000\n"
 "PO-Revision-Date: 2025-08-06 00:41+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -403,7 +403,7 @@ msgid ":fab:`github` Continuous Integration"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:202
-msgid "The following packaging :fab:`github` workflows are available:"
+msgid "The following packaging workflows are available:"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:204
@@ -424,13 +424,13 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:211
 msgid ""
-"The `ci-locks.yml`_ ``cron`` based workflow regularly schedules ``pixi`` to "
-"refresh the ``pixi.lock`` file based on the ``pyproject.toml`` manifest and "
-"the latest package versions available from the ``conda`` and ``PyPI`` "
-"ecosystems."
+"The `ci-locks.yml`_ ``cron`` based :term:`GHA workflow <GHA>` regularly "
+"schedules ``pixi`` to refresh the ``pixi.lock`` file based on the "
+"``pyproject.toml`` manifest and the latest package versions available from "
+"the ``conda`` and ``PyPI`` ecosystems."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:215
+#: ../../geovista/docs/src/developer/packaging.rst:216
 msgid ""
 "Only the **latest** ``python`` variant of the :guilabel:`geovista-py3xx` "
 "environment e.g., :guilabel:`geovista-py313`, will be exported to a "
@@ -439,7 +439,7 @@ msgid ""
 "available in the `requirements/locks`_ directory."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:221
+#: ../../geovista/docs/src/developer/packaging.rst:222
 msgid ""
 "Additionally, the :guilabel:`geovista-py3xx` environment will be exported to"
 " the ``conda`` environment YAML file `requirements/geovista.yml`_ containing"
@@ -447,7 +447,7 @@ msgid ""
 ":ref:`features <tippy-gv-developer-packaging-pixi-solve-groups>`."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:226
+#: ../../geovista/docs/src/developer/packaging.rst:227
 msgid "|ci-wheels|"
 msgstr ""
 
@@ -455,44 +455,44 @@ msgstr ""
 msgid "ci-wheels"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:226
+#: ../../geovista/docs/src/developer/packaging.rst:227
 msgid ""
-"The `ci-wheels.yml`_ workflow builds, tests and publishes the source "
-"distribution (``sdist``) and binary ``wheel`` of ``geovista``."
+"The `ci-wheels.yml`_ :term:`GHA workflow <GHA>` builds, tests and publishes "
+"the source distribution (``sdist``) and binary ``wheel`` of ``geovista``."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:229
+#: ../../geovista/docs/src/developer/packaging.rst:230
 msgid ""
-"Note that we have adopted `PyPI Trusted Publishing`_ with `OpenID Connect "
-"(OIDC)`_ for secure deployments."
+"We have adopted `PyPI Trusted Publishing`_ with `OpenID Connect (OIDC)`_ for"
+" secure deployments of assets."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:232
+#: ../../geovista/docs/src/developer/packaging.rst:233
 msgid ""
-"The ``sdist`` and ``wheel`` assets are automatically published to `Test "
-"PyPI`_ for each ``pull-request`` merged to the ``main`` branch, and `PyPI`_ "
-"for each release ``tag``."
+"Note that the ``sdist`` and ``wheel`` assets are automatically published to "
+"`Test PyPI`_ for each ``pull-request`` merged to the ``main`` branch, and "
+"`PyPI`_ for each ``tag`` release."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:239
+#: ../../geovista/docs/src/developer/packaging.rst:240
 msgid ":fab:`python` Python Package Index"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:241
+#: ../../geovista/docs/src/developer/packaging.rst:242
 msgid ""
 "``PyPI`` package dependencies are configured in the ``pyproject.toml`` "
 "manifest file under the ``[tool.setuptools.dynamic]`` and "
 "``[tool.setuptools.dynamic.optional-dependencies]`` table entries."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:245
+#: ../../geovista/docs/src/developer/packaging.rst:246
 msgid ""
 "Version management of our ``PyPI`` dependencies is orchestrated by "
 ":fab:`github` `Dependabot`_. Refer to the ``package-ecosystem: \"pip\"`` key"
 " entry in the `.github/dependabot.yml`_ file for further details."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:249
+#: ../../geovista/docs/src/developer/packaging.rst:250
 msgid ""
 "The :fab:`github` `Dependabot`_ service is regularly scheduled to check the "
 "versions of our dependencies and automatically increment them using maximum "
@@ -500,14 +500,14 @@ msgid ""
 "package updates within the ``PyPI`` ecosystem."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:257
+#: ../../geovista/docs/src/developer/packaging.rst:258
 msgid ""
 "Updates to the ``PyPI`` maximum capping pins may require to be manually "
 "reflected in the ``pyproject.toml`` manifest for similar ``pixi`` managed "
 "``conda`` dependencies."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:261
+#: ../../geovista/docs/src/developer/packaging.rst:262
 msgid ""
 "Track native :fab:`github` `Dependabot`_ support for ``pixi`` in "
 "`dependabot/dependabot-core issue#2227`_ 🤞"

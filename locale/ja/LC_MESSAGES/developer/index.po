@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev586\n"
+"Project-Id-Version: GeoVista 0.6.0.dev590\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-05 00:36+0000\n"
+"POT-Creation-Date: 2025-10-07 00:32+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -47,7 +47,7 @@ msgstr ""
 msgid ""
 "Firstly, and most importantly, thanks for contributing! All contributions, "
 "no matter how large or small are greatly appreciated and welcomed."
-msgstr ""
+msgstr "まず第一に、そして最も重要なこととして、ご貢献いただきありがとうございます！大小を問わず、すべての貢献に深く感謝し、歓迎いたします。"
 
 #: ../../geovista/docs/src/developer/index.rst:23
 msgid ""
