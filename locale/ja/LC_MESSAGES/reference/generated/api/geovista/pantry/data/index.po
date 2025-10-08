@@ -1,0 +1,493 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021 - 2025, GeoVista Contributors
+# This file is distributed under the same license as the GeoVista package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GeoVista 0.6.0.dev569\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-22 00:36+0000\n"
+"PO-Revision-Date: 2024-07-17 09:58+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:2
+msgid ":py:mod:`geovista.pantry.data`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:8
+msgid "Download, cache and load geovista sample data."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:11
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:76
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:362
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:400
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:431
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:466
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:497
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:529
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:568
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:600
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:632
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:664
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:695
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:727
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:758
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:789
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:820
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:851
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:882
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:913
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:943
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:978
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:1009
+msgid "Notes"
+msgstr "ノート"
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:19
+msgid "Attributes"
+msgstr "属性"
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:25:<autosummary>:1
+msgid ""
+":py:obj:`CLOUD_AMOUNT_PREFERENCE "
+"<geovista.pantry.data.CLOUD_AMOUNT_PREFERENCE>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:1023
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:25:<autosummary>:1
+msgid "The default type of cloud amount mesh."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:27
+msgid "Classes"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:36:<autosummary>:1
+msgid ":py:obj:`CloudPreference <geovista.pantry.data.CloudPreference>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:73
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:36:<autosummary>:1
+msgid "Enumeration of mesh types for cloud amount."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:36:<autosummary>:1
+msgid ":py:obj:`SampleStructuredXY <geovista.pantry.data.SampleStructuredXY>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:130
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:36:<autosummary>:1
+msgid "Data container for structured surface."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:36:<autosummary>:1
+msgid ""
+":py:obj:`SampleStructuredXYZ <geovista.pantry.data.SampleStructuredXYZ>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:191
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:36:<autosummary>:1
+msgid "Data container for structured volume."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:36:<autosummary>:1
+msgid ""
+":py:obj:`SampleUnstructuredXY <geovista.pantry.data.SampleUnstructuredXY>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:256
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:36:<autosummary>:1
+msgid "Data container for unstructured surface."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:38
+msgid "Functions"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ":py:obj:`capitalise <geovista.pantry.data.capitalise>`\\ \\(title\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:339
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid "Capitalise each word and replace inappropriate characters."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ""
+":py:obj:`cloud_amount <geovista.pantry.data.cloud_amount>`\\ \\(\\*\\[\\, "
+"preference\\]\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:373
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid "Download and cache unstructured cloud amount data."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ":py:obj:`dynamico <geovista.pantry.data.dynamico>`\\ \\(\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:411
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:442
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:477
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:508
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:547
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:579
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:611
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:643
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:675
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:706
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:738
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:769
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:800
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:954
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:989
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid "Download and cache unstructured surface sample data."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ":py:obj:`fesom <geovista.pantry.data.fesom>`\\ \\(\\*\\[\\, step\\]\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ":py:obj:`fvcom_tamar <geovista.pantry.data.fvcom_tamar>`\\ \\(\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ":py:obj:`icon_soil <geovista.pantry.data.icon_soil>`\\ \\(\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ":py:obj:`lam_equator <geovista.pantry.data.lam_equator>`\\ \\(\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ":py:obj:`lam_falklands <geovista.pantry.data.lam_falklands>`\\ \\(\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ":py:obj:`lam_london <geovista.pantry.data.lam_london>`\\ \\(\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ":py:obj:`lam_new_zealand <geovista.pantry.data.lam_new_zealand>`\\ \\(\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ":py:obj:`lam_pacific <geovista.pantry.data.lam_pacific>`\\ \\(\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ":py:obj:`lam_polar <geovista.pantry.data.lam_polar>`\\ \\(\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ":py:obj:`lam_uk <geovista.pantry.data.lam_uk>`\\ \\(\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ":py:obj:`lfric_orog <geovista.pantry.data.lfric_orog>`\\ \\(\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ":py:obj:`lfric_sst <geovista.pantry.data.lfric_sst>`\\ \\(\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ":py:obj:`nemo_orca2 <geovista.pantry.data.nemo_orca2>`\\ \\(\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:831
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:893
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid "Download and cache structured surface sample data."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ""
+":py:obj:`nemo_orca2_gradient <geovista.pantry.data.nemo_orca2_gradient>`\\ "
+"\\(\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:862
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid "Download and cache point-cloud sample data."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ":py:obj:`oisst_avhrr_sst <geovista.pantry.data.oisst_avhrr_sst>`\\ \\(\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ":py:obj:`usgs_earthquakes <geovista.pantry.data.usgs_earthquakes>`\\ \\(\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:924
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid "Download and cache the USGS HoloViz large earthquake dataset."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ""
+":py:obj:`ww3_global_smc <geovista.pantry.data.ww3_global_smc>`\\ "
+"\\(\\*\\[\\, step\\]\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:64:<autosummary>:1
+msgid ":py:obj:`ww3_global_tri <geovista.pantry.data.ww3_global_tri>`\\ \\(\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:66
+msgid "Module Contents"
+msgstr "モジュール内容"
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:70
+msgid "Bases: :py:obj:`geovista.common.StrEnumPlus`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:81
+msgid "Initialize self.  See help(type(self)) for accurate signature."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:0
+msgid "Parameters"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:344
+msgid "**title** : :class:`python:str`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:343
+msgid "python:str"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:345
+msgid "The string title to be reformatted."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:0
+msgid "Returns"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:351
+msgid ":class:`python:str`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:352
+msgid "The capitalised title."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:375
+msgid ""
+"Load Met Office LFRic c768 unstructured cubed-sphere quad-mesh cloud amount "
+"data."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:380
+msgid ""
+"**preference** : :class:`python:str` or :obj:`CloudPreference "
+"<geovista.pantry.data.CloudPreference>`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:379
+msgid "python:str or CloudPreference, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:381
+msgid ""
+"The cloud type, which may be ``low``, ``medium``, ``high``, ``very_high`` or"
+" ``mesh``. Defaults to ``mesh``, the c768 mesh with no data payload "
+"attached."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:389
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:420
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:455
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:486
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:518
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:557
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:589
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:621
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:653
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:684
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:716
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:747
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:778
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:809
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:967
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:998
+msgid ":obj:`SampleUnstructuredXY`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:390
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:456
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:487
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:519
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:685
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:779
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:810
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:968
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:999
+msgid "The unstructured spatial coordinates and data payload."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:413
+msgid "Load DYNAMICO icosahedral unstructured mesh."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:421
+msgid ""
+"The hexagonal/pentagonal unstructured spatial coordinates and data payload."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:444
+msgid "Load AWI-CM FESOM 1.4 unstructured mesh."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:448
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:960
+msgid "**step** : :class:`python:int`, default=0"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:447
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:959
+msgid "python:int, default=0"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:449
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:961
+msgid "The time-series offset."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:479
+msgid "Load PML FVCOM unstructured mesh."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:510
+msgid ""
+"Load Icosahedral Nonhydrostatic Weather and Climate Model (ICON) global "
+"160km resolution (R02B04 grid) triangular mesh."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:533
+msgid "References"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:534
+msgid "Sourced from http://icon-downloads.mpimet.mpg.de/dwd_grids.xml"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:549
+msgid ""
+"Load the GungHo C4 cubed-sphere LAM unstructured mesh located over the "
+"equator."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:558
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:590
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:622
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:654
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:717
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:748
+msgid "The unstructured spatial coordinates and connectivity."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:581
+msgid ""
+"Load the GungHo C4 cubed-sphere LAM unstructured mesh located over the "
+"Falkland Islands."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:613
+msgid ""
+"Load the GungHo C4 cubed-sphere LAM unstructured mesh located over London, "
+"UK."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:645
+msgid ""
+"Load the GungHo C4 cubed-sphere LAM unstructured mesh located over New "
+"Zealand."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:677
+msgid ""
+"Load a high-resolution LAM unstructured mesh located over the Pacific Ocean."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:708
+msgid ""
+"Load the GungHo C4 cubed-sphere LAM unstructured mesh located over the Polar"
+" cap."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:740
+msgid ""
+"Load the GungHo C4 cubed-sphere LAM unstructured mesh located over the UK."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:771
+msgid "Load CF UGRID global nodal orography unstructured mesh."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:802
+msgid "Load CF UGRID global unstructured mesh."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:833
+msgid "Load NEMO ORCA2 curvilinear mesh."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:840
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:902
+msgid ":obj:`SampleStructuredXY`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:841
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:903
+msgid "The curvilinear spatial coordinates and data payload."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:864
+msgid "Load NEMO ORCA2 curvilinear mesh with gradient filter."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:871
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:932
+msgid ":obj:`SampleStructuredXYZ`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:872
+msgid "The gradient filtered spatial coordinates and data payload."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:895
+msgid "Load NOAA/NCEI OISST AVHRR rectilinear mesh."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:933
+msgid "The spatial coordinates and data payload."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:956
+msgid ""
+"Load the WAVEWATCH III (WW3) unstructured Spherical Multi-Cell (SMC) mesh."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/pantry/data/index.rst:991
+msgid "Load the WAVEWATCH III (WW3) unstructured triangular mesh."
+msgstr ""
