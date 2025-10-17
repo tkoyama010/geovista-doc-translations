@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev590\n"
+"Project-Id-Version: GeoVista 0.6.0.dev617\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-07 00:32+0000\n"
+"POT-Creation-Date: 2025-10-17 00:33+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -36,7 +36,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/glossary.rst:15
 msgid ""
 "Represents an object (geometry and properties) in a rendered scene. See "
-"`vtkActor`_."
+":vtk:`vtkActor`."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:17
