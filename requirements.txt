@@ -1,4 +1,4 @@
 -r geovista/requirements/pypi-optional-docs.txt
 -r geovista/requirements/pypi-optional-exam.txt
 geovista @ git+https://github.com/bjlittle/geovista.git
-sphinx-intl[transifex]==2.3.1
+sphinx-intl[transifex]==2.3.2
