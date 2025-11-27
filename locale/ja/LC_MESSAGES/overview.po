@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev685\n"
+"Project-Id-Version: GeoVista 0.6.0.dev688\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-23 00:40+0000\n"
+"POT-Creation-Date: 2025-11-27 00:34+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -91,11 +91,11 @@ msgstr ""
 "コミュニティに対して可能な限り柔軟でオープンなものでありたいと考えています。 つまり、 ``geovista`` は `geopandas`_ 、 "
 "`iris`_ 、 `xarray`_ などの空間データを可視化するための準備に特化したパッケージとは無関係であり続けます。"
 
-#: ../../geovista/docs/src/overview.rst:51
+#: ../../geovista/docs/src/overview.rst:54
 msgid "Ecosystem"
 msgstr "エコシステム"
 
-#: ../../geovista/docs/src/overview.rst:53
+#: ../../geovista/docs/src/overview.rst:56
 msgid ""
 "``geovista`` is built on the shoulders of giants, namely `PyVista`_ and the "
 "`Visualization Toolkit`_ (VTK), thus allowing it to easily leverage the "
@@ -104,15 +104,15 @@ msgstr ""
 "``geovista`` は、 `PyVista`_ とVisualization Toolkit "
 "(VTK)という巨人の肩の上に構築されているため、GPUのパワーを簡単に活用することができます。"
 
-#: ../../geovista/docs/src/overview.rst:57
+#: ../../geovista/docs/src/overview.rst:60
 msgid "GeoVista Ecosystem"
 msgstr "GeoVistaエコシステム"
 
-#: ../../geovista/docs/src/overview.rst:62
+#: ../../geovista/docs/src/overview.rst:65
 msgid "Ecosystem of ``geovista``"
 msgstr "``geovista`` のエコシステム"
 
-#: ../../geovista/docs/src/overview.rst:65
+#: ../../geovista/docs/src/overview.rst:68
 msgid ""
 "As shown above, ``geovista`` is built upon a performant, established, and "
 "feature rich `VTK`_ toolchain, which is supported and maintained by "
@@ -121,7 +121,7 @@ msgstr ""
 "上に示したように、 ``geovista`` は、 ``Kitware`_ "
 "とオープンソースコミュニティによってサポートされ、保守されている、性能が高く、機能が豊富な `VTK`_ ツールチェインに基づいて構築されています。"
 
-#: ../../geovista/docs/src/overview.rst:69
+#: ../../geovista/docs/src/overview.rst:72
 msgid ""
 "This toolchain is enabled through `PyVista`_, which exposes the powerful "
 "visualization backend of `VTK`_ through an intuitive Pythonic interface."
@@ -129,68 +129,68 @@ msgstr ""
 "このツールチェーンは、直感的なPythonicインターフェイスを通して `VTK`_ の強力な可視化バックエンドを公開する `PyVista`_ "
 "によって実現されます。"
 
-#: ../../geovista/docs/src/overview.rst:74
+#: ../../geovista/docs/src/overview.rst:77
 msgid "PyVista in a Nutshell"
 msgstr "PyVistaの概要"
 
-#: ../../geovista/docs/src/overview.rst:76
-#: ../../geovista/docs/src/overview.rst:82
+#: ../../geovista/docs/src/overview.rst:79
+#: ../../geovista/docs/src/overview.rst:84
 msgid "PyVista Examples"
 msgstr "PyVista の例"
 
-#: ../../geovista/docs/src/overview.rst:85
+#: ../../geovista/docs/src/overview.rst:87
 msgid ""
 "`PyVista`_ is a powerful open-source 3-D visualization library built on "
 "`VTK`_, providing:"
 msgstr "`PyVista`_ は `VTK`_ をベースに構築された強力なオープンソースの3D可視化ライブラリで、次のような機能を提供します:"
 
-#: ../../geovista/docs/src/overview.rst:88
+#: ../../geovista/docs/src/overview.rst:90
 msgid "A Pythonic, high-level, and streamlined API to `VTK`_"
 msgstr "Pythonic な、高レベルで合理化された `VTK`_ への API。"
 
-#: ../../geovista/docs/src/overview.rst:89
+#: ../../geovista/docs/src/overview.rst:91
 msgid "`Mesh data structures`_"
 msgstr "`メッシュデータ構造`_"
 
-#: ../../geovista/docs/src/overview.rst:90
+#: ../../geovista/docs/src/overview.rst:92
 msgid ""
 "Batteries-included access to a rich suite of mesh `filtering algorithms`_"
 msgstr "豊富なメッシュ `filtering algorithms`_ にアクセスするためのバッテリーが含まれています。"
 
-#: ../../geovista/docs/src/overview.rst:91
+#: ../../geovista/docs/src/overview.rst:93
 msgid "GPU accelerated visualization"
 msgstr "GPUアクセラレーションによる可視化"
 
-#: ../../geovista/docs/src/overview.rst:92
+#: ../../geovista/docs/src/overview.rst:94
 msgid "Scales up to large and complex geometries"
 msgstr "大きく複雑な形状にも対応可能"
 
-#: ../../geovista/docs/src/overview.rst:93
+#: ../../geovista/docs/src/overview.rst:95
 msgid ""
-"Interoperability with `ParaView`_ through `VTK`_ (see :numref:`ecosystem-"
-"figure`)"
-msgstr "`VTK`_ による `ParaView`_ との相互運用性( :numref:`ecosystem-figure` を参照)"
+"Interoperability with `ParaView`_ through `VTK`_ (see :numref:`tippy-gv-"
+"overview-ecosystem-geovista-ecosystem`)"
+msgstr ""
 
-#: ../../geovista/docs/src/overview.rst:94
+#: ../../geovista/docs/src/overview.rst:96
 msgid "Static and interactive plot integration within `Jupyter`_ ecosystem"
 msgstr "`Jupyter`_ エコシステム内での静的およびインタラクティブなプロットの統合"
 
-#: ../../geovista/docs/src/overview.rst:98
+#: ../../geovista/docs/src/overview.rst:100
 msgid "Development Status"
 msgstr "開発状況"
 
-#: ../../geovista/docs/src/overview.rst:100
+#: ../../geovista/docs/src/overview.rst:102
 msgid ""
 "It's still early days for ``geovista``, but we're already excited about the "
 "potential and promise that it might offer to the Earth Science community."
 msgstr "``geovista`` はまだ日が浅いですが、地球科学コミュニティに提供できる可能性と将来性にすでに興奮しています。"
 
-#: ../../geovista/docs/src/overview.rst:103
+#: ../../geovista/docs/src/overview.rst:105
 msgid ""
 "Our primary focus at the moment is to provision a stable API and core set of"
 " features ... we're working hard on that, but we're not there yet!"
 msgstr "現在、私たちが最も力を入れているのは ... 安定したAPIとコアとなる機能を提供することです！"
 
-#: ../../geovista/docs/src/overview.rst:106
+#: ../../geovista/docs/src/overview.rst:108
 msgid "Thanks for your patience 🙏"
 msgstr "お待たせしております🙏"

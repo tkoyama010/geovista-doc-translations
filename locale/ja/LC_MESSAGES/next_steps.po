@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev668\n"
+"Project-Id-Version: GeoVista 0.6.0.dev688\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-15 00:34+0000\n"
+"POT-Creation-Date: 2025-11-27 00:34+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -52,121 +52,119 @@ msgstr "``geovista`` を最大限に活用するために、私たちは `Diáta
 msgid ""
 "It provides best practice advice on how to *organise* documentation in a "
 "systematic way, with a focus on *content* and *style* that addresses the "
-"four distinct needs of documentation users (see :numref:`diátaxis-figure`)."
+"four distinct needs of documentation users (see :numref:`tippy-gv-next-"
+"steps-diátaxis-axes-of-needs`)."
 msgstr ""
 
-#: ../../geovista/docs/src/next_steps.rst:29
-msgid "Diátaxis Axis of Needs"
-msgstr "Diátaxis ニーズの軸"
-
-#: ../../geovista/docs/src/next_steps.rst:35
+#: ../../geovista/docs/src/next_steps.rst:30
+#: ../../geovista/docs/src/next_steps.rst:36
 msgid "Diátaxis Axes of Needs"
 msgstr "Diátaxis ニーズの軸"
 
-#: ../../geovista/docs/src/next_steps.rst:41
+#: ../../geovista/docs/src/next_steps.rst:42
 msgid ""
 "Namely, acquiring *practical knowledge*, knowing *how*, through *working*:"
 msgstr ""
 
-#: ../../geovista/docs/src/next_steps.rst:43
+#: ../../geovista/docs/src/next_steps.rst:44
 msgid "**Tutorials** - A learning experience through practical lessons."
 msgstr ""
 
-#: ../../geovista/docs/src/next_steps.rst:44
+#: ../../geovista/docs/src/next_steps.rst:45
 msgid "**How-To Guides** - Goal-focused practical guides on specific topics."
 msgstr ""
 
-#: ../../geovista/docs/src/next_steps.rst:46
+#: ../../geovista/docs/src/next_steps.rst:47
 msgid "Acquiring *theoretical knowledge*, knowing *that*, through *studying*:"
 msgstr ""
 
-#: ../../geovista/docs/src/next_steps.rst:48
+#: ../../geovista/docs/src/next_steps.rst:49
 msgid ""
 "**Explanation** - Achieve understanding through discussion and reflection."
 msgstr ""
 
-#: ../../geovista/docs/src/next_steps.rst:49
+#: ../../geovista/docs/src/next_steps.rst:50
 msgid "**Reference** - Succinct factual information laid bare."
 msgstr ""
 
-#: ../../geovista/docs/src/next_steps.rst:52
+#: ../../geovista/docs/src/next_steps.rst:53
 msgid ""
 "So if you learn by *doing*, then explore our *hands-on* themed lessons or "
 "topic specific how-tos:"
 msgstr ""
 
-#: ../../geovista/docs/src/next_steps.rst:58
+#: ../../geovista/docs/src/next_steps.rst:59
 msgid "Tutorials"
 msgstr "チュートリアル"
 
-#: ../../geovista/docs/src/next_steps.rst:67
+#: ../../geovista/docs/src/next_steps.rst:68
 msgid "Topic driven themed lessons."
 msgstr "トピックに沿ったテーマ別レッスン。"
 
-#: ../../geovista/docs/src/next_steps.rst:69
+#: ../../geovista/docs/src/next_steps.rst:70
 msgid "🚧 How-To Guides"
 msgstr "🚧 ハウツーガイド"
 
-#: ../../geovista/docs/src/next_steps.rst:78
+#: ../../geovista/docs/src/next_steps.rst:79
 msgid "Treasure trove of focused guides."
 msgstr "集中ガイドの宝庫。"
 
-#: ../../geovista/docs/src/next_steps.rst:81
+#: ../../geovista/docs/src/next_steps.rst:82
 msgid ""
 "If you learn by *studying*, then delve into unfolding explanations or simply"
 " consult the facts:"
 msgstr ""
 
-#: ../../geovista/docs/src/next_steps.rst:87
+#: ../../geovista/docs/src/next_steps.rst:88
 msgid "🚧 Explanation"
 msgstr "🚧 説明"
 
-#: ../../geovista/docs/src/next_steps.rst:96
+#: ../../geovista/docs/src/next_steps.rst:97
 msgid "Deeper understanding awaits."
 msgstr "深い理解が待っている。"
 
-#: ../../geovista/docs/src/next_steps.rst:98
+#: ../../geovista/docs/src/next_steps.rst:99
 msgid "Reference"
 msgstr "参照"
 
-#: ../../geovista/docs/src/next_steps.rst:107
+#: ../../geovista/docs/src/next_steps.rst:108
 msgid "No fuss facts."
 msgstr "大げさな事実はない。"
 
-#: ../../geovista/docs/src/next_steps.rst:110
+#: ../../geovista/docs/src/next_steps.rst:111
 msgid ""
 "If you're visually motivated and simply want to see some eye-candy, then why"
 " not dive straight into our gallery. Alternatively, use our topic based tags"
 " to navigate your way to gallery examples organised by specific features:"
 msgstr ""
 
-#: ../../geovista/docs/src/next_steps.rst:117
+#: ../../geovista/docs/src/next_steps.rst:118
 msgid "Examples"
 msgstr ""
 
-#: ../../geovista/docs/src/next_steps.rst:126
+#: ../../geovista/docs/src/next_steps.rst:127
 msgid "Peruse the Gallery."
 msgstr ""
 
-#: ../../geovista/docs/src/next_steps.rst:128
+#: ../../geovista/docs/src/next_steps.rst:129
 msgid "Tags"
 msgstr "タグ"
 
-#: ../../geovista/docs/src/next_steps.rst:137
+#: ../../geovista/docs/src/next_steps.rst:138
 msgid "Examples themed by feature."
 msgstr ""
 
-#: ../../geovista/docs/src/next_steps.rst:140
+#: ../../geovista/docs/src/next_steps.rst:141
 msgid ""
 "However, if you're a developer and want to contribute, then we've curated "
 "some best practice, process and advice that'll help you get up and running "
 "in a snap:"
 msgstr ""
 
-#: ../../geovista/docs/src/next_steps.rst:144
+#: ../../geovista/docs/src/next_steps.rst:145
 msgid "Contributing"
 msgstr "貢献"
 
-#: ../../geovista/docs/src/next_steps.rst:155
+#: ../../geovista/docs/src/next_steps.rst:156
 msgid "Developer guidelines."
 msgstr ""
