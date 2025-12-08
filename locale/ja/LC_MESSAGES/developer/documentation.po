@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev690\n"
+"Project-Id-Version: GeoVista 0.6.0.dev704\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-28 00:34+0000\n"
+"POT-Creation-Date: 2025-12-08 00:37+0000\n"
 "PO-Revision-Date: 2025-01-29 00:30+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -38,28 +38,30 @@ msgstr ""
 #: ../../geovista/docs/src/developer/documentation.rst:18
 msgid ""
 "The documentation is built using `sphinx`_ to parse and render "
-"`reStructuredText`_ (``rst``) documents into ``HTML``."
+"`reStructuredText`_ (:bash:`rst`) documents into ``HTML``."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:21
 msgid ""
 "We also use `myst-parser`_, a ``sphinx`` and `docutils`_ extension to parse "
-"and convert :term:`MyST` to ``rst``, and `myst-nb`_ to execute and convert "
-"`Jupyter Notebooks`_ into ``sphinx`` documents."
+"and convert :term:`MyST` to :bash:`rst`, and `myst-nb`_ to execute and "
+"convert `Jupyter Notebooks`_ into ``sphinx`` documents."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:28
-msgid "For configuration details see ``Makefile`` and ``conf.py``."
+msgid "For configuration details see :bash:`Makefile` and :bash:`conf.py`."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:30
 msgid ""
 "The documentation is built using `sphinx-build`_ and the `GNU make`_ tool "
-"from within the ``docs`` directory e.g.,"
+"from within the :bash:`docs` root directory e.g.,"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:38
-msgid "The following sections describe the ``make`` tasks that are available."
+msgid ""
+"The following sections describe the ``make`` command tasks that are "
+"available."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:42
@@ -88,40 +90,40 @@ msgstr ""
 #: ../../geovista/docs/src/developer/documentation.rst:112
 #: ../../geovista/docs/src/developer/documentation.rst:129
 #: ../../geovista/docs/src/developer/documentation.rst:183
-#: ../../geovista/docs/src/developer/documentation.rst:341
-#: ../../geovista/docs/src/developer/documentation.rst:440
+#: ../../geovista/docs/src/developer/documentation.rst:350
+#: ../../geovista/docs/src/developer/documentation.rst:449
 msgid "Description"
 msgstr "説明"
 
 #: ../../geovista/docs/src/developer/documentation.rst:53
-#: ../../geovista/docs/src/developer/documentation.rst:343
+#: ../../geovista/docs/src/developer/documentation.rst:352
 msgid ":guilabel:`clean`"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:53
-#: ../../geovista/docs/src/developer/documentation.rst:343
+#: ../../geovista/docs/src/developer/documentation.rst:352
 msgid ""
 "Purge all `sphinx-autoapi`_, `sphinx-gallery`_, `sphinx-tags`_, carousel, "
 "and other `sphinx-build`_ artifacts."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:56
-#: ../../geovista/docs/src/developer/documentation.rst:346
+#: ../../geovista/docs/src/developer/documentation.rst:355
 msgid ":guilabel:`clean-all`"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:56
-#: ../../geovista/docs/src/developer/documentation.rst:346
+#: ../../geovista/docs/src/developer/documentation.rst:355
 msgid "Perform both the :guilabel:`clean` and :guilabel:`clean-cache` tasks."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:58
-#: ../../geovista/docs/src/developer/documentation.rst:348
+#: ../../geovista/docs/src/developer/documentation.rst:357
 msgid ":guilabel:`clean-cache`"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:58
-#: ../../geovista/docs/src/developer/documentation.rst:348
+#: ../../geovista/docs/src/developer/documentation.rst:357
 msgid ""
 "Purge the `myst-nb`_ Jupyter cache. See `myst-nb configuration`_ for further"
 " details."
@@ -225,7 +227,7 @@ msgid "Render Tasks"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:114
-#: ../../geovista/docs/src/developer/documentation.rst:360
+#: ../../geovista/docs/src/developer/documentation.rst:369
 msgid ":guilabel:`serve-html`"
 msgstr ""
 
@@ -248,7 +250,7 @@ msgid "Test Tasks"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:131
-#: ../../geovista/docs/src/developer/documentation.rst:351
+#: ../../geovista/docs/src/developer/documentation.rst:360
 msgid ":guilabel:`doctest`"
 msgstr ""
 
@@ -271,9 +273,9 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:144
 msgid ""
-"Static icon assets are located in the ``docs/src/_static/images/icons`` "
-"directory, along with the Font Awesome ``LICENSE.txt`` file. Refer to the "
-"``docs/src/conf.py`` for asset configuration details."
+"Static icon assets are located in the :bash:`docs/src/_static/images/icons` "
+"directory, along with the Font Awesome :bash:`LICENSE.txt` file. Refer to "
+"the :bash:`docs/src/conf.py` for asset configuration details."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:148
@@ -348,8 +350,8 @@ msgstr ""
 #: ../../geovista/docs/src/developer/documentation.rst:192
 msgid ""
 "The `ci-tests-docs.yml`_ :fab:`github` Action builds the documentation using"
-" the ``make`` task :guilabel:`html-docstring-inline` and then performs image"
-" testing of ``pyvista-plot`` directive static scenes."
+" the ``make`` command task :guilabel:`html-docstring-inline` and then "
+"performs image testing of ``pyvista-plot`` directive static scenes."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:196
@@ -382,7 +384,7 @@ msgstr ""
 #: ../../geovista/docs/src/developer/documentation.rst:206
 msgid ""
 "Refer to the `Builds`_ section for a render of the documentation for each "
-"``pull-request``."
+":fa:`code-pull-request` ``pull-request``."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:215
@@ -404,20 +406,20 @@ msgstr ""
 #: ../../geovista/docs/src/developer/documentation.rst:229
 msgid ""
 "Configuration of this `single preview rule`_ is defined in the "
-"``pyproject.toml`` file. For further details refer to the following TOML "
-"tables:"
+":bash:`pyproject.toml` manifest. For further details refer to the following "
+"TOML tables:"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:232
-msgid "``[tool.ruff.lint]``"
+msgid ":toml:`[tool.ruff.lint]`"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:233
-msgid "``[tool.ruff.lint.flake8-copyright]``"
+msgid ":toml:`[tool.ruff.lint.flake8-copyright]`"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:234
-msgid "``[tool.ruff.lint.per-file-ignores]``"
+msgid ":toml:`[tool.ruff.lint.per-file-ignores]`"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:241
@@ -448,10 +450,10 @@ msgid ""
 "The ``gv-`` prefix should then be followed by the name of the file "
 "containing the label, with hyphens replacing spaces and special characters, "
 "and all characters in lower case e.g., ``gv-next-steps`` for the "
-"``docs/src/next_steps.rst`` document. Include the sub-directory structure in"
-" the label if the file is not in the ``docs/src`` root directory, e.g., "
-"``gv-developer-towncrier`` for the ``docs/src/developer/towncrier.rst`` "
-"document."
+":bash:`docs/src/next_steps.rst` document. Include the sub-directory "
+"structure in the label if the file is not in the :bash:`docs/src` directory,"
+" e.g., ``gv-developer-towncrier`` for the "
+":bash:`docs/src/developer/towncrier.rst` document."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:258
@@ -488,7 +490,8 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:286
 msgid ""
-"Where the ``common.txt`` file is located in the ``docs/src`` root directory."
+"Where the :bash:`common.txt` file is located in the :bash:`docs/src` "
+"directory."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:288
@@ -502,49 +505,62 @@ msgstr ""
 msgid ""
 "To cross-reference a ``figure`` or a ``table`` use the ``:name:`` option to "
 "create the label, ensuring to append its title (or similar) for uniqueness "
-"e.g., the ``docs/src/overview.rst`` document has the following :ref:`figure "
-"<tippy-gv-overview-ecosystem-geovista-ecosystem>` within its :ref:`tippy-gv-"
-"overview-ecosystem` section:"
+"e.g., the :bash:`docs/src/overview.rst` document has the following "
+":ref:`figure <tippy-gv-overview-ecosystem-geovista-ecosystem>` within its "
+":ref:`tippy-gv-overview-ecosystem` section:"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:318
+#: ../../geovista/docs/src/developer/documentation.rst:319
 msgid ""
 "To support accessibility best practice use the ``:alt:`` option for both "
 "``image`` and ``figure`` directives."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:326
+#: ../../geovista/docs/src/developer/documentation.rst:327
 msgid ":fa:`lines-leaning` Pixi Workflow"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:328
+#: ../../geovista/docs/src/developer/documentation.rst:329
+msgid "Pixi Environment"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:331
 msgid ""
-"The documentation may be built and rendered using `pixi run "
-"<https://pixi.sh/latest/reference/cli/pixi/run/>`__ tasks, all of which do "
-"not require to be executed within the ``docs`` directory, unlike the above "
-":ref:`tippy-gv-developer-documentation-building` ``make`` tasks e.g.,"
+"Documentation ``pixi`` :term:`tasks <Task>` are available in the "
+":guilabel:`docs`, :guilabel:`geovista` and :guilabel:`py3xx` variant of "
+"those ``pixi`` environments e.g., :guilabel:`geovista-py313`. See "
+":ref:`tippy-gv-developer-packaging` for further details."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:336
+msgid ""
+"The documentation may be built and rendered using `pixi run "
+"<https://pixi.sh/latest/reference/cli/pixi/run/>`__ tasks, all of which **do"
+" not** require to be executed from within the :bash:`docs` root directory, "
+"unlike the above :ref:`tippy-gv-developer-documentation-building` ``make`` "
+"command tasks e.g.,"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/documentation.rst:345
 msgid "Pixi Tasks"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:341
+#: ../../geovista/docs/src/developer/documentation.rst:350
 msgid "Pixi Task"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:351
+#: ../../geovista/docs/src/developer/documentation.rst:360
 msgid ""
 "Execute `sphinx.ext.doctest`_ to test code snippets within the "
 "documentation. Note that the :guilabel:`clean` task is called prior to "
 "running this task."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:354
+#: ../../geovista/docs/src/developer/documentation.rst:363
 msgid ":guilabel:`make`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:354
+#: ../../geovista/docs/src/developer/documentation.rst:363
 msgid ""
 "Build the documentation using ``html-noplot`` by default. Pass either "
 "``html``, ``html-docstring``, ``html-docstring-inline``, ``html-gallery``, "
@@ -553,7 +569,7 @@ msgid ""
 "prior to running this task."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:360
+#: ../../geovista/docs/src/developer/documentation.rst:369
 msgid ""
 "Build the documentation using ``html-noplot`` by default and start a local "
 "``HTTP`` server on port ``11000`` to view the rendered documentation. This "
@@ -564,217 +580,217 @@ msgid ""
 "tasks are called prior to running this task."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:372
+#: ../../geovista/docs/src/developer/documentation.rst:381
 msgid ""
 "Apply the ``--frozen`` option to avoid `pixi`_ checking and updating the "
-"``pixi.lock`` file."
+":bash:`pixi.lock` file."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:374
+#: ../../geovista/docs/src/developer/documentation.rst:383
 msgid ""
-"e.g., To only build the ``Gallery`` examples and serve the rendered "
+"E.g., To only build the ``Gallery`` examples and serve the rendered "
 "documentation:"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:385
+#: ../../geovista/docs/src/developer/documentation.rst:394
 msgid ":fa:`tags` Tagging"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:390
-msgid "Tags are configured in the ``docs/src/conf.py`` file."
+#: ../../geovista/docs/src/developer/documentation.rst:399
+msgid "Tags are configured in the :bash:`docs/src/conf.py` file."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:392
+#: ../../geovista/docs/src/developer/documentation.rst:401
 msgid ""
 "Themed content :ref:`tippy-gv-tagoverview` are supported using `sphinx-"
 "tags`_."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:394
+#: ../../geovista/docs/src/developer/documentation.rst:403
 msgid ""
 "Tags provide a simple and intuitive way to group and filter content, "
 "improving discoverability and browsing. This allows users to easily explore "
 "or quickly find related topics and content."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:398
+#: ../../geovista/docs/src/developer/documentation.rst:407
 msgid ""
 ":ref:`Gallery Examples <tippy-gv-examples>` must contain one or more content"
 " tags using the ``tags`` directive to highlight noteworthy topics "
 "demonstrated within the example e.g.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:408
+#: ../../geovista/docs/src/developer/documentation.rst:417
 msgid "A tag consists of a lower-case ``category: topic`` pair, where:"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:410
+#: ../../geovista/docs/src/developer/documentation.rst:419
 msgid "``category`` is a domain area of interest,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:411
+#: ../../geovista/docs/src/developer/documentation.rst:420
 msgid "``topic`` is a specific subject within that domain, and"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:412
+#: ../../geovista/docs/src/developer/documentation.rst:421
 msgid "a colon (``:``) separates each of the above tag components"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:414
+#: ../../geovista/docs/src/developer/documentation.rst:423
 msgid ""
 "Single word tags are preferred. However, consider using a hyphen (``-``) to "
 "separate a multi-word ``category`` or ``topic`` within a tag e.g., ``data-"
 "type: point-cloud``."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:418
+#: ../../geovista/docs/src/developer/documentation.rst:427
 msgid ""
 "Endeavour to group tags of the same ``category`` on the same line, ordered "
 "alphabetically by ``topic``. Note that multiple tags must be separated by a "
 "comma (``,``)."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:422
+#: ../../geovista/docs/src/developer/documentation.rst:431
 msgid ""
 "Tags may span multiple contiguous lines, ordered alphabetically by "
 "``category`` e.g.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:435
+#: ../../geovista/docs/src/developer/documentation.rst:444
 msgid "Content Tags"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:440
+#: ../../geovista/docs/src/developer/documentation.rst:449
 msgid "Category"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:440
+#: ../../geovista/docs/src/developer/documentation.rst:449
 msgid "Topic"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:442
+#: ../../geovista/docs/src/developer/documentation.rst:451
 msgid ":guilabel:`component`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:442
+#: ../../geovista/docs/src/developer/documentation.rst:451
 msgid "``coastlines``, ``graticule``, ``manifold``, ``texture``, ``vectors``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:442
+#: ../../geovista/docs/src/developer/documentation.rst:451
 msgid "Content that demonstrates the use of a specific feature."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:445
+#: ../../geovista/docs/src/developer/documentation.rst:454
 msgid ":guilabel:`domain`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:445
+#: ../../geovista/docs/src/developer/documentation.rst:454
 msgid "``oceanography``, ``seismology``, ``meteorology``, ``orography``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:445
+#: ../../geovista/docs/src/developer/documentation.rst:454
 msgid ""
 "Content that is relevant to a specific scientific domain or discipline."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:448
+#: ../../geovista/docs/src/developer/documentation.rst:457
 msgid ":guilabel:`filter`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:448
+#: ../../geovista/docs/src/developer/documentation.rst:457
 msgid ""
 "``cast``, ``contour``, ``extrude``, ``threshold``, ``triangulate``, ``warp``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:448
+#: ../../geovista/docs/src/developer/documentation.rst:457
 msgid "Content that demonstrates the use of specific `filtering`_ techniques."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:451
+#: ../../geovista/docs/src/developer/documentation.rst:460
 msgid ":guilabel:`load`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:451
-#: ../../geovista/docs/src/developer/documentation.rst:463
+#: ../../geovista/docs/src/developer/documentation.rst:460
+#: ../../geovista/docs/src/developer/documentation.rst:472
 msgid ""
 "``curvilinear``, ``geotiff``, ``points``, ``rectilinear``, ``unstructured``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:451
+#: ../../geovista/docs/src/developer/documentation.rst:460
 msgid ""
 "Demonstrates use of the :mod:`geovista.bridge` to load various types of "
 "geospatial data."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:454
+#: ../../geovista/docs/src/developer/documentation.rst:463
 msgid ":guilabel:`plot`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:454
+#: ../../geovista/docs/src/developer/documentation.rst:463
 msgid "``camera``, ``subplots``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:454
+#: ../../geovista/docs/src/developer/documentation.rst:463
 msgid "Content that showcases various `plotting`_ techniques."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:457
+#: ../../geovista/docs/src/developer/documentation.rst:466
 msgid ":guilabel:`projection`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:457
+#: ../../geovista/docs/src/developer/documentation.rst:466
 msgid "``crs``, ``transform``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:457
+#: ../../geovista/docs/src/developer/documentation.rst:466
 msgid ""
 "Content that demonstrates the use of geospatial projections or "
 "transformations."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:460
+#: ../../geovista/docs/src/developer/documentation.rst:469
 msgid ":guilabel:`resolution`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:460
+#: ../../geovista/docs/src/developer/documentation.rst:469
 msgid "``high``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:460
+#: ../../geovista/docs/src/developer/documentation.rst:469
 msgid "Content using high-resolution or high-volume geospatial data."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:463
+#: ../../geovista/docs/src/developer/documentation.rst:472
 msgid ":guilabel:`sample`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:463
+#: ../../geovista/docs/src/developer/documentation.rst:472
 msgid ""
 "Content that leverages the convenience of pre-canned geospatial sample data "
 "available from the :mod:`geovista.pantry`."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:467
+#: ../../geovista/docs/src/developer/documentation.rst:476
 msgid ":guilabel:`style`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:467
+#: ../../geovista/docs/src/developer/documentation.rst:476
 msgid "``colormap``, ``lighting``, ``opacity``, ``shading``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:467
+#: ../../geovista/docs/src/developer/documentation.rst:476
 msgid ""
 "Content that includes customization of various render styles and aesthetics."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:470
+#: ../../geovista/docs/src/developer/documentation.rst:479
 msgid ":guilabel:`widget`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:470
+#: ../../geovista/docs/src/developer/documentation.rst:479
 msgid "``checkbox``, ``logo``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:470
+#: ../../geovista/docs/src/developer/documentation.rst:479
 msgid "Content that demonstrates the use of interactive `widgets`_."
 msgstr ""

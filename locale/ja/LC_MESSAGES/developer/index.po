@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev702\n"
+"Project-Id-Version: GeoVista 0.6.0.dev704\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-07 00:40+0000\n"
+"POT-Creation-Date: 2025-12-08 00:37+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -26,55 +26,53 @@ msgid ":fa:`retweet` Contributing"
 msgstr ":fa:`retweet` 貢献する"
 
 #: ../../geovista/docs/src/developer/index.rst:10
-msgid ""
-"We've just started to bank content for the contributor material, which will "
-"slowly grow and mature over time."
-msgstr ""
-
-#: ../../geovista/docs/src/developer/index.rst:13
-msgid "Thanks for your patience 🙏"
-msgstr "お待たせしております🙏"
-
-#: ../../geovista/docs/src/developer/index.rst:18
 msgid "|Contributor Covenant|"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/index.rst:15
+#: ../../geovista/docs/src/developer/index.rst:7
 msgid "Contributor Covenant"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/index.rst:20
+#: ../../geovista/docs/src/developer/index.rst:12
 msgid ""
 "Firstly, and most importantly, thanks for contributing! All contributions, "
 "no matter how large or small are greatly appreciated and welcomed."
 msgstr "まず第一に、そして最も重要なこととして、ご貢献いただきありがとうございます！大小を問わず、すべての貢献に深く感謝し、歓迎いたします。"
 
-#: ../../geovista/docs/src/developer/index.rst:23
+#: ../../geovista/docs/src/developer/index.rst:15
 msgid ""
-"Here we provide some guidelines to help get you started on your journey, and"
+"Here we provide some guidelines to help you get started on your journey, and"
 " clarify the various steps involved in how to contribute to ``geovista``."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/index.rst:29
+#: ../../geovista/docs/src/developer/index.rst:21
 msgid "Changelog"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/index.rst:38
+#: ../../geovista/docs/src/developer/index.rst:30
 msgid "Towncrier guidelines."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/index.rst:40
+#: ../../geovista/docs/src/developer/index.rst:32
 msgid "Documentation"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/index.rst:49
+#: ../../geovista/docs/src/developer/index.rst:41
 msgid "Author & build guidelines."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/index.rst:51
+#: ../../geovista/docs/src/developer/index.rst:43
 msgid "Packaging"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/index.rst:60
+#: ../../geovista/docs/src/developer/index.rst:52
 msgid "Packaging guidelines."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/index.rst:54
+msgid "Testing"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/index.rst:63
+msgid "Testing guidelines."
 msgstr ""

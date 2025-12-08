@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev690\n"
+"Project-Id-Version: GeoVista 0.6.0.dev704\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-28 00:34+0000\n"
+"POT-Creation-Date: 2025-12-08 00:37+0000\n"
 "PO-Revision-Date: 2025-08-06 00:41+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -52,8 +52,8 @@ msgstr ""
 #: ../../geovista/docs/src/developer/packaging.rst:34
 msgid ""
 "Our ``pixi`` :term:`environments <Environment>`, :term:`features <Feature>`,"
-" and :term:`tasks <Task>` are defined within the ``pyproject.toml`` manifest"
-" file."
+" and :term:`tasks <Task>` are defined within the :bash:`pyproject.toml` "
+"manifest."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:37
@@ -66,7 +66,7 @@ msgstr ""
 #: ../../geovista/docs/src/developer/packaging.rst:41
 msgid ""
 "We offer several similar **collections** of ``pixi`` environments for each "
-"supported version of ``python``. Each environment within a collection "
+"supported distribution of ``python``. Each environment within a collection "
 "belongs to the same `solve-group`_ i.e., environments within the **same** "
 "solve-group have their **dependencies resolved at the same time**, which "
 "means that all those environments share the exact same dependencies but may "
@@ -102,16 +102,16 @@ msgstr ""
 #: ../../geovista/docs/src/developer/packaging.rst:66
 msgid ""
 "Our ``pixi`` **environments** are organized into collections by `solve-"
-"group`_. See the ``[tool.pixi.environments]`` table defined in the "
-"``pyproject.toml`` manifest file."
+"group`_. See the :toml:`[tool.pixi.environments]` table defined in the "
+":bash:`pyproject.toml` manifest."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:70
 msgid ""
 "The **primary** solve-group is called :guilabel:`&d&e&f&a&u&l&t` and will "
-"always contain the **latest** supported version of ``python``. This is "
-"denoted by the ``{py}`` feature which represents the **latest** version of "
-"``python`` as recommended by `SPEC 0`_."
+"always contain the **latest** supported distribution of ``python``. This is "
+"denoted by the ``{py}`` feature which represents the **latest** distribution"
+" of ``python`` as recommended by `SPEC 0`_."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:75
@@ -129,9 +129,9 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:80
 #: ../../geovista/docs/src/developer/packaging.rst:166
-#: ../../geovista/docs/src/developer/packaging.rst:242
-#: ../../geovista/docs/src/developer/packaging.rst:296
-#: ../../geovista/docs/src/developer/packaging.rst:446
+#: ../../geovista/docs/src/developer/packaging.rst:243
+#: ../../geovista/docs/src/developer/packaging.rst:298
+#: ../../geovista/docs/src/developer/packaging.rst:452
 msgid "Description"
 msgstr "説明"
 
@@ -146,8 +146,9 @@ msgstr ""
 #: ../../geovista/docs/src/developer/packaging.rst:82
 msgid ""
 "This environment contains the **core** dependencies of ``geovista`` along "
-"with the **latest** supported version of ``python``. See the "
-"``[tool.pixi.dependencies]`` table in the ``pyproject.toml`` manifest file."
+"with the **latest** supported distribution of ``python``. See the "
+":toml:`[tool.pixi.dependencies]` table in the :bash:`pyproject.toml` "
+"manifest."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:88
@@ -209,7 +210,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:105
 msgid ""
-"The ``pixi info`` command provides key information about the system, "
+"The :bash:`pixi info` command provides key information about the system, "
 "environments, solve-groups, dependencies and tasks in the workspace."
 msgstr ""
 
@@ -223,30 +224,30 @@ msgstr ""
 msgid ""
 "As its name suggests, the :guilabel:`default` environment is used **by "
 "default** when no explicit environment name is specified to ``pixi``. e.g., "
-"``pixi shell`` starts a shell with the :guilabel:`default` environment "
-"activated, whereas ``pixi shell -e devs`` will activate the :guilabel:`devs`"
-" environment instead."
+"the :bash:`pixi shell` command starts a shell with the :guilabel:`default` "
+"environment activated, whereas the :bash:`pixi shell -e devs` command will "
+"activate the :guilabel:`devs` environment instead."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:145
 msgid ""
 "Several **secondary** solve-groups are available, each of which are named "
-"after the version of ``python`` that they support e.g., "
+"after the distribution of ``python`` that they support e.g., "
 ":guilabel:`&p&y&3&1&3`."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:148
 msgid ""
-"The number of ``python`` versioned solve-groups on offer at any given time "
-"is dictated by `SPEC 0`_."
+"The number of different ``python`` distribution solve-groups on offer at any"
+" given time is dictated by `SPEC 0`_."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:151
 msgid ""
 "The generic :guilabel:`&p&y&3&x&x` solve-group is used here as a convenience"
-" to represent each of the ``python`` versioned solve-groups available, all "
-"of which are **identical** in structure and content apart from the specific "
-"version of ``python`` that they support."
+" to represent each of the different ``python`` distribution solve-groups "
+"available, all of which are **identical** in structure and content apart "
+"from the specific distribution of ``python`` that they support."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:156
@@ -262,8 +263,8 @@ msgid "Pixi :guilabel:`&p&y&3&x&x` Solve-Groups"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:166
-#: ../../geovista/docs/src/developer/packaging.rst:242
-#: ../../geovista/docs/src/developer/packaging.rst:296
+#: ../../geovista/docs/src/developer/packaging.rst:243
+#: ../../geovista/docs/src/developer/packaging.rst:298
 msgid "Feature"
 msgstr ""
 
@@ -322,40 +323,40 @@ msgstr ""
 #: ../../geovista/docs/src/developer/packaging.rst:179
 msgid ""
 "This environment contains the **core** dependencies of ``geovista`` along "
-"with ``python`` version ``py3xx`` e.g., ``py313``."
+"with ``python`` distribution ``py3xx`` e.g., ``py313``."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:183
+#: ../../geovista/docs/src/developer/packaging.rst:184
 msgid ":guilabel:`test-py3xx`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:183
+#: ../../geovista/docs/src/developer/packaging.rst:184
 msgid "``{default}``, ``{devs}``, ``{py3xx}``, ``{test}``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:183
+#: ../../geovista/docs/src/developer/packaging.rst:184
 msgid ""
 "As per the :guilabel:`devs-py3xx` environment plus additional **test** "
 "dependencies."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:190
+#: ../../geovista/docs/src/developer/packaging.rst:191
 msgid ""
 "The generic :guilabel:`&p&y&3&x&x` solve-group does **not** exist, neither "
 "does the generic ``{py3xx}`` feature."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:193
+#: ../../geovista/docs/src/developer/packaging.rst:194
 msgid ""
 "Given the above :guilabel:`&p&y&3&x&x` solve-group we have the following "
 "inheritance relationship between its environments:"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:223
+#: ../../geovista/docs/src/developer/packaging.rst:224
 msgid ":fa:`puzzle-piece` Pixi Features"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:225
+#: ../../geovista/docs/src/developer/packaging.rst:226
 msgid ""
 "A ``pixi`` :term:`environment <Environment>` is defined by combining one or "
 "more :term:`features <Feature>`. For further details see this ``pixi`` "
@@ -363,394 +364,394 @@ msgid ""
 "scenario."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:229
+#: ../../geovista/docs/src/developer/packaging.rst:230
 msgid ""
-"Our features are defined under the ``[tool.pixi.feature.{feature-name}.*]`` "
-"tables in the ``pyproject.toml`` manifest file."
+"Our features are defined under the :toml:`[tool.pixi.feature]` tables in the"
+" :bash:`pyproject.toml` manifest."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:232
+#: ../../geovista/docs/src/developer/packaging.rst:233
 msgid ""
-"Each named `feature table`_ e.g., ``[tool.pixi.feature.devs]``, may contain "
-"various fields, such as ``dependencies``, ``pypi-dependencies``, ``pypi-"
-"options``, ``system-requirements``, ``activation``, ``platforms``, "
-"``channels``, ``channel-priority``, ``target`` and ``tasks``."
+"Each named `feature table`_ e.g., :toml:`[tool.pixi.feature.devs]`, may "
+"contain various fields, such as :toml:`dependencies`, :toml:`pypi-"
+"dependencies`, :toml:`pypi-options`, :toml:`system-requirements`, "
+":toml:`activation`, :toml:`platforms`, :toml:`channels`, :toml:`channel-"
+"priority`, :toml:`target` and :toml:`tasks`."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:237
+#: ../../geovista/docs/src/developer/packaging.rst:238
 msgid "Pixi Features"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:242
+#: ../../geovista/docs/src/developer/packaging.rst:243
 msgid "TOML Table"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:244
-#: ../../geovista/docs/src/developer/packaging.rst:298
+#: ../../geovista/docs/src/developer/packaging.rst:245
+#: ../../geovista/docs/src/developer/packaging.rst:300
 msgid "``{default}``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:244
-msgid "``[tool.pixi.dependencies]``"
+#: ../../geovista/docs/src/developer/packaging.rst:245
+msgid ":toml:`[tool.pixi.dependencies]`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:244
+#: ../../geovista/docs/src/developer/packaging.rst:245
 msgid ""
-"This feature is used to define the **core** ``dependencies`` and ``tasks`` "
-"of ``geovista``. Note that the ``{default}`` feature is `automatically "
-"included`_ in all environments by ``pixi``."
+"This feature is used to define the **core** :toml:`dependencies` and "
+":toml:`tasks` of ``geovista``. Note that the ``{default}`` feature is "
+"`automatically included`_ in all environments by ``pixi``."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:250
+#: ../../geovista/docs/src/developer/packaging.rst:251
 msgid "``{devs}``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:250
-msgid "``[tool.pixi.feature.devs.*]``"
+#: ../../geovista/docs/src/developer/packaging.rst:251
+msgid ":toml:`[tool.pixi.feature.devs]`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:250
+#: ../../geovista/docs/src/developer/packaging.rst:251
 msgid ""
-"This feature is used to define the **development** ``dependencies``, and "
-"``pypi-dependencies``. Note that an **editable** install of ``geovista`` is "
-"performed by the ``{devs}`` feature."
+"This feature is used to define the **development** :toml:`dependencies` and "
+":toml:`pypi-dependencies`. Note that an **editable** install of ``geovista``"
+" is performed by the ``{devs}`` feature."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:256
-#: ../../geovista/docs/src/developer/packaging.rst:312
+#: ../../geovista/docs/src/developer/packaging.rst:257
+#: ../../geovista/docs/src/developer/packaging.rst:313
 msgid "``{docs}``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:256
-msgid "``[tool.pixi.feature.docs.*]``"
+#: ../../geovista/docs/src/developer/packaging.rst:257
+msgid ":toml:`[tool.pixi.feature.docs]`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:256
+#: ../../geovista/docs/src/developer/packaging.rst:257
 msgid ""
-"This feature is used to define the **documentation** ``dependencies``, "
-"``pypi-dependencies`` and ``tasks``."
+"This feature is used to define the **documentation** :toml:`dependencies`, "
+":toml:`pypi-dependencies` and :toml:`tasks`."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:260
-#: ../../geovista/docs/src/developer/packaging.rst:380
+#: ../../geovista/docs/src/developer/packaging.rst:261
+#: ../../geovista/docs/src/developer/packaging.rst:381
 msgid "``{geovista}``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:260
-msgid "``tool.pixi.feature.geovista.*]``"
+#: ../../geovista/docs/src/developer/packaging.rst:261
+msgid ":toml:`[tool.pixi.feature.geovista]`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:260
-msgid "This feature is only used to define ``tasks``."
+#: ../../geovista/docs/src/developer/packaging.rst:261
+msgid "This feature is only used to define :toml:`tasks`."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:262
+#: ../../geovista/docs/src/developer/packaging.rst:263
 msgid "``{py3xx}``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:262
-msgid "``[tools.pixi.feature.py3xx.*]``"
+#: ../../geovista/docs/src/developer/packaging.rst:263
+msgid ":toml:`[tools.pixi.feature.py3xx]`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:262
+#: ../../geovista/docs/src/developer/packaging.rst:263
 msgid ""
-"This feature is used to explicitly define the version of ``python`` "
-"supported e.g., ``py313``. Note that the ``dependencies`` of this feature "
-"additionally includes the ``pip`` package. The number of ``python`` versions"
-" supported is governed by `SPEC 0`_."
+"This feature is used to explicitly define the distribution of ``python`` "
+"supported e.g., ``py313``. Note that the :toml:`dependencies` of this "
+"feature additionally includes the ``pip`` package. The number of different "
+"``python`` distributions supported is governed by `SPEC 0`_."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:269
-#: ../../geovista/docs/src/developer/packaging.rst:399
+#: ../../geovista/docs/src/developer/packaging.rst:271
+#: ../../geovista/docs/src/developer/packaging.rst:400
 msgid "``{test}``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:269
-msgid "``[tool.pixi.feature.test.*]``"
+#: ../../geovista/docs/src/developer/packaging.rst:271
+msgid ":toml:`[tool.pixi.feature.test]`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:269
+#: ../../geovista/docs/src/developer/packaging.rst:271
 msgid ""
-"This feature is used to define the **test** ``dependencies`` and ``tasks``."
-msgstr ""
-
-#: ../../geovista/docs/src/developer/packaging.rst:278
-msgid ":fa:`clapperboard` Pixi Tasks"
+"This feature is used to define the **test** :toml:`dependencies` and "
+":toml:`tasks`."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:280
+msgid ":fa:`clapperboard` Pixi Tasks"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/packaging.rst:282
 msgid ""
 "A ``pixi`` :term:`task <Task>` is a custom `cross-platform workflow "
 "command`_ that is defined as part of a :term:`feature <Feature>` within an "
 ":term:`environment <Environment>`."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:284
-msgid "All our tasks are defined within the ``pyproject.toml`` manifest file."
+#: ../../geovista/docs/src/developer/packaging.rst:286
+msgid "All our tasks are defined within the :bash:`pyproject.toml` manifest."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:286
+#: ../../geovista/docs/src/developer/packaging.rst:288
 msgid ""
 "Tasks expose a convenient and easy to use entry-point to commands that allow"
 " streamlined and automated custom workflows."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:289
+#: ../../geovista/docs/src/developer/packaging.rst:291
 msgid "The following tasks are defined for each of our features:"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:291
+#: ../../geovista/docs/src/developer/packaging.rst:293
 msgid "Pixi Tasks"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:296
+#: ../../geovista/docs/src/developer/packaging.rst:298
 msgid "Task"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:298
+#: ../../geovista/docs/src/developer/packaging.rst:300
 msgid "``download``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:298
+#: ../../geovista/docs/src/developer/packaging.rst:300
 msgid "Download and cache offline assets."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:300
+#: ../../geovista/docs/src/developer/packaging.rst:302
 msgid ""
-"This task calls the ``geovista download`` command. Provide optional argument"
-" ``all``, ``clean``, ``doc-images``, ``dry-run``, ``images``, ``list``, "
-"``natural-earth``, ``operational``, ``pantry``, ``rasters``, ``unit-images``"
-" or ``verify``. Defaults to ``all`` e.g.,"
+"This task calls the :ref:`tippy-gv-reference-cli-download` command. Provide "
+"optional argument ``all``, ``clean``, ``doc-images``, ``dry-run``, "
+"``images``, ``list``, ``natural-earth``, ``operational``, ``pantry``, "
+"``rasters``, ``unit-images`` or ``verify``. Defaults to ``all`` e.g.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:310
-msgid "See ``geovista download --help`` for further details."
-msgstr ""
-
-#: ../../geovista/docs/src/developer/packaging.rst:312
+#: ../../geovista/docs/src/developer/packaging.rst:313
 msgid "``clean``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:312
+#: ../../geovista/docs/src/developer/packaging.rst:313
 msgid ""
 "Purge all `sphinx-autoapi`_, `sphinx-gallery`_ `sphinx-tags`_, carousel, and"
-" other `sphinx-build`_ artifacts i.e.,"
+" other `sphinx-build`_ artifacts e.g.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:319
-msgid "This task is an alias for the ``make clean`` command."
+#: ../../geovista/docs/src/developer/packaging.rst:320
+msgid "This task is an alias for the :bash:`make clean` command."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:321
+#: ../../geovista/docs/src/developer/packaging.rst:322
 msgid "``clean-all``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:321
-msgid "Perform both the ``clean`` and ``clean-cache`` tasks i.e.,"
+#: ../../geovista/docs/src/developer/packaging.rst:322
+msgid "Perform both the ``clean`` and ``clean-cache`` tasks e.g.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:327
-msgid "This task is an alias for the ``make clean-all`` command."
+#: ../../geovista/docs/src/developer/packaging.rst:328
+msgid "This task is an alias for the :bash:`make clean-all` command."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:329
+#: ../../geovista/docs/src/developer/packaging.rst:330
 msgid "``clean-cache``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:329
+#: ../../geovista/docs/src/developer/packaging.rst:330
 msgid ""
 "Purge the `myst-nb`_ Jupyter cache. See `myst-nb configuration`_ for further"
-" details i.e.,"
+" details e.g.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:336
-msgid "This task is an alias for the ``make clean-cache`` command."
+#: ../../geovista/docs/src/developer/packaging.rst:337
+msgid "This task is an alias for the :bash:`make clean-cache` command."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:338
+#: ../../geovista/docs/src/developer/packaging.rst:339
 msgid "``doctest``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:338
+#: ../../geovista/docs/src/developer/packaging.rst:339
 msgid ""
 "Execute `sphinx.ext.doctest`_ to test code snippets within the documentation"
 " i.e.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:345
-#: ../../geovista/docs/src/developer/packaging.rst:359
+#: ../../geovista/docs/src/developer/packaging.rst:346
+#: ../../geovista/docs/src/developer/packaging.rst:360
 msgid "Note that the ``clean`` task is called prior to running this task."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:347
-msgid "This task is an alias for the ``make doctest`` command."
+#: ../../geovista/docs/src/developer/packaging.rst:348
+msgid "This task is an alias for the :bash:`make doctest` command."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:349
+#: ../../geovista/docs/src/developer/packaging.rst:350
 msgid "``make``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:349
+#: ../../geovista/docs/src/developer/packaging.rst:350
 msgid "Build the documentation."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:351
+#: ../../geovista/docs/src/developer/packaging.rst:352
 msgid ""
 "Provide optional argument ``html``, ``html-docstring``, ``html-docstring-"
 "inline``, ``html-gallery``, ``html-inline`` or ``html-noplot``. Defaults to "
 "``html-noplot`` e.g.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:361
-msgid "This task is an alias for the ``make`` command."
+#: ../../geovista/docs/src/developer/packaging.rst:362
+msgid "This task is an alias for the :bash:`make` command."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:363
+#: ../../geovista/docs/src/developer/packaging.rst:364
 msgid "``serve-html``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:363
+#: ../../geovista/docs/src/developer/packaging.rst:364
 msgid ""
 "Build the documentation and start a local ``HTTP`` server on port ``11000`` "
 "to view the rendered documentation. This is necessary in order to support "
 "interactive scenes."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:367
+#: ../../geovista/docs/src/developer/packaging.rst:368
 msgid ""
 "Note that the ``clean`` and ``make`` tasks are called prior to running this "
 "task."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:370
+#: ../../geovista/docs/src/developer/packaging.rst:371
 msgid ""
 "Defaults to passing ``html-noplot`` to the ``make`` task. Override this "
 "behaviour by providing an alternative optional argument as per the ``make`` "
 "task e.g.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:378
-msgid "This task is an alias for the ``make serve-html`` command."
+#: ../../geovista/docs/src/developer/packaging.rst:379
+msgid "This task is an alias for the :bash:`make serve-html` command."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:380
+#: ../../geovista/docs/src/developer/packaging.rst:381
 msgid "``tests-docs``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:380
+#: ../../geovista/docs/src/developer/packaging.rst:381
 msgid ""
 "Perform documentation image tests of ``pyvista-plot`` directive static "
-"scenes i.e.,"
+"scenes e.g.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:387
+#: ../../geovista/docs/src/developer/packaging.rst:388
 msgid ""
-"This task calls ``pytest --doc_mode`` to perform the documentation image "
-"tests using the `pytest-pyvista`_ plugin. Refer to the "
-"``[tool.pytest.ini_options]`` table entry in the ``pyproject.toml`` manifest"
-" file for default configuration options."
+"This task calls :bash:`pytest --doc_mode` to perform the documentation image"
+" tests using the `pytest-pyvista`_ plugin. Refer to the "
+":toml:`[tool.pytest.ini_options]` table entry in the :bash:`pyproject.toml` "
+"manifest for default configuration options."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:392
+#: ../../geovista/docs/src/developer/packaging.rst:393
 msgid ""
 "Note that the ``download doc-images`` and ``make html-docstring-inline`` "
 "tasks are called prior to running this task."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:396
+#: ../../geovista/docs/src/developer/packaging.rst:397
 msgid ""
 "This task is only available in the :guilabel:`geovista` and "
 ":guilabel:`geovista-py3xx` environments."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:399
+#: ../../geovista/docs/src/developer/packaging.rst:400
 msgid "``tests-clean``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:399
-msgid "Purge all documentation and unit image test caches i.e.,"
-msgstr ""
-
-#: ../../geovista/docs/src/developer/packaging.rst:406
-msgid "``tests-unit``"
-msgstr ""
-
-#: ../../geovista/docs/src/developer/packaging.rst:406
-msgid "Perform unit tests."
+#: ../../geovista/docs/src/developer/packaging.rst:400
+msgid ""
+"Purge both the documentation and unit test image caches, along with any "
+"images generated from previous test sessions e.g.,"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:408
-msgid ""
-"This task calls the ``pytest`` command. Defaults to running all the unit "
-"tests discoverable by ``pytest``."
+msgid "``tests-unit``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:411
-msgid ""
-"Accepts a valid ``pytest`` marker as an optional argument. Refer to the "
-"``[tool.pytest.ini_options]`` table entry in the ``pyproject.toml`` manifest"
-" file for configured ``markers`` e.g.,"
+#: ../../geovista/docs/src/developer/packaging.rst:408
+msgid "Perform the unit tests."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:419
+#: ../../geovista/docs/src/developer/packaging.rst:410
+msgid ""
+"This task calls the ``pytest`` command. Defaults to executing all unit tests"
+" discoverable from the :bash:`geovista` root directory."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/packaging.rst:413
+msgid ""
+"Accepts a valid ``pytest`` marker expression as an optional argument. Refer "
+"to the :toml:`[tool.pytest.ini_options]` table entry in the "
+":bash:`pyproject.toml` manifest for configured ``markers`` e.g.,"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/packaging.rst:422
 msgid ""
 "Note that the ``tests-clean`` task is called prior to running this task."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:426
+#: ../../geovista/docs/src/developer/packaging.rst:429
 msgid ""
-"The ``pixi task list`` command describes each of the tasks available within "
-"the workspace."
+"The :bash:`pixi task list` command describes each task available within the "
+"workspace."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:428
+#: ../../geovista/docs/src/developer/packaging.rst:431
 msgid ""
-"Whereas ``pixi task list --summary`` enumerates the tasks available per "
-"environment."
+"Whereas the :bash:`pixi task list --summary` command enumerates the tasks "
+"available per environment."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:432
+#: ../../geovista/docs/src/developer/packaging.rst:438
 msgid ":fab:`github` Continuous Integration"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:439
+#: ../../geovista/docs/src/developer/packaging.rst:445
 msgid "The following packaging workflows are available:"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:441
+#: ../../geovista/docs/src/developer/packaging.rst:447
 msgid "Packaging Workflows"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:446
+#: ../../geovista/docs/src/developer/packaging.rst:452
 msgid "Workflow"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:448
+#: ../../geovista/docs/src/developer/packaging.rst:454
 msgid "|ci-locks|"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:434
+#: ../../geovista/docs/src/developer/packaging.rst:440
 msgid "ci-locks"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:448
+#: ../../geovista/docs/src/developer/packaging.rst:454
 msgid ""
 "The `ci-locks.yml`_ ``cron`` based :term:`GHA workflow <GHA>` regularly "
-"schedules ``pixi`` to refresh the ``pixi.lock`` file based on the "
-"``pyproject.toml`` manifest and the latest package versions available from "
-"the ``conda`` and ``PyPI`` ecosystems."
-msgstr ""
-
-#: ../../geovista/docs/src/developer/packaging.rst:453
-msgid ""
-"Only the **latest** ``python`` variant of the :guilabel:`geovista-py3xx` "
-"environment e.g., :guilabel:`geovista-py313`, will be exported to a "
-"``conda`` explicit specification file (``.txt``) and also converted to an "
-"equivalent explicit environment YAML file (``.yml``). These resources are "
-"available in the `requirements/locks`_ directory."
+"schedules ``pixi`` to refresh the :bash:`pixi.lock` file based on the "
+":bash:`pyproject.toml` manifest and the latest package versions available "
+"from the ``conda`` and ``PyPI`` ecosystems."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:459
+msgid ""
+"Only the **latest** ``python`` variant of the :guilabel:`geovista-py3xx` "
+"environment e.g., :guilabel:`geovista-py313`, will be exported to a "
+"``conda`` explicit specification file (:bash:`.txt`) and also converted to "
+"an equivalent explicit environment YAML file (:bash:`.yml`). These resources"
+" are available in the `requirements/locks`_ directory."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/packaging.rst:465
 msgid ""
 "Additionally, the :guilabel:`geovista-py3xx` environment will be exported to"
 " the ``conda`` environment YAML file `requirements/geovista.yml`_ containing"
@@ -758,67 +759,67 @@ msgid ""
 ":ref:`features <tippy-gv-developer-packaging-pixi-solve-groups>`."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:464
+#: ../../geovista/docs/src/developer/packaging.rst:470
 msgid "|ci-wheels|"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:436
+#: ../../geovista/docs/src/developer/packaging.rst:442
 msgid "ci-wheels"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:464
+#: ../../geovista/docs/src/developer/packaging.rst:470
 msgid ""
 "The `ci-wheels.yml`_ :term:`GHA workflow <GHA>` builds, tests and publishes "
 "the source distribution (``sdist``) and binary ``wheel`` of ``geovista``."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:467
+#: ../../geovista/docs/src/developer/packaging.rst:473
 msgid ""
 "We have adopted `PyPI Trusted Publishing`_ with `OpenID Connect (OIDC)`_ for"
 " secure deployments of assets."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:470
+#: ../../geovista/docs/src/developer/packaging.rst:476
 msgid ""
 "Note that the ``sdist`` and ``wheel`` assets are automatically published to "
-"`Test PyPI`_ for each ``pull-request`` merged to the ``main`` branch, and "
-"`PyPI`_ for each ``tag`` release."
+"`Test PyPI`_ for each :fa:`code-pull-request` ``pull-request`` merged to the"
+" ``main`` branch, and `PyPI`_ for each ``tag`` release."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:477
+#: ../../geovista/docs/src/developer/packaging.rst:486
 msgid ":fab:`python` Python Package Index"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:479
+#: ../../geovista/docs/src/developer/packaging.rst:488
 msgid ""
-"``PyPI`` package dependencies are configured in the ``pyproject.toml`` "
-"manifest file under the ``[tool.setuptools.dynamic]`` and "
-"``[tool.setuptools.dynamic.optional-dependencies]`` table entries."
+"``PyPI`` package dependencies are configured in the :bash:`pyproject.toml` "
+"manifest under the :toml:`[tool.setuptools.dynamic]` and "
+":toml:`[tool.setuptools.dynamic.optional-dependencies]` table entries."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:483
+#: ../../geovista/docs/src/developer/packaging.rst:492
 msgid ""
 "Version management of our ``PyPI`` dependencies is orchestrated by "
 ":fab:`github` `Dependabot`_. Refer to the ``package-ecosystem: \"pip\"`` key"
 " entry in the `.github/dependabot.yml`_ file for further details."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:487
+#: ../../geovista/docs/src/developer/packaging.rst:496
 msgid ""
 "The :fab:`github` `Dependabot`_ service is regularly scheduled to check the "
 "versions of our dependencies and automatically increment them using maximum "
-"capping pins via a ``pull-request`` in response to the latest available "
-"package updates within the ``PyPI`` ecosystem."
+"capping pins via a :fa:`code-pull-request` ``pull-request`` in response to "
+"the latest available package updates within the ``PyPI`` ecosystem."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:495
+#: ../../geovista/docs/src/developer/packaging.rst:504
 msgid ""
 "Updates to the ``PyPI`` maximum capping pins may require to be manually "
-"reflected in the ``pyproject.toml`` manifest for similar ``pixi`` managed "
-"``conda`` dependencies."
+"reflected in the :bash:`pyproject.toml` manifest for similar ``pixi`` "
+"managed ``conda`` dependencies."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:499
+#: ../../geovista/docs/src/developer/packaging.rst:508
 msgid ""
 "Track native :fab:`github` `Dependabot`_ support for ``pixi`` in "
 "`dependabot/dependabot-core issue#2227`_ 🤞"
