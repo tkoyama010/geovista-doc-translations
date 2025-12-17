@@ -3,17 +3,13 @@
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-# Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
-# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev685\n"
+"Project-Id-Version: GeoVista 0.6.0.dev717\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-23 00:40+0000\n"
+"POT-Creation-Date: 2025-12-11 00:37+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -31,17 +27,13 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/warp/index.rst:30
-msgid ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__fvcom.py`"
-msgstr ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__fvcom.py`"
+msgid ":doc:`/generated/gallery/warp/from_unstructured__fvcom`"
+msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/warp/index.rst:47
-msgid ""
-":ref:`sphx_glr_generated_gallery_warp_from_unstructured__lfric_orog.py`"
+msgid ":doc:`/generated/gallery/warp/from_unstructured__lfric_orog`"
 msgstr ""
-":ref:`sphx_glr_generated_gallery_warp_from_unstructured__lfric_orog.py`"
 
 #: ../../geovista/docs/src/generated/gallery/warp/index.rst:64
-msgid ""
-":ref:`sphx_glr_generated_gallery_warp_from_unstructured__lfric_orog_eqc.py`"
+msgid ":doc:`/generated/gallery/warp/from_unstructured__lfric_orog_eqc`"
 msgstr ""
-":ref:`sphx_glr_generated_gallery_warp_from_unstructured__lfric_orog_eqc.py`"

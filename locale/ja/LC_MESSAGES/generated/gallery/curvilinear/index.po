@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev685\n"
+"Project-Id-Version: GeoVista 0.6.0.dev717\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-23 00:40+0000\n"
+"POT-Creation-Date: 2025-12-11 00:37+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -30,9 +30,9 @@ msgid "Demonstrates support for 2-D curvilinear grid surfaces."
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/index.rst:30
-msgid ":ref:`sphx_glr_generated_gallery_curvilinear_from_2d__orca.py`"
-msgstr ":ref:`sphx_glr_generated_gallery_curvilinear_from_2d__orca.py`"
+msgid ":doc:`/generated/gallery/curvilinear/from_2d__orca`"
+msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/index.rst:47
-msgid ":ref:`sphx_glr_generated_gallery_curvilinear_from_2d__orca_moll.py`"
-msgstr ":ref:`sphx_glr_generated_gallery_curvilinear_from_2d__orca_moll.py`"
+msgid ":doc:`/generated/gallery/curvilinear/from_2d__orca_moll`"
+msgstr ""

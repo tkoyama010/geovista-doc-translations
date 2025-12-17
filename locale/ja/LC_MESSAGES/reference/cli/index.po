@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev685\n"
+"Project-Id-Version: GeoVista 0.6.0.dev719\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-23 00:40+0000\n"
+"POT-Creation-Date: 2025-12-13 00:35+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -31,6 +31,10 @@ msgstr ""
 
 #: ../geovista:1
 msgid "To get help for geovista commands, simply use \"geovista COMMAND --help\"."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/cli/index.rst:0
+msgid "Usage"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/cli/index.rst:0
