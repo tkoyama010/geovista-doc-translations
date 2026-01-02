@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021 - 2025, GeoVista Contributors
+# Copyright (C) 2021 - 2026, GeoVista Contributors
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev719\n"
+"Project-Id-Version: GeoVista 0.6.0.dev741\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-13 00:35+0000\n"
+"POT-Creation-Date: 2026-01-02 00:38+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
