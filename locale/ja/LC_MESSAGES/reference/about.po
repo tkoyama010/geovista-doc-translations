@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev760\n"
+"Project-Id-Version: GeoVista 0.6.0.dev766\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-08 00:38+0000\n"
+"POT-Creation-Date: 2026-01-09 00:38+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -95,63 +95,74 @@ msgstr ""
 msgid ":fa:`file-code` Packages"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:75
-msgid "Discover other community projects using ``geovista``:"
+#: ../../geovista/docs/src/reference/about.rst:81
+msgid "Discover community projects using ``geovista``:"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:82
+#: ../../geovista/docs/src/reference/about.rst:83
 msgid "Third-Party Packages"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:88
+#: ../../geovista/docs/src/reference/about.rst:89
 msgid "Package"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:88
+#: ../../geovista/docs/src/reference/about.rst:89
 msgid "Description"
 msgstr "説明"
 
-#: ../../geovista/docs/src/reference/about.rst:90
+#: ../../geovista/docs/src/reference/about.rst:91
 msgid "`aeolus`_"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:90
+#: ../../geovista/docs/src/reference/about.rst:91
 msgid "A library for analysing and visualising atmospheric model output."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:92
+#: ../../geovista/docs/src/reference/about.rst:93
 msgid "`geovista-slam`_"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:92
+#: ../../geovista/docs/src/reference/about.rst:93
 msgid ""
 "Generating Structured Local Area Model (SLAM) grids from unstructured "
 "meshes."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:94
+#: ../../geovista/docs/src/reference/about.rst:95
 msgid "`iris`_"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:94
+#: ../../geovista/docs/src/reference/about.rst:95
 msgid ""
 "A powerful, format-agnostic, and community-driven Python package for "
 "analysing and visualising Earth science data."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:97
-msgid "`uraster`_"
+#: ../../geovista/docs/src/reference/about.rst:98
+msgid "`ngview`_"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:97
-msgid "Transform raster datasets to unstructured meshes."
+#: ../../geovista/docs/src/reference/about.rst:98
+msgid ""
+"A GUI for loading NetCDF files; selecting the fields, levels and time points"
+" you want; and plotting the results using ``geovista``."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/about.rst:101
+msgid "`uraster`_"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/about.rst:101
+msgid "Transform raster datasets to unstructured meshes."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/about.rst:105
+#: ../../geovista/docs/src/reference/about.rst:129
 msgid "Share with the community!"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:104
+#: ../../geovista/docs/src/reference/about.rst:108
 msgid ""
 "Click `here "
 "<https://github.com/bjlittle/geovista/edit/main/docs/src/reference/about.rst>`__"
@@ -159,29 +170,44 @@ msgid ""
 "Request`_."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:109
+#: ../../geovista/docs/src/reference/about.rst:116
+msgid ":fa:`file-waveform` Publications"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/about.rst:123
+msgid "Explore scientific publications that leverage ``geovista``:"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/about.rst:132
+msgid ""
+"Click `here "
+"<https://github.com/bjlittle/geovista/edit/main/docs/src/refs.bib>`__ to add"
+" your BibTeX entry and raise a :fa:`code-pull-request` `Pull-Request`_."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/about.rst:137
 msgid ":fa:`users-line` Contributors"
 msgstr ":fa:`users-line` コントリビュータ"
 
-#: ../../geovista/docs/src/reference/about.rst:113
+#: ../../geovista/docs/src/reference/about.rst:141
 msgid "|all-contributors|"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:111
+#: ../../geovista/docs/src/reference/about.rst:139
 msgid "all-contributors"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:118
+#: ../../geovista/docs/src/reference/about.rst:146
 msgid ""
 "Anyone can use the |icon| `all-contributors bot 🤖`_  to acknowledge the "
 "efforts of others (or yourself 😉)."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:154
+#: ../../geovista/docs/src/reference/about.rst:182
 msgid "icon"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:122
+#: ../../geovista/docs/src/reference/about.rst:150
 msgid ""
 "We follow the |icon| `all-contributors`_ specification. Contributions of any"
 " kind to ``geovista`` are welcome!"
@@ -189,7 +215,7 @@ msgstr ""
 "私たちは |icon| `all-contributors`_ の仕様に従っています。どのような種類の ``geovista`` "
 "への貢献でも歓迎します！"
 
-#: ../../geovista/docs/src/reference/about.rst:125
+#: ../../geovista/docs/src/reference/about.rst:153
 msgid ""
 "It's important that we recognise and acknowledge **all** our contributors, "
 "not just the ones who push code. So no matter how large or small, we're "
@@ -198,23 +224,23 @@ msgstr ""
 "私たちは、コードをプッシュする人たちだけでなく、 **すべての** 貢献者を認識し、認めることが重要です。 "
 "そのため、貢献の大小にかかわらず、私たちはあなたの貢献に感謝し、違いを生み出すのに十分な配慮をしています。"
 
-#: ../../geovista/docs/src/reference/about.rst:129
+#: ../../geovista/docs/src/reference/about.rst:157
 msgid "A massive thank-you to all our awesome contributors (`Emoji Key ✨`_):"
 msgstr "私たちの素晴らしい貢献者たち (`Emoji Key ✨`_) に心から感謝します:"
 
-#: ../../geovista/docs/src/reference/about.rst:136
+#: ../../geovista/docs/src/reference/about.rst:164
 msgid ":fa:`file-contract` License"
 msgstr ":fa:`file-contract` ライセンス"
 
-#: ../../geovista/docs/src/reference/about.rst:141
+#: ../../geovista/docs/src/reference/about.rst:169
 msgid "|bsd-3-clause|"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:138
+#: ../../geovista/docs/src/reference/about.rst:166
 msgid "bsd-3-clause"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/about.rst:143
+#: ../../geovista/docs/src/reference/about.rst:171
 msgid ""
 "``geovista`` is an open-source package distributed under the terms of the "
 "`BSD-3-Clause`_ license."
