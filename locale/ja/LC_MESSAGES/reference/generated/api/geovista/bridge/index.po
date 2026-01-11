@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev760\n"
+"Project-Id-Version: GeoVista 0.6.0.dev773\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-08 00:38+0000\n"
+"POT-Creation-Date: 2026-01-11 00:42+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -162,7 +162,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:66
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:558
 msgid ""
-"A 1-D array of x-values, in canonical `crs` units, defining the vertices of "
+"A 1D array of x-values, in canonical `crs` units, defining the vertices of "
 "each face in the mesh."
 msgstr ""
 
@@ -177,7 +177,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:70
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:562
 msgid ""
-"A 1-D array of y-values, in canonical `crs` units, defining the vertices of "
+"A 1D array of y-values, in canonical `crs` units, defining the vertices of "
 "each face in the mesh."
 msgstr ""
 
@@ -197,11 +197,11 @@ msgstr ""
 msgid ""
 "Defines the topology of each face in the unstructured mesh in terms of "
 "indices into the provided `xs` and `ys` mesh geometry arrays. The "
-"`connectivity` is a 2-D ``(M, N)`` array, where ``M`` is the number of mesh "
+"`connectivity` is a 2D ``(M, N)`` array, where ``M`` is the number of mesh "
 "faces, and ``N`` is the number of nodes per face. Alternatively, an ``(M, "
 "N)`` tuple defining the connectivity shape may be provided instead, given "
 "that the `xs` and `ys` define ``M*N`` points (at most) in the mesh geometry."
-" If no connectivity is provided, and the `xs` and `ys` are 2-D, then their "
+" If no connectivity is provided, and the `xs` and `ys` are 2D, then their "
 "shape is used to determine the connectivity.  Also, note that masked "
 "connectivity may be used to define a mesh consisting of different shaped "
 "faces."
@@ -432,7 +432,7 @@ msgid "..versionadded:: 0.1.0"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:180
-msgid "Build a quad-faced mesh from contiguous 1-D x-values and y-values."
+msgid "Build a quad-faced mesh from contiguous 1D x-values and y-values."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:182
@@ -450,7 +450,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:192
 msgid ""
-"A 1-D array of x-values, in canonical `crs` units, defining the contiguous "
+"A 1D array of x-values, in canonical `crs` units, defining the contiguous "
 "face x-value boundaries of the mesh. Creating a mesh with ``N``-faces in the"
 " `crs` x-axis requires a ``(N+1,)`` array. Alternatively, a ``(N, 2)`` "
 "contiguous bounds array may be provided."
@@ -458,7 +458,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:198
 msgid ""
-"A 1-D array of y-values, in canonical `crs` units, defining the contiguous "
+"A 1D array of y-values, in canonical `crs` units, defining the contiguous "
 "face y-value boundaries of the mesh. Creating a mesh with ``M``-faces in the"
 " `crs` y-axis requires a ``(M+1,)`` array. Alternatively, a ``(M, 2)`` "
 "contiguous bounds array may be provided."
@@ -508,7 +508,7 @@ msgid "The quad-faced spherical mesh."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:270
-msgid "Build a quad-faced mesh from 2-D x-values and y-values."
+msgid "Build a quad-faced mesh from 2D x-values and y-values."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:272
@@ -528,16 +528,16 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:283
 msgid ""
-"A 2-D array of x-values, in canonical `crs` units, defining the face x-value"
-" boundaries of the mesh. Creating a ``(M, N)`` mesh requires a ``(M+1, "
-"N+1)`` x-axis array. Alternatively, a ``(M, N, 4)`` array may be provided."
+"A 2D array of x-values, in canonical `crs` units, defining the face x-value "
+"boundaries of the mesh. Creating a ``(M, N)`` mesh requires a ``(M+1, N+1)``"
+" x-axis array. Alternatively, a ``(M, N, 4)`` array may be provided."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:289
 msgid ""
-"A 2-D array of y-values, in canonical `crs` units, defining the face y-value"
-" boundaries of the mesh. Creating a ``(M, N)`` mesh requires a ``(M+1, "
-"N+1)`` y-axis array. Alternatively, a ``(M, N, 4)`` array may be provided."
+"A 2D array of y-values, in canonical `crs` units, defining the face y-value "
+"boundaries of the mesh. Creating a ``(M, N)`` mesh requires a ``(M+1, N+1)``"
+" y-axis array. Alternatively, a ``(M, N, 4)`` array may be provided."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:361
@@ -552,14 +552,14 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:369
 msgid ""
-"A 1-D, 2-D or 3-D array of point-cloud x-values, in canonical `crs` units. "
-"Must have the same shape as the `ys`."
+"A 1D, 2D or 3D array of point-cloud x-values, in canonical `crs` units. Must"
+" have the same shape as the `ys`."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:373
 msgid ""
-"A 1-D, 2-D or 3-D array of point-cloud y-values, in canonical `crs` units. "
-"Must have the same shape as the `xs`."
+"A 1D, 2D or 3D array of point-cloud y-values, in canonical `crs` units. Must"
+" have the same shape as the `xs`."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:377
@@ -723,7 +723,7 @@ msgid "Interactive Scene"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:545
-msgid "Build a mesh from unstructured 1-D x-values and y-values."
+msgid "Build a mesh from unstructured 1D x-values and y-values."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:547
@@ -744,11 +744,11 @@ msgstr ""
 msgid ""
 "Defines the topology of each face in the unstructured mesh in terms of "
 "indices into the provided `xs` and `ys` mesh geometry arrays. The "
-"`connectivity` is a 2-D ``(M, N)`` array, where ``M`` is the number of mesh "
+"`connectivity` is a 2D ``(M, N)`` array, where ``M`` is the number of mesh "
 "faces, and ``N`` is the number of nodes per face. Alternatively, an ``(M, "
 "N)`` tuple defining the connectivity shape may be provided instead, given "
 "that the `xs` and `ys` define ``M*N`` points (at most) in the mesh geometry."
-" If no connectivity is provided, and the `xs` and `ys` are 2-D, then their "
+" If no connectivity is provided, and the `xs` and `ys` are 2D, then their "
 "shape is used to determine the connectivity. Also, note that masked "
 "connectivity may be used to define a mesh consisting of different shaped "
 "faces."

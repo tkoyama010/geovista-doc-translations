@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021 - 2025, GeoVista Contributors
+# Copyright (C) 2021 - 2026, GeoVista Contributors
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev741\n"
+"Project-Id-Version: GeoVista 0.6.0.dev773\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-31 00:38+0000\n"
+"POT-Creation-Date: 2026-01-11 00:42+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -77,7 +77,7 @@ msgid "Curvilinear Grid"
 msgstr "曲線グリッド"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:102
-msgid "Demonstrates support for 2-D curvilinear grid surfaces."
+msgid "Demonstrates support for 2D curvilinear grid surfaces."
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:121
@@ -125,7 +125,7 @@ msgid "Point Cloud"
 msgstr "点群"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:264
-msgid "Examples of 3-D cartographic point clouds."
+msgid "Examples of 3D cartographic point clouds."
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:283
@@ -141,7 +141,7 @@ msgid "Rectilinear Grid"
 msgstr "直線グリッド"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:318
-msgid "Demonstrates support for traditional 2-D rectilinear grids."
+msgid "Demonstrates support for traditional 2D rectilinear grids."
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:337

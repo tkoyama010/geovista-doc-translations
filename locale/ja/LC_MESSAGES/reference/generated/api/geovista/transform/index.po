@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev741\n"
+"Project-Id-Version: GeoVista 0.6.0.dev773\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-04 00:42+0000\n"
+"POT-Creation-Date: 2026-01-11 00:42+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -244,8 +244,8 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:115
 msgid ""
 "The spatial point x-value, in canonical `src_crs` units, to be transformed "
-"from the `src_crs` to the `tgt_crs`. Must be a scalar or a single valued 1-D"
-" array."
+"from the `src_crs` to the `tgt_crs`. Must be a scalar or a single valued 1D "
+"array."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:119
@@ -316,7 +316,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:177
 msgid ""
 "The spatial points x-values, in canonical `src_crs` units, to be transformed"
-" from the `src_crs` to the `tgt_crs`. May be scalar, 1-D or 2-D."
+" from the `src_crs` to the `tgt_crs`. May be scalar, 1D or 2D."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:181
@@ -326,7 +326,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:182
 msgid ""
 "The spatial points y-values, in canonical `src_crs` units, to be transformed"
-" from the `src_crs` to the `tgt_crs`. May be scalar, 1-D or 2-D."
+" from the `src_crs` to the `tgt_crs`. May be scalar, 1D or 2D."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:186
@@ -336,7 +336,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:187
 msgid ""
 "The spatial points z-values, in canonical `src_crs` units, to be transformed"
-" from the `src_crs` to the `tgt_crs`. May be scalar, 1-D or 2-D."
+" from the `src_crs` to the `tgt_crs`. May be scalar, 1D or 2D."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/transform/index.rst:192
@@ -349,6 +349,6 @@ msgstr ""
 msgid ""
 "The transformed spatial points in the canonical units of the target CRS. The"
 " shape of the result will either be ``(1, 3)``, ``(M, 3)`` or ``(M, N, 3)`` "
-"depending on whether the provided spatial points were scalar, 1-D or 2-D, "
+"depending on whether the provided spatial points were scalar, 1D or 2D, "
 "respectively."
 msgstr ""

@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021 - 2025, GeoVista Contributors
+# Copyright (C) 2021 - 2026, GeoVista Contributors
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev737\n"
+"Project-Id-Version: GeoVista 0.6.0.dev773\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-28 00:42+0000\n"
+"POT-Creation-Date: 2026-01-11 00:42+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -88,9 +88,9 @@ msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:79
 msgid ""
-"This example renders a 2-D data array with 1-D X and Y **rectilinear** "
+"This example renders a 2D data array with 1D X and Y **rectilinear** "
 "coordinates as a :term:`mesh <Mesh>` of quadrilateral :term:`cells <Cell>` "
-"in 3-D with coastlines."
+"in 3D with coastlines."
 msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:83
@@ -103,15 +103,15 @@ msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:88
 msgid ""
-"The mesh is created from the bounds of 1-D geographic longitude and latitude"
-" coordinates using the :meth:`~geovista.bridge.Transform.from_1d` method. "
+"The mesh is created from the bounds of 1D geographic longitude and latitude "
+"coordinates using the :meth:`~geovista.bridge.Transform.from_1d` method. "
 "Each X and Y coordinate has 2 coordinate bounds describing a quadrilateral "
 "cell."
 msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:93
 msgid ""
-"A 2-D array of *Sea Surface Temperature* data located on the mesh cells are "
+"A 2D array of *Sea Surface Temperature* data located on the mesh cells are "
 "rendered using the :term:`perceptually uniform <Perceptually Uniform "
 "Colormap>` `cmocean balance`_ diverging colormap, along with `10m Natural "
 "Earth coastlines`_. Note that the land cells are masked."
@@ -131,12 +131,12 @@ msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:132
 msgid ""
-"This example renders a 2-D data array with 2-D X and Y **curvilinear** "
+"This example renders a 2D data array with 2D X and Y **curvilinear** "
 "coordinates as a :term:`mesh <Mesh>` of quadilateral :term:`cells <Cell>` in"
-" 3-D. A :term:`threshold <Threshold>` is applied to remove cells with masked"
-" data. Coastlines and a :term:`base layer <Base Layer>` are also added "
-"before the results are transformed to a flat 2-D surface with a `Plate "
-"Carrée`_ projection."
+" 3D. A :term:`threshold <Threshold>` is applied to remove cells with masked "
+"data. Coastlines and a :term:`base layer <Base Layer>` are also added before"
+" the results are transformed to a flat 2D surface with a `Plate Carrée`_ "
+"projection."
 msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:139
@@ -149,7 +149,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:144
 msgid ""
-"As the grid is curvilinear, it is created from the bounds of 2-D geographic "
+"As the grid is curvilinear, it is created from the bounds of 2D geographic "
 "longitude and latitude coordinates using the "
 ":meth:`~geovista.bridge.Transform.from_2d` method. Each X and Y coordinate "
 "has 4 coordinate bounds describing a quadrilateral cell."
@@ -175,7 +175,7 @@ msgstr ""
 msgid ""
 "Finally, a `cartopy`_ :term:`CRS <Coordinate Reference System>` is used to "
 "transform the :term:`actors <Actor>` in the scene to the `Equidistant "
-"Cylindrical`_ (Plate Carrée`) conformal cylindrical projection."
+"Cylindrical`_ (Plate Carrée) conformal cylindrical projection."
 msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:167
@@ -199,7 +199,7 @@ msgstr ""
 #: ../../geovista/docs/src/quick_start.rst:217
 msgid ""
 "To demonstrate this we create a `WAVEWATCH III`_ (WW3) unstructured "
-"triangular mesh from 1-D X and Y **unstructured** coordinates and 2-D "
+"triangular mesh from 1D X and Y **unstructured** coordinates and 2D "
 ":term:`connectivity <Connectivity>` using the "
 ":meth:`~geovista.bridge.Transform.from_unstructured` method."
 msgstr ""
@@ -207,13 +207,13 @@ msgstr ""
 #: ../../geovista/docs/src/quick_start.rst:222
 msgid ""
 "The ``sample.connectivity``, with shape ``(30559, 3)``, is used to index "
-"into the ``16,160`` 1-D geographical longitude and latitude points to create"
-" a mesh containing ``30,559`` triangular :term:`cells <Cell>`."
+"into the ``16,160`` 1D geographical longitude and latitude points to create "
+"a mesh containing ``30,559`` triangular :term:`cells <Cell>`."
 msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:226
 msgid ""
-"A 1-D array of *Sea Surface Wave Significant Height* data is located on the "
+"A 1D array of *Sea Surface Wave Significant Height* data is located on the "
 "mesh :term:`nodes <Node>`, which is then interpolated across the mesh cells "
 "and rendered with the :term:`perceptually uniform <Perceptually Uniform "
 "Colormap>` `cmocean balance`_ divergent colormap."
@@ -251,13 +251,13 @@ msgstr ""
 #: ../../geovista/docs/src/quick_start.rst:282
 msgid ""
 "First the :meth:`~geovista.bridge.Transform.from_unstructured` method is "
-"used to create a triangular mesh from 1-D X and Y **unstructured** "
-"coordinates and 2-D :term:`connectivity <Connectivity>`."
+"used to create a triangular mesh from 1D X and Y **unstructured** "
+"coordinates and 2D :term:`connectivity <Connectivity>`."
 msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:286
 msgid ""
-"A 1-D array of *Sea Floor Depth Below Geoid* data is added to the mesh "
+"A 1D array of *Sea Floor Depth Below Geoid* data is added to the mesh "
 ":term:`cells <Cell>`, but also the mesh :term:`points <Point>`, which are "
 "then used to displace the mesh points by a proportionally scaled amount in "
 "the direction of the mesh surface normals."

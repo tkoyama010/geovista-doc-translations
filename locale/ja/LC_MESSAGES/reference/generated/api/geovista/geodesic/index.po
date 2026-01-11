@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev760\n"
+"Project-Id-Version: GeoVista 0.6.0.dev773\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-08 00:38+0000\n"
+"POT-Creation-Date: 2026-01-11 00:42+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -177,7 +177,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:63
 #: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:45:<autosummary>:1
-msgid "A 3-D bounding-box constructed from geodesic lines or great circles."
+msgid "A 3D bounding-box constructed from geodesic lines or great circles."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:45:<autosummary>:1
@@ -257,7 +257,7 @@ msgstr "モジュール内容"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:66
 msgid ""
-"Create 3-D geodesic bounding-box to extract enclosed mesh, lines or point."
+"Create 3D geodesic bounding-box to extract enclosed mesh, lines or point."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:68

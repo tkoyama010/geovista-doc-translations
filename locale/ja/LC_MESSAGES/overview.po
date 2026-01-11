@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev748\n"
+"Project-Id-Version: GeoVista 0.6.0.dev773\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-06 00:38+0000\n"
+"POT-Creation-Date: 2026-01-11 00:42+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -42,19 +42,17 @@ msgstr "動機"
 #: ../../geovista/docs/src/overview.rst:18
 msgid ""
 "``geovista`` is a pure `Python`_ package that offers performant, publication"
-" quality 3-D cartographic rendering of Earth Science data."
+" quality 3D cartographic rendering of Earth Science data."
 msgstr ""
-"``geovista`` は純粋な `Python`_ パッケージであり、地球科学データの高性能で出版品質の3Dカートグラフィレンダリングを提供します。"
 
 #: ../../geovista/docs/src/overview.rst:21
 msgid ""
 "Its goal is to lower the bar for scientists, such that they can easily "
 "analyze, visualize, and explore their rectilinear, curvilinear and "
-"unstructured geospatial data interactively in 3-D, whilst also supporting "
-"traditional 2-D static plots, cartographic projections and coordinate "
+"unstructured geospatial data interactively in 3D, whilst also supporting "
+"traditional 2D static plots, cartographic projections and coordinate "
 "transformations."
 msgstr ""
-"その目標は、従来の2次元静的プロット、地図投影、座標変換をサポートする一方で、科学者のハードルを下げ、直線、曲線、非構造化地理空間データを3次元で対話的に簡単に分析、視覚化、探索できるようにすることである。"
 
 #: ../../geovista/docs/src/overview.rst:27
 msgid ""
@@ -140,9 +138,9 @@ msgstr "PyVista の例"
 
 #: ../../geovista/docs/src/overview.rst:87
 msgid ""
-"`PyVista`_ is a powerful open-source 3-D visualization library built on "
+"`PyVista`_ is a powerful open-source 3D visualization library built on "
 "`VTK`_, providing:"
-msgstr "`PyVista`_ は `VTK`_ をベースに構築された強力なオープンソースの3D可視化ライブラリで、次のような機能を提供します:"
+msgstr ""
 
 #: ../../geovista/docs/src/overview.rst:90
 msgid "A Pythonic, high-level, and streamlined API to `VTK`_"

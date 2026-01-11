@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021 - 2025, GeoVista Contributors
+# Copyright (C) 2021 - 2026, GeoVista Contributors
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev737\n"
+"Project-Id-Version: GeoVista 0.6.0.dev773\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-28 00:42+0000\n"
+"POT-Creation-Date: 2026-01-11 00:42+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -46,9 +46,9 @@ msgstr "📋 まとめ"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lam_pacific_moll.rst:29
 msgid ""
-"Creates a mesh from 1-D latitude and longitude unstructured points and "
+"Creates a mesh from 1D latitude and longitude unstructured points and "
 "connectivity."
-msgstr "緯度経度1次元の非構造化点と接続性からメッシュを作成します。"
+msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lam_pacific_moll.rst:31
 msgid ""
