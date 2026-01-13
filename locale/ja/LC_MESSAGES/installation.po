@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev771\n"
+"Project-Id-Version: GeoVista 0.6.0.dev778\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-10 00:37+0000\n"
+"POT-Creation-Date: 2026-01-12 18:37+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -26,8 +26,8 @@ msgid ":fa:`circle-down` Installation"
 msgstr ":fa:`circle-down` インストール"
 
 #: ../../geovista/docs/src/installation.rst:10
-msgid "Stable"
-msgstr "安定版"
+msgid ":fa:`heart-circle-check` Stable"
+msgstr ""
 
 #: ../../geovista/docs/src/installation.rst:12
 msgid ""
@@ -88,7 +88,7 @@ msgid "ℹ️ `conda`_ users must also install `pip`_ into their environment."
 msgstr ""
 
 #: ../../geovista/docs/src/installation.rst:101
-msgid "Latest"
+msgid ":fa:`heart-circle-plus` Latest"
 msgstr ""
 
 #: ../../geovista/docs/src/installation.rst:103
@@ -99,8 +99,8 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/installation.rst:141
-msgid "Developer"
-msgstr "開発者"
+msgid ":fa:`heart-circle-bolt` Developer"
+msgstr ""
 
 #: ../../geovista/docs/src/installation.rst:156
 msgid ""

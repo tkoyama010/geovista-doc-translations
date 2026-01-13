@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev773\n"
+"Project-Id-Version: GeoVista 0.6.0.dev778\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-11 00:42+0000\n"
+"POT-Creation-Date: 2026-01-12 18:37+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -51,7 +51,7 @@ msgid "Want to know more?"
 msgstr "もっと知りたい？"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:55
-msgid "Contour"
+msgid ":fa:`image` Contour"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:57
@@ -73,8 +73,8 @@ msgid ":doc:`/generated/gallery/contour/banded_contour`"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:100
-msgid "Curvilinear Grid"
-msgstr "曲線グリッド"
+msgid ":fa:`image` Curvilinear Grid"
+msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:102
 msgid "Demonstrates support for 2D curvilinear grid surfaces."
@@ -89,7 +89,7 @@ msgid ":doc:`/generated/gallery/curvilinear/from_2d__orca_moll`"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:154
-msgid "Domain"
+msgid ":fa:`image` Domain"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:156
@@ -105,7 +105,7 @@ msgid ":doc:`/generated/gallery/domain/clouds_robin`"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:208
-msgid "Extraction"
+msgid ":fa:`image` Extraction"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:210
@@ -121,8 +121,8 @@ msgid ":doc:`/generated/gallery/extraction/wedge_manifold`"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:262
-msgid "Point Cloud"
-msgstr "点群"
+msgid ":fa:`image` Point Cloud"
+msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:264
 msgid "Examples of 3D cartographic point clouds."
@@ -137,8 +137,8 @@ msgid ":doc:`/generated/gallery/point_cloud/from_points__orca_cloud_eqc`"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:316
-msgid "Rectilinear Grid"
-msgstr "直線グリッド"
+msgid ":fa:`image` Rectilinear Grid"
+msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:318
 msgid "Demonstrates support for traditional 2D rectilinear grids."
@@ -153,8 +153,8 @@ msgid ":doc:`/generated/gallery/rectilinear/from_1d__oisst_eqc`"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:370
-msgid "Scalar Data"
-msgstr "スカラーデータ"
+msgid ":fa:`image` Scalar Data"
+msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:372
 msgid "Examples of various scalar data visualization techniques."
@@ -177,8 +177,8 @@ msgid ":doc:`/generated/gallery/scalar_data/from_tiff__rgb`"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:458
-msgid "Spatial Index"
-msgstr "空間インデックス"
+msgid ":fa:`image` Spatial Index"
+msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:460
 msgid ""
@@ -191,8 +191,8 @@ msgid ":doc:`/generated/gallery/spatial_index/uber_h3`"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:495
-msgid "Unstructured Mesh"
-msgstr "非構造化メッシュ"
+msgid ":fa:`image` Unstructured Mesh"
+msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:497
 msgid ""
@@ -249,8 +249,8 @@ msgid ":doc:`/generated/gallery/unstructured/tri_hammer`"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:720
-msgid "Vector Data"
-msgstr "ベクトルデータ"
+msgid ":fa:`image` Vector Data"
+msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:722
 msgid "Examples of wind vector data."
@@ -261,7 +261,7 @@ msgid ":doc:`/generated/gallery/vector_data/vectors`"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:757
-msgid "Warp"
+msgid ":fa:`image` Warp"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:759

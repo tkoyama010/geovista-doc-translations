@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev773\n"
+"Project-Id-Version: GeoVista 0.6.0.dev778\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-11 00:42+0000\n"
+"POT-Creation-Date: 2026-01-12 18:37+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -36,8 +36,8 @@ msgid ""
 msgstr "その目標と動機について簡単に説明し、進化する能力を支える豊かで強力なエコシステムについて紹介します。"
 
 #: ../../geovista/docs/src/overview.rst:16
-msgid "Motivation"
-msgstr "動機"
+msgid ":fa:`star-of-life` Motivation"
+msgstr ""
 
 #: ../../geovista/docs/src/overview.rst:18
 msgid ""
@@ -90,8 +90,8 @@ msgstr ""
 "`iris`_ 、 `xarray`_ などの空間データを可視化するための準備に特化したパッケージとは無関係であり続けます。"
 
 #: ../../geovista/docs/src/overview.rst:54
-msgid "Ecosystem"
-msgstr "エコシステム"
+msgid ":fa:`recycle` Ecosystem"
+msgstr ""
 
 #: ../../geovista/docs/src/overview.rst:56
 msgid ""
@@ -128,8 +128,8 @@ msgstr ""
 "によって実現されます。"
 
 #: ../../geovista/docs/src/overview.rst:77
-msgid "PyVista in a Nutshell"
-msgstr "PyVistaの概要"
+msgid ":fab:`python` PyVista in a Nutshell"
+msgstr ""
 
 #: ../../geovista/docs/src/overview.rst:79
 #: ../../geovista/docs/src/overview.rst:84
@@ -174,8 +174,8 @@ msgid "Static and interactive plot integration within `Jupyter`_ ecosystem"
 msgstr "`Jupyter`_ エコシステム内での静的およびインタラクティブなプロットの統合"
 
 #: ../../geovista/docs/src/overview.rst:100
-msgid "Development Status"
-msgstr "開発状況"
+msgid ":fa:`battery-quarter` Development Status"
+msgstr ""
 
 #: ../../geovista/docs/src/overview.rst:102
 msgid ""

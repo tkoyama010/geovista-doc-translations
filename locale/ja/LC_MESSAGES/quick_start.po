@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2025
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev773\n"
+"Project-Id-Version: GeoVista 0.6.0.dev779\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-11 00:42+0000\n"
+"POT-Creation-Date: 2026-01-13 00:34+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,8 +32,8 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:14
-msgid "Resources"
-msgstr "リソース"
+msgid ":fa:`toolbox` Resources"
+msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:16
 msgid ""
@@ -63,8 +63,8 @@ msgid "Want to know more?"
 msgstr "もっと知りたい？"
 
 #: ../../geovista/docs/src/quick_start.rst:48
-msgid "Examples"
-msgstr ""
+msgid ":fa:`images` Examples"
+msgstr ":fa:`images` 例"
 
 #: ../../geovista/docs/src/quick_start.rst:66
 msgid ""
@@ -83,7 +83,7 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:77
-msgid "OISST AVHRR"
+msgid ":fa:`image` OISST AVHRR"
 msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:79
@@ -126,7 +126,7 @@ msgid "Interactive Scene"
 msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:130
-msgid "NEMO ORCA2"
+msgid ":fa:`image` NEMO ORCA2"
 msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:132
@@ -187,7 +187,7 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:211
-msgid "WAVEWATCH III"
+msgid ":fa:`image` WAVEWATCH III"
 msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:213
@@ -232,7 +232,7 @@ msgid "Finally, the render is decorated with `10m Natural Earth coastlines`_."
 msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:273
-msgid "Finite Volume Community Ocean Model"
+msgid ":fa:`image` Finite Volume Community Ocean Model"
 msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:275
@@ -271,8 +271,8 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:332
-msgid "And Finally ..."
-msgstr "そして最後に..."
+msgid ":fa:`quote-left` And Finally ..."
+msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:334
 msgid ""
