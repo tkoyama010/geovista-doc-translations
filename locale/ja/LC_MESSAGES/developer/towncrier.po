@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev785\n"
+"Project-Id-Version: GeoVista 0.6.0.dev790\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-13 21:31+0000\n"
+"POT-Creation-Date: 2026-01-18 00:42+0000\n"
 "PO-Revision-Date: 2025-01-22 00:31+0000\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -58,102 +58,145 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/changelog.md:31
 msgid ""
+"Don't use a leading tilde (`~`) for shortened cross-references to the API. "
+"Instead always use fully-qualified cross-references for audience clarity "
+"e.g.,"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/changelog.md:0
+msgid "Cross-Reference"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/changelog.md:0
+msgid "Rendered Output"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/changelog.md:0
+msgid "{octicon}`check-circle-fill;1em;sd-text-success`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/changelog.md:0
+msgid "`` :func:`geovista.transform.transform_points` ``"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/changelog.md:0
+msgid "{func}`geovista.transform.transform_points`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/changelog.md:0
+msgid "{octicon}`x-circle-fill;1em;sd-text-danger`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/changelog.md:0
+msgid "`` :func:`~geovista.transform.transform_points` ``"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/changelog.md:0
+msgid "{func}`~geovista.transform.transform_points`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/changelog.md:39
+msgid "The exception to this rule is when clear context is provided e.g.,"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/changelog.md:46
+msgid ""
 "The following [extlinks](https://www.sphinx-"
 "doc.org/en/master/usage/extensions/extlinks.html) conveniences may be used "
 "within a news fragment file:"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:34
+#: ../../geovista/docs/src/developer/changelog.md:49
 msgid ""
 "`:issue:` - Link to a `geovista` {fab}`github` issue e.g., "
 "**:issue:\\`123\\`**"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:35
+#: ../../geovista/docs/src/developer/changelog.md:50
 msgid ""
 "`:pull:` - Link to a `geovista` {fab}`github` pull-request e.g., "
 "**:pull:\\`456\\`**"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:36
+#: ../../geovista/docs/src/developer/changelog.md:51
 msgid "`:user:` - Link to a {fab}`github` user e.g., **:user:\\`bjlittle\\`**"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:39
+#: ../../geovista/docs/src/developer/changelog.md:54
 msgid "Remember to acknowledge the author/s of a pull-request e.g.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:46
+#: ../../geovista/docs/src/developer/changelog.md:61
 msgid ""
 "Each news fragment file **must** be named as `<PULL-REQUEST>.<TYPE>.rst`, "
 "where `<PULL-REQUEST>` is the {fab}`github` pull-request number, and "
 "`<TYPE>` is one of:"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:50
+#: ../../geovista/docs/src/developer/changelog.md:65
 msgid ""
 "`breaking`: Removals and backward incompatible breaking changes that may "
 "affect user code"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:52
+#: ../../geovista/docs/src/developer/changelog.md:67
 msgid ""
 "`deprecation`: Declaration of removals and backward incompatible changes"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:53
+#: ../../geovista/docs/src/developer/changelog.md:68
 msgid "`feature`: New user facing behaviours or capability"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:54
+#: ../../geovista/docs/src/developer/changelog.md:69
 msgid ""
 "`enhancement`: Updates to existing behaviours or capability, including "
 "performance"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:55
+#: ../../geovista/docs/src/developer/changelog.md:70
 msgid "`bugfix`: Correction to undesired behaviours or reported bugs"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:56
+#: ../../geovista/docs/src/developer/changelog.md:71
 msgid "`dependency`: Package dependency removals, additions, pins etc"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:57
+#: ../../geovista/docs/src/developer/changelog.md:72
 msgid "`asset`: Data, media and asset updates etc"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:58
+#: ../../geovista/docs/src/developer/changelog.md:73
 msgid ""
 "`documentation`: Notable changes to the documentation structure, content, "
 "render or build"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:60
+#: ../../geovista/docs/src/developer/changelog.md:75
 msgid "`internal`: Miscellaneous internal and maintenance changes"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:61
+#: ../../geovista/docs/src/developer/changelog.md:76
 msgid ""
 "`community`: Celebrate our awesome community members and their "
 "contributions, including social changes"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:63
+#: ../../geovista/docs/src/developer/changelog.md:78
 msgid ""
 "`contributor`: Changes that affect contributors such as standards, "
 "conventions, running tests, building docs, environments, security etc"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:65
+#: ../../geovista/docs/src/developer/changelog.md:80
 msgid "`misc`: Catch all for items that don't fit elsewhere"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:67
+#: ../../geovista/docs/src/developer/changelog.md:82
 msgid "e.g., ``123.feature.rst`` or ``456.bugfix.rst``."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:69
+#: ../../geovista/docs/src/developer/changelog.md:84
 msgid ""
 "[towncrier](https://github.com/twisted/towncrier) is configured in the "
 "`pyproject.toml`. For further details see the `[tool.towncrier]` section. "
@@ -162,13 +205,13 @@ msgid ""
 "reference-changelog>`."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:74
+#: ../../geovista/docs/src/developer/changelog.md:89
 msgid ""
 "If you're unsure what news fragment `<TYPE>` to use, then don't hesitate to "
 "ask in your pull-request."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:78
+#: ../../geovista/docs/src/developer/changelog.md:93
 msgid ""
 "If a change is associated with **more than one** pull-request, then create a"
 " news fragment file for each pull-request with **identical content** e.g., a"
@@ -177,67 +220,67 @@ msgid ""
 "which contain exactly the same content."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:85
+#: ../../geovista/docs/src/developer/changelog.md:100
 msgid ""
 "[towncrier](https://github.com/twisted/towncrier) preserves multiple "
 "paragraphs and the formatting within a news fragment file, however concise "
 "single paragraph entries are encouraged."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:90
+#: ../../geovista/docs/src/developer/changelog.md:105
 msgid ""
 "Run `towncrier --draft` to render a preview of the news fragment files in "
 "the `changelog` directory."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:94
+#: ../../geovista/docs/src/developer/changelog.md:109
 msgid "{fa}`road-circle-exclamation` Changelog Quality Assurance"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:96
+#: ../../geovista/docs/src/developer/changelog.md:111
 msgid ""
 "Quality assurance of `changelog` contributions is performed by the [ci-"
 "changelog](https://github.com/bjlittle/geovista/blob/main/.github/workflows/ci-"
 "changelog.yml) {fab}`github` Action."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:100
+#: ../../geovista/docs/src/developer/changelog.md:115
 msgid "It performs the following automated checks on each pull-request:"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:102
+#: ../../geovista/docs/src/developer/changelog.md:117
 msgid "Ensures that the pull-request includes a `changelog` news fragment"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:103
+#: ../../geovista/docs/src/developer/changelog.md:118
 msgid ""
 "The news fragment file conforms with the expected `<PULL-"
 "REQUEST>.<TYPE>.rst` naming convention i.e.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:104
+#: ../../geovista/docs/src/developer/changelog.md:119
 msgid ""
 "The `<PULL-REQUEST>` component is a valid integer and matches the pull-"
 "request number"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:105
+#: ../../geovista/docs/src/developer/changelog.md:120
 msgid ""
 "The `<TYPE>` matches a configured `[[tool.towncrier.type]]` entry in the "
 "`pyproject.toml`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:106
+#: ../../geovista/docs/src/developer/changelog.md:121
 msgid "The `rst` extension is provided"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:107
+#: ../../geovista/docs/src/developer/changelog.md:122
 msgid ""
 "The news fragment contains at least one author attribution e.g., "
 "```(:user:`bjlittle`)```, as the final entry"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:110
+#: ../../geovista/docs/src/developer/changelog.md:125
 msgid ""
 "These quality assurance checks can be **skipped** by adding the `skip-"
 "changelog` label to the pull-request. Note that a pull-request generated by "
@@ -245,32 +288,32 @@ msgid ""
 "automatically applied:"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:115
+#: ../../geovista/docs/src/developer/changelog.md:130
 msgid ""
 "[dependabot](https://docs.github.com/en/code-security/how-tos/secure-your-"
 "supply-chain/secure-your-dependencies/configuring-dependabot-version-"
 "updates) version updates"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:116
+#: ../../geovista/docs/src/developer/changelog.md:131
 msgid "[pre-commit.ci](https://pre-commit.ci/) hook updates"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:117
+#: ../../geovista/docs/src/developer/changelog.md:132
 msgid ""
 "[ci-"
 "locks](https://github.com/bjlittle/geovista/blob/main/.github/workflows/ci-"
 "locks.yml) {fab}`github` Action"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:119
+#: ../../geovista/docs/src/developer/changelog.md:134
 msgid ""
 "Also, see the [ci-"
 "label](https://github.com/bjlittle/geovista/blob/main/.github/workflows/ci-"
 "label.yml) {fab}`github` Action for automated pull-request labelling."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/changelog.md:122
+#: ../../geovista/docs/src/developer/changelog.md:137
 msgid ""
 "Removing the `skip-changelog` label from a pull-request will trigger the "
 "[ci-"
