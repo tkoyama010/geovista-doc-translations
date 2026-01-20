@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev742\n"
+"Project-Id-Version: GeoVista 0.6.0.dev793\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-05 00:41+0000\n"
+"POT-Creation-Date: 2026-01-20 00:37+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -30,26 +30,26 @@ msgid "Provision common geovista infra-structure and utilities."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:11
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:91
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:177
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:233
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:266
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:297
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:336
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:379
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:431
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:473
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:509
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:543
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:573
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:609
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:663
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:712
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:766
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:800
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:826
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:852
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:908
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:92
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:178
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:234
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:267
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:298
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:337
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:380
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:432
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:474
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:510
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:544
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:574
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:610
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:664
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:713
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:767
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:801
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:827
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:853
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:909
 msgid "Notes"
 msgstr "ノート"
 
@@ -57,447 +57,456 @@ msgstr "ノート"
 msgid "Attributes"
 msgstr "属性"
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`BASE <geovista.common.BASE>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:936
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:937
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "Default base for wrapped longitude half-open interval, in degrees."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`CENTRAL_MERIDIAN <geovista.common.CENTRAL_MERIDIAN>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:962
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:963
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "Default central meridian."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ""
 ":py:obj:`COASTLINES_RESOLUTION <geovista.common.COASTLINES_RESOLUTION>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:988
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:989
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "Default Natural Earth coastline resolution."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`GV_CELL_IDS <geovista.common.GV_CELL_IDS>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1014
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1015
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "Name of the geovista cell indices array."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`GV_FIELD_CRS <geovista.common.GV_FIELD_CRS>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1040
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1041
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "The field array name of the CF serialized pyproj CRS."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`GV_FIELD_NAME <geovista.common.GV_FIELD_NAME>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1066
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1067
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ""
 "The field array name of the mesh containing field, point and/or cell data."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`GV_FIELD_RADIUS <geovista.common.GV_FIELD_RADIUS>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1092
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1093
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "The field array name of the mesh radius."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`GV_FIELD_RESOLUTION <geovista.common.GV_FIELD_RESOLUTION>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1118
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1119
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "The field array name of the mesh resolution e.g., coastlines."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`GV_FIELD_ZSCALE <geovista.common.GV_FIELD_ZSCALE>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1144
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1145
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ""
 "The field array name of the mesh proportional multiplier for z-axis levels."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
+msgid ":py:obj:`GV_MANIFOLD_CELL_IDS <geovista.common.GV_MANIFOLD_CELL_IDS>`\\"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1171
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
+msgid "Name of the geovista manifold cell indices/marker array."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`GV_POINT_IDS <geovista.common.GV_POINT_IDS>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1170
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1197
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "Name of the geovista point indices array."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`GV_REMESH_POINT_IDS <geovista.common.GV_REMESH_POINT_IDS>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1196
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1223
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "Name of the geovista remesh point indices/marker array."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`JUPYTER_BACKEND <geovista.common.JUPYTER_BACKEND>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1222
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1249
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "Default jupyter plotting backend for pyvista."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`LRU_CACHE_SIZE <geovista.common.LRU_CACHE_SIZE>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1248
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1275
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "LRU cache size, which is auto-disabled for testing."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`PERIOD <geovista.common.PERIOD>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1274
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1301
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "Default period for wrapped longitude half-open interval, in degrees."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`RADIUS <geovista.common.RADIUS>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1300
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1327
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "Default radius of a spherical mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`REMESH_JOIN <geovista.common.REMESH_JOIN>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1326
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1353
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "Marker for remesh filter cell join point."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`REMESH_SEAM <geovista.common.REMESH_SEAM>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1352
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1379
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "Marker for remesh filter western cell boundary point."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`VTK_CELL_IDS <geovista.common.VTK_CELL_IDS>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1378
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1405
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "Name of the VTK cell indices array."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`VTK_POINT_IDS <geovista.common.VTK_POINT_IDS>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1404
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1431
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "Name of the VTK point indices array."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`WRAP_ATOL <geovista.common.WRAP_ATOL>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1430
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1457
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "Absolute tolerance for longitudes close to 'wrap meridian'."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`WRAP_RTOL <geovista.common.WRAP_RTOL>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1456
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1483
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "Relative tolerance for longitudes close to 'wrap meridian'."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`ZLEVEL_SCALE <geovista.common.ZLEVEL_SCALE>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1482
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1509
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "Proportional multiplier for z-axis levels/offsets."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ":py:obj:`ZTRANSFORM_FACTOR <geovista.common.ZTRANSFORM_FACTOR>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1508
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:47:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1535
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid "The zlevel scaling to be applied when transforming to a projection."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:49
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:50
 msgid "Classes"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:56:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:57:<autosummary>:1
 msgid ":py:obj:`Preference <geovista.common.Preference>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:88
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:56:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:89
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:57:<autosummary>:1
 msgid "Enumeration of common mesh geometry preferences."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:56:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:57:<autosummary>:1
 msgid ":py:obj:`StrEnumPlus <geovista.common.StrEnumPlus>`\\"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:174
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:56:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:175
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:57:<autosummary>:1
 msgid "Convenience behaviour for a string enumeration."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:58
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:59
 msgid "Functions"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ":py:obj:`active_kernel <geovista.common.active_kernel>`\\ \\(\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:278
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:279
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid "Determine whether we are executing within an ``IPython`` kernel."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ""
 ":py:obj:`cast_UnstructuredGrid_to_PolyData "
 "<geovista.common.cast_UnstructuredGrid_to_PolyData>`\\ \\(mesh\\, \\/\\, "
 "\\*\\[\\, clean\\]\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:308
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:309
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ""
 "Convert a :class:`~pyvista.UnstructuredGrid` to a "
 ":class:`~pyvista.PolyData`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ""
 ":py:obj:`distance <geovista.common.distance>`\\ \\(mesh\\, \\/\\, \\*\\[\\, "
 "origin\\, mean\\]\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:347
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:348
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ""
 "Calculate the mean distance from the `origin` to the points of the `mesh`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ""
 ":py:obj:`from_cartesian <geovista.common.from_cartesian>`\\ \\(mesh\\, "
 "\\/\\, \\*\\[\\, stacked\\, closed\\_interval\\, ...\\]\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:390
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:391
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ""
 "Convert cartesian ``xyz`` spherical `mesh` to geographic longitude and "
 "latitude."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ""
 ":py:obj:`get_modules <geovista.common.get_modules>`\\ \\(root\\, \\/\\, "
 "\\*\\[\\, base\\]\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:442
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:443
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid "Find all submodule names relative to the `root` package."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ":py:obj:`nan_mask <geovista.common.nan_mask>`\\ \\(data\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:484
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:485
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid "Replace any masked array values with NaNs."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ":py:obj:`point_cloud <geovista.common.point_cloud>`\\ \\(mesh\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:520
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:521
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid "Determine whether the `mesh` is a point-cloud."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ":py:obj:`sanitize_data <geovista.common.sanitize_data>`\\ \\(\\*meshes\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:554
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:555
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid "Purge standard VTK helper cell and point data index arrays."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ""
 ":py:obj:`set_jupyter_backend <geovista.common.set_jupyter_backend>`\\ "
 "\\(\\*\\[\\, backend\\]\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:584
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:585
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid "Configure the jupyter plotting backend for pyvista."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ""
 ":py:obj:`to_cartesian <geovista.common.to_cartesian>`\\ \\(lons\\, lats\\, "
 "\\*\\[\\, radius\\, zlevel\\, zscale\\, ...\\]\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:620
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:621
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ""
 "Convert geographic longitudes and latitudes to cartesian ``xyz`` points."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ""
 ":py:obj:`to_lonlat <geovista.common.to_lonlat>`\\ \\(xyz\\, \\/\\, \\*\\[\\,"
 " radians\\, radius\\, rtol\\, atol\\]\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:674
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:675
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ""
 "Convert cartesian `xyz` point on sphere to geographic longitude and "
 "latitude."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ""
 ":py:obj:`to_lonlats <geovista.common.to_lonlats>`\\ \\(xyz\\, \\/\\, "
 "\\*\\[\\, radians\\, radius\\, stacked\\, ...\\]\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:723
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:724
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ""
 "Convert cartesian `xyz` points on sphere to geographic longitudes and "
 "latitudes."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ":py:obj:`triangulated <geovista.common.triangulated>`\\ \\(surface\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:777
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:778
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid "Determine whether the provided mesh is triangulated."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ":py:obj:`vtk_warnings_off <geovista.common.vtk_warnings_off>`\\ \\(\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:811
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:812
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid "Disable :vtk:`vtkLogger` warning messages."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ":py:obj:`vtk_warnings_on <geovista.common.vtk_warnings_on>`\\ \\(\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:837
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:838
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid "Enable :vtk:`vtkLogger` warning messages."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ""
 ":py:obj:`wrap <geovista.common.wrap>`\\ \\(lons\\, \\*\\[\\, base\\, "
 "period\\, rtol\\, atol\\, dtype\\]\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:863
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:79:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:864
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:80:<autosummary>:1
 msgid ""
 "Transform longitudes to be in the half-open interval ``[base, base + "
 "period)``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:81
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:82
 msgid "Module Contents"
 msgstr "モジュール内容"
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:85
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:86
 msgid "Bases: :py:obj:`StrEnumPlus`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:96
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:184
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:97
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:185
 msgid "Initialize self.  See help(type(self)) for accurate signature."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:122
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:123
 msgid "Preference for cell geometry."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:148
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:149
 msgid "Preference for point geometry."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:171
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:172
 msgid "Bases: :py:obj:`enum.StrEnum`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:180
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:181
 msgid "Previously called MixinStrEnum."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:210
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:211
 msgid "Determine whether the provided item is a valid enumeration member."
 msgstr ""
 
@@ -505,17 +514,17 @@ msgstr ""
 msgid "Parameters"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:215
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:216
 msgid ""
 "**item** : :class:`python:str` or :obj:`Preference "
 "<geovista.common.Preference>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:214
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:215
 msgid "python:str or Preference"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:216
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:217
 msgid "The candidate preference enumeration member."
 msgstr ""
 
@@ -523,369 +532,369 @@ msgstr ""
 msgid "Returns"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:222
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:286
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:532
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:598
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:789
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:223
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:287
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:533
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:599
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:790
 msgid ":class:`python:bool`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:223
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:224
 msgid "Whether the preference enumeration member is valid."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:247
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:248
 msgid "List enumeration member values."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:255
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:256
 msgid ":class:`python:tuple` of :class:`python:str`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:256
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:257
 msgid "Tuple of all the valid preference enumeration member values."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:287
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:288
 msgid "Whether there is an active ``IPython`` kernel."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:313
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:314
 msgid "**mesh** :  :class:`~pyvista.UnstructuredGrid`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:312
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:313
 msgid "UnstructuredGrid"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:314
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:315
 msgid "The unstructured grid to be converted."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:316
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:317
 msgid "**clean** : :class:`python:bool`, default=False"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:315
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:402
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:681
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:730
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:316
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:403
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:682
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:731
 msgid "python:bool, default=False"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:317
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:318
 msgid ""
 "Specify whether to merge duplicate points, remove unused points, and/or "
 "remove degenerate cells in the resultant mesh. See "
 ":meth:`pyvista.PolyDataFilters.clean`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:325
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:326
 msgid ":class:`~pyvista.PolyData`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:326
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:327
 msgid "The resultant mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:349
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:350
 msgid ""
 "Note that given a spherical `mesh` the distance calculated is the radius."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:354
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:396
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:526
+msgid "**mesh** : :class:`~pyvista.PolyData`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:353
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:395
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:525
-msgid "**mesh** : :class:`~pyvista.PolyData`"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:352
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:394
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:524
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:781
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:782
 msgid "PolyData"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:354
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:355
 msgid ""
 "The surface that requires its distance to be calculated, relative to the "
 "`origin`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:357
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:358
 msgid "**origin** : :data:`~numpy.typing.ArrayLike`, default=(0, 0, 0)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:356
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:357
 msgid "ArrayLike, default=(0, 0, 0)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:358
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:359
 msgid "The (x, y, z) cartesian center of the spheroid mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:360
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:361
 msgid "**mean** : :class:`python:bool`, default=True"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:359
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:398
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:643
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:739
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:360
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:399
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:644
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:740
 msgid "python:bool, default=True"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:361
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:362
 msgid ""
 "Calculate the mean distance to the points of the `mesh`. Otherwise, "
 "calculate the distance to each point from the `origin`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:368
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:369
 msgid ":class:`python:float` or :class:`~numpy.ndarray`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:369
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:370
 msgid "The mean distance to the provided mesh or each mesh point."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:396
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:397
 msgid ""
 "The mesh containing the cartesian (x, y, z) points to be converted to "
 "longitude and latitude coordinates."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:399
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:644
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:740
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:400
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:645
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:741
 msgid "**stacked** : :class:`python:bool`, default=True"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:400
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:401
 msgid ""
 "Specify whether the resultant xy0 coordinates have shape (N, 3). Otherwise, "
 "they will have shape (3, N)."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:403
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:404
 msgid "**closed_interval** : :class:`python:bool`, default=False"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:404
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:405
 msgid ""
 "Longitude values will be in the half-closed interval [-180, 180). However, "
 "if the mesh has a seam at the 180th meridian and `closed_interval` is "
 "``True``, then longitudes will be in the closed interval [-180, 180]."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:408
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:689
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:743
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:878
-msgid "**rtol** : :class:`python:float`, optional"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:407
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:411
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:630
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:639
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:685
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:688
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:692
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:742
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:746
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:870
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:873
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:877
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:883
-msgid "python:float, optional"
-msgstr ""
-
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:409
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:690
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:744
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:879
+msgid "**rtol** : :class:`python:float`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:408
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:412
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:631
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:640
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:686
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:689
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:693
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:743
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:747
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:871
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:874
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:878
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:884
+msgid "python:float, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:410
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:691
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:745
 msgid ""
 "The relative tolerance for longitudes close to the 'wrap meridian' - see "
 ":func:`geovista.common.wrap` for more."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:412
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:693
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:747
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:884
-msgid "**atol** : :class:`python:float`, optional"
-msgstr ""
-
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:413
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:694
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:748
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:885
+msgid "**atol** : :class:`python:float`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:414
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:695
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:749
 msgid ""
 "The absolute tolerance for longitudes close to the 'wrap meridian' - see "
 ":func:`geovista.common.wrap` for more."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:420
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:498
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:652
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:701
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:755
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:897
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:421
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:499
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:653
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:702
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:756
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:898
 msgid ":class:`~numpy.ndarray`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:421
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:422
 msgid "The longitude and latitude coordinates, in degrees."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:444
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:445
 msgid ""
 "Recursively searches down from the `root` to find all child (leaf) modules."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:446
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:447
 msgid "The names of the modules will be relative to the `root`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:450
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:451
 msgid "**root** : :class:`python:str`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:449
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:450
 msgid "python:str"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:451
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:452
 msgid ""
 "The name (dot notation) of the top level package to search under. e.g., "
 "``geovista.examples``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:454
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:455
 msgid "**base** : :class:`python:bool`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:453
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:454
 msgid "python:bool, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:455
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:456
 msgid ""
 "Flag the top level `root` package, which will then remove the `root` prefix "
 "from all packages found and sort them alphabetically."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:462
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:463
 msgid ":class:`python:list` of :class:`python:str`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:463
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:464
 msgid "The sorted list of child module names, relative to the `root`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:486
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:487
 msgid ""
 "As a consequence of filling the mask with NaNs, non-float arrays will be "
 "cast to float."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:491
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:492
 msgid "**data** : :data:`~numpy.typing.ArrayLike`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:490
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:624
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:627
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:678
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:727
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:867
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:491
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:625
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:628
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:679
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:728
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:868
 msgid "ArrayLike"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:492
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:493
 msgid "The masked array to be filled with NaNs."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:499
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:500
 msgid "The `data` with masked values replaced with NaNs."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:526
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:527
 msgid "The mesh to be checked."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:533
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:534
 msgid "Whether the `mesh` is a point-cloud."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:559
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:560
 msgid "**\\*meshes** : :term:`python:iterable` of :class:`~pyvista.PolyData`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:558
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:559
 msgid "python:iterable of PolyData"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:560
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:561
 msgid "One or more meshes to sanitize."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:589
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:590
 msgid "**backend** : :class:`python:str`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:588
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:589
 msgid "python:str, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:590
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:591
 msgid ""
 "The pyvista plotting backend. For further details see "
 ":func:`pyvista.set_jupyter_backend`. If ``None``, defaults to "
 ":data:`JUPYTER_BACKEND`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:599
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:600
 msgid "Whether the jupyter backend was successfully configured."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:625
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:868
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:626
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:869
 msgid "**lons** : :data:`~numpy.typing.ArrayLike`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:626
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:627
 msgid "The longitude values (degrees) to be converted."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:628
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:629
 msgid "**lats** : :data:`~numpy.typing.ArrayLike`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:629
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:630
 msgid "The latitude values (degrees) to be converted."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:631
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:686
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:632
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:687
 msgid "**radius** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:632
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:633
 msgid "The radius of the sphere. Defaults to :data:`RADIUS`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:634
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:635
 msgid ""
 "**zlevel** : :class:`python:float` or :data:`~numpy.typing.ArrayLike`, "
 "default=0.0"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:633
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:634
 msgid "python:float or ArrayLike, default=0.0"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:635
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:636
 msgid ""
 "The z-axis level. Used in combination with the `zscale` to offset the "
 "`radius` by a proportional amount i.e., ``radius * zlevel * zscale``. If "
@@ -893,118 +902,118 @@ msgid ""
 "shape of `lons` and `lats`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:640
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:641
 msgid "**zscale** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:641
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:642
 msgid ""
 "The proportional multiplier for z-axis `zlevel`. Defaults to "
 ":data:`ZLEVEL_SCALE`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:645
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:646
 msgid ""
 "Specify whether the resultant xyz points have shape (N, 3). Otherwise, they "
 "will have shape (3, N)."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:653
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:654
 msgid "The ``xyz`` spherical cartesian points."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:679
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:728
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:680
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:729
 msgid "**xyz** : :data:`~numpy.typing.ArrayLike`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:680
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:681
 msgid "The cartesian (x, y, z) point to be converted."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:682
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:731
-msgid "**radians** : :class:`python:bool`, default=False"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:683
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:732
+msgid "**radians** : :class:`python:bool`, default=False"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:684
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:733
 msgid ""
 "Convert resultant longitude and latitude values to radians. Default units "
 "are degrees."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:687
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:688
 msgid "The `radius` of the sphere. Defaults to :data:`RADIUS`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:702
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:756
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:703
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:757
 msgid "The longitude and latitude values."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:729
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:730
 msgid "The cartesian (x, y, z) points to be converted."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:735
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:736
 msgid ""
 "**radius** : :class:`python:float` or :obj:`ArrayLike "
 "<numpy.typing.ArrayLike>`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:734
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:735
 msgid "python:float or ArrayLike, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:736
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:737
 msgid ""
 "The `radius` of the sphere. If `radius` is not a scalar, then its shape must"
 " match the number of `xyz` points i.e., radii with shape ``(N,)`` for `xyz` "
 "points with shape ``(N, 3)``. Defaults to :data:`RADIUS`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:741
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:742
 msgid "Default the resultant shape to be ``(N, 2)``, otherwise ``(2, N)``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:782
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:783
 msgid "**surface** : :class:`~pyvista.PolyData`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:783
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:784
 msgid ""
 "The surface mesh to check whether the geometry of all its cells are "
 "triangles."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:790
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:791
 msgid "Whether the surface is fully triangulated."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:869
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:870
 msgid "One or more longitude values to be wrapped in the interval."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:871
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:872
 msgid "**base** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:872
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:873
 msgid "The start limit of the half-open interval. Defaults to :data:`BASE`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:874
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:875
 msgid "**period** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:875
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:876
 msgid ""
 "The end limit of the half-open interval expressed as a length from the "
 "`base`, in the same units. Defaults to :data:`PERIOD`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:879
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:880
 msgid ""
 "The relative tolerance for longitudes close to the 'wrap meridian' - that is"
 " ``base + period`` - to be considered equal to the wrap meridian. Necessary "
@@ -1012,7 +1021,7 @@ msgid ""
 ":data:`WRAP_RTOL`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:885
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:886
 msgid ""
 "The absolute tolerance for longitudes close to the 'wrap meridian' - that is"
 " ``base + period`` - to be considered equal to the wrap meridian. Necessary "
@@ -1020,7 +1029,7 @@ msgid ""
 ":data:`WRAP_ATOL`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:890
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:891
 msgid "**dtype**"
 msgstr ""
 
@@ -1028,14 +1037,14 @@ msgstr ""
 msgid "data-type, default=float64"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:891
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:892
 msgid "The resultant longitude `dtype`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:898
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:899
 msgid "The transformed longitude values."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:913
+#: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:914
 msgid "Examples"
 msgstr ""
