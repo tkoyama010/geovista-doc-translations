@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev741\n"
+"Project-Id-Version: GeoVista 0.6.0.dev800\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-01 00:43+0000\n"
+"POT-Creation-Date: 2026-01-22 00:39+0000\n"
 "PO-Revision-Date: 2025-08-06 00:41+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
