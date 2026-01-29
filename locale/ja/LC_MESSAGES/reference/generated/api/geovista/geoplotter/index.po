@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev773\n"
+"Project-Id-Version: GeoVista 0.6.0.dev816\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-11 00:42+0000\n"
+"POT-Creation-Date: 2026-01-29 00:43+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -57,7 +57,7 @@ msgid "Attributes"
 msgstr "属性"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:32:<autosummary>:1
-msgid ":py:obj:`ADD_POINTS_STYLE <geovista.geoplotter.ADD_POINTS_STYLE>`\\"
+msgid ":py:obj:`ADD_POINTS_STYLE <geovista.geoplotter.ADD_POINTS_STYLE>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:918
@@ -66,7 +66,7 @@ msgid "The valid 'style' options for adding points."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:32:<autosummary>:1
-msgid ":py:obj:`BASE_ZLEVEL_SCALE <geovista.geoplotter.BASE_ZLEVEL_SCALE>`\\"
+msgid ":py:obj:`BASE_ZLEVEL_SCALE <geovista.geoplotter.BASE_ZLEVEL_SCALE>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:944
@@ -75,7 +75,7 @@ msgid "Proportional multiplier for z-axis levels/offsets of base-layer mesh."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:32:<autosummary>:1
-msgid ":py:obj:`COASTLINES_RTOL <geovista.geoplotter.COASTLINES_RTOL>`\\"
+msgid ":py:obj:`COASTLINES_RTOL <geovista.geoplotter.COASTLINES_RTOL>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:970
@@ -86,7 +86,7 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:32:<autosummary>:1
 msgid ""
 ":py:obj:`GRATICULE_LABEL_FONT_SIZE "
-"<geovista.geoplotter.GRATICULE_LABEL_FONT_SIZE>`\\"
+"<geovista.geoplotter.GRATICULE_LABEL_FONT_SIZE>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:996
@@ -96,8 +96,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:32:<autosummary>:1
 msgid ""
-":py:obj:`GRATICULE_SHOW_LABELS "
-"<geovista.geoplotter.GRATICULE_SHOW_LABELS>`\\"
+":py:obj:`GRATICULE_SHOW_LABELS <geovista.geoplotter.GRATICULE_SHOW_LABELS>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:1022
@@ -106,7 +105,7 @@ msgid "Whether to render graticule labels by default."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:32:<autosummary>:1
-msgid ":py:obj:`OPACITY_BLACKLIST <geovista.geoplotter.OPACITY_BLACKLIST>`\\"
+msgid ":py:obj:`OPACITY_BLACKLIST <geovista.geoplotter.OPACITY_BLACKLIST>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:1047
@@ -120,7 +119,7 @@ msgid "Classes"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:41:<autosummary>:1
-msgid ":py:obj:`GeoPlotter <geovista.geoplotter.GeoPlotter>`\\"
+msgid ":py:obj:`GeoPlotter <geovista.geoplotter.GeoPlotter>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:50
@@ -129,7 +128,7 @@ msgid "A geospatial aware plotter."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:41:<autosummary>:1
-msgid ":py:obj:`GeoPlotterBase <geovista.geoplotter.GeoPlotterBase>`\\"
+msgid ":py:obj:`GeoPlotterBase <geovista.geoplotter.GeoPlotterBase>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:105

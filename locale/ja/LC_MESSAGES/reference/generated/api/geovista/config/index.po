@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev791\n"
+"Project-Id-Version: GeoVista 0.6.0.dev816\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-19 00:41+0000\n"
+"POT-Creation-Date: 2026-01-29 00:43+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -74,7 +74,7 @@ msgid "Attributes"
 msgstr "属性"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/config/index.rst:51:<autosummary>:1
-msgid ":py:obj:`resources <geovista.config.resources>`\\"
+msgid ":py:obj:`resources <geovista.config.resources>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/config/index.rst:59

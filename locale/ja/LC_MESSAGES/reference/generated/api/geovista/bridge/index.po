@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev773\n"
+"Project-Id-Version: GeoVista 0.6.0.dev816\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-11 00:42+0000\n"
+"POT-Creation-Date: 2026-01-29 00:43+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -57,7 +57,7 @@ msgid "Attributes"
 msgstr "属性"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:36:<autosummary>:1
-msgid ":py:obj:`BRIDGE_CLEAN <geovista.bridge.BRIDGE_CLEAN>`\\"
+msgid ":py:obj:`BRIDGE_CLEAN <geovista.bridge.BRIDGE_CLEAN>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:650
@@ -66,7 +66,7 @@ msgid "Whether mesh cleaning performed by the bridge."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:36:<autosummary>:1
-msgid ":py:obj:`NAME_CELLS <geovista.bridge.NAME_CELLS>`\\"
+msgid ":py:obj:`NAME_CELLS <geovista.bridge.NAME_CELLS>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:676
@@ -75,7 +75,7 @@ msgid "Default array name for data on the mesh cells."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:36:<autosummary>:1
-msgid ":py:obj:`NAME_POINTS <geovista.bridge.NAME_POINTS>`\\"
+msgid ":py:obj:`NAME_POINTS <geovista.bridge.NAME_POINTS>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:702
@@ -84,7 +84,7 @@ msgid "Default array name for data on the mesh points."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:36:<autosummary>:1
-msgid ":py:obj:`PathLike <geovista.bridge.PathLike>`\\"
+msgid ":py:obj:`PathLike <geovista.bridge.PathLike>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:727
@@ -93,7 +93,7 @@ msgid "Type alias for an asset file path."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:36:<autosummary>:1
-msgid ":py:obj:`RIO_SIEVE_SIZE <geovista.bridge.RIO_SIEVE_SIZE>`\\"
+msgid ":py:obj:`RIO_SIEVE_SIZE <geovista.bridge.RIO_SIEVE_SIZE>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:753
@@ -102,7 +102,7 @@ msgid "The default size of the :func:`rasterio.features.sieve` filter."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:36:<autosummary>:1
-msgid ":py:obj:`Shape <geovista.bridge.Shape>`\\"
+msgid ":py:obj:`Shape <geovista.bridge.Shape>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:778
@@ -115,7 +115,7 @@ msgid "Classes"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:44:<autosummary>:1
-msgid ":py:obj:`Transform <geovista.bridge.Transform>`\\"
+msgid ":py:obj:`Transform <geovista.bridge.Transform>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:50

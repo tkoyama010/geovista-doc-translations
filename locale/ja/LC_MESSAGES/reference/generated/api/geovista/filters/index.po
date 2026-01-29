@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev808\n"
+"Project-Id-Version: GeoVista 0.6.0.dev816\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-25 00:43+0000\n"
+"POT-Creation-Date: 2026-01-29 00:43+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -45,7 +45,7 @@ msgid "Attributes"
 msgstr "属性"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:31:<autosummary>:1
-msgid ":py:obj:`REMESH_SEAM_EAST <geovista.filters.REMESH_SEAM_EAST>`\\"
+msgid ":py:obj:`REMESH_SEAM_EAST <geovista.filters.REMESH_SEAM_EAST>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:104
@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:31:<autosummary>:1
 msgid ""
-":py:obj:`VTK_BAD_TRIANGLE_MASK <geovista.filters.VTK_BAD_TRIANGLE_MASK>`\\"
+":py:obj:`VTK_BAD_TRIANGLE_MASK <geovista.filters.VTK_BAD_TRIANGLE_MASK>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:130
@@ -64,7 +64,7 @@ msgid "``vtkIntersectionPolyDataFilter`` bad triangle cell array name."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:31:<autosummary>:1
-msgid ":py:obj:`VTK_BOUNDARY_MASK <geovista.filters.VTK_BOUNDARY_MASK>`\\"
+msgid ":py:obj:`VTK_BOUNDARY_MASK <geovista.filters.VTK_BOUNDARY_MASK>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:156
@@ -73,7 +73,7 @@ msgid "``vtkIntersectionPolyDataFilter`` intersection point array name."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:31:<autosummary>:1
-msgid ":py:obj:`VTK_FREE_EDGE_MASK <geovista.filters.VTK_FREE_EDGE_MASK>`\\"
+msgid ":py:obj:`VTK_FREE_EDGE_MASK <geovista.filters.VTK_FREE_EDGE_MASK>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/filters/index.rst:182

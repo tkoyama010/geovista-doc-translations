@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev796\n"
+"Project-Id-Version: GeoVista 0.6.0.dev816\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-21 00:39+0000\n"
+"POT-Creation-Date: 2026-01-29 00:43+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -59,7 +59,7 @@ msgid "Attributes"
 msgstr "属性"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`BASE <geovista.common.BASE>`\\"
+msgid ":py:obj:`BASE <geovista.common.BASE>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:974
@@ -68,7 +68,7 @@ msgid "Default base for wrapped longitude half-open interval, in degrees."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`CENTRAL_MERIDIAN <geovista.common.CENTRAL_MERIDIAN>`\\"
+msgid ":py:obj:`CENTRAL_MERIDIAN <geovista.common.CENTRAL_MERIDIAN>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1000
@@ -78,7 +78,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
 msgid ""
-":py:obj:`COASTLINES_RESOLUTION <geovista.common.COASTLINES_RESOLUTION>`\\"
+":py:obj:`COASTLINES_RESOLUTION <geovista.common.COASTLINES_RESOLUTION>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1026
@@ -87,7 +87,7 @@ msgid "Default Natural Earth coastline resolution."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`GV_CELL_IDS <geovista.common.GV_CELL_IDS>`\\"
+msgid ":py:obj:`GV_CELL_IDS <geovista.common.GV_CELL_IDS>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1052
@@ -96,7 +96,7 @@ msgid "Name of the geovista cell indices array."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`GV_FIELD_CRS <geovista.common.GV_FIELD_CRS>`\\"
+msgid ":py:obj:`GV_FIELD_CRS <geovista.common.GV_FIELD_CRS>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1078
@@ -105,7 +105,7 @@ msgid "The field array name of the CF serialized pyproj CRS."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`GV_FIELD_NAME <geovista.common.GV_FIELD_NAME>`\\"
+msgid ":py:obj:`GV_FIELD_NAME <geovista.common.GV_FIELD_NAME>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1104
@@ -115,7 +115,7 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`GV_FIELD_RADIUS <geovista.common.GV_FIELD_RADIUS>`\\"
+msgid ":py:obj:`GV_FIELD_RADIUS <geovista.common.GV_FIELD_RADIUS>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1130
@@ -124,7 +124,7 @@ msgid "The field array name of the mesh radius."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`GV_FIELD_RESOLUTION <geovista.common.GV_FIELD_RESOLUTION>`\\"
+msgid ":py:obj:`GV_FIELD_RESOLUTION <geovista.common.GV_FIELD_RESOLUTION>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1156
@@ -133,7 +133,7 @@ msgid "The field array name of the mesh resolution e.g., coastlines."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`GV_FIELD_ZSCALE <geovista.common.GV_FIELD_ZSCALE>`\\"
+msgid ":py:obj:`GV_FIELD_ZSCALE <geovista.common.GV_FIELD_ZSCALE>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1182
@@ -143,7 +143,7 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`GV_MANIFOLD_CELL_IDS <geovista.common.GV_MANIFOLD_CELL_IDS>`\\"
+msgid ":py:obj:`GV_MANIFOLD_CELL_IDS <geovista.common.GV_MANIFOLD_CELL_IDS>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1208
@@ -152,7 +152,7 @@ msgid "Name of the geovista manifold cell indices/marker array."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`GV_POINT_IDS <geovista.common.GV_POINT_IDS>`\\"
+msgid ":py:obj:`GV_POINT_IDS <geovista.common.GV_POINT_IDS>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1234
@@ -161,7 +161,7 @@ msgid "Name of the geovista point indices array."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`GV_REMESH_POINT_IDS <geovista.common.GV_REMESH_POINT_IDS>`\\"
+msgid ":py:obj:`GV_REMESH_POINT_IDS <geovista.common.GV_REMESH_POINT_IDS>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1260
@@ -170,7 +170,7 @@ msgid "Name of the geovista remesh point indices/marker array."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`JUPYTER_BACKEND <geovista.common.JUPYTER_BACKEND>`\\"
+msgid ":py:obj:`JUPYTER_BACKEND <geovista.common.JUPYTER_BACKEND>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1286
@@ -179,7 +179,7 @@ msgid "Default jupyter plotting backend for pyvista."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`LRU_CACHE_SIZE <geovista.common.LRU_CACHE_SIZE>`\\"
+msgid ":py:obj:`LRU_CACHE_SIZE <geovista.common.LRU_CACHE_SIZE>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1312
@@ -188,7 +188,7 @@ msgid "LRU cache size, which is auto-disabled for testing."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`PERIOD <geovista.common.PERIOD>`\\"
+msgid ":py:obj:`PERIOD <geovista.common.PERIOD>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1338
@@ -197,7 +197,7 @@ msgid "Default period for wrapped longitude half-open interval, in degrees."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`RADIUS <geovista.common.RADIUS>`\\"
+msgid ":py:obj:`RADIUS <geovista.common.RADIUS>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1364
@@ -206,7 +206,7 @@ msgid "Default radius of a spherical mesh."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`REMESH_JOIN <geovista.common.REMESH_JOIN>`\\"
+msgid ":py:obj:`REMESH_JOIN <geovista.common.REMESH_JOIN>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1390
@@ -215,7 +215,7 @@ msgid "Marker for remesh filter cell join point."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`REMESH_SEAM <geovista.common.REMESH_SEAM>`\\"
+msgid ":py:obj:`REMESH_SEAM <geovista.common.REMESH_SEAM>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1416
@@ -224,7 +224,7 @@ msgid "Marker for remesh filter western cell boundary point."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`VTK_CELL_IDS <geovista.common.VTK_CELL_IDS>`\\"
+msgid ":py:obj:`VTK_CELL_IDS <geovista.common.VTK_CELL_IDS>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1442
@@ -233,7 +233,7 @@ msgid "Name of the VTK cell indices array."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`VTK_POINT_IDS <geovista.common.VTK_POINT_IDS>`\\"
+msgid ":py:obj:`VTK_POINT_IDS <geovista.common.VTK_POINT_IDS>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1468
@@ -242,7 +242,7 @@ msgid "Name of the VTK point indices array."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`WRAP_ATOL <geovista.common.WRAP_ATOL>`\\"
+msgid ":py:obj:`WRAP_ATOL <geovista.common.WRAP_ATOL>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1494
@@ -251,7 +251,7 @@ msgid "Absolute tolerance for longitudes close to 'wrap meridian'."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`WRAP_RTOL <geovista.common.WRAP_RTOL>`\\"
+msgid ":py:obj:`WRAP_RTOL <geovista.common.WRAP_RTOL>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1520
@@ -260,7 +260,7 @@ msgid "Relative tolerance for longitudes close to 'wrap meridian'."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`ZLEVEL_SCALE <geovista.common.ZLEVEL_SCALE>`\\"
+msgid ":py:obj:`ZLEVEL_SCALE <geovista.common.ZLEVEL_SCALE>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1546
@@ -269,7 +269,7 @@ msgid "Proportional multiplier for z-axis levels/offsets."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:48:<autosummary>:1
-msgid ":py:obj:`ZTRANSFORM_FACTOR <geovista.common.ZTRANSFORM_FACTOR>`\\"
+msgid ":py:obj:`ZTRANSFORM_FACTOR <geovista.common.ZTRANSFORM_FACTOR>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:1572
@@ -282,7 +282,7 @@ msgid "Classes"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:57:<autosummary>:1
-msgid ":py:obj:`Preference <geovista.common.Preference>`\\"
+msgid ":py:obj:`Preference <geovista.common.Preference>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:90
@@ -291,7 +291,7 @@ msgid "Enumeration of common mesh geometry preferences."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:57:<autosummary>:1
-msgid ":py:obj:`StrEnumPlus <geovista.common.StrEnumPlus>`\\"
+msgid ":py:obj:`StrEnumPlus <geovista.common.StrEnumPlus>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/common/index.rst:176

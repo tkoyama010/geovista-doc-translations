@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev790\n"
+"Project-Id-Version: GeoVista 0.6.0.dev816\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-18 00:42+0000\n"
+"POT-Creation-Date: 2026-01-29 00:43+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -46,7 +46,7 @@ msgid "Attributes"
 msgstr "属性"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:26:<autosummary>:1
-msgid ":py:obj:`CUT_OFFSET <geovista.core.CUT_OFFSET>`\\"
+msgid ":py:obj:`CUT_OFFSET <geovista.core.CUT_OFFSET>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:750
@@ -55,7 +55,7 @@ msgid "Cartesian west/east bias offset of a slice."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:26:<autosummary>:1
-msgid ":py:obj:`SPLINE_N_POINTS <geovista.core.SPLINE_N_POINTS>`\\"
+msgid ":py:obj:`SPLINE_N_POINTS <geovista.core.SPLINE_N_POINTS>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:776
@@ -68,7 +68,7 @@ msgid "Classes"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:35:<autosummary>:1
-msgid ":py:obj:`MeridianSlice <geovista.core.MeridianSlice>`\\"
+msgid ":py:obj:`MeridianSlice <geovista.core.MeridianSlice>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:54
@@ -79,7 +79,7 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:35:<autosummary>:1
-msgid ":py:obj:`SliceBias <geovista.core.SliceBias>`\\"
+msgid ":py:obj:`SliceBias <geovista.core.SliceBias>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/core/index.rst:349
