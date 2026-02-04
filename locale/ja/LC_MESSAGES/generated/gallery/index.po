@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev834\n"
+"Project-Id-Version: GeoVista 0.6.0.dev838\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-02 00:47+0000\n"
+"POT-Creation-Date: 2026-02-04 00:43+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -43,8 +43,8 @@ msgstr "このインタラクティブなギャラリーは、 ``geovista`` の�
 #: ../../geovista/docs/src/generated/gallery/index.rst:21
 msgid ""
 "It is generated from the ``geovista.examples``, which can also be run from "
-"the command line with:"
-msgstr "これは ``geovista.examples`` から生成され、コマンドラインから実行することもできます:"
+"the command line:"
+msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:33
 msgid "Want to know more?"
@@ -117,171 +117,175 @@ msgid ":doc:`/generated/gallery/extraction/panel_manifold`"
 msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:246
+msgid ":doc:`/generated/gallery/extraction/plotter_manifold`"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/index.rst:263
 msgid ":doc:`/generated/gallery/extraction/wedge_manifold`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:262
+#: ../../geovista/docs/src/generated/gallery/index.rst:279
 msgid ":fa:`image` Point Cloud"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:264
+#: ../../geovista/docs/src/generated/gallery/index.rst:281
 msgid "Examples of 3D cartographic point clouds."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:283
+#: ../../geovista/docs/src/generated/gallery/index.rst:300
 msgid ":doc:`/generated/gallery/point_cloud/from_points__orca_cloud`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:300
+#: ../../geovista/docs/src/generated/gallery/index.rst:317
 msgid ":doc:`/generated/gallery/point_cloud/from_points__orca_cloud_eqc`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:316
+#: ../../geovista/docs/src/generated/gallery/index.rst:333
 msgid ":fa:`image` Rectilinear Grid"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:318
+#: ../../geovista/docs/src/generated/gallery/index.rst:335
 msgid "Demonstrates support for traditional 2D rectilinear grids."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:337
+#: ../../geovista/docs/src/generated/gallery/index.rst:354
 msgid ":doc:`/generated/gallery/rectilinear/from_1d__oisst`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:354
+#: ../../geovista/docs/src/generated/gallery/index.rst:371
 msgid ":doc:`/generated/gallery/rectilinear/from_1d__oisst_eqc`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:370
+#: ../../geovista/docs/src/generated/gallery/index.rst:387
 msgid ":fa:`image` Scalar Data"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:372
+#: ../../geovista/docs/src/generated/gallery/index.rst:389
 msgid "Examples of various scalar data visualization techniques."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:391
+#: ../../geovista/docs/src/generated/gallery/index.rst:408
 msgid ":doc:`/generated/gallery/scalar_data/earthquakes`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:408
+#: ../../geovista/docs/src/generated/gallery/index.rst:425
 msgid ":doc:`/generated/gallery/scalar_data/earthquakes_wink1`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:425
+#: ../../geovista/docs/src/generated/gallery/index.rst:442
 msgid ":doc:`/generated/gallery/scalar_data/from_tiff__dem`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:442
+#: ../../geovista/docs/src/generated/gallery/index.rst:459
 msgid ":doc:`/generated/gallery/scalar_data/from_tiff__rgb`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:458
+#: ../../geovista/docs/src/generated/gallery/index.rst:475
 msgid ":fa:`image` Spatial Index"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:460
+#: ../../geovista/docs/src/generated/gallery/index.rst:477
 msgid ""
 "Demonstrates visualization of Discrete Global Grid Systems (DGGS) and "
 "spatial indexing techniques."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:479
+#: ../../geovista/docs/src/generated/gallery/index.rst:496
 msgid ":doc:`/generated/gallery/spatial_index/uber_h3`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:495
+#: ../../geovista/docs/src/generated/gallery/index.rst:512
 msgid ":fa:`image` Unstructured Mesh"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:497
+#: ../../geovista/docs/src/generated/gallery/index.rst:514
 msgid ""
 "A collection of examples demonstrating the visualization of unstructured "
 "meshes from various atmospheric and oceanographic models."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:517
+#: ../../geovista/docs/src/generated/gallery/index.rst:534
 msgid ":doc:`/generated/gallery/unstructured/dynamico`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:534
+#: ../../geovista/docs/src/generated/gallery/index.rst:551
 msgid ":doc:`/generated/gallery/unstructured/dynamico_poly`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:551
+#: ../../geovista/docs/src/generated/gallery/index.rst:568
 msgid ":doc:`/generated/gallery/unstructured/icon`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:568
+#: ../../geovista/docs/src/generated/gallery/index.rst:585
 msgid ":doc:`/generated/gallery/unstructured/icon_eqc`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:585
+#: ../../geovista/docs/src/generated/gallery/index.rst:602
 msgid ":doc:`/generated/gallery/unstructured/lam_pacific`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:602
+#: ../../geovista/docs/src/generated/gallery/index.rst:619
 msgid ":doc:`/generated/gallery/unstructured/lam_pacific_moll`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:619
+#: ../../geovista/docs/src/generated/gallery/index.rst:636
 msgid ":doc:`/generated/gallery/unstructured/lfric_sst`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:636
+#: ../../geovista/docs/src/generated/gallery/index.rst:653
 msgid ":doc:`/generated/gallery/unstructured/lfric_sst_bonne`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:653
+#: ../../geovista/docs/src/generated/gallery/index.rst:670
 msgid ":doc:`/generated/gallery/unstructured/smc`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:670
+#: ../../geovista/docs/src/generated/gallery/index.rst:687
 msgid ":doc:`/generated/gallery/unstructured/smc_sinu`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:687
+#: ../../geovista/docs/src/generated/gallery/index.rst:704
 msgid ":doc:`/generated/gallery/unstructured/tri`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:704
+#: ../../geovista/docs/src/generated/gallery/index.rst:721
 msgid ":doc:`/generated/gallery/unstructured/tri_hammer`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:720
+#: ../../geovista/docs/src/generated/gallery/index.rst:737
 msgid ":fa:`image` Vector Data"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:722
+#: ../../geovista/docs/src/generated/gallery/index.rst:739
 msgid "Examples of wind vector data."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:741
+#: ../../geovista/docs/src/generated/gallery/index.rst:758
 msgid ":doc:`/generated/gallery/vector_data/vectors`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:757
+#: ../../geovista/docs/src/generated/gallery/index.rst:774
 msgid ":fa:`image` Warp"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:759
+#: ../../geovista/docs/src/generated/gallery/index.rst:776
 msgid ""
 "Manipulation of mesh surfaces to reveal surface bathymetry and topography."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:778
+#: ../../geovista/docs/src/generated/gallery/index.rst:795
 msgid ":doc:`/generated/gallery/warp/from_unstructured__fvcom`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:795
+#: ../../geovista/docs/src/generated/gallery/index.rst:812
 msgid ":doc:`/generated/gallery/warp/from_unstructured__lfric_orog`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:812
+#: ../../geovista/docs/src/generated/gallery/index.rst:829
 msgid ":doc:`/generated/gallery/warp/from_unstructured__lfric_orog_eqc`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/index.rst:850
+#: ../../geovista/docs/src/generated/gallery/index.rst:867
 msgid ""
 "`Gallery generated by Sphinx-Gallery <https://sphinx-gallery.github.io>`_"
 msgstr "`Sphinx-Galleryによって生成されたギャラリー <https://sphinx-gallery.github.io>`_"
