@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev834\n"
+"Project-Id-Version: GeoVista 0.6.0.dev842\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-02 00:47+0000\n"
+"POT-Creation-Date: 2026-02-07 00:43+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -185,9 +185,9 @@ msgstr "``geovista`` はまだ日が浅いですが、地球科学コミュニ�
 
 #: ../../geovista/docs/src/overview.rst:105
 msgid ""
-"Our primary focus at the moment is to provision a stable API and core set of"
-" features ... we're working hard on that, but we're not there yet!"
-msgstr "現在、私たちが最も力を入れているのは ... 安定したAPIとコアとなる機能を提供することです！"
+"Our primary focus at the moment is to provide a stable API and core set of "
+"features ... we're working hard on that, but we're not there yet!"
+msgstr ""
 
 #: ../../geovista/docs/src/overview.rst:108
 msgid "Thanks for your patience 🙏"
