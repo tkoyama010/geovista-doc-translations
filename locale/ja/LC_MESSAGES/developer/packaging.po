@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev847\n"
+"Project-Id-Version: GeoVista 0.6.0.dev862\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-11 00:51+0000\n"
+"POT-Creation-Date: 2026-02-20 00:44+0000\n"
 "PO-Revision-Date: 2025-08-06 00:41+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -633,7 +633,7 @@ msgid "This task is an alias for the :bash:`make serve-html` command."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:376
-msgid "``tests-docs``"
+msgid "``tests-doc``"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:376
@@ -652,8 +652,8 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:386
 msgid ""
-"Note that the ``download doc-images`` and ``make html-docstring-inline`` "
-"tasks are called prior to running this task."
+"Note that the ``tests-clean``, ``download doc-images`` and ``make html-"
+"docstring-inline`` tasks are called prior to running this task."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:389
@@ -703,7 +703,8 @@ msgid ""
 "Failed :ref:`tippy-gv-developer-testing-image-tests` are captured via the "
 "``pytest-pyvista`` plugin option ``--failed_image_dir`` (see :ref:`Image "
 "Tests Generation <tippy-gv-developer-testing-image-tests-generation>`) "
-"within the :bash:`failed_images` directory for analysis and investigation."
+"within the :bash:`test_images_failed` directory for analysis and "
+"investigation."
 msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:427
