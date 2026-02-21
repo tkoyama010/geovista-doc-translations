@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev862\n"
+"Project-Id-Version: GeoVista 0.6.0.dev864\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-20 00:44+0000\n"
+"POT-Creation-Date: 2026-02-21 00:44+0000\n"
 "PO-Revision-Date: 2025-08-06 00:41+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -131,7 +131,7 @@ msgstr ""
 #: ../../geovista/docs/src/developer/packaging.rst:166
 #: ../../geovista/docs/src/developer/packaging.rst:243
 #: ../../geovista/docs/src/developer/packaging.rst:298
-#: ../../geovista/docs/src/developer/packaging.rst:450
+#: ../../geovista/docs/src/developer/packaging.rst:457
 msgid "Description"
 msgstr "説明"
 
@@ -463,7 +463,7 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:271
-#: ../../geovista/docs/src/developer/packaging.rst:392
+#: ../../geovista/docs/src/developer/packaging.rst:399
 msgid "``{test}``"
 msgstr ""
 
@@ -662,43 +662,50 @@ msgid ""
 ":guilabel:`geovista-py3xx` environments."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:392
+#: ../../geovista/docs/src/developer/packaging.rst:395
+msgid ""
+"Failed image tests are captured via the ``pytest-pyvista`` plugin option "
+"``--failed_image_dir`` within the :bash:`test_images_failed` directory for "
+"analysis and investigation."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/packaging.rst:399
 msgid "``tests-clean``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:392
+#: ../../geovista/docs/src/developer/packaging.rst:399
 msgid ""
 "Purge both the documentation and unit test image caches, along with any "
 "images generated from previous test sessions e.g.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:400
+#: ../../geovista/docs/src/developer/packaging.rst:407
 msgid "``tests-unit``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:400
+#: ../../geovista/docs/src/developer/packaging.rst:407
 msgid "Perform the unit tests."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:402
+#: ../../geovista/docs/src/developer/packaging.rst:409
 msgid ""
 "This task calls the ``pytest`` command. Defaults to executing all unit tests"
 " discoverable from the :bash:`geovista` root directory."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:405
+#: ../../geovista/docs/src/developer/packaging.rst:412
 msgid ""
 "Accepts a valid ``pytest`` marker expression as an optional argument. Refer "
 "to the :toml:`[tool.pytest.ini_options]` table entry in the "
 ":bash:`pyproject.toml` manifest for configured ``markers`` e.g.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:413
+#: ../../geovista/docs/src/developer/packaging.rst:420
 msgid ""
 "Note that the ``tests-clean`` task is called prior to running this task."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:418
+#: ../../geovista/docs/src/developer/packaging.rst:425
 msgid ""
 "Failed :ref:`tippy-gv-developer-testing-image-tests` are captured via the "
 "``pytest-pyvista`` plugin option ``--failed_image_dir`` (see :ref:`Image "
@@ -707,43 +714,43 @@ msgid ""
 "investigation."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:427
+#: ../../geovista/docs/src/developer/packaging.rst:434
 msgid ""
 "The :bash:`pixi task list` command describes each task available within the "
 "workspace."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:429
+#: ../../geovista/docs/src/developer/packaging.rst:436
 msgid ""
 "Whereas the :bash:`pixi task list --summary` command enumerates the tasks "
 "available per environment."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:436
+#: ../../geovista/docs/src/developer/packaging.rst:443
 msgid ":fab:`github` Continuous Integration"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:443
+#: ../../geovista/docs/src/developer/packaging.rst:450
 msgid "The following packaging workflows are available:"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:445
+#: ../../geovista/docs/src/developer/packaging.rst:452
 msgid "Packaging Workflows"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:450
+#: ../../geovista/docs/src/developer/packaging.rst:457
 msgid "Workflow"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:452
+#: ../../geovista/docs/src/developer/packaging.rst:459
 msgid "|ci-locks|"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:438
+#: ../../geovista/docs/src/developer/packaging.rst:445
 msgid "ci-locks"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:452
+#: ../../geovista/docs/src/developer/packaging.rst:459
 msgid ""
 "The `ci-locks.yml`_ ``cron`` based :term:`GHA workflow <GHA>` regularly "
 "schedules ``pixi`` to refresh the :bash:`pixi.lock` file based on the "
@@ -751,7 +758,7 @@ msgid ""
 "from the ``conda`` and ``PyPI`` ecosystems."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:457
+#: ../../geovista/docs/src/developer/packaging.rst:464
 msgid ""
 "Only the **latest** ``python`` variant of the :guilabel:`geovista-py3xx` "
 "environment e.g., :guilabel:`geovista-py313`, will be exported to a "
@@ -760,7 +767,7 @@ msgid ""
 " are available in the `requirements/locks`_ directory."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:463
+#: ../../geovista/docs/src/developer/packaging.rst:470
 msgid ""
 "Additionally, the :guilabel:`geovista-py3xx` environment will be exported to"
 " the ``conda`` environment YAML file `requirements/geovista.yml`_ containing"
@@ -768,52 +775,52 @@ msgid ""
 ":ref:`features <tippy-gv-developer-packaging-pixi-solve-groups>`."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:468
+#: ../../geovista/docs/src/developer/packaging.rst:475
 msgid "|ci-wheels|"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:440
+#: ../../geovista/docs/src/developer/packaging.rst:447
 msgid "ci-wheels"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:468
+#: ../../geovista/docs/src/developer/packaging.rst:475
 msgid ""
 "The `ci-wheels.yml`_ :term:`GHA workflow <GHA>` builds, tests and publishes "
 "the source distribution (``sdist``) and binary ``wheel`` of ``geovista``."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:471
+#: ../../geovista/docs/src/developer/packaging.rst:478
 msgid ""
 "We have adopted `PyPI Trusted Publishing`_ with `OpenID Connect (OIDC)`_ for"
 " secure deployments of assets."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:474
+#: ../../geovista/docs/src/developer/packaging.rst:481
 msgid ""
 "Note that the ``sdist`` and ``wheel`` assets are automatically published to "
 "`Test PyPI`_ for each :fa:`code-pull-request` ``pull-request`` merged to the"
 " ``main`` branch, and `PyPI`_ for each ``tag`` release."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:484
+#: ../../geovista/docs/src/developer/packaging.rst:491
 msgid ":fab:`python` Python Package Index"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:486
+#: ../../geovista/docs/src/developer/packaging.rst:493
 msgid ""
 "``PyPI`` package dependencies are configured in the :bash:`pyproject.toml` "
 "manifest under the :toml:`[tool.setuptools.dynamic]` and "
 ":toml:`[tool.setuptools.dynamic.optional-dependencies]` table entries."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:490
+#: ../../geovista/docs/src/developer/packaging.rst:497
 msgid ""
 "Version management of our ``PyPI`` dependencies is orchestrated by "
 ":fab:`github` `Dependabot`_. Refer to the ``package-ecosystem: \"pip\"`` key"
 " entry in the `.github/dependabot.yml`_ file for further details."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:494
+#: ../../geovista/docs/src/developer/packaging.rst:501
 msgid ""
 "The :fab:`github` `Dependabot`_ service is regularly scheduled to check the "
 "versions of our dependencies and automatically increment them using maximum "
@@ -821,14 +828,14 @@ msgid ""
 "the latest available package updates within the ``PyPI`` ecosystem."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:502
+#: ../../geovista/docs/src/developer/packaging.rst:509
 msgid ""
 "Updates to the ``PyPI`` maximum capping pins may require to be manually "
 "reflected in the :bash:`pyproject.toml` manifest for similar ``pixi`` "
 "managed ``conda`` dependencies."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/packaging.rst:506
+#: ../../geovista/docs/src/developer/packaging.rst:513
 msgid ""
 "Track native :fab:`github` `Dependabot`_ support for ``pixi`` in "
 "`dependabot/dependabot-core issue#2227`_ 🤞"
