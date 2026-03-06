@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev865\n"
+"Project-Id-Version: GeoVista 0.6.0.dev879\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-24 00:44+0000\n"
+"POT-Creation-Date: 2026-03-06 00:49+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -41,15 +41,15 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:144
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:214
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:274
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:377
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:444
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:522
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:583
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:654
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:741
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:822
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:872
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:961
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:384
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:458
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:543
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:604
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:682
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:776
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:857
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:907
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:996
 msgid "Notes"
 msgstr "ノート"
 
@@ -61,7 +61,7 @@ msgstr "属性"
 msgid ":py:obj:`ADD_POINTS_STYLE <geovista.geoplotter.ADD_POINTS_STYLE>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:976
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:1011
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:32:<autosummary>:1
 msgid "The valid 'style' options for adding points."
 msgstr ""
@@ -70,7 +70,7 @@ msgstr ""
 msgid ":py:obj:`BASE_ZLEVEL_SCALE <geovista.geoplotter.BASE_ZLEVEL_SCALE>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:1002
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:1037
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:32:<autosummary>:1
 msgid "Proportional multiplier for z-axis levels/offsets of base-layer mesh."
 msgstr ""
@@ -79,7 +79,7 @@ msgstr ""
 msgid ":py:obj:`COASTLINES_RTOL <geovista.geoplotter.COASTLINES_RTOL>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:1028
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:1063
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:32:<autosummary>:1
 msgid "Coastlines relative tolerance for longitudes close to 'wrap meridian'."
 msgstr ""
@@ -90,7 +90,7 @@ msgid ""
 "<geovista.geoplotter.GRATICULE_LABEL_FONT_SIZE>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:1054
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:1089
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:32:<autosummary>:1
 msgid "The default font size for graticule labels."
 msgstr ""
@@ -100,7 +100,7 @@ msgid ""
 ":py:obj:`GRATICULE_SHOW_LABELS <geovista.geoplotter.GRATICULE_SHOW_LABELS>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:1080
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:1115
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:32:<autosummary>:1
 msgid "Whether to render graticule labels by default."
 msgstr ""
@@ -109,7 +109,7 @@ msgstr ""
 msgid ":py:obj:`OPACITY_BLACKLIST <geovista.geoplotter.OPACITY_BLACKLIST>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:1105
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:1140
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:32:<autosummary>:1
 msgid ""
 "Known GPU renderer and version combinations that don't support opacity."
@@ -179,15 +179,15 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:69
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:121
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:779
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:856
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:814
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:891
 msgid "**crs** : :obj:`CRSLike <geovista.crs.CRSLike>`, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:68
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:120
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:778
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:855
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:813
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:890
 msgid "CRSLike, optional"
 msgstr ""
 
@@ -220,8 +220,8 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:130
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:196
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:256
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:565
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:804
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:586
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:839
 msgid "**\\*\\*kwargs** : :class:`python:dict`, optional"
 msgstr ""
 
@@ -231,16 +231,16 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:255
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:359
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:362
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:426
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:429
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:504
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:507
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:564
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:636
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:639
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:723
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:726
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:803
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:433
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:436
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:518
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:521
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:585
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:657
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:660
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:751
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:754
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:838
 msgid "python:dict, optional"
 msgstr ""
 
@@ -273,7 +273,12 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:165
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:230
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:787
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:365
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:439
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:524
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:663
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:757
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:822
 msgid "python:str, optional"
 msgstr ""
 
@@ -291,12 +296,12 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:175
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:236
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:348
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:415
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:493
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:543
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:625
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:712
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:784
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:422
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:507
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:564
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:646
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:740
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:819
 msgid "**radius** : :class:`python:float`, optional"
 msgstr ""
 
@@ -317,36 +322,36 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:329
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:347
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:355
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:396
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:405
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:414
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:422
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:460
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:464
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:470
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:403
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:412
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:421
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:429
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:474
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:483
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:492
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:500
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:542
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:552
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:556
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:560
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:602
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:611
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:624
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:478
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:484
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:488
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:497
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:506
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:514
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:563
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:573
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:577
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:581
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:623
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:632
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:670
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:675
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:680
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:684
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:693
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:711
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:719
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:783
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:799
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:845
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:850
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:645
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:653
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:698
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:703
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:708
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:712
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:721
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:739
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:747
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:818
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:834
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:880
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:885
 msgid "python:float, optional"
 msgstr ""
 
@@ -359,24 +364,24 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:179
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:239
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:351
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:418
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:496
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:628
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:715
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:425
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:510
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:649
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:743
 msgid "**zlevel** : :class:`python:int`, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:178
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:238
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:350
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:401
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:417
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:479
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:495
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:607
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:627
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:689
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:714
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:408
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:424
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:493
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:509
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:628
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:648
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:717
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:742
 msgid "python:int, optional"
 msgstr ""
 
@@ -390,12 +395,12 @@ msgstr ""
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:184
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:244
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:356
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:423
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:501
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:553
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:633
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:720
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:800
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:430
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:515
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:574
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:654
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:748
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:835
 msgid "**zscale** : :class:`python:float`, optional"
 msgstr ""
 
@@ -407,13 +412,13 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:188
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:248
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:557
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:578
 msgid "**rtol** : :class:`python:float`, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:189
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:249
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:558
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:579
 msgid ""
 "The relative tolerance for longitudes close to the 'wrap meridian' - see "
 ":func:`geovista.common.wrap` for more."
@@ -421,13 +426,13 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:192
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:252
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:561
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:582
 msgid "**atol** : :class:`python:float`, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:193
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:253
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:562
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:583
 msgid ""
 "The absolute tolerance for longitudes close to the 'wrap meridian' - see "
 ":func:`geovista.common.wrap` for more."
@@ -435,9 +440,9 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:197
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:257
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:536
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:566
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:805
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:557
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:587
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:840
 msgid "See :meth:`pyvista.Plotter.add_mesh`."
 msgstr ""
 
@@ -447,15 +452,15 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:203
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:263
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:572
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:811
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:593
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:846
 msgid ":obj:`Actor <pyvista.Actor>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:204
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:264
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:573
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:812
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:594
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:847
 msgid "The rendered actor added to the plotter scene."
 msgstr ""
 
@@ -472,11 +477,11 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:237
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:349
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:416
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:494
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:544
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:626
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:713
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:423
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:508
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:565
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:647
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:741
 msgid "The radius of the sphere. Defaults to :data:`geovista.common.RADIUS`."
 msgstr ""
 
@@ -489,12 +494,12 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:245
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:357
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:424
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:502
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:554
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:634
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:721
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:801
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:431
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:516
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:575
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:655
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:749
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:836
 msgid ""
 "The proportional multiplier for z-axis `zlevel`. Defaults to "
 ":data:`geovista.common.ZLEVEL_SCALE`."
@@ -515,7 +520,7 @@ msgid "**lon_start** : :class:`python:float`, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:294
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:462
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:476
 msgid ""
 "The first line of longitude (degrees). The graticule will include this "
 "meridian. Defaults to :data:`geovista.gridlines.LONGITUDE_START`."
@@ -534,13 +539,13 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:303
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:603
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:685
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:624
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:713
 msgid "**lon_step** : :class:`python:float`, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:304
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:472
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:486
 msgid ""
 "The delta (degrees) between neighbouring meridians. Defaults to "
 ":data:`geovista.gridlines.LONGITUDE_STEP`."
@@ -551,7 +556,7 @@ msgid "**lat_start** : :class:`python:float`, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:308
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:672
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:700
 msgid ""
 "The first line of latitude (degrees). The graticule will include this "
 "parallel. Also see `poles_parallel`. Defaults to "
@@ -570,13 +575,13 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:317
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:397
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:475
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:404
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:489
 msgid "**lat_step** : :class:`python:float`, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:318
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:682
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:710
 msgid ""
 "The delta (degrees) between neighbouring parallels. Defaults to "
 ":data:`geovista.gridlines.LATITUDE_STEP`."
@@ -606,54 +611,54 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:330
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:406
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:484
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:612
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:694
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:413
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:498
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:633
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:722
 msgid "**factor** : :class:`python:float`, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:331
 msgid ""
 "The factor to scale the number of sample points in a single graticule line "
-"(meridians and parallels). E.g. a ``factor=2`` will double the number of "
-"sample points. Defaults to 1."
+"(meridians and parallels) e.g. a ``factor=2`` will double the number of "
+"sample points. Defaults to ``1``."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:335
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:617
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:699
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:638
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:727
 msgid "**poles_parallel** : :class:`python:bool`, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:334
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:338
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:343
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:410
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:488
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:616
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:620
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:698
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:702
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:707
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:417
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:502
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:637
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:641
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:726
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:730
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:735
 msgid "python:bool, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:336
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:618
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:700
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:639
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:728
 msgid ""
 "Whether to create a line of latitude at the north/south poles. Defaults to "
 ":data:`geovista.gridlines.LATITUDE_POLES_PARALLEL`."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:339
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:703
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:731
 msgid "**poles_label** : :class:`python:bool`, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:340
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:704
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:732
 msgid ""
 "Whether to create a single north/south pole label. Only applies when "
 "``poles_parallel=False``. Defaults to "
@@ -661,10 +666,10 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:344
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:411
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:489
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:621
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:708
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:418
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:503
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:642
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:736
 msgid "**show_labels** : :class:`python:bool`, optional"
 msgstr ""
 
@@ -675,10 +680,10 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:352
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:419
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:497
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:629
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:716
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:426
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:511
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:650
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:744
 msgid ""
 "The z-axis level. Used in combination with the `zscale` to offset the "
 "`radius` by a proportional amount i.e., ``radius * zlevel * zscale``. "
@@ -686,104 +691,130 @@ msgid ""
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:360
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:427
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:505
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:637
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:724
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:434
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:519
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:658
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:752
 msgid "**mesh_args** : :class:`python:dict`, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:361
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:428
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:506
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:638
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:725
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:435
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:520
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:659
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:753
 msgid "Arguments to pass through to :meth:`pyvista.Plotter.add_mesh`."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:363
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:430
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:508
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:640
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:727
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:437
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:522
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:661
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:755
 msgid "**point_labels_args** : :class:`python:dict`, optional"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:364
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:431
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:509
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:641
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:728
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:438
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:523
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:662
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:756
 msgid "Arguments to pass through to :meth:`pyvista.Plotter.add_point_labels`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:389
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:366
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:440
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:525
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:664
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:758
+msgid "**name** : :class:`python:str`, optional"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:367
+msgid ""
+"The name for the added graticule actors so that they can be easily updated. "
+"If actors of this name already exist in the plotter scene, they will be "
+"replaced by the new actors. Note that the provided `name` will be prepended "
+"with ``meridian-`` or ``parallel-`` to form the names of the graticule "
+"actors."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:396
 msgid "Generate a line of constant longitude and add to the plotter scene."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:394
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:401
 msgid "**lon** : :class:`python:float`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:393
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:599
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:400
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:620
 msgid "python:float"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:395
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:402
 msgid "The constant line of longitude (degrees) to generate."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:398
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:476
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:405
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:490
 msgid ""
 "The delta (degrees) between neighbouring parallels. Sets the frequency of "
 "the labels. Defaults to :data:`geovista.gridlines.LATITUDE_STEP`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:402
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:480
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:608
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:690
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:409
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:494
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:629
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:718
 msgid "**n_samples** : :class:`python:int`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:403
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:481
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:410
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:495
 msgid ""
 "The number of points in a single line of longitude. Defaults to "
 ":data:`geovista.gridlines.LONGITUDE_N_SAMPLES`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:407
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:485
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:414
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:499
 msgid ""
 "The factor to scale the number of sample points in a single line of "
-"longitude. E.g. a ``factor=2`` will double the number of sample points. "
-"Defaults to 1."
+"longitude e.g., a ``factor=2`` will double the number of sample points. "
+"Defaults to ``1``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:412
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:419
 msgid ""
 "Whether to render the meridian label. Defaults to "
 ":data:`GRATICULE_SHOW_LABELS`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:456
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:441
+msgid ""
+"The name for the added meridian/actors so that it can be easily updated. If "
+"an actor of this name already exists in the plotter scene, it will be "
+"replaced by the new actor. Note that the provided `name` will be prepended "
+"with ``meridian-`` along with the longitude to form the name of the added "
+"meridian/actors."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:470
 msgid "Generate lines of constant longitude and add to the plotter scene."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:461
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:671
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:475
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:699
 msgid "**start** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:465
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:676
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:479
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:704
 msgid "**stop** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:466
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:480
 msgid ""
 "The last line of longitude (degrees). The graticule will include this "
 "meridian when it is a multiple of `step`. Also see ``closed_interval`` in "
@@ -791,46 +822,55 @@ msgid ""
 ":data:`geovista.gridlines.LONGITUDE_STOP`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:471
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:681
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:485
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:709
 msgid "**step** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:490
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:504
 msgid ""
 "Whether to render the labels of the meridians. Defaults to "
 ":data:`GRATICULE_SHOW_LABELS`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:534
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:526
+msgid ""
+"The name for the added meridians/actors so that it can be easily updated. If"
+" an actor of this name already exists in the plotter scene, it will be "
+"replaced by the new actor. Note that the provided `name` will be prepended "
+"with ``meridian-`` along with the longitude to form the name of the added "
+"meridians/actors."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:555
 msgid "Add the `mesh` to the plotter scene."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:540
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:561
 msgid "**mesh** : :obj:`PolyData <pyvista.PolyData>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:539
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:560
 msgid "PolyData"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:541
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:562
 msgid "The mesh to add to the plotter."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:546
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:794
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:567
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:829
 msgid ""
 "**zlevel** : :class:`python:int` or :obj:`ArrayLike "
 "<numpy.typing.ArrayLike>`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:545
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:793
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:566
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:828
 msgid "python:int or ArrayLike, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:547
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:568
 msgid ""
 "The z-axis level. Used in combination with the `zscale` to offset the "
 "`radius`/vertical by a proportional amount e.g., ``radius * zlevel * "
@@ -838,82 +878,100 @@ msgid ""
 "broadcast with the shape of the ``mesh.points``. Defaults to ``0``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:595
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:616
 msgid "Generate a line of constant latitude and add to the plotter scene."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:600
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:621
 msgid "**lat** : :class:`python:float`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:601
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:622
 msgid "The constant line of latitude (degrees) to generate."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:604
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:686
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:625
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:714
 msgid ""
 "The delta (degrees) between neighbouring meridians. Sets the frequency of "
 "the labels. Defaults to :data:`geovista.gridlines.LONGITUDE_STEP`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:609
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:691
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:630
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:719
 msgid ""
 "The number of points in a single line of latitude. Defaults to "
 ":data:`geovista.gridlines.LATITUDE_N_SAMPLES`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:613
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:695
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:634
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:723
 msgid ""
-"The factor to scale the number of sample points in a single line of "
-"latitude. E.g. a ``factor=2`` will double the number of sample points. "
-"Defaults to 1."
+"The factor to scale the number of sample points in a single line of latitude"
+" e.g., a ``factor=2`` will double the number of sample points. Defaults to "
+"``1``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:622
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:643
 msgid ""
 "Whether to render the parallel label. Defaults to "
 ":data:`GRATICULE_SHOW_LABELS`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:666
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:665
+msgid ""
+"The name for the added parallel/actor so that it can be easily updated. If "
+"an actor of this name already exists in the plotter scene, it will be "
+"replaced by the new actor. Note that the provided `name` will be prepended "
+"with ``parallel-`` along with the latitude to form the name of the added "
+"parallel/actor."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:694
 msgid "Generate lines of constant latitude and add to the plotter scene."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:677
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:705
 msgid ""
 "The last line of latitude (degrees). The graticule will include this "
 "parallel when it is a multiple of `step`. Also see `poles_parallel`. "
 "Defaults to :data:`geovista.gridlines.LATITUDE_STOP`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:709
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:737
 msgid ""
 "Whether to render the labels of the parallels. Defaults to "
 ":data:`GRATICULE_SHOW_LABELS`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:753
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:759
+msgid ""
+"The name for the added parallels/actors so that it can be easily updated. If"
+" an actor of this name already exists in the plotter scene, it will be "
+"replaced by the new actor. Note that the provided `name` will be prepended "
+"with ``-parallel`` along with the latitude to form the name of the added "
+"parallels/actors."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:788
 msgid "Add points to the plotter scene."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:755
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:790
 msgid "See :meth:`pyvista.Plotter.add_points`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:759
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:794
 msgid ""
 "**points** : :obj:`ArrayLike <numpy.typing.ArrayLike>` or :obj:`PolyData "
 "<pyvista.PolyData>`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:758
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:793
 msgid "ArrayLike or PolyData, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:760
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:795
 msgid ""
 "Array of xyz points, or the points of the mesh to be rendered. Passed to "
 ":meth:`pyvista.core.utilities.helpers.wrap` without any cartographic "
@@ -921,45 +979,45 @@ msgid ""
 " 0 1`` is the north pole."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:765
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:800
 msgid "**xs** : :obj:`ArrayLike <numpy.typing.ArrayLike>`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:764
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:799
 msgid "ArrayLike, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:766
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:801
 msgid ""
 "A 1D, 2D or 3D array of point-cloud x-values, in canonical `crs` units. Must"
 " have the same shape as the `ys`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:769
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:804
 msgid "**ys** : :obj:`ArrayLike <numpy.typing.ArrayLike>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:768
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:803
 msgid "ArrayLike"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:770
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:805
 msgid ""
 "A 1D, 2D or 3D array of point-cloud y-values, in canonical `crs` units. Must"
 " have the same shape as the `xs`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:773
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:808
 msgid ""
 "**scalars** : :class:`python:str` or :obj:`ArrayLike "
 "<numpy.typing.ArrayLike>`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:772
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:807
 msgid "python:str or ArrayLike, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:774
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:809
 msgid ""
 "Values used to color the points. Either, the string name of an array that is"
 " present on the `points` mesh or an array equal to the number of points. If "
@@ -967,31 +1025,31 @@ msgid ""
 "scalars on the `points` mesh are used."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:780
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:815
 msgid ""
 "The Coordinate Reference System of the provided `points`, or `xs` and `ys`. "
 "May be anything accepted by :meth:`pyproj.crs.CRS.from_user_input`. Defaults"
 " to ``EPSG:4326`` i.e., ``WGS 84``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:785
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:820
 msgid ""
 "The radius of the mesh point-cloud. Defaults to "
 ":data:`geovista.common.RADIUS`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:788
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:823
 msgid "**style** : :class:`python:str`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:789
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:824
 msgid ""
 "Visualization style of the points to be rendered. May be either ``points`` "
 "or ``points_gaussian``. The ``points_gaussian`` option may be controlled "
 "with the ``emissive`` and ``render_points_as_spheres`` options in `kwargs`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:795
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:830
 msgid ""
 "The z-axis level. Used in combination with the `zscale` to offset the "
 "`radius` by a proportional amount i.e., ``radius * zlevel * zscale``. If "
@@ -999,17 +1057,17 @@ msgid ""
 "shape of the `xs` and `ys`. Defaults to ``0``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:834
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:869
 msgid "Center the camera at a point-of-interest (POI)."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:836
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:871
 msgid ""
 "If no POI is provided, then the center of the previous mesh added to the "
 "scene is used, if available."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:839
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:874
 msgid ""
 "Note that the camera will be positioned at the POI to view **all** the "
 "actors added to the scene so far; order is important. The point at which "
@@ -1017,34 +1075,34 @@ msgid ""
 "the other actors influences the final rendered scene."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:846
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:881
 msgid "**x** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:847
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:882
 msgid ""
 "The spatial x-value point, in canonical `crs` units, of the POI. Defaults to"
 " ``0`` if unspecified and `y` has been provided, otherwise ``None``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:851
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:886
 msgid "**y** : :class:`python:float`, optional"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:852
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:887
 msgid ""
 "The spatial y-value point, in canonical `crs` units, of the POI. Defaults to"
 " ``0`` if unspecified and `x` has been provided, otherwise ``None``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:857
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:892
 msgid ""
 "The Coordinate Reference System of the POI. May be anything accepted by "
 ":meth:`pyproj.crs.CRS.from_user_input`. Defaults to ``EPSG:4326`` i.e., "
 "``WGS 84``."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:877
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:912
 msgid "Examples"
 msgstr ""
 
@@ -1074,18 +1132,18 @@ msgid ""
 "the rendered scene, however the base layer is now fully visible."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:916
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:951
 msgid "The Coordinate Reference System (CRS) for the plotter."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:942
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:977
 msgid "The manifold boundary applied to meshes added to the plotter."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:950
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:985
 msgid ":obj:`BBox <geovista.geodesic.BBox>` or :data:`python:None`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:951
+#: ../../geovista/docs/src/reference/generated/api/geovista/geoplotter/index.rst:986
 msgid "The plotter manifold."
 msgstr ""
