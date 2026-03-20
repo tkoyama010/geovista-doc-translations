@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev904\n"
+"Project-Id-Version: GeoVista 0.6.0.dev919\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-13 00:45+0000\n"
+"POT-Creation-Date: 2026-03-20 00:46+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -133,27 +133,27 @@ msgstr ""
 msgid "For further information see https://github.com/uber/h3."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:91
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:92
 msgid ""
-"Tags: component: coastlines component: texture load: unstructured widget: "
-"checkbox"
+"Tags: component: coastlines component: texture load: unstructured version: "
+"0.5.0 widget: checkbox"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:94
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:95
 msgid ""
 "Optional package dependency `h3 <https://github.com/uber/h3>`_ is required."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:101
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:102
 msgid "🦉 Walk-Through"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:103
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:104
 msgid ""
 "First, let's ``import`` the package dependencies required by the example."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:136
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:137
 msgid ""
 "As a convenience, we create some **type aliases** and **data containers** to"
 " simplify the code and improve readability. Firstly, the ``H3Asset`` "
@@ -161,102 +161,102 @@ msgid ""
 "scene."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:170
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:171
 msgid ""
 "The ``GeoSurface`` container holds the **geometry** and **topology** of the "
 "``H3`` **base icosahedron**."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:191
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:192
 msgid ""
 "The ``generate_icosahedron_surface`` function generates the geometry and "
 "topology of the ``H3`` **base icosahedron**, which is the foundation of the "
 "entire Uber ``H3`` spatial index."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:254
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:255
 msgid ""
 "The ``GeoSurface`` created by the ``generate_icosahedron_surface`` function "
 "is then used to create a :class:`pyvista.PolyData` mesh containing only the "
 "**geodesic edges** of the **base icosahedron**."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:258
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:259
 msgid ""
 "Rendering these geodesic edges will help clarify to the viewer the position "
 "of the underlying icosahedron even when it is obscured by a texture mapped "
 "base layer."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:303
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:304
 msgid ""
 "The ``to_children`` function generates all the child cells at the next "
 "(finer) resolution for each parent cell represented in the set of "
 "``H3Index`` strings."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:345
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:346
 msgid ""
 "The ``to_mesh`` function converts a set of ``H3Index`` strings, each of "
 "which represent a cell from the same resolution in the Uber ``H3`` spatial "
 "hierarchy, into a :class:`pyvista.PolyData` mesh surface."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:350
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:351
 msgid ""
 "Together, the ``to_children`` and ``to_mesh`` functions can be used to "
 "generate the mesh surface of any resolution in the Uber ``H3`` spatial "
 "hierarchy."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:408
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:409
 msgid ""
 "The ``add_checkboxes`` function adds a checkbox button widget to the "
 "``plotter`` for each ``H3Asset`` actor, which includes the following:"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:411
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:412
 msgid "A Natural Earth texture mapped base layer."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:412
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:413
 msgid "The icosahedron surface."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:413
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:414
 msgid "The icosahedron geodesic edges."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:414
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:415
 msgid "The base resolution mesh (coarsest)."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:415
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:416
 msgid "The next 3 child resolution meshes (increasingly finer)."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:477
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:478
 msgid ""
 "The checkboxes will **not** be rendered when viewing the documentation on "
 "``ReadtheDocs``, as the appropriate VTK widget is not supported in this "
 "headless environment."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:483
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:484
 msgid ""
 "Finally, we create the :class:`~geovista.geoplotter.GeoPlotter` and add the "
 "**base icosahedron** surface and geodesic edges, a Natural Earth base layer "
 "and coastlines."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:487
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:488
 msgid ""
 "We also use the :func:`h3.get_res0_cells` function to bootstrap the Uber "
 "``H3`` hierarchy by generating the ``H3Index`` strings for all the cells "
 "participating in the base (coarsest) resolution ."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:491
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:492
 msgid ""
 "The ``to_mesh`` function is then used to convert the ``H3Index`` strings "
 "into a :class:`pyvista.PolyData` mesh surface, which is then added to the "
@@ -265,19 +265,19 @@ msgid ""
 "converted into mesh surfaces and also added to the plotter."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:617
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:618
 msgid ":download:`Download Jupyter notebook: uber_h3.ipynb <uber_h3.ipynb>`"
 msgstr ":download:`Download Jupyter notebook: uber_h3.ipynb <uber_h3.ipynb>`"
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:621
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:622
 msgid ":download:`Download Python source code: uber_h3.py <uber_h3.py>`"
 msgstr ":download:`Download Python source code: uber_h3.py <uber_h3.py>`"
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:625
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:626
 msgid ":download:`Download zipped: uber_h3.zip <uber_h3.zip>`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:632
+#: ../../geovista/docs/src/generated/gallery/spatial_index/uber_h3.rst:633
 msgid ""
 "`Gallery generated by Sphinx-Gallery <https://sphinx-gallery.github.io>`_"
 msgstr "`Sphinx-Galleryによって生成されたギャラリー <https://sphinx-gallery.github.io>`_"
