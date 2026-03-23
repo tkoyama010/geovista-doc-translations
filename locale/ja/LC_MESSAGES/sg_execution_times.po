@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev912\n"
+"Project-Id-Version: GeoVista 0.6.0.dev925\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-16 00:52+0000\n"
+"POT-Creation-Date: 2026-03-23 00:50+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -27,7 +27,7 @@ msgstr "計算時間"
 
 #: ../../geovista/docs/src/sg_execution_times.rst:9
 msgid ""
-"**00:00.000** total execution time for 33 files **from all galleries**:"
+"**00:00.000** total execution time for 36 files **from all galleries**:"
 msgstr ""
 
 #: ../../geovista/docs/src/sg_execution_times.rst:32
@@ -81,6 +81,9 @@ msgstr ""
 #: ../../geovista/docs/src/sg_execution_times.rst:126
 #: ../../geovista/docs/src/sg_execution_times.rst:129
 #: ../../geovista/docs/src/sg_execution_times.rst:132
+#: ../../geovista/docs/src/sg_execution_times.rst:135
+#: ../../geovista/docs/src/sg_execution_times.rst:138
+#: ../../geovista/docs/src/sg_execution_times.rst:141
 msgid "00:00.000"
 msgstr "00:00.000"
 
@@ -117,6 +120,9 @@ msgstr "00:00.000"
 #: ../../geovista/docs/src/sg_execution_times.rst:127
 #: ../../geovista/docs/src/sg_execution_times.rst:130
 #: ../../geovista/docs/src/sg_execution_times.rst:133
+#: ../../geovista/docs/src/sg_execution_times.rst:136
+#: ../../geovista/docs/src/sg_execution_times.rst:139
+#: ../../geovista/docs/src/sg_execution_times.rst:142
 msgid "0.0"
 msgstr "0.0"
 
@@ -338,21 +344,37 @@ msgstr ""
 
 #: ../../geovista/docs/src/sg_execution_times.rst:122
 msgid ""
-":ref:`sphx_glr_generated_gallery_vector_data_vectors.py` "
-"(``../../src/geovista/examples/vector_data/vectors.py``)"
+":ref:`sphx_glr_generated_gallery_vector_data_true_winds.py` "
+"(``../../src/geovista/examples/vector_data/true_winds.py``)"
 msgstr ""
-":ref:`sphx_glr_generated_gallery_vector_data_vectors.py` "
-"(``../../src/geovista/examples/vector_data/vectors.py``)"
 
 #: ../../geovista/docs/src/sg_execution_times.rst:125
 msgid ""
+":ref:`sphx_glr_generated_gallery_vector_data_wind_arrows.py` "
+"(``../../src/geovista/examples/vector_data/wind_arrows.py``)"
+msgstr ""
+
+#: ../../geovista/docs/src/sg_execution_times.rst:128
+msgid ""
+":ref:`sphx_glr_generated_gallery_vector_data_wind_arrows_flow.py` "
+"(``../../src/geovista/examples/vector_data/wind_arrows_flow.py``)"
+msgstr ""
+
+#: ../../geovista/docs/src/sg_execution_times.rst:131
+msgid ""
+":ref:`sphx_glr_generated_gallery_vector_data_wind_arrows_uvw.py` "
+"(``../../src/geovista/examples/vector_data/wind_arrows_uvw.py``)"
+msgstr ""
+
+#: ../../geovista/docs/src/sg_execution_times.rst:134
+msgid ""
 ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__fvcom.py` "
 "(``../../src/geovista/examples/warp/from_unstructured__fvcom.py``)"
 msgstr ""
 ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__fvcom.py` "
 "(``../../src/geovista/examples/warp/from_unstructured__fvcom.py``)"
 
-#: ../../geovista/docs/src/sg_execution_times.rst:128
+#: ../../geovista/docs/src/sg_execution_times.rst:137
 msgid ""
 ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__lfric_orog.py` "
 "(``../../src/geovista/examples/warp/from_unstructured__lfric_orog.py``)"
@@ -360,7 +382,7 @@ msgstr ""
 ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__lfric_orog.py` "
 "(``../../src/geovista/examples/warp/from_unstructured__lfric_orog.py``)"
 
-#: ../../geovista/docs/src/sg_execution_times.rst:131
+#: ../../geovista/docs/src/sg_execution_times.rst:140
 msgid ""
 ":ref:`sphx_glr_generated_gallery_warp_from_unstructured__lfric_orog_eqc.py` "
 "(``../../src/geovista/examples/warp/from_unstructured__lfric_orog_eqc.py``)"

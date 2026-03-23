@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev888\n"
+"Project-Id-Version: GeoVista 0.6.0.dev925\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-09 18:59+0000\n"
+"POT-Creation-Date: 2026-03-23 00:50+0000\n"
 "PO-Revision-Date: 2025-01-29 00:30+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -864,7 +864,8 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:586
 msgid ""
-"``cast``, ``contour``, ``extrude``, ``threshold``, ``triangulate``, ``warp``"
+"``cast``, ``contour``, ``extrude``, ``glyph``, ``threshold``, "
+"``triangulate``, ``warp``"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:586
@@ -878,7 +879,8 @@ msgstr ""
 #: ../../geovista/docs/src/developer/documentation.rst:589
 #: ../../geovista/docs/src/developer/documentation.rst:601
 msgid ""
-"``curvilinear``, ``geotiff``, ``points``, ``rectilinear``, ``unstructured``"
+"``curvilinear``, ``geotiff``, ``points``, ``rectilinear``, ``unstructured``,"
+" ``vectors``"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:589
