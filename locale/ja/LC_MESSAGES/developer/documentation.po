@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev933\n"
+"Project-Id-Version: GeoVista 0.6.0.dev938\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-25 00:48+0000\n"
+"POT-Creation-Date: 2026-03-28 00:47+0000\n"
 "PO-Revision-Date: 2025-01-29 00:30+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -850,7 +850,9 @@ msgid ":guilabel:`domain`"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:583
-msgid "``oceanography``, ``seismology``, ``meteorology``, ``orography``"
+msgid ""
+"``meteorology``, ``oceanography``, ``orography``, ``seismology``, "
+"``volcanology``"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:583
@@ -877,10 +879,10 @@ msgid ":guilabel:`load`"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:589
-#: ../../geovista/docs/src/developer/documentation.rst:601
+#: ../../geovista/docs/src/developer/documentation.rst:602
 msgid ""
-"``curvilinear``, ``geotiff``, ``points``, ``rectilinear``, ``unstructured``,"
-" ``vectors``"
+"``curvilinear``, ``geotiff``, ``grid``, ``points``, ``rectilinear``, "
+"``unstructured``, ``vectors``"
 msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:589
@@ -889,79 +891,79 @@ msgid ""
 "geospatial data."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:592
+#: ../../geovista/docs/src/developer/documentation.rst:593
 msgid ":guilabel:`plot`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:592
-msgid "``anti-aliasing``, ``camera``, ``subplots``"
+#: ../../geovista/docs/src/developer/documentation.rst:593
+msgid "``anti-aliasing``, ``camera``, ``log-scale`` ``subplots``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:592
+#: ../../geovista/docs/src/developer/documentation.rst:593
 msgid "Content that showcases various `plotting`_ techniques."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:595
+#: ../../geovista/docs/src/developer/documentation.rst:596
 msgid ":guilabel:`projection`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:595
+#: ../../geovista/docs/src/developer/documentation.rst:596
 msgid "``crs``, ``transform``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:595
+#: ../../geovista/docs/src/developer/documentation.rst:596
 msgid ""
 "Content that demonstrates the use of geospatial projections or "
 "transformations."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:598
+#: ../../geovista/docs/src/developer/documentation.rst:599
 msgid ":guilabel:`resolution`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:598
+#: ../../geovista/docs/src/developer/documentation.rst:599
 msgid "``high``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:598
+#: ../../geovista/docs/src/developer/documentation.rst:599
 msgid "Content using high-resolution or high-volume geospatial data."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:601
+#: ../../geovista/docs/src/developer/documentation.rst:602
 msgid ":guilabel:`sample`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:601
+#: ../../geovista/docs/src/developer/documentation.rst:602
 msgid ""
 "Content that leverages the convenience of pre-canned geospatial sample data "
 "available from the :mod:`geovista.pantry`."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:605
+#: ../../geovista/docs/src/developer/documentation.rst:606
 msgid ":guilabel:`style`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:605
+#: ../../geovista/docs/src/developer/documentation.rst:606
 msgid "``colormap``, ``lighting``, ``opacity``, ``shading``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:605
+#: ../../geovista/docs/src/developer/documentation.rst:606
 msgid ""
 "Content that includes customization of various render styles and aesthetics."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:608
+#: ../../geovista/docs/src/developer/documentation.rst:609
 msgid ":guilabel:`widget`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:608
+#: ../../geovista/docs/src/developer/documentation.rst:609
 msgid "``checkbox``, ``logo``, ``north-arrow``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:608
+#: ../../geovista/docs/src/developer/documentation.rst:609
 msgid "Content that demonstrates the use of interactive `widgets`_."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/documentation.rst:615
+#: ../../geovista/docs/src/developer/documentation.rst:616
 msgid "Experimental features may be tagged with :bdg-warning:`experimental 🧪`"
 msgstr ""

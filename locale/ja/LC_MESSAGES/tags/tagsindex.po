@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev933\n"
+"Project-Id-Version: GeoVista 0.6.0.dev938\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-25 00:48+0000\n"
+"POT-Creation-Date: 2026-03-28 00:47+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -22,11 +22,11 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:10
-msgid "component: coastlines (27)"
+msgid "component: coastlines (29)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:10
-msgid "component: graticule (11)"
+msgid "component: graticule (13)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:10
@@ -34,7 +34,7 @@ msgid "component: manifold (4)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:10
-msgid "component: texture (27)"
+msgid "component: texture (29)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:10
@@ -58,7 +58,11 @@ msgid "domain: seismology (2)"
 msgstr "domain: seismology (2)"
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:10
-msgid "experimental 🧪 (4)"
+msgid "domain: volcanology (2)"
+msgstr ""
+
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
+msgid "experimental 🧪 (6)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:10
@@ -66,7 +70,7 @@ msgid "filter: cast (2)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:10
-msgid "filter: contour (2)"
+msgid "filter: contour (3)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:10
@@ -78,7 +82,7 @@ msgid "filter: glyph (4)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:10
-msgid "filter: threshold (13)"
+msgid "filter: threshold (15)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:10
@@ -95,6 +99,10 @@ msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "load: geotiff (2)"
+msgstr ""
+
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
+msgid "load: grid (2)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:10
@@ -119,6 +127,10 @@ msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:10
 msgid "plot: camera (3)"
+msgstr ""
+
+#: ../../geovista/docs/src/tags/tagsindex.rst:10
+msgid "plot: log-scale (1)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:10
@@ -178,7 +190,7 @@ msgid "version: 0.5.0 (3)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:10
-msgid "version: 0.6.0 (8)"
+msgid "version: 0.6.0 (10)"
 msgstr ""
 
 #: ../../geovista/docs/src/tags/tagsindex.rst:10

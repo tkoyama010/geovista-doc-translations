@@ -1,0 +1,36 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021 - 2026, GeoVista Contributors
+# This file is distributed under the same license as the GeoVista package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GeoVista 0.6.0.dev938\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-03-28 00:47+0000\n"
+"PO-Revision-Date: 2026-03-28 00:49+0000\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../geovista/docs/src/generated/gallery/grid/index.rst:9
+msgid ":fa:`image` Grid"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/grid/index.rst:11
+msgid ""
+"A collection of examples demonstrating the visualization of various gridded "
+"volumes from different atmospheric models."
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/grid/index.rst:31
+msgid ":doc:`/generated/gallery/grid/reykjanes_contour`"
+msgstr ""
+
+#: ../../geovista/docs/src/generated/gallery/grid/index.rst:48
+msgid ":doc:`/generated/gallery/grid/reykjanes`"
+msgstr ""
