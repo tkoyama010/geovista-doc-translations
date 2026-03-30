@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2025
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev933\n"
+"Project-Id-Version: GeoVista 0.6.0.dev938\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-26 00:51+0000\n"
+"POT-Creation-Date: 2026-03-30 00:53+0000\n"
 "PO-Revision-Date: 2025-02-01 00:33+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,4 +27,4 @@ msgstr "タグ付けされたコンテンツ:"
 
 #: ../../geovista/docs/src/tags/sample-unstructured.rst:4
 msgid ":fa:`tags` Tag: sample: unstructured"
-msgstr ""
+msgstr ":fa:`tags` Tag: sample: unstructured"
