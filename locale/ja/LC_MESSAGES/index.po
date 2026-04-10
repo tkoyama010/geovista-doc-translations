@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev950\n"
+"Project-Id-Version: GeoVista 0.6.0.dev954\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-09 00:44+0000\n"
+"POT-Creation-Date: 2026-04-10 00:52+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -21,53 +21,49 @@ msgstr ""
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../geovista/docs/src/index.rst:98
+#: ../../geovista/docs/src/index.rst:95
 msgid "GeoVista 101"
 msgstr "GeoVista 101"
 
-#: ../../geovista/docs/src/index.rst:110
+#: ../../geovista/docs/src/index.rst:107
 msgid "Contents"
 msgstr "内容"
 
-#: ../../geovista/docs/src/index.rst:121
+#: ../../geovista/docs/src/index.rst:118
 msgid "Gallery"
 msgstr "ギャラリー"
 
-#: ../../geovista/docs/src/index.rst:129
+#: ../../geovista/docs/src/index.rst:126
 msgid "Developer"
 msgstr "開発者"
 
-#: ../../geovista/docs/src/index.rst-1
-msgid "4BBAD3AF3FC882B3"
-msgstr ""
-
-#: ../../geovista/docs/src/index.rst:10
+#: ../../geovista/docs/src/index.rst:7
 msgid "GeoVista Documentation"
 msgstr "GeoVista ドキュメント"
 
-#: ../../geovista/docs/src/index.rst:15
+#: ../../geovista/docs/src/index.rst:12
 msgid "Content marked with 🚧 indicates it's still under construction."
 msgstr "🚧の付いたコンテンツは、まだ工事中であることを示します。"
 
-#: ../../geovista/docs/src/index.rst:18
+#: ../../geovista/docs/src/index.rst:15
 msgid "Welcome to the ``geovista`` documentation!"
 msgstr "ようこそ、 ``geovista`` のドキュメントへ！"
 
-#: ../../geovista/docs/src/index.rst:20
+#: ../../geovista/docs/src/index.rst:17
 msgid ""
 "``geovista`` is a pure `Python`_ package, built upon `PyVista`_ that offers "
 "performant, publication quality 3D cartographic rendering of Earth Science "
 "data."
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:24
+#: ../../geovista/docs/src/index.rst:21
 msgid ""
 "Our goal is to lower the bar for scientists, such that they can easily "
 "analyze, visualize, and explore their rectilinear, curvilinear and "
 "unstructured geospatial data interactively in 3D."
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:28
+#: ../../geovista/docs/src/index.rst:25
 msgid ""
 "We're still busy crafting the documentation, which is incomplete and liable "
 "to change.  Thanks for your patience. However, your feedback is important to"
@@ -76,45 +72,45 @@ msgid ""
 " of awesome 🚀"
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:34
+#: ../../geovista/docs/src/index.rst:31
 msgid ""
 "Alternatively, come share with us over on our :fab:`github` `Discussions`_. "
 "We'd ❤️ to hear from you."
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:44
+#: ../../geovista/docs/src/index.rst:41
 msgid "Tutorials"
 msgstr "チュートリアル"
 
-#: ../../geovista/docs/src/index.rst:53
+#: ../../geovista/docs/src/index.rst:50
 msgid "Topic driven themed lessons."
 msgstr "トピックに沿ったテーマ別レッスン。"
 
-#: ../../geovista/docs/src/index.rst:55
+#: ../../geovista/docs/src/index.rst:52
 msgid "How-To Guides 🚧"
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:64
+#: ../../geovista/docs/src/index.rst:61
 msgid "Treasure trove of focused guides."
 msgstr "集中ガイドの宝庫。"
 
-#: ../../geovista/docs/src/index.rst:66
+#: ../../geovista/docs/src/index.rst:63
 msgid "Explanation 🚧"
 msgstr ""
 
-#: ../../geovista/docs/src/index.rst:75
+#: ../../geovista/docs/src/index.rst:72
 msgid "Deeper understanding awaits."
 msgstr "深い理解が待っている。"
 
-#: ../../geovista/docs/src/index.rst:77
+#: ../../geovista/docs/src/index.rst:74
 msgid "Reference"
 msgstr "参照"
 
-#: ../../geovista/docs/src/index.rst:86
+#: ../../geovista/docs/src/index.rst:83
 msgid "No fuss facts."
 msgstr "大げさな事実はない。"
 
-#: ../../geovista/docs/src/index.rst:91
+#: ../../geovista/docs/src/index.rst:88
 msgid ""
 ":fa:`graduation-cap` Choose your approach to learning and ``geovista`` "
 "knowledge discovery (`Diátaxis`_)"
