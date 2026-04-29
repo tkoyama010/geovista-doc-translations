@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev942\n"
+"Project-Id-Version: GeoVista 0.6.0.dev968\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-06 00:53+0000\n"
+"POT-Creation-Date: 2026-04-29 01:03+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -75,8 +75,19 @@ msgstr "属性"
 msgid ":py:obj:`GEOVISTA_IMAGE_TESTING <geovista.GEOVISTA_IMAGE_TESTING>`"
 msgstr ""
 
+#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:90
+#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:82:<autosummary>:1
+msgid ""
+"Developer environment variable to control image testing render and theme."
+msgstr ""
+
 #: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:82:<autosummary>:1
 msgid ":py:obj:`__version__ <geovista.__version__>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:115
+#: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:82:<autosummary>:1
+msgid "The ``major.minor.patch`` version string."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:84
