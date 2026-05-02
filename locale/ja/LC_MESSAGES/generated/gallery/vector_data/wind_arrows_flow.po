@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev955\n"
+"Project-Id-Version: GeoVista 0.6.0.dev976\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-14 00:56+0000\n"
+"POT-Creation-Date: 2026-05-02 01:00+0000\n"
 "PO-Revision-Date: 2026-03-23 00:52+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -92,7 +92,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/vector_data/wind_arrows_flow.rst:67
 msgid ""
-"Tags: experimental 🧪 component: graticule component: texture component: "
+"🏷 Tags: experimental 🧪 component: graticule component: texture component: "
 "vectors domain: meteorology filter: glyph load: vectors version: 0.6.0"
 msgstr ""
 

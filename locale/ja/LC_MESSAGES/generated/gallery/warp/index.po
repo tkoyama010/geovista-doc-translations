@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev968\n"
+"Project-Id-Version: GeoVista 0.6.0.dev976\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-29 01:03+0000\n"
+"POT-Creation-Date: 2026-05-02 01:00+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -26,14 +26,14 @@ msgid ""
 "Manipulation of mesh surfaces to reveal surface bathymetry and topography."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/warp/index.rst:30
+#: ../../geovista/docs/src/generated/gallery/warp/index.rst:34
 msgid ":doc:`/generated/gallery/warp/from_unstructured__fvcom`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/warp/index.rst:47
+#: ../../geovista/docs/src/generated/gallery/warp/index.rst:51
 msgid ":doc:`/generated/gallery/warp/from_unstructured__lfric_orog`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/warp/index.rst:64
+#: ../../geovista/docs/src/generated/gallery/warp/index.rst:68
 msgid ":doc:`/generated/gallery/warp/from_unstructured__lfric_orog_eqc`"
 msgstr ""
