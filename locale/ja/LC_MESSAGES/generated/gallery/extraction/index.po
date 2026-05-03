@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev942\n"
+"Project-Id-Version: GeoVista 0.6.0.dev976\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-05 00:54+0000\n"
+"POT-Creation-Date: 2026-05-02 01:00+0000\n"
 "PO-Revision-Date: 2025-01-27 00:31+0000\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -25,14 +25,14 @@ msgstr ""
 msgid "Highlights various region :term:`manifold` extraction techniques."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/extraction/index.rst:30
+#: ../../geovista/docs/src/generated/gallery/extraction/index.rst:34
 msgid ":doc:`/generated/gallery/extraction/panel_manifold`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/extraction/index.rst:47
+#: ../../geovista/docs/src/generated/gallery/extraction/index.rst:51
 msgid ":doc:`/generated/gallery/extraction/plotter_manifold`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/extraction/index.rst:64
+#: ../../geovista/docs/src/generated/gallery/extraction/index.rst:68
 msgid ":doc:`/generated/gallery/extraction/wedge_manifold`"
 msgstr ""

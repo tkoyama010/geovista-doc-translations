@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev955\n"
+"Project-Id-Version: GeoVista 0.6.0.dev976\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-12 00:56+0000\n"
+"POT-Creation-Date: 2026-05-02 01:00+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -25,18 +25,18 @@ msgstr ""
 msgid "Examples of wind vector data."
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/vector_data/index.rst:30
+#: ../../geovista/docs/src/generated/gallery/vector_data/index.rst:34
 msgid ":doc:`/generated/gallery/vector_data/true_winds`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/vector_data/index.rst:47
+#: ../../geovista/docs/src/generated/gallery/vector_data/index.rst:51
 msgid ":doc:`/generated/gallery/vector_data/wind_arrows`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/vector_data/index.rst:64
+#: ../../geovista/docs/src/generated/gallery/vector_data/index.rst:68
 msgid ":doc:`/generated/gallery/vector_data/wind_arrows_uvw`"
 msgstr ""
 
-#: ../../geovista/docs/src/generated/gallery/vector_data/index.rst:81
+#: ../../geovista/docs/src/generated/gallery/vector_data/index.rst:85
 msgid ":doc:`/generated/gallery/vector_data/wind_arrows_flow`"
 msgstr ""
