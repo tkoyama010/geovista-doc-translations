@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2021 - 2025, GeoVista Contributors
+# Copyright (C) 2021 - 2026, GeoVista Contributors
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev741\n"
+"Project-Id-Version: GeoVista 0.6.0.dev968\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-30 00:37+0000\n"
+"POT-Creation-Date: 2026-04-29 01:03+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/config/index.rst:2
-msgid ":py:mod:`geovista.config`"
+msgid "geovista.config"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/config/index.rst:8
@@ -74,7 +74,7 @@ msgid "Attributes"
 msgstr "属性"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/config/index.rst:51:<autosummary>:1
-msgid ":py:obj:`resources <geovista.config.resources>`\\"
+msgid ":py:obj:`resources <geovista.config.resources>`"
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/config/index.rst:59
