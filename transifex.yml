@@ -1,0 +1,9 @@
+git:
+  filters:
+    - filter_type: dir
+      # Transifex project slug
+      file_format: PO
+      source_file_extension: pot
+      source_language: en
+      source_file_dir: locale/pot
+      translation_files_expression: "locale/<lang>/LC_MESSAGES/"
