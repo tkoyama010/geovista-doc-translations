@@ -1,0 +1,364 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021 - 2026, GeoVista Contributors
+# This file is distributed under the same license as the GeoVista package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GeoVista 0.6.0.dev1005\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-24 22:54+0000\n"
+"PO-Revision-Date: 2026-05-24 22:57+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:2
+msgid "geovista.themes"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:8
+msgid ""
+"Configures custom :doc:`pyvista <pyvista:index>` themes for ``geovista``."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:10
+msgid ""
+"These themes are discoverable by ``pyvista`` and registered through "
+"``[project.entry-points]`` TOML table metadata (``PEP621``) in our "
+"``pyproject.toml``."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:14
+msgid ""
+"Registered themes may be enabled through :func:`geovista.set_plot_theme`, "
+":func:`pyvista.set_plot_theme` or the ``PYVISTA_PLOT_THEME`` environment "
+"variable."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:18
+msgid "See Also"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:19
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:327
+msgid ":func:`pyvista.registered_themes`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:20
+msgid "Enumeration of available registered themes."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:23
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:74
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:121
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:165
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:229
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:266
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:334
+msgid "Notes"
+msgstr "ノート"
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:31
+msgid "Classes"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:39:<autosummary>:1
+msgid ""
+":py:obj:`GeoVistaDocumentTheme <geovista.themes.GeoVistaDocumentTheme>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:58
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:39:<autosummary>:1
+msgid "Theme used for building the documentation."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:39:<autosummary>:1
+msgid ":py:obj:`GeoVistaTheme <geovista.themes.GeoVistaTheme>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:105
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:39:<autosummary>:1
+msgid "Default ``geovista`` plot theme."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:39:<autosummary>:1
+msgid ":py:obj:`ThemeMixin <geovista.themes.ThemeMixin>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:150
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:39:<autosummary>:1
+msgid "Common ``geovista`` plotting theme property state."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:41
+msgid "Functions"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:49:<autosummary>:1
+msgid ""
+":py:obj:`resolve_theme_name <geovista.themes.resolve_theme_name>`\\ "
+"\\(name\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:200
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:49:<autosummary>:1
+msgid "Create an instance of the registered theme or dotted path theme class."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:49:<autosummary>:1
+msgid ":py:obj:`restore_plot_theme <geovista.themes.restore_plot_theme>`\\ \\(\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:240
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:49:<autosummary>:1
+msgid "Activate the previous plot theme."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:49:<autosummary>:1
+msgid ""
+":py:obj:`set_plot_theme <geovista.themes.set_plot_theme>`\\ \\(theme\\, "
+"\\/\\, \\*\\[\\, bootstrap\\]\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:277
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:49:<autosummary>:1
+msgid "Set plotting parameters to a predefined theme."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:51
+msgid "Module Contents"
+msgstr "モジュール内容"
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:55
+msgid ""
+"Bases: :py:obj:`pyvista.plotting.themes.DocumentTheme`, :py:obj:`ThemeMixin`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:61
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:108
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:339
+msgid "Examples"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:62
+msgid ""
+"Make the ``geovista_document`` theme the global default using an instance of"
+" the theme."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:69
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:116
+msgid "Alternatively, enable the theme via its string name."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:79
+msgid "Documentation plotting theme for ``geovista``."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:102
+msgid "Bases: :py:obj:`pyvista.plotting.themes.Theme`, :py:obj:`ThemeMixin`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:109
+msgid ""
+"Make the ``geovista`` theme the global default using an instance of the "
+"theme."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:126
+msgid "Default plotting theme for ``geovista``."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:176
+msgid "Configure common property state."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:0
+msgid "Parameters"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:205
+msgid "**name** : :class:`python:str`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:204
+msgid "python:str"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:206
+msgid ""
+"The name of the registered theme to lookup or the dotted path "
+"``package.module:ClassName`` theme to be created."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:0
+msgid "Returns"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:213
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:255
+msgid ":obj:`Theme <pyvista.plotting.themes.Theme>` | :data:`python:None`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:214
+msgid ""
+"An instance of the theme or ``None`` if the requested theme is not "
+"registered."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:0
+msgid "Raises"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:222
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:317
+msgid ":obj:`ValueError`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:223
+msgid ""
+"When `name` is an invalid dotted path specification or cannot be imported."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:242
+msgid ""
+"Provides a convenience to undo the last call to "
+":func:`geovista.themes.set_plot_theme`. Note that the entire call stack "
+"history is cached, so multiple calls to "
+":func:`geovista.themes.set_plot_theme` may be undone in reverse order to "
+"restore a previous theme."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:247
+msgid ""
+"When no cached theme is available, the current theme will remain active and "
+"``None`` is returned."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:256
+msgid "The previously cached theme if available, otherwise ``None``."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:279
+msgid "The enabled plot theme will be used by all plotters and rendering."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:281
+msgid ""
+"Requests to enable a plot theme will be ignored when the environment "
+"variable ``GEOVISTA_DISABLE_PLOT_THEME`` is set."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:284
+msgid ""
+"Note that the replaced theme is cached and may be restored with "
+":func:`geovista.themes.restore_plot_theme`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:289
+msgid ""
+"**theme** : :obj:`Theme <pyvista.plotting.themes.Theme>` or "
+":class:`python:str`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:288
+msgid "Theme or python:str"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:290
+msgid "The theme to apply, which may be either:"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:292
+msgid ""
+"The string name of a registered theme. See :func:`pyvista.registered_themes`"
+" for the available :doc:`pyvista <pyvista:index>` built-in and third-party "
+"entry-point group themes."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:295
+msgid ""
+"A string ``package.module:ClassName`` dotted path to an importable "
+":class:`pyvista.plotting.themes.Theme` subclass."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:297
+msgid "A :class:`pyvista.plotting.themes.Theme` subclass instance."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:299
+msgid "**bootstrap** : :class:`python:bool`, default=False"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:298
+msgid "python:bool, default=False"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:300
+msgid ""
+"When ``True``, theme configuration is skipped if the environment variable "
+"``PYVISTA_PLOT_THEME`` is set. Otherwise, the provided `theme` will be "
+"enabled regardless of that environment variable. This behaviour allows a "
+"pre-defined ``PYVISTA_PLOT_THEME`` to take precedence."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:309
+msgid ":class:`python:bool`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:310
+msgid "``True`` if the theme was successfully enabled, otherwise ``False``."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:318
+msgid ""
+"When `theme` is an invalid dotted path specification or cannot be imported."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:325
+msgid ":func:`geovista.themes.restore_plot_theme`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:326
+msgid "Reinstates the plot theme to the previous replaced theme."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:328
+msgid "The list of available registered themes."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:329
+msgid ":class:`pyvista.plotting.themes.Theme`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:330
+msgid ""
+"Base class for all themes. Subclasses with the class property "
+"``_default_name`` are discoverable by :doc:`pyvista <pyvista:index>`."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:3
+msgid "Set the default ``geovista`` theme."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:9
+msgid "Set the pyvista dark theme."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:14
+msgid ""
+"Load a theme from an importable package module specified as a dotted path."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/themes/index.rst:19
+msgid "Set the pyvista paraview theme."
+msgstr ""
