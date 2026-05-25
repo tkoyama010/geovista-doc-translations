@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev968\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1005\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-29 01:03+0000\n"
+"POT-Creation-Date: 2026-05-24 22:54+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -73,15 +73,37 @@ msgstr "ノート"
 msgid "Attributes"
 msgstr "属性"
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/config/index.rst:51:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/config/index.rst:53:<autosummary>:1
+msgid ""
+":py:obj:`GEOVISTA_DISABLE_PLOT_THEME "
+"<geovista.config.GEOVISTA_DISABLE_PLOT_THEME>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/config/index.rst:61
+#: ../../geovista/docs/src/reference/generated/api/geovista/config/index.rst:53:<autosummary>:1
+msgid "Environment variable to control plot theme override."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/config/index.rst:53:<autosummary>:1
+msgid ""
+":py:obj:`GEOVISTA_IMAGE_TESTING <geovista.config.GEOVISTA_IMAGE_TESTING>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/config/index.rst:85
+#: ../../geovista/docs/src/reference/generated/api/geovista/config/index.rst:53:<autosummary>:1
+msgid ""
+"Developer environment variable to control image testing render and theme."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/config/index.rst:53:<autosummary>:1
 msgid ":py:obj:`resources <geovista.config.resources>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/config/index.rst:59
-#: ../../geovista/docs/src/reference/generated/api/geovista/config/index.rst:51:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/config/index.rst:109
+#: ../../geovista/docs/src/reference/generated/api/geovista/config/index.rst:53:<autosummary>:1
 msgid "Resources configuration dictionary."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/config/index.rst:53
+#: ../../geovista/docs/src/reference/generated/api/geovista/config/index.rst:55
 msgid "Module Contents"
 msgstr "モジュール内容"
