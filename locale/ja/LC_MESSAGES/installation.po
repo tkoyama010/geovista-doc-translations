@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1020\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1023\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-02 16:04+0000\n"
+"POT-Creation-Date: 2026-06-07 01:19+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -25,11 +25,11 @@ msgstr ""
 msgid ":fa:`circle-down` Installation"
 msgstr ":fa:`circle-down` インストール"
 
-#: ../../geovista/docs/src/installation.rst:10
+#: ../../geovista/docs/src/installation.rst:12
 msgid ":fa:`heart-circle-check` Stable"
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:12
+#: ../../geovista/docs/src/installation.rst:14
 msgid ""
 "The latest **stable release** of ``geovista`` is available on `conda-forge`_"
 " and `PyPI`_, and can be easily installed:"
@@ -40,7 +40,7 @@ msgstr ""
 msgid ":iconify:`vscode-icons:file-type-conda` conda"
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:26
+#: ../../geovista/docs/src/installation.rst:28
 msgid ""
 ":iconify:`twemoji:information` Consult the ``conda`` `Installation "
 "<https://docs.conda.io/projects/conda/en/stable/>`__ instructions."
@@ -50,7 +50,7 @@ msgstr ""
 msgid ":iconify:`devicon:pypi` pip"
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:37
+#: ../../geovista/docs/src/installation.rst:39
 msgid ""
 ":iconify:`twemoji:information` Consult the ``pip`` `Installation "
 "<https://pip.pypa.io/en/stable/installation/#>`__ instructions."
@@ -60,7 +60,7 @@ msgstr ""
 msgid ":fa:`puzzle-piece` pixi"
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:51
+#: ../../geovista/docs/src/installation.rst:53
 msgid ""
 ":iconify:`twemoji:information` Consult the ``pixi`` `Installation "
 "<https://pixi.prefix.dev/latest/installation/>`__ instructions."
@@ -70,58 +70,58 @@ msgstr ""
 msgid ":iconify:`material-icon-theme:uv` uv"
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:62
+#: ../../geovista/docs/src/installation.rst:64
 msgid ""
 ":iconify:`twemoji:information` Consult the ``uv`` `Installation "
 "<https://docs.astral.sh/uv/getting-started/installation/>`__ instructions."
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:66
+#: ../../geovista/docs/src/installation.rst:68
 msgid ""
 "Additional package dependencies will be required by some of the ``geovista``"
 " gallery :ref:`tippy-gv-examples`. If these are required then instead "
 "install the latest **stable release** as follows:"
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:82
+#: ../../geovista/docs/src/installation.rst:84
 msgid ""
 ":iconify:`twemoji:information` `conda`_ users must also install `pip`_ into "
 "their environment."
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:112
+#: ../../geovista/docs/src/installation.rst:114
 msgid ":fa:`heart-circle-plus` Latest"
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:114
+#: ../../geovista/docs/src/installation.rst:116
 msgid ""
 "If you simply can't wait for the next **stable release** of ``geovista``, "
 "then install the latest **development version** from the :fab:`github` "
 "``main`` branch:"
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:157
+#: ../../geovista/docs/src/installation.rst:159
 msgid ":fa:`heart-circle-bolt` Developer"
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:172
+#: ../../geovista/docs/src/installation.rst:174
 msgid ""
 "To configure a full **developer environment**, first clone the :fab:`github`"
 " ``geovista`` repository:"
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:179
+#: ../../geovista/docs/src/installation.rst:181
 msgid "Change to the ``geovista`` root directory of the cloned repository:"
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:185
+#: ../../geovista/docs/src/installation.rst:187
 msgid "Now install ``geovista`` and all its dependencies:"
 msgstr ""
 
-#: ../../geovista/docs/src/installation.rst:220
+#: ../../geovista/docs/src/installation.rst:222
 msgid "For extra credit, install our developer `pre-commit`_ git-hooks:"
 msgstr "おまけに、開発者用の `pre-commit`_ git-hooks をインストールしてください:"
 
-#: ../../geovista/docs/src/installation.rst:226
+#: ../../geovista/docs/src/installation.rst:228
 msgid "Finally, you're good to roll 🥳"
 msgstr "ついに、あなたはロールすることができます🥳"
