@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2025
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1063\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1073\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-02 03:37+0000\n"
+"POT-Creation-Date: 2026-08-11 00:44+0000\n"
 "PO-Revision-Date: 2025-03-24 18:14+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,14 +26,16 @@ msgid ""
 ":ref:`Go to the end <sphx_glr_download_generated_gallery_domain_clouds.py>` "
 "to download the full example code."
 msgstr ""
+":ref:`最後へ <sphx_glr_download_generated_gallery_domain_clouds.py>` "
+"に移動して完全な例のコードをダウンロードしてください．"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds.rst:22
 msgid "Clouds"
-msgstr ""
+msgstr "雲"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds.rst:24
 msgid "This example demonstrates how to render an unstructured cloud mesh."
-msgstr ""
+msgstr "この例は，非構造クラウドメッシュのレンダリング方法を示します．"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds.rst:27
 msgid "📋 Summary"
@@ -42,7 +44,7 @@ msgstr "📋 まとめ"
 #: ../../geovista/docs/src/generated/gallery/domain/clouds.rst:29
 msgid ""
 "Creates a mesh from 1D latitude and longitude unstructured cell points."
-msgstr ""
+msgstr "1次元の緯度と経度の非構造セル点からメッシュを作成します．"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds.rst:31
 msgid ""
@@ -54,20 +56,20 @@ msgstr "得られたメッシュはクワッドセルを含み、CF UGRIDの非�
 msgid ""
 "It uses an unstructured Met Office high-resolution LFRic C768 cubed-sphere "
 "of High Cloud Amount located on the mesh faces/cells."
-msgstr ""
+msgstr "メッシュ面/セル上にある高雲量の非構造Met Office高解像度LFRic C768キューブ球面を使用します．"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds.rst:37
 msgid ""
 "Note that a threshold is applied to remove low-valued Cloud Amount cells, "
 "and a custom colormap is applied to the mesh to crop out unwanted darker "
 "shades."
-msgstr ""
+msgstr "低い値のクラウド量セルを削除するためにしきい値が適用され，不要な暗い色合いを切り取るためにカスタムカラーマップがメッシュに適用されます．"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds.rst:41
 msgid ""
 "A Natural Earth base layer is also rendered along with Natural Earth "
 "coastlines."
-msgstr ""
+msgstr "Natural EarthベースレイヤーとNatural Earth海岸線もレンダリングされます．"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds.rst:53
 msgid ""
@@ -75,18 +77,21 @@ msgid ""
 " threshold load: unstructured resolution: high style: colormap version: "
 "0.4.0"
 msgstr ""
+"🏷 Tags: component: coastlines component: texture domain: meteorology filter:"
+" threshold load: unstructured resolution: high style: colormap version: "
+"0.4.0"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds.rst:141
 msgid ":download:`Download Jupyter notebook: clouds.ipynb <clouds.ipynb>`"
-msgstr ""
+msgstr ":download:`Jupyterノートブックをダウンロード: clouds.ipynb <clouds.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds.rst:145
 msgid ":download:`Download Python source code: clouds.py <clouds.py>`"
-msgstr ""
+msgstr ":download:`Pythonソースコードをダウンロード: clouds.py <clouds.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds.rst:149
 msgid ":download:`Download zipped: clouds.zip <clouds.zip>`"
-msgstr ""
+msgstr ":download:`ZIPをダウンロード: clouds.zip <clouds.zip>`"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds.rst:156
 msgid ""

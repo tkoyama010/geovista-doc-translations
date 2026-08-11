@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1063\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1073\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-02 03:37+0000\n"
+"POT-Creation-Date: 2026-08-11 00:44+0000\n"
 "PO-Revision-Date: 2026-03-25 00:50+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -27,4 +27,4 @@ msgstr "タグ付けされたコンテンツ:"
 
 #: ../../geovista/docs/src/tags/experimental.rst:4
 msgid ":fa:`tags` Tag: experimental 🧪"
-msgstr ""
+msgstr ":fa:`tags` タグ: experimental 🧪"

@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1063\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1073\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-02 03:37+0000\n"
+"POT-Creation-Date: 2026-08-11 00:44+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,24 +23,24 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/vector_data/index.rst:9
 msgid ":fa:`image` Vector Data"
-msgstr ""
+msgstr ":fa:`image` ベクトルデータ"
 
 #: ../../geovista/docs/src/generated/gallery/vector_data/index.rst:11
 msgid "Examples of wind vector data."
-msgstr ""
+msgstr "風ベクトルデータの例．"
 
 #: ../../geovista/docs/src/generated/gallery/vector_data/index.rst:34
 msgid ":doc:`/generated/gallery/vector_data/true_winds`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/vector_data/true_winds`"
 
 #: ../../geovista/docs/src/generated/gallery/vector_data/index.rst:51
 msgid ":doc:`/generated/gallery/vector_data/wind_arrows`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/vector_data/wind_arrows`"
 
 #: ../../geovista/docs/src/generated/gallery/vector_data/index.rst:68
 msgid ":doc:`/generated/gallery/vector_data/wind_arrows_uvw`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/vector_data/wind_arrows_uvw`"
 
 #: ../../geovista/docs/src/generated/gallery/vector_data/index.rst:85
 msgid ":doc:`/generated/gallery/vector_data/wind_arrows_flow`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/vector_data/wind_arrows_flow`"

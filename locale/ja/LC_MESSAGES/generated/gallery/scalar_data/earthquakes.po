@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1063\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1073\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-02 03:37+0000\n"
+"POT-Creation-Date: 2026-08-11 00:44+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -166,6 +166,8 @@ msgid ""
 "🏷 Tags: component: coastlines component: graticule component: texture "
 "domain: seismology load: points version: 0.4.0"
 msgstr ""
+"🏷 Tags: component: coastlines component: graticule component: texture "
+"domain: seismology load: points version: 0.4.0"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:64
 msgid ""
@@ -173,6 +175,8 @@ msgid ""
 "and `fastparquet <https://fastparquet.readthedocs.io/en/stable/>`_ are "
 "required."
 msgstr ""
+"オプションのパッケージ依存関係 `pandas <https://pandas.pydata.org/docs/>`_ と `fastparquet "
+"<https://fastparquet.readthedocs.io/en/stable/>`_ が必要です．"
 
 #: ../../geovista/docs/src/generated/gallery/scalar_data/earthquakes.rst:134
 msgid ""

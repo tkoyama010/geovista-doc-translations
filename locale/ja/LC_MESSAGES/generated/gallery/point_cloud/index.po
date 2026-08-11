@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1063\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1073\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-02 03:37+0000\n"
+"POT-Creation-Date: 2026-08-11 00:44+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,16 +23,16 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/point_cloud/index.rst:9
 msgid ":fa:`image` Point Cloud"
-msgstr ""
+msgstr ":fa:`image` ポイントクラウド"
 
 #: ../../geovista/docs/src/generated/gallery/point_cloud/index.rst:11
 msgid "Examples of 3D cartographic point clouds."
-msgstr ""
+msgstr "3D地図ポイントクラウドの例．"
 
 #: ../../geovista/docs/src/generated/gallery/point_cloud/index.rst:34
 msgid ":doc:`/generated/gallery/point_cloud/from_points__orca_cloud`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/point_cloud/from_points__orca_cloud`"
 
 #: ../../geovista/docs/src/generated/gallery/point_cloud/index.rst:51
 msgid ":doc:`/generated/gallery/point_cloud/from_points__orca_cloud_eqc`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/point_cloud/from_points__orca_cloud_eqc`"

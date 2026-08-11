@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1067\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1073\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-05 03:18+0000\n"
+"POT-Creation-Date: 2026-08-11 00:44+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -220,7 +220,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:158
 msgid "Examples"
-msgstr ""
+msgstr "例"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/index.rst:3
 msgid "Set the default ``geovista`` theme."

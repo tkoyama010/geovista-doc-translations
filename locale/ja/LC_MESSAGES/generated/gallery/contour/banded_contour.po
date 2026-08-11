@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2025
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1063\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1073\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-02 03:37+0000\n"
+"POT-Creation-Date: 2026-08-11 00:44+0000\n"
 "PO-Revision-Date: 2025-02-01 00:33+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,14 +27,16 @@ msgid ""
 "<sphx_glr_download_generated_gallery_contour_banded_contour.py>` to download"
 " the full example code."
 msgstr ""
+":ref:`最後へ <sphx_glr_download_generated_gallery_contour_banded_contour.py>` "
+"に移動して完全な例のコードをダウンロードしてください．"
 
 #: ../../geovista/docs/src/generated/gallery/contour/banded_contour.rst:22
 msgid "Banded Contour"
-msgstr ""
+msgstr "バンド等高線"
 
 #: ../../geovista/docs/src/generated/gallery/contour/banded_contour.rst:24
 msgid "This example demonstrates how to use banded contours."
-msgstr ""
+msgstr "この例は，バンド等高線の使用方法を示します．"
 
 #: ../../geovista/docs/src/generated/gallery/contour/banded_contour.rst:27
 msgid "📋 Summary"
@@ -44,19 +46,19 @@ msgstr "📋 まとめ"
 msgid ""
 "Uses an unstructured Met Office LFRic C48 cubed-sphere mesh of surface "
 "altitude data."
-msgstr ""
+msgstr "地表高度データの非構造Met Office LFRic C48キューブ球面メッシュを使用します．"
 
 #: ../../geovista/docs/src/generated/gallery/contour/banded_contour.rst:32
 msgid ""
 "First triangulate the mesh as this is the preferred geometry when using the "
 "contour filter."
-msgstr ""
+msgstr "等高線フィルタを使用する場合に推奨されるジオメトリであるため，まずメッシュを三角分割します．"
 
 #: ../../geovista/docs/src/generated/gallery/contour/banded_contour.rst:35
 msgid ""
 "Then we threshold the surface altitude by height such that all sea-level "
 "cells are removed from the mesh."
-msgstr ""
+msgstr "次に，海面セルがすべてメッシュから削除されるように，高度で地表高度のしきい値を設定します．"
 
 #: ../../geovista/docs/src/generated/gallery/contour/banded_contour.rst:38
 msgid ""
@@ -65,12 +67,14 @@ msgid ""
 "``contour_banded`` filter to generate 13 contours and the associated banded "
 "contour edges."
 msgstr ""
+"メッシュの残りの陸地ベースのセルは，12色の定性的カラーマップ(``Set3``)を使用して等高線化およびレンダリングされます．``contour_banded``"
+" フィルタを使用して13個の等高線と関連するバンド等高線エッジを生成します．"
 
 #: ../../geovista/docs/src/generated/gallery/contour/banded_contour.rst:43
 msgid ""
 "A Natural Earth base layer is also rendered along with the Natural Earth "
 "coastlines."
-msgstr ""
+msgstr "Natural EarthベースレイヤーとNatural Earth海岸線もレンダリングされます．"
 
 #: ../../geovista/docs/src/generated/gallery/contour/banded_contour.rst:54
 msgid ""
@@ -78,22 +82,28 @@ msgid ""
 "cast filter: contour filter: threshold filter: triangulate plot: anti-"
 "aliasing sample: unstructured style: colormap version: 0.6.0"
 msgstr ""
+"🏷 Tags: component: coastlines component: texture domain: orography filter: "
+"cast filter: contour filter: threshold filter: triangulate plot: anti-"
+"aliasing sample: unstructured style: colormap version: 0.6.0"
 
 #: ../../geovista/docs/src/generated/gallery/contour/banded_contour.rst:124
 msgid ""
 ":download:`Download Jupyter notebook: banded_contour.ipynb "
 "<banded_contour.ipynb>`"
 msgstr ""
+":download:`Jupyterノートブックをダウンロード: banded_contour.ipynb "
+"<banded_contour.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/contour/banded_contour.rst:128
 msgid ""
 ":download:`Download Python source code: banded_contour.py "
 "<banded_contour.py>`"
 msgstr ""
+":download:`Pythonソースコードをダウンロード: banded_contour.py <banded_contour.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/contour/banded_contour.rst:132
 msgid ":download:`Download zipped: banded_contour.zip <banded_contour.zip>`"
-msgstr ""
+msgstr ":download:`ZIPをダウンロード: banded_contour.zip <banded_contour.zip>`"
 
 #: ../../geovista/docs/src/generated/gallery/contour/banded_contour.rst:139
 msgid ""

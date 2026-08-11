@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2025
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1068\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1073\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-07 01:24+0000\n"
+"POT-Creation-Date: 2026-08-11 00:44+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -35,6 +35,8 @@ msgid ""
 "<tippy-gv-quick-start>` to ``geovista``, hopefully you'll be keen to explore"
 " and learn more."
 msgstr ""
+"``geovista`` の簡単な :ref:`概要 <tippy-gv-overview>` と :ref:`紹介 <tippy-gv-quick-"
+"start>` の後，さらに探索して学びたいと思うでしょう．"
 
 #: ../../geovista/docs/src/next_steps.rst:21
 msgid ""
@@ -55,6 +57,8 @@ msgid ""
 "four distinct needs of documentation users (see :numref:`tippy-gv-next-"
 "steps-diátaxis-axes-of-needs`)."
 msgstr ""
+"これは，ドキュメントユーザーの4つの異なるニーズに対応する*コンテンツ*と*スタイル*に焦点を当てた，体系的な方法でドキュメントを*整理*する方法に関するベストプラクティスアドバイスを提供します(:numref:`tippy-"
+"gv-next-steps-diátaxis-axes-of-needs` 参照)．"
 
 #: ../../geovista/docs/src/next_steps.rst:32
 #: ../../geovista/docs/src/next_steps.rst:38
@@ -64,34 +68,34 @@ msgstr "Diátaxis ニーズの軸"
 #: ../../geovista/docs/src/next_steps.rst:44
 msgid ""
 "Namely, acquiring *practical knowledge*, knowing *how*, through *working*:"
-msgstr ""
+msgstr "すなわち，*実践的知識*，つまり*方法*を知ることを*作業*を通じて習得すること:"
 
 #: ../../geovista/docs/src/next_steps.rst:46
 msgid "**Tutorials** - A learning experience through practical lessons."
-msgstr ""
+msgstr "**チュートリアル** - 実践的なレッスンを通じた学習体験．"
 
 #: ../../geovista/docs/src/next_steps.rst:47
 msgid "**How-To Guides** - Goal-focused practical guides on specific topics."
-msgstr ""
+msgstr "**ハウツーガイド** - 特定のトピックに関する目標指向の実践的ガイド．"
 
 #: ../../geovista/docs/src/next_steps.rst:49
 msgid "Acquiring *theoretical knowledge*, knowing *that*, through *studying*:"
-msgstr ""
+msgstr "*理論的知識*，つまり*事実*を知ることを*学習*を通じて習得すること:"
 
 #: ../../geovista/docs/src/next_steps.rst:51
 msgid ""
 "**Explanation** - Achieve understanding through discussion and reflection."
-msgstr ""
+msgstr "**解説** - 議論と反省を通じた理解の達成．"
 
 #: ../../geovista/docs/src/next_steps.rst:52
 msgid "**Reference** - Succinct factual information laid bare."
-msgstr ""
+msgstr "**リファレンス** - 簡潔な事実情報の提示．"
 
 #: ../../geovista/docs/src/next_steps.rst:55
 msgid ""
 "So if you learn by *doing*, then explore our *hands-on* themed lessons or "
 "topic specific how-tos:"
-msgstr ""
+msgstr "*やって*学ぶなら，*実践的*なテーマ別レッスンやトピック別ハウツーを探索してください:"
 
 #: ../../geovista/docs/src/next_steps.rst:61
 msgid "Tutorials"
@@ -113,7 +117,7 @@ msgstr "集中ガイドの宝庫。"
 msgid ""
 "If you learn by *studying*, then delve into unfolding explanations or simply"
 " consult the facts:"
-msgstr ""
+msgstr "*学んで*学ぶなら，展開する解説を読むか，単に事実を参照してください:"
 
 #: ../../geovista/docs/src/next_steps.rst:90
 msgid "🚧 Explanation"
@@ -137,14 +141,15 @@ msgid ""
 " not dive straight into our gallery. Alternatively, use our topic based tags"
 " to navigate your way to gallery examples organised by specific features:"
 msgstr ""
+"視覚的にモチベーションがあるなら，ギャラリーに飛び込んでみてください．または，トピックベースのタグを使用して，特定のフィーチャー別に整理されたギャラリーの例にアクセスできます:"
 
 #: ../../geovista/docs/src/next_steps.rst:120
 msgid "Examples"
-msgstr ""
+msgstr "例"
 
 #: ../../geovista/docs/src/next_steps.rst:129
 msgid "Peruse the Gallery."
-msgstr ""
+msgstr "ギャラリーを閲覧してください．"
 
 #: ../../geovista/docs/src/next_steps.rst:131
 msgid "Tags"
@@ -152,14 +157,14 @@ msgstr "タグ"
 
 #: ../../geovista/docs/src/next_steps.rst:140
 msgid "Examples themed by feature."
-msgstr ""
+msgstr "フィーチャー別のテーマ例．"
 
 #: ../../geovista/docs/src/next_steps.rst:143
 msgid ""
 "However, if you're a developer and want to contribute, then we've curated "
 "some best practice, process and advice that'll help you get up and running "
 "in a snap:"
-msgstr ""
+msgstr "しかし，開発者で貢献したい場合は，すぐに始められるよう，ベストプラクティス，プロセス，アドバイスを厳選しました:"
 
 #: ../../geovista/docs/src/next_steps.rst:147
 msgid "Contributing"
@@ -167,4 +172,4 @@ msgstr "貢献"
 
 #: ../../geovista/docs/src/next_steps.rst:158
 msgid "Developer guidelines."
-msgstr ""
+msgstr "開発者ガイドライン．"

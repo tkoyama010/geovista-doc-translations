@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1063\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1073\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-02 03:37+0000\n"
+"POT-Creation-Date: 2026-08-11 00:44+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,21 +23,21 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/warp/index.rst:9
 msgid ":fa:`image` Warp"
-msgstr ""
+msgstr ":fa:`image` ワープ"
 
 #: ../../geovista/docs/src/generated/gallery/warp/index.rst:11
 msgid ""
 "Manipulation of mesh surfaces to reveal surface bathymetry and topography."
-msgstr ""
+msgstr "海底水深と地形を明らかにするメッシュサーフェスの操作．"
 
 #: ../../geovista/docs/src/generated/gallery/warp/index.rst:34
 msgid ":doc:`/generated/gallery/warp/from_unstructured__fvcom`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/warp/from_unstructured__fvcom`"
 
 #: ../../geovista/docs/src/generated/gallery/warp/index.rst:51
 msgid ":doc:`/generated/gallery/warp/from_unstructured__lfric_orog`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/warp/from_unstructured__lfric_orog`"
 
 #: ../../geovista/docs/src/generated/gallery/warp/index.rst:68
 msgid ":doc:`/generated/gallery/warp/from_unstructured__lfric_orog_eqc`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/warp/from_unstructured__lfric_orog_eqc`"

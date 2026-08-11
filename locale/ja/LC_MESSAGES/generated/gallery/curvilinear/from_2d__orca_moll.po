@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1063\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1073\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-02 03:37+0000\n"
+"POT-Creation-Date: 2026-08-11 00:44+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,13 +32,13 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca_moll.rst:22
 msgid "ORCA2 Grid (Projected)"
-msgstr ""
+msgstr "ORCA2グリッド（投影）"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca_moll.rst:24
 msgid ""
 "This example demonstrates how to render a projected extruded curvilinear "
 "grid."
-msgstr ""
+msgstr "この例は，投影された押し出し曲線格子のレンダリング方法を示します．"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca_moll.rst:27
 msgid "📋 Summary"
@@ -46,7 +46,7 @@ msgstr "📋 まとめ"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca_moll.rst:29
 msgid "Creates a mesh from 2D latitude and longitude curvilinear cell bounds."
-msgstr ""
+msgstr "2次元の緯度と経度の曲線格子セル境界からメッシュを作成します．"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca_moll.rst:31
 msgid "The resulting mesh contains quad cells."
@@ -56,7 +56,7 @@ msgstr "出来上がったメッシュには四角形セルが含まれます。
 msgid ""
 "It uses an ORCA2 global ocean with tri-polar model grid with sea water "
 "potential temperature data. The data targets the mesh faces/cells."
-msgstr ""
+msgstr "海水ポテンシャル温度データを持つORCA2全球海洋三極モデルグリッドを使用します．データはメッシュ面/セルを対象とします．"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca_moll.rst:36
 msgid ""
@@ -65,6 +65,9 @@ msgid ""
 "extruded to give depth to the projected surface. Finally, 10m resolution "
 "Natural Earth coastlines are also rendered."
 msgstr ""
+"陸地の ``NaN`` "
+"セルを削除するためにしきい値が適用された後，メッシュはMollweide擬似円筒投影に変換され，投影されたサーフェスに深みを与えるために押し出されます．最後に，10m解像度のNatural"
+" Earth海岸線もレンダリングされます．"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca_moll.rst:49
 msgid ""
@@ -72,6 +75,9 @@ msgid ""
 "filter: cast filter: extrude filter: threshold load: curvilinear projection:"
 " crs projection: transform version: 0.1.0"
 msgstr ""
+"🏷 Tags: component: coastlines component: texture domain: oceanography "
+"filter: cast filter: extrude filter: threshold load: curvilinear projection:"
+" crs projection: transform version: 0.1.0"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca_moll.rst:122
 msgid ""
@@ -93,6 +99,7 @@ msgstr ""
 msgid ""
 ":download:`Download zipped: from_2d__orca_moll.zip <from_2d__orca_moll.zip>`"
 msgstr ""
+":download:`ZIPをダウンロード: from_2d__orca_moll.zip <from_2d__orca_moll.zip>`"
 
 #: ../../geovista/docs/src/generated/gallery/curvilinear/from_2d__orca_moll.rst:137
 msgid ""

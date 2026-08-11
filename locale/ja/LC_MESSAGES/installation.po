@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2025
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1068\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1073\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-07 01:24+0000\n"
+"POT-Creation-Date: 2026-08-11 00:44+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +27,7 @@ msgstr ":fa:`circle-down` インストール"
 
 #: ../../geovista/docs/src/installation.rst:12
 msgid ":fa:`heart-circle-check` Stable"
-msgstr ""
+msgstr ":fa:`heart-circle-check` 安定版"
 
 #: ../../geovista/docs/src/installation.rst:14
 msgid ""
@@ -38,43 +38,51 @@ msgstr ""
 
 #: ../../geovista/docs/src/installation.rst:0
 msgid ":iconify:`vscode-icons:file-type-conda` conda"
-msgstr ""
+msgstr ":iconify:`vscode-icons:file-type-conda` conda"
 
 #: ../../geovista/docs/src/installation.rst:28
 msgid ""
 ":iconify:`twemoji:information` Consult the ``conda`` `Installation "
 "<https://docs.conda.io/projects/conda/en/stable/>`__ instructions."
 msgstr ""
+":iconify:`twemoji:information` ``conda`` の `インストール手順 "
+"<https://docs.conda.io/projects/conda/en/stable/>`__ を参照してください．"
 
 #: ../../geovista/docs/src/installation.rst:0
 msgid ":iconify:`devicon:pypi` pip"
-msgstr ""
+msgstr ":iconify:`devicon:pypi` pip"
 
 #: ../../geovista/docs/src/installation.rst:39
 msgid ""
 ":iconify:`twemoji:information` Consult the ``pip`` `Installation "
 "<https://pip.pypa.io/en/stable/installation/#>`__ instructions."
 msgstr ""
+":iconify:`twemoji:information` ``pip`` の `インストール手順 "
+"<https://pip.pypa.io/en/stable/installation/#>`__ を参照してください．"
 
 #: ../../geovista/docs/src/installation.rst:0
 msgid ":fa:`puzzle-piece` pixi"
-msgstr ""
+msgstr ":fa:`puzzle-piece` pixi"
 
 #: ../../geovista/docs/src/installation.rst:53
 msgid ""
 ":iconify:`twemoji:information` Consult the ``pixi`` `Installation "
 "<https://pixi.prefix.dev/latest/installation/>`__ instructions."
 msgstr ""
+":iconify:`twemoji:information` ``pixi`` の `インストール手順 "
+"<https://pixi.prefix.dev/latest/installation/>`__ を参照してください．"
 
 #: ../../geovista/docs/src/installation.rst:0
 msgid ":iconify:`material-icon-theme:uv` uv"
-msgstr ""
+msgstr ":iconify:`material-icon-theme:uv` uv"
 
 #: ../../geovista/docs/src/installation.rst:64
 msgid ""
 ":iconify:`twemoji:information` Consult the ``uv`` `Installation "
 "<https://docs.astral.sh/uv/getting-started/installation/>`__ instructions."
 msgstr ""
+":iconify:`twemoji:information` ``uv`` の `インストール手順 "
+"<https://docs.astral.sh/uv/getting-started/installation/>`__ を参照してください．"
 
 #: ../../geovista/docs/src/installation.rst:68
 msgid ""
@@ -82,16 +90,19 @@ msgid ""
 " gallery :ref:`tippy-gv-examples`. If these are required then instead "
 "install the latest **stable release** as follows:"
 msgstr ""
+"``geovista`` ギャラリー :ref:`tippy-gv-examples` "
+"の一部には追加のパッケージ依存関係が必要です．必要な場合は，最新の**安定版リリース**を次のようにインストールしてください:"
 
 #: ../../geovista/docs/src/installation.rst:84
 msgid ""
 ":iconify:`twemoji:information` `conda`_ users must also install `pip`_ into "
 "their environment."
 msgstr ""
+":iconify:`twemoji:information` `conda`_ ユーザーは `pip`_ も環境にインストールする必要があります．"
 
 #: ../../geovista/docs/src/installation.rst:114
 msgid ":fa:`heart-circle-plus` Latest"
-msgstr ""
+msgstr ":fa:`heart-circle-plus` 最新版"
 
 #: ../../geovista/docs/src/installation.rst:116
 msgid ""
@@ -99,24 +110,26 @@ msgid ""
 "then install the latest **development version** from the :fab:`github` "
 "``main`` branch:"
 msgstr ""
+"次の**安定版リリース**を待ちきれない場合は，:fab:`github` ``main`` "
+"ブランチから最新の**開発版**をインストールしてください:"
 
 #: ../../geovista/docs/src/installation.rst:159
 msgid ":fa:`heart-circle-bolt` Developer"
-msgstr ""
+msgstr ":fa:`heart-circle-bolt` 開発者"
 
 #: ../../geovista/docs/src/installation.rst:174
 msgid ""
 "To configure a full **developer environment**, first clone the :fab:`github`"
 " ``geovista`` repository:"
-msgstr ""
+msgstr "完全な**開発者環境**を設定するには，まず :fab:`github` ``geovista`` リポジトリをクローンします:"
 
 #: ../../geovista/docs/src/installation.rst:181
 msgid "Change to the ``geovista`` root directory of the cloned repository:"
-msgstr ""
+msgstr "クローンしたリポジトリの ``geovista`` ルートディレクトリに移動します:"
 
 #: ../../geovista/docs/src/installation.rst:187
 msgid "Now install ``geovista`` and all its dependencies:"
-msgstr ""
+msgstr "次に，``geovista`` とすべての依存関係をインストールします:"
 
 #: ../../geovista/docs/src/installation.rst:222
 msgid "For extra credit, install our developer `pre-commit`_ git-hooks:"
