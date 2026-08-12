@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2025
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1052\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1073\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-13 00:52+0000\n"
+"POT-Creation-Date: 2026-08-11 00:44+0000\n"
 "PO-Revision-Date: 2025-03-24 18:14+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,15 +27,17 @@ msgid ""
 "<sphx_glr_download_generated_gallery_domain_clouds_robin.py>` to download "
 "the full example code."
 msgstr ""
+":ref:`最後へ <sphx_glr_download_generated_gallery_domain_clouds_robin.py>` "
+"に移動して完全な例のコードをダウンロードしてください．"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds_robin.rst:22
 msgid "Clouds (Projected)"
-msgstr ""
+msgstr "雲（投影）"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds_robin.rst:24
 msgid ""
 "This example demonstrates how to render a projected unstructured cloud mesh."
-msgstr ""
+msgstr "この例は，投影された非構造クラウドメッシュのレンダリング方法を示します．"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds_robin.rst:27
 msgid "📋 Summary"
@@ -44,7 +46,7 @@ msgstr "📋 まとめ"
 #: ../../geovista/docs/src/generated/gallery/domain/clouds_robin.rst:29
 msgid ""
 "Creates a mesh from 1D latitude and longitude unstructured cell points."
-msgstr ""
+msgstr "1次元の緯度と経度の非構造セル点からメッシュを作成します．"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds_robin.rst:31
 msgid ""
@@ -58,19 +60,21 @@ msgid ""
 "of High Cloud Amount located on the mesh faces/cells. The mesh is "
 "transformed to the Robinson pseudocylindrical projection."
 msgstr ""
+"メッシュ面/セル上にある高雲量の非構造Met Office高解像度LFRic "
+"C768キューブ球面を使用します．メッシュはRobinson擬似円筒投影に変換されます．"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds_robin.rst:38
 msgid ""
 "Note that a threshold is applied to remove low-valued Cloud Amount cells, "
 "and a linear opacity transfer function is applied to give a cloud-like "
 "effect."
-msgstr ""
+msgstr "低い値のクラウド量セルを削除するためにしきい値が適用され，雲のような効果を与えるために線形不透明度伝達関数が適用されます．"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds_robin.rst:41
 msgid ""
 "A Natural Earth base layer is also rendered along with Natural Earth "
 "coastlines."
-msgstr ""
+msgstr "Natural EarthベースレイヤーとNatural Earth海岸線もレンダリングされます．"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds_robin.rst:54
 msgid ""
@@ -78,21 +82,25 @@ msgid ""
 " threshold load: unstructured projection: crs resolution: high style: "
 "colormap style: opacity version: 0.4.0"
 msgstr ""
+"🏷 Tags: component: coastlines component: texture domain: meteorology filter:"
+" threshold load: unstructured projection: crs resolution: high style: "
+"colormap style: opacity version: 0.4.0"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds_robin.rst:144
 msgid ""
 ":download:`Download Jupyter notebook: clouds_robin.ipynb "
 "<clouds_robin.ipynb>`"
 msgstr ""
+":download:`Jupyterノートブックをダウンロード: clouds_robin.ipynb <clouds_robin.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds_robin.rst:148
 msgid ""
 ":download:`Download Python source code: clouds_robin.py <clouds_robin.py>`"
-msgstr ""
+msgstr ":download:`Pythonソースコードをダウンロード: clouds_robin.py <clouds_robin.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds_robin.rst:152
 msgid ":download:`Download zipped: clouds_robin.zip <clouds_robin.zip>`"
-msgstr ""
+msgstr ":download:`ZIPをダウンロード: clouds_robin.zip <clouds_robin.zip>`"
 
 #: ../../geovista/docs/src/generated/gallery/domain/clouds_robin.rst:159
 msgid ""

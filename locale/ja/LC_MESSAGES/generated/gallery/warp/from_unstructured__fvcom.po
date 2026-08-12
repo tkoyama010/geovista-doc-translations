@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1052\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1078\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-13 00:52+0000\n"
+"POT-Creation-Date: 2026-08-12 00:34+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -81,6 +81,10 @@ msgid ""
 "Normals <https://docs.pyvista.org/examples/01-filter/compute_normals>`_ for "
 "further details."
 msgstr ""
+"ワープは :meth:`~pyvista.PolyDataFilters.compute_normals` と "
+":meth:`~pyvista.DataSetFilters.warp_by_scalar` を使用します．詳細については `Computing "
+"Surface Normals "
+"<https://docs.pyvista.org/examples/01-filter/compute_normals>`_ を参照してください．"
 
 #: ../../geovista/docs/src/generated/gallery/warp/from_unstructured__fvcom.rst:55
 msgid ""

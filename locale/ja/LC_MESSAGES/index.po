@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1052\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1073\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-13 00:52+0000\n"
+"POT-Creation-Date: 2026-08-11 00:44+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -55,6 +55,8 @@ msgid ""
 "performant, publication quality 3D cartographic rendering of Earth Science "
 "data."
 msgstr ""
+"``geovista`` は `PyVista`_ の上に構築された純粋な `Python`_ "
+"パッケージであり，地球科学データのパフォーマンスの高い出版品質の3D地図描画を提供します．"
 
 #: ../../geovista/docs/src/index.rst:21
 msgid ""
@@ -62,6 +64,7 @@ msgid ""
 "analyze, visualize, and explore their rectilinear, curvilinear and "
 "unstructured geospatial data interactively in 3D."
 msgstr ""
+"私たちの目標は，科学者が直線格子，曲線格子，および非構造格子の地理空間データを3Dでインタラクティブに簡単に分析，可視化，探索できるようにすることです．"
 
 #: ../../geovista/docs/src/index.rst:25
 msgid ""
@@ -71,12 +74,15 @@ msgid ""
 "pull-request` `Pull-Request`_ to help elevate ``geovista`` to the next level"
 " of awesome 🚀"
 msgstr ""
+"ドキュメントはまだ作成中であり，不完全で変更される可能性があります．ご理解ありがとうございます．フィードバックは重要ですので，:far:`circle-"
+"dot` `Issue`_ または :fa:`code-pull-request` `Pull-Request`_ を提出して，``geovista``"
+" を次のレベルに引き上げてください🚀"
 
 #: ../../geovista/docs/src/index.rst:31
 msgid ""
 "Alternatively, come share with us over on our :fab:`github` `Discussions`_. "
 "We'd ❤️ to hear from you."
-msgstr ""
+msgstr "または，:fab:`github` `Discussions`_ で私たちと共有してください．お便りをお待ちしております❤️"
 
 #: ../../geovista/docs/src/index.rst:41
 msgid "Tutorials"
@@ -88,7 +94,7 @@ msgstr "トピックに沿ったテーマ別レッスン。"
 
 #: ../../geovista/docs/src/index.rst:52
 msgid "How-To Guides 🚧"
-msgstr ""
+msgstr "How-Toガイド 🚧"
 
 #: ../../geovista/docs/src/index.rst:61
 msgid "Treasure trove of focused guides."
@@ -96,7 +102,7 @@ msgstr "集中ガイドの宝庫。"
 
 #: ../../geovista/docs/src/index.rst:63
 msgid "Explanation 🚧"
-msgstr ""
+msgstr "解説 🚧"
 
 #: ../../geovista/docs/src/index.rst:72
 msgid "Deeper understanding awaits."

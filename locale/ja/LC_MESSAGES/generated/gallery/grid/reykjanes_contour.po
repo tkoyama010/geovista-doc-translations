@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1052\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1073\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-13 00:52+0000\n"
+"POT-Creation-Date: 2026-08-11 00:44+0000\n"
 "PO-Revision-Date: 2026-03-28 00:49+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -27,16 +27,18 @@ msgid ""
 "<sphx_glr_download_generated_gallery_grid_reykjanes_contour.py>` to download"
 " the full example code."
 msgstr ""
+":ref:`最後へ <sphx_glr_download_generated_gallery_grid_reykjanes_contour.py>` "
+"に移動して完全な例のコードをダウンロードしてください．"
 
 #: ../../geovista/docs/src/generated/gallery/grid/reykjanes_contour.rst:22
 msgid "Reykjanes Isosurface"
-msgstr ""
+msgstr "Reykjanes 等値面"
 
 #: ../../geovista/docs/src/generated/gallery/grid/reykjanes_contour.rst:24
 msgid ""
 "This example demonstrates how to render the isosurfaces of a 3D structured "
 "grid."
-msgstr ""
+msgstr "この例は，3D構造格子の等値面のレンダリング方法を示します．"
 
 #: ../../geovista/docs/src/generated/gallery/grid/reykjanes_contour.rst:27
 msgid "📋 Summary"
@@ -47,6 +49,8 @@ msgid ""
 "The sample data is taken from a Met Office NAME Model time-series simulation"
 " of the Icelandic Reykjanes Peninsula eruption on 29 May 2024."
 msgstr ""
+"サンプルデータは，2024年5月29日のアイスランドReykjanes半島噴火のMet Office "
+"NAMEモデル時系列シミュレーションから取得したものです．"
 
 #: ../../geovista/docs/src/generated/gallery/grid/reykjanes_contour.rst:32
 msgid ""
@@ -54,6 +58,7 @@ msgid ""
 "coordinates and then thresholded to reveal the underlying volcanic plume of "
 "Sulphur Dioxide Air Concentration."
 msgstr ""
+"1次元空間座標に対して立方体ボクセルの構造格子が構築され，二酸化硫黄空気濃度の基礎となる火山プルームを明らかにするためにしきい値が設定されます．"
 
 #: ../../geovista/docs/src/generated/gallery/grid/reykjanes_contour.rst:36
 msgid ""
@@ -61,17 +66,18 @@ msgid ""
 "mixture of opacity and smooth shading to yield a semi-transparent cloud-like"
 " effect."
 msgstr ""
+"不透明度とスムーズシェーディングの混合を使用してプルームの等値面をレンダリングすることにより，半透明の雲のような効果を得て可視化が強化されます．"
 
 #: ../../geovista/docs/src/generated/gallery/grid/reykjanes_contour.rst:40
 msgid ""
 "The cited release location of the eruption on the peninsula is marked, "
 "highlighting the volcanic plume's eastward transport and southerly "
 "dispersion."
-msgstr ""
+msgstr "半島の噴火の引用された放出位置がマークされ，火山プルームの東方への輸送と南方への分散が強調されています．"
 
 #: ../../geovista/docs/src/generated/gallery/grid/reykjanes_contour.rst:46
 msgid "Structured grid projection transformation support is pending."
-msgstr ""
+msgstr "構造格子投影変換サポートは保留中です．"
 
 #: ../../geovista/docs/src/generated/gallery/grid/reykjanes_contour.rst:56
 msgid ""
@@ -79,23 +85,29 @@ msgid ""
 " texture domain: volcanology filter: contour filter: threshold load: grid "
 "version: 0.6.0"
 msgstr ""
+"🏷 Tags: experimental 🧪 component: coastlines component: graticule component:"
+" texture domain: volcanology filter: contour filter: threshold load: grid "
+"version: 0.6.0"
 
 #: ../../geovista/docs/src/generated/gallery/grid/reykjanes_contour.rst:150
 msgid ""
 ":download:`Download Jupyter notebook: reykjanes_contour.ipynb "
 "<reykjanes_contour.ipynb>`"
 msgstr ""
+":download:`Jupyterノートブックをダウンロード: reykjanes_contour.ipynb "
+"<reykjanes_contour.ipynb>`"
 
 #: ../../geovista/docs/src/generated/gallery/grid/reykjanes_contour.rst:154
 msgid ""
 ":download:`Download Python source code: reykjanes_contour.py "
 "<reykjanes_contour.py>`"
 msgstr ""
+":download:`Pythonソースコードをダウンロード: reykjanes_contour.py <reykjanes_contour.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/grid/reykjanes_contour.rst:158
 msgid ""
 ":download:`Download zipped: reykjanes_contour.zip <reykjanes_contour.zip>`"
-msgstr ""
+msgstr ":download:`ZIPをダウンロード: reykjanes_contour.zip <reykjanes_contour.zip>`"
 
 #: ../../geovista/docs/src/generated/gallery/grid/reykjanes_contour.rst:165
 msgid ""

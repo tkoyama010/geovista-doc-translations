@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1052\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1078\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-13 00:52+0000\n"
+"POT-Creation-Date: 2026-08-12 00:34+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -44,7 +44,7 @@ msgstr "このインタラクティブなギャラリーは、 ``geovista`` の�
 msgid ""
 "It is generated from the ``geovista.examples``, which can also be run from "
 "the command line:"
-msgstr ""
+msgstr "``geovista.examples`` から生成されており，コマンドラインからも実行できます:"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:33
 msgid "Want to know more?"
@@ -52,11 +52,11 @@ msgstr "もっと知りたい？"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:59
 msgid ":fa:`image` Contour"
-msgstr ""
+msgstr ":fa:`image` 等高線"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:61
 msgid "Showcases various contouring examples."
-msgstr ""
+msgstr "さまざまな等高線の例を紹介します．"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:66
 msgid ""
@@ -67,253 +67,258 @@ msgid ""
 " scene. See :far:`circle-dot` `#7145 "
 "<https://github.com/pyvista/pyvista/issues/7145>`__."
 msgstr ""
+"`pyvista <https://github.com/pyvista/pyvista>`__ :fab:`github` **issue** "
+"に，ブラウザインタラクティブシーン内で `trame <https://github.com/Kitware/trame>`__ "
+"フレームワークを使用した :meth:`~pyvista.PolyDataFilters.contour_banded` "
+"レンダリングに関する未解決のものがあります．:far:`circle-dot` `#7145 "
+"<https://github.com/pyvista/pyvista/issues/7145>`__ を参照してください．"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:92
 msgid ":doc:`/generated/gallery/contour/banded_contour`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/contour/banded_contour`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:108
 msgid ":fa:`image` Curvilinear"
-msgstr ""
+msgstr ":fa:`image` 曲線格子"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:110
 msgid "Demonstrates support for 2D curvilinear grid surfaces."
-msgstr ""
+msgstr "2次元曲線格子サーフェスのサポートを示します．"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:133
 msgid ":doc:`/generated/gallery/curvilinear/from_2d__orca`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/curvilinear/from_2d__orca`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:150
 msgid ":doc:`/generated/gallery/curvilinear/from_2d__orca_moll`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/curvilinear/from_2d__orca_moll`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:166
 msgid ":fa:`image` Domain"
-msgstr ""
+msgstr ":fa:`image` ドメイン"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:168
 msgid "Highlights various science domain specific examples."
-msgstr ""
+msgstr "さまざまな科学ドメイン固有の例を紹介します．"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:191
 msgid ":doc:`/generated/gallery/domain/clouds`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/domain/clouds`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:208
 msgid ":doc:`/generated/gallery/domain/clouds_robin`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/domain/clouds_robin`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:224
 msgid ":fa:`image` Extraction"
-msgstr ""
+msgstr ":fa:`image` 抽出"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:226
 msgid "Highlights various region :term:`manifold` extraction techniques."
-msgstr ""
+msgstr "さまざまな領域 :term:`多様体 <manifold>` 抽出手法を紹介します．"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:249
 msgid ":doc:`/generated/gallery/extraction/panel_manifold`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/extraction/panel_manifold`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:266
 msgid ":doc:`/generated/gallery/extraction/plotter_manifold`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/extraction/plotter_manifold`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:283
 msgid ":doc:`/generated/gallery/extraction/wedge_manifold`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/extraction/wedge_manifold`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:299
 msgid ":fa:`image` Grid"
-msgstr ""
+msgstr ":fa:`image` グリッド"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:301
 msgid ""
 "A collection of examples demonstrating the visualization of various gridded "
 "volumes from different atmospheric models."
-msgstr ""
+msgstr "さまざまな大気モデルからのさまざまなグリッドボリュームの可視化を示す例のコレクション．"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:325
 msgid ":doc:`/generated/gallery/grid/reykjanes_contour`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/grid/reykjanes_contour`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:342
 msgid ":doc:`/generated/gallery/grid/reykjanes`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/grid/reykjanes`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:358
 msgid ":fa:`image` Point Cloud"
-msgstr ""
+msgstr ":fa:`image` ポイントクラウド"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:360
 msgid "Examples of 3D cartographic point clouds."
-msgstr ""
+msgstr "3D地図ポイントクラウドの例．"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:383
 msgid ":doc:`/generated/gallery/point_cloud/from_points__orca_cloud`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/point_cloud/from_points__orca_cloud`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:400
 msgid ":doc:`/generated/gallery/point_cloud/from_points__orca_cloud_eqc`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/point_cloud/from_points__orca_cloud_eqc`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:416
 msgid ":fa:`image` Rectilinear"
-msgstr ""
+msgstr ":fa:`image` 直線格子"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:418
 msgid "Demonstrates support for traditional 2D rectilinear grid surfaces."
-msgstr ""
+msgstr "従来の2次元直線格子サーフェスのサポートを示します．"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:441
 msgid ":doc:`/generated/gallery/rectilinear/from_1d__oisst`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/rectilinear/from_1d__oisst`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:458
 msgid ":doc:`/generated/gallery/rectilinear/from_1d__oisst_eqc`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/rectilinear/from_1d__oisst_eqc`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:474
 msgid ":fa:`image` Scalar Data"
-msgstr ""
+msgstr ":fa:`image` スカラーデータ"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:476
 msgid "Examples of various scalar data visualization techniques."
-msgstr ""
+msgstr "さまざまなスカラーデータ可視化手法の例．"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:499
 msgid ":doc:`/generated/gallery/scalar_data/earthquakes`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/scalar_data/earthquakes`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:516
 msgid ":doc:`/generated/gallery/scalar_data/earthquakes_wink1`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/scalar_data/earthquakes_wink1`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:533
 msgid ":doc:`/generated/gallery/scalar_data/from_tiff__dem`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/scalar_data/from_tiff__dem`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:550
 msgid ":doc:`/generated/gallery/scalar_data/from_tiff__rgb`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/scalar_data/from_tiff__rgb`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:566
 msgid ":fa:`image` Spatial Index"
-msgstr ""
+msgstr ":fa:`image` 空間インデックス"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:568
 msgid ""
 "Demonstrates visualization of Discrete Global Grid Systems (DGGS) and "
 "spatial indexing techniques."
-msgstr ""
+msgstr "離散全球グリッドシステム(DGGS)と空間インデックス手法の可視化を示します．"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:591
 msgid ":doc:`/generated/gallery/spatial_index/uber_h3`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/spatial_index/uber_h3`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:607
 msgid ":fa:`image` Unstructured"
-msgstr ""
+msgstr ":fa:`image` 非構造格子"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:609
 msgid ""
 "A collection of examples demonstrating the visualization of unstructured "
 "mesh surfaces from various atmospheric and oceanographic models."
-msgstr ""
+msgstr "さまざまな大気および海洋モデルからの非構造メッシュサーフェスの可視化を示す例のコレクション．"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:633
 msgid ":doc:`/generated/gallery/unstructured/dynamico`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/unstructured/dynamico`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:650
 msgid ":doc:`/generated/gallery/unstructured/dynamico_poly`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/unstructured/dynamico_poly`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:667
 msgid ":doc:`/generated/gallery/unstructured/icon`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/unstructured/icon`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:684
 msgid ":doc:`/generated/gallery/unstructured/icon_eqc`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/unstructured/icon_eqc`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:701
 msgid ":doc:`/generated/gallery/unstructured/lam_pacific`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/unstructured/lam_pacific`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:718
 msgid ":doc:`/generated/gallery/unstructured/lam_pacific_moll`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/unstructured/lam_pacific_moll`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:735
 msgid ":doc:`/generated/gallery/unstructured/lfric_sst`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/unstructured/lfric_sst`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:752
 msgid ":doc:`/generated/gallery/unstructured/lfric_sst_bonne`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/unstructured/lfric_sst_bonne`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:769
 msgid ":doc:`/generated/gallery/unstructured/smc`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/unstructured/smc`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:786
 msgid ":doc:`/generated/gallery/unstructured/smc_sinu`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/unstructured/smc_sinu`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:803
 msgid ":doc:`/generated/gallery/unstructured/tri`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/unstructured/tri`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:820
 msgid ":doc:`/generated/gallery/unstructured/tri_hammer`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/unstructured/tri_hammer`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:836
 msgid ":fa:`image` Vector Data"
-msgstr ""
+msgstr ":fa:`image` ベクトルデータ"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:838
 msgid "Examples of wind vector data."
-msgstr ""
+msgstr "風ベクトルデータの例．"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:861
 msgid ":doc:`/generated/gallery/vector_data/true_winds`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/vector_data/true_winds`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:878
 msgid ":doc:`/generated/gallery/vector_data/wind_arrows`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/vector_data/wind_arrows`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:895
 msgid ":doc:`/generated/gallery/vector_data/wind_arrows_uvw`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/vector_data/wind_arrows_uvw`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:912
 msgid ":doc:`/generated/gallery/vector_data/wind_arrows_flow`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/vector_data/wind_arrows_flow`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:928
 msgid ":fa:`image` Warp"
-msgstr ""
+msgstr ":fa:`image` ワープ"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:930
 msgid ""
 "Manipulation of mesh surfaces to reveal surface bathymetry and topography."
-msgstr ""
+msgstr "海底水深と地形を明らかにするメッシュサーフェスの操作．"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:953
 msgid ":doc:`/generated/gallery/warp/from_unstructured__fvcom`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/warp/from_unstructured__fvcom`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:970
 msgid ":doc:`/generated/gallery/warp/from_unstructured__lfric_orog`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/warp/from_unstructured__lfric_orog`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:987
 msgid ":doc:`/generated/gallery/warp/from_unstructured__lfric_orog_eqc`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/warp/from_unstructured__lfric_orog_eqc`"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:1026
 msgid ""

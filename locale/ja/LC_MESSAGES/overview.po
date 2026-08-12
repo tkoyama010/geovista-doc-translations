@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1059\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1073\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-18 00:45+0000\n"
+"POT-Creation-Date: 2026-08-11 00:44+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -37,13 +37,14 @@ msgstr "その目標と動機について簡単に説明し、進化する能力
 
 #: ../../geovista/docs/src/overview.rst:18
 msgid ":fa:`star-of-life` Motivation"
-msgstr ""
+msgstr ":fa:`star-of-life` 動機"
 
 #: ../../geovista/docs/src/overview.rst:20
 msgid ""
 "``geovista`` is a pure `Python`_ package that offers performant, publication"
 " quality 3D cartographic rendering of Earth Science data."
 msgstr ""
+"``geovista`` は，地球科学データのパフォーマンスの高い出版品質の3D地図描画を提供する純粋な `Python`_ パッケージです．"
 
 #: ../../geovista/docs/src/overview.rst:23
 msgid ""
@@ -53,6 +54,7 @@ msgid ""
 "traditional 2D static plots, cartographic projections and coordinate "
 "transformations."
 msgstr ""
+"その目標は，科学者が直線格子，曲線格子，および非構造格子の地理空間データを3Dでインタラクティブに簡単に分析，可視化，探索できるようにすると同時に，従来の2D静的プロット，地図投影，座標変換もサポートすることです．"
 
 #: ../../geovista/docs/src/overview.rst:29
 msgid ""
@@ -91,7 +93,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/overview.rst:56
 msgid ":fa:`recycle` Ecosystem"
-msgstr ""
+msgstr ":fa:`recycle` エコシステム"
 
 #: ../../geovista/docs/src/overview.rst:58
 msgid ""
@@ -129,7 +131,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/overview.rst:79
 msgid ":fab:`python` PyVista in a Nutshell"
-msgstr ""
+msgstr ":fab:`python` PyVistaの概要"
 
 #: ../../geovista/docs/src/overview.rst:81
 #: ../../geovista/docs/src/overview.rst:86
@@ -140,7 +142,7 @@ msgstr "PyVista の例"
 msgid ""
 "`PyVista`_ is a powerful open-source 3D visualization library built on "
 "`VTK`_, providing:"
-msgstr ""
+msgstr "`PyVista`_ は `VTK`_ の上に構築された強力なオープンソースの3D可視化ライブラリであり，以下を提供します:"
 
 #: ../../geovista/docs/src/overview.rst:92
 msgid "A Pythonic, high-level, and streamlined API to `VTK`_"
@@ -168,6 +170,8 @@ msgid ""
 "Interoperability with `ParaView`_ through `VTK`_ (see :numref:`tippy-gv-"
 "overview-ecosystem-geovista-ecosystem`)"
 msgstr ""
+"`VTK`_ を通じた `ParaView`_ との相互運用性(:numref:`tippy-gv-overview-ecosystem-"
+"geovista-ecosystem` 参照)"
 
 #: ../../geovista/docs/src/overview.rst:98
 msgid "Static and interactive plot integration within `Jupyter`_ ecosystem"
@@ -175,7 +179,7 @@ msgstr "`Jupyter`_ エコシステム内での静的およびインタラクテ�
 
 #: ../../geovista/docs/src/overview.rst:102
 msgid ":fa:`battery-quarter` Development Status"
-msgstr ""
+msgstr ":fa:`battery-quarter` 開発状況"
 
 #: ../../geovista/docs/src/overview.rst:104
 msgid ""
@@ -187,7 +191,7 @@ msgstr "``geovista`` はまだ日が浅いですが、地球科学コミュニ�
 msgid ""
 "Our primary focus at the moment is to provide a stable API and core set of "
 "features ... we're working hard on that, but we're not there yet!"
-msgstr ""
+msgstr "現在の主な焦点は，安定したAPIとコア機能セットを提供することです...そのために努力していますが，まだそこには到達していません！"
 
 #: ../../geovista/docs/src/overview.rst:110
 msgid "Thanks for your patience 🙏"

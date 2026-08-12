@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1059\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1073\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-18 00:45+0000\n"
+"POT-Creation-Date: 2026-08-11 00:44+0000\n"
 "PO-Revision-Date: 2024-07-02 19:37+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -30,10 +30,12 @@ msgid ""
 "Now that you've :ref:`installed <tippy-gv-installation>` ``geovista``, let's"
 " take a quick tour to see some of the features and capabilities on offer."
 msgstr ""
+":ref:`インストール <tippy-gv-installation>` が完了したら，``geovista`` "
+"が提供する機能と能力のいくつかを見てみましょう．"
 
 #: ../../geovista/docs/src/quick_start.rst:16
 msgid ":fa:`toolbox` Resources"
-msgstr ""
+msgstr ":fa:`toolbox` リソース"
 
 #: ../../geovista/docs/src/quick_start.rst:18
 msgid ""
@@ -56,7 +58,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/quick_start.rst:32
 msgid "To view the manifest of registered resources:"
-msgstr ""
+msgstr "登録済みリソースのマニフェストを表示するには:"
 
 #: ../../geovista/docs/src/quick_start.rst:42
 msgid "Want to know more?"
@@ -81,10 +83,12 @@ msgid ""
 "``geovista``, which makes it easy to visualize **rectilinear**, "
 "**curvilinear**, and **unstructured** meshes."
 msgstr ""
+"``geovista`` を使って大気および海洋モデルデータを探索してみましょう．``geovista`` "
+"を使うと，**直線格子**，**曲線格子**，**非構造格子**のメッシュを簡単に可視化できます．"
 
 #: ../../geovista/docs/src/quick_start.rst:79
 msgid ":fa:`image` OISST AVHRR"
-msgstr ""
+msgstr ":fa:`image` OISST AVHRR"
 
 #: ../../geovista/docs/src/quick_start.rst:81
 msgid ""
@@ -92,6 +96,8 @@ msgid ""
 "coordinates as a :term:`mesh <Mesh>` of quadrilateral :term:`cells <Cell>` "
 "in 3D with coastlines."
 msgstr ""
+"この例では，1次元のXおよびY**直線**座標を持つ2Dデータ配列を，海岸線付きの3Dの四角形 :term:`セル <Cell>` の "
+":term:`メッシュ <Mesh>` としてレンダリングします．"
 
 #: ../../geovista/docs/src/quick_start.rst:85
 msgid ""
@@ -100,6 +106,9 @@ msgid ""
 "<Rectilinear Grid>` containing ``1,036,800`` quadrilateral cells and "
 "``1,038,961`` :term:`points <Point>`."
 msgstr ""
+"データソースは `NOAA/NCEI Optimum Interpolation SST`_ (OISST) Advanced Very High "
+"Resolution Radiometer (AVHRR) の :term:`直線格子 <Rectilinear Grid>` "
+"で，``1,036,800`` 個の四角形セルと ``1,038,961`` 個の :term:`点 <Point>` を含んでいます．"
 
 #: ../../geovista/docs/src/quick_start.rst:90
 msgid ""
@@ -108,6 +117,8 @@ msgid ""
 "Each X and Y coordinate has 2 coordinate bounds describing a quadrilateral "
 "cell."
 msgstr ""
+"メッシュは :meth:`~geovista.bridge.Transform.from_1d` "
+"メソッドを使用して，1次元の地理的経度と緯度の座標の境界から作成されます．各XおよびY座標には，四角形セルを記述する2つの座標境界があります．"
 
 #: ../../geovista/docs/src/quick_start.rst:95
 msgid ""
@@ -116,18 +127,21 @@ msgid ""
 "Colormap>` `cmocean balance`_ diverging colormap, along with `10m Natural "
 "Earth coastlines`_. Note that the land cells are masked."
 msgstr ""
+"メッシュセル上の2Dの*海面温度*データ配列は，:term:`知覚的に均一 <Perceptually Uniform Colormap>` な "
+"`cmocean balance`_ 発散カラーマップを使用してレンダリングされ，`10m Natural Earth coastlines`_ "
+"とともに表示されます．陸地セルはマスクされています．"
 
 #: ../../geovista/docs/src/quick_start.rst:0
 msgid "Static Scene"
-msgstr ""
+msgstr "静的シーン"
 
 #: ../../geovista/docs/src/quick_start.rst:0
 msgid "Interactive Scene"
-msgstr ""
+msgstr "インタラクティブシーン"
 
 #: ../../geovista/docs/src/quick_start.rst:132
 msgid ":fa:`image` NEMO ORCA2"
-msgstr ""
+msgstr ":fa:`image` NEMO ORCA2"
 
 #: ../../geovista/docs/src/quick_start.rst:134
 msgid ""
@@ -138,6 +152,10 @@ msgid ""
 " the results are transformed to a flat 2D surface with a `Plate Carrée`_ "
 "projection."
 msgstr ""
+"この例では，2DのXおよびY**曲線**座標を持つ2Dデータ配列を，3Dの四角形 :term:`セル <Cell>` の :term:`メッシュ "
+"<Mesh>` としてレンダリングします．マスクされたデータを持つセルを削除するために :term:`しきい値 <Threshold>` "
+"が適用されます．海岸線と :term:`ベースレイヤー <Base Layer>` も追加された後，結果は `Plate Carrée`_ "
+"投影で平坦な2Dサーフェスに変換されます．"
 
 #: ../../geovista/docs/src/quick_start.rst:141
 msgid ""
@@ -146,6 +164,9 @@ msgid ""
 "containing ``26,640`` quadrilateral cells and ``106,560`` :term:`points "
 "<Point>`."
 msgstr ""
+"データソースは `Nucleus for European Modelling of the Ocean`_ (NEMO) ORCA2 全球海洋三極 "
+":term:`曲線格子 <Curvilinear Grid>` で，``26,640`` 個の四角形セルと ``106,560`` 個の "
+":term:`点 <Point>` を含んでいます．"
 
 #: ../../geovista/docs/src/quick_start.rst:146
 msgid ""
@@ -154,6 +175,8 @@ msgid ""
 ":meth:`~geovista.bridge.Transform.from_2d` method. Each X and Y coordinate "
 "has 4 coordinate bounds describing a quadrilateral cell."
 msgstr ""
+"グリッドは曲線格子であるため，:meth:`~geovista.bridge.Transform.from_2d` "
+"メソッドを使用して，2次元の地理的経度と緯度の座標の境界から作成されます．各XおよびY座標には，四角形セルを記述する4つの座標境界があります．"
 
 #: ../../geovista/docs/src/quick_start.rst:151
 msgid ""
@@ -162,6 +185,9 @@ msgid ""
 "<Texture Map>` a base layer underneath with a `1:50m Natural Earth I`_ "
 "raster."
 msgstr ""
+"ORCA2は海洋モデルであるため，`threshold`_ を使用して ``10,209`` 個の ``nan`` :term:`陸地マスク <Land"
+" Mask>` セルを削除し，`1:50m Natural Earth I`_ ラスターで :term:`テクスチャマップ <Texture Map>`"
+" されたベースレイヤーを下に配置します．"
 
 #: ../../geovista/docs/src/quick_start.rst:156
 msgid ""
@@ -170,6 +196,9 @@ msgid ""
 "data located on the grid cells, which is then complemented with `10m Natural"
 " Earth coastlines`_."
 msgstr ""
+":term:`知覚的に均一 <Perceptually Uniform Colormap>` な `cmocean thermal`_ "
+"カラーマップを使用して，グリッドセル上の*海水ポテンシャル温度*データをレンダリングし，`10m Natural Earth coastlines`_ "
+"で補完します．"
 
 #: ../../geovista/docs/src/quick_start.rst:161
 msgid ""
@@ -177,6 +206,9 @@ msgid ""
 "transform the :term:`actors <Actor>` in the scene to the `Equidistant "
 "Cylindrical`_ (Plate Carrée) conformal cylindrical projection."
 msgstr ""
+"最後に，`cartopy`_ :term:`CRS <Coordinate Reference System>` を使用して，シーン内の "
+":term:`アクター <Actor>` を `Equidistant Cylindrical`_ (Plate Carrée) "
+"正角円筒投影に変換します．"
 
 #: ../../geovista/docs/src/quick_start.rst:169
 msgid ""
@@ -185,16 +217,20 @@ msgid ""
 "matures, we'll aim to enrich that capability and complement it with other "
 "classes of projections, such as **Azimuthal** and **Conic**."
 msgstr ""
+"``geovista`` では**円筒**投影と**擬似円筒**投影の基本的なサポートが利用可能です．``geovista`` "
+"が成熟するにつれて，この機能を強化し，**方位**投影や**円錐**投影などの他の投影クラスで補完することを目指します．"
 
 #: ../../geovista/docs/src/quick_start.rst:213
 msgid ":fa:`image` WAVEWATCH III"
-msgstr ""
+msgstr ":fa:`image` WAVEWATCH III"
 
 #: ../../geovista/docs/src/quick_start.rst:215
 msgid ""
 "``geovista`` provides rich support for easily constructing a :term:`mesh "
 "<Mesh>` surface from various unstructured Earth Science model data."
 msgstr ""
+"``geovista`` は，さまざまな非構造地球科学モデルデータから :term:`メッシュ <Mesh>` "
+"サーフェスを簡単に構築するための豊富なサポートを提供します．"
 
 #: ../../geovista/docs/src/quick_start.rst:219
 msgid ""
@@ -203,6 +239,9 @@ msgid ""
 ":term:`connectivity <Connectivity>` using the "
 ":meth:`~geovista.bridge.Transform.from_unstructured` method."
 msgstr ""
+"これを示すために，:meth:`~geovista.bridge.Transform.from_unstructured` "
+"メソッドを使用して，1次元のXおよびY**非構造**座標と2D :term:`接続性 <Connectivity>` から `WAVEWATCH "
+"III`_ (WW3) 非構造三角形メッシュを作成します．"
 
 #: ../../geovista/docs/src/quick_start.rst:224
 msgid ""
@@ -210,6 +249,9 @@ msgid ""
 "into the ``16,160`` 1D geographical longitude and latitude points to create "
 "a mesh containing ``30,559`` triangular :term:`cells <Cell>`."
 msgstr ""
+"``(30559, 3)`` の形状を持つ ``sample.connectivity`` は，``16,160`` "
+"個の1次元の地理的経度と緯度の点をインデックスして，``30,559`` 個の三角形 :term:`セル <Cell>` "
+"を含むメッシュを作成するために使用されます．"
 
 #: ../../geovista/docs/src/quick_start.rst:228
 msgid ""
@@ -218,6 +260,9 @@ msgid ""
 "and rendered with the :term:`perceptually uniform <Perceptually Uniform "
 "Colormap>` `cmocean balance`_ divergent colormap."
 msgstr ""
+"1次元の*海面波有意波高*データ配列はメッシュ :term:`ノード <Node>` "
+"上に配置され，メッシュセル全体に補間された後，:term:`知覚的に均一 <Perceptually Uniform Colormap>` な "
+"`cmocean balance`_ 発散カラーマップでレンダリングされます．"
 
 #: ../../geovista/docs/src/quick_start.rst:234
 msgid ""
@@ -226,20 +271,23 @@ msgid ""
 ":term:`base layer <Base Layer>` is visible underneath without the need to "
 "`threshold`_ the mesh."
 msgstr ""
+"WAVEWATCH IIIには陸地ベースのセルが含まれていないため，`1:50m Natural Earth Cross-Blended "
+"Hypsometric Tints`_ の :term:`テクスチャマップ <Texture Map>` された :term:`ベースレイヤー "
+"<Base Layer>` は，メッシュを `threshold`_ することなく下に表示されます．"
 
 #: ../../geovista/docs/src/quick_start.rst:239
 msgid "Finally, the render is decorated with `10m Natural Earth coastlines`_."
-msgstr ""
+msgstr "最後に，`10m Natural Earth coastlines`_ でレンダリングを装飾します．"
 
 #: ../../geovista/docs/src/quick_start.rst:275
 msgid ":fa:`image` Finite Volume Community Ocean Model"
-msgstr ""
+msgstr ":fa:`image` Finite Volume Community Ocean Model"
 
 #: ../../geovista/docs/src/quick_start.rst:277
 msgid ""
 "This final example showcases how `PyVista`_ can take visualization of Earth "
 "Science data to the next dimension, quite literally."
-msgstr ""
+msgstr "この最後の例は，`PyVista`_ が地球科学データの可視化を文字通り次の次元に引き上げる方法を示しています．"
 
 #: ../../geovista/docs/src/quick_start.rst:280
 msgid ""
@@ -247,6 +295,8 @@ msgid ""
 "extruded :term:`mesh <Mesh>` of the `Plymouth Sound and Tamar River`_ "
 "bathymetry in Cornwall, England."
 msgstr ""
+"`Finite Volume Community Ocean Model`_ (FVCOM) データを使用して，イングランドコーンウォールの "
+"`Plymouth Sound and Tamar River`_ 水深の押し出し :term:`メッシュ <Mesh>` を作成します．"
 
 #: ../../geovista/docs/src/quick_start.rst:284
 msgid ""
@@ -254,6 +304,8 @@ msgid ""
 "used to create a triangular mesh from 1D X and Y **unstructured** "
 "coordinates and 2D :term:`connectivity <Connectivity>`."
 msgstr ""
+"まず，:meth:`~geovista.bridge.Transform.from_unstructured` "
+"メソッドを使用して，1次元のXおよびY**非構造**座標と2D :term:`接続性 <Connectivity>` から三角形メッシュを作成します．"
 
 #: ../../geovista/docs/src/quick_start.rst:288
 msgid ""
@@ -262,6 +314,8 @@ msgid ""
 "then used to displace the mesh points by a proportionally scaled amount in "
 "the direction of the mesh surface normals."
 msgstr ""
+"1次元の*ジオイド下海底深度*データ配列がメッシュ :term:`セル <Cell>` に追加されるだけでなく，メッシュ :term:`点 "
+"<Point>` にも追加され，メッシュサーフェス法線方向に比例的にスケーリングされた量だけメッシュ点を変位させるために使用されます．"
 
 #: ../../geovista/docs/src/quick_start.rst:293
 msgid ""
@@ -269,10 +323,11 @@ msgid ""
 "of the river and sea floor bathymetry, which we are then free to explore "
 "interactively."
 msgstr ""
+"このメッシュの変位または :term:`ワーピング <Warp>` は，川と海底の水深の起伏を明らかにし，インタラクティブに探索することができます．"
 
 #: ../../geovista/docs/src/quick_start.rst:334
 msgid ":fa:`quote-left` And Finally ..."
-msgstr ""
+msgstr ":fa:`quote-left` そして最後に ..."
 
 #: ../../geovista/docs/src/quick_start.rst:336
 msgid ""
@@ -284,4 +339,4 @@ msgstr "この ``geovista`` 旋風ツアーが、あなたの食欲を刺激し�
 msgid ""
 "If so, then let's explore the :ref:`next steps <tippy-gv-next-steps>` on "
 "your ``geovista`` journey."
-msgstr ""
+msgstr "それでは，``geovista`` の旅の :ref:`次のステップ <tippy-gv-next-steps>` を探索しましょう．"

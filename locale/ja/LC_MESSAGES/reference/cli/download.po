@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1052\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1078\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-13 00:52+0000\n"
+"POT-Creation-Date: 2026-08-12 00:34+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,73 +23,73 @@ msgstr ""
 
 #: ../geovista download:1
 msgid "Download and cache geovista assets (offline support)."
-msgstr ""
+msgstr "geovistaアセットをダウンロードしてキャッシュします（オフラインサポート）．"
 
 #: ../geovista download:1
 msgid "Download all registered assets."
-msgstr ""
+msgstr "すべての登録済みアセットをダウンロードします．"
 
 #: ../geovista download:1
 msgid "Delete all cached assets; see also `--tidy`."
-msgstr ""
+msgstr "すべてのキャッシュ済みアセットを削除します．`--tidy` も参照してください．"
 
 #: ../geovista download:1
 msgid "Decompress all cached assets."
-msgstr ""
+msgstr "すべてのキャッシュ済みアセットを解凍します．"
 
 #: ../geovista download:1
 msgid "Download documentation test image assets."
-msgstr ""
+msgstr "ドキュメントテスト画像アセットをダウンロードします．"
 
 #: ../geovista download:1
 msgid "Show URLs of registered assets (no download)."
-msgstr ""
+msgstr "登録済みアセットのURLを表示します（ダウンロードなし）．"
 
 #: ../geovista download:1
 msgid "Download all test image assets."
-msgstr ""
+msgstr "すべてのテスト画像アセットをダウンロードします．"
 
 #: ../geovista download:1
 msgid "Show names of registered assets (no download)."
-msgstr ""
+msgstr "登録済みアセットの名前を表示します（ダウンロードなし）．"
 
 #: ../geovista download:1
 msgid "Download Natural Earth feature assets."
-msgstr ""
+msgstr "Natural Earthフィーチャーアセットをダウンロードします．"
 
 #: ../geovista download:0
 msgid "options"
-msgstr ""
+msgstr "オプション"
 
 #: ../geovista download:1
 msgid "all | physical"
-msgstr ""
+msgstr "all | physical"
 
 #: ../geovista download:1
 msgid "Download all non-test assets."
-msgstr ""
+msgstr "すべての非テストアセットをダウンロードします．"
 
 #: ../geovista download:1
 msgid "Download sample data assets."
-msgstr ""
+msgstr "サンプルデータアセットをダウンロードします．"
 
 #: ../geovista download:1
 msgid "Download raster assets."
-msgstr ""
+msgstr "ラスターアセットをダウンロードします．"
 
 #: ../geovista download:1
 msgid ""
-"Download target directory (default: /home/runner/.cache/geovista/2026.05.2)"
+"Download target directory (default: /home/runner/.cache/geovista/2026.08.1)"
 msgstr ""
 
 #: ../geovista download:1
 msgid "Delete all cached assets except the current data version."
-msgstr ""
+msgstr "現在のデータバージョンを除くすべてのキャッシュ済みアセットを削除します．"
 
 #: ../geovista download:1
 msgid "Download unit test image assets."
-msgstr ""
+msgstr "ユニットテスト画像アセットをダウンロードします．"
 
 #: ../geovista download:1
 msgid "Verify availability of registered assets (no download)."
-msgstr ""
+msgstr "登録済みアセットの可用性を確認します（ダウンロードなし）．"

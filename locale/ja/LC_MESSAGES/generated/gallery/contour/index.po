@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1052\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1073\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-13 00:52+0000\n"
+"POT-Creation-Date: 2026-08-11 00:44+0000\n"
 "PO-Revision-Date: 2025-02-01 00:33+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,11 +23,11 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/contour/index.rst:9
 msgid ":fa:`image` Contour"
-msgstr ""
+msgstr ":fa:`image` 等高線"
 
 #: ../../geovista/docs/src/generated/gallery/contour/index.rst:11
 msgid "Showcases various contouring examples."
-msgstr ""
+msgstr "さまざまな等高線の例を紹介します．"
 
 #: ../../geovista/docs/src/generated/gallery/contour/index.rst:16
 msgid ""
@@ -34,7 +38,12 @@ msgid ""
 " scene. See :far:`circle-dot` `#7145 "
 "<https://github.com/pyvista/pyvista/issues/7145>`__."
 msgstr ""
+"`pyvista <https://github.com/pyvista/pyvista>`__ :fab:`github` **issue** "
+"に，ブラウザインタラクティブシーン内で `trame <https://github.com/Kitware/trame>`__ "
+"フレームワークを使用した :meth:`~pyvista.PolyDataFilters.contour_banded` "
+"レンダリングに関する未解決のものがあります．:far:`circle-dot` `#7145 "
+"<https://github.com/pyvista/pyvista/issues/7145>`__ を参照してください．"
 
 #: ../../geovista/docs/src/generated/gallery/contour/index.rst:42
 msgid ":doc:`/generated/gallery/contour/banded_contour`"
-msgstr ""
+msgstr ":doc:`/generated/gallery/contour/banded_contour`"
