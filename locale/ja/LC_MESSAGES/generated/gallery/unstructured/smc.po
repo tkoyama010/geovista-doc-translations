@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1073\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1078\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-11 00:44+0000\n"
+"POT-Creation-Date: 2026-08-12 00:34+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -32,12 +32,12 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc.rst:22
 msgid "Spherical Multi-Cell Mesh"
-msgstr ""
+msgstr "球面マルチセルメッシュ"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc.rst:24
 msgid ""
 "This example demonstrates how to render an unstructured quadrilateral mesh."
-msgstr ""
+msgstr "この例は，非構造四角形メッシュのレンダリング方法を示します．"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc.rst:27
 msgid "📋 Summary"
@@ -46,7 +46,7 @@ msgstr "📋 まとめ"
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc.rst:29
 msgid ""
 "Creates a mesh from 2D latitude and longitude unstructured cell bounds."
-msgstr ""
+msgstr "2次元の緯度と経度の非構造セル境界からメッシュを作成します．"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc.rst:31
 msgid "The resulting mesh contains quad cells."
@@ -57,6 +57,7 @@ msgid ""
 "It uses WAVEWATCH III (WW3) unstructured Spherical Multi-Cell (SMC) sea "
 "surface wave significant height data located on mesh faces/cells."
 msgstr ""
+"WAVEWATCH III (WW3) 非構造球面マルチセル(SMC)海面波有意波高データを使用します．データはメッシュ面/セル上にあります．"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc.rst:36
 msgid ""
@@ -71,6 +72,8 @@ msgid ""
 "🏷 Tags: component: coastlines component: texture domain: oceanography load: "
 "unstructured filter: threshold version: 0.1.0"
 msgstr ""
+"🏷 Tags: component: coastlines component: texture domain: oceanography load: "
+"unstructured filter: threshold version: 0.1.0"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc.rst:112
 msgid ":download:`Download Jupyter notebook: smc.ipynb <smc.ipynb>`"
@@ -82,7 +85,7 @@ msgstr ":download:`Download Python source code: smc.py <smc.py>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc.rst:120
 msgid ":download:`Download zipped: smc.zip <smc.zip>`"
-msgstr ""
+msgstr ":download:`ZIPをダウンロード: smc.zip <smc.zip>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/smc.rst:127
 msgid ""

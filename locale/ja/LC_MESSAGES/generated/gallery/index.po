@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1073\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1078\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-11 00:44+0000\n"
+"POT-Creation-Date: 2026-08-12 00:34+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -44,7 +44,7 @@ msgstr "このインタラクティブなギャラリーは、 ``geovista`` の�
 msgid ""
 "It is generated from the ``geovista.examples``, which can also be run from "
 "the command line:"
-msgstr ""
+msgstr "``geovista.examples`` から生成されており，コマンドラインからも実行できます:"
 
 #: ../../geovista/docs/src/generated/gallery/index.rst:33
 msgid "Want to know more?"

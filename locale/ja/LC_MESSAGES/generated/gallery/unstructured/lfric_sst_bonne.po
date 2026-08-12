@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1073\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1078\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-11 00:44+0000\n"
+"POT-Creation-Date: 2026-08-12 00:34+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -32,13 +32,13 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lfric_sst_bonne.rst:22
 msgid "LFRic Mesh (Projected)"
-msgstr ""
+msgstr "LFRicメッシュ（投影）"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lfric_sst_bonne.rst:24
 msgid ""
 "This example demonstrates how to render a projected unstructured "
 "quadrilateral mesh."
-msgstr ""
+msgstr "この例は，投影された非構造四角形メッシュのレンダリング方法を示します．"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lfric_sst_bonne.rst:27
 msgid "📋 Summary"
@@ -54,13 +54,13 @@ msgstr "1次元の緯度と経度の非構造格子点と接続性からメッ�
 msgid ""
 "The resulting mesh contains quad cells. The connectivity is required to "
 "construct the cells by indexing into the CF UGRID unstructured points."
-msgstr ""
+msgstr "結果のメッシュは四角形セルを含みます．CF UGRID非構造点をインデックスとしてセルを構築するために接続性が必要です．"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lfric_sst_bonne.rst:34
 msgid ""
 "It uses an unstructured Met Office LFRic C48 cubed-sphere of surface "
 "temperature data located on the mesh faces/cells."
-msgstr ""
+msgstr "メッシュ面/セル上の地表温度データの非構造Met Office LFRic C48キューブ球面を使用します．"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lfric_sst_bonne.rst:37
 msgid ""
@@ -69,6 +69,8 @@ msgid ""
 "coastlines and a graticule. The mesh is also transformed to the Bonne "
 "projection."
 msgstr ""
+"陸地の ``NaN`` セルを削除するためにしきい値も適用されます．Natural EarthベースレイヤーとNatural "
+"Earth海岸線および経緯線网格もレンダリングされます．メッシュはBonne投影に変換されます．"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lfric_sst_bonne.rst:49
 msgid ""
@@ -76,6 +78,9 @@ msgid ""
 "domain: oceanography filter: threshold load: unstructured projection: crs "
 "version: 0.1.0"
 msgstr ""
+"🏷 Tags: component: coastlines component: graticule component: texture "
+"domain: oceanography filter: threshold load: unstructured projection: crs "
+"version: 0.1.0"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lfric_sst_bonne.rst:119
 msgid ""
@@ -95,7 +100,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lfric_sst_bonne.rst:127
 msgid ":download:`Download zipped: lfric_sst_bonne.zip <lfric_sst_bonne.zip>`"
-msgstr ""
+msgstr ":download:`ZIPをダウンロード: lfric_sst_bonne.zip <lfric_sst_bonne.zip>`"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/lfric_sst_bonne.rst:134
 msgid ""

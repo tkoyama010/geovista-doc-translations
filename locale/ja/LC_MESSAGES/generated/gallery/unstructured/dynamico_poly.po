@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1063\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1078\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-02 03:37+0000\n"
+"POT-Creation-Date: 2026-08-12 00:34+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -47,13 +47,13 @@ msgstr "📋 まとめ"
 #: ../../geovista/docs/src/generated/gallery/unstructured/dynamico_poly.rst:29
 msgid ""
 "Creates a mesh from 2D latitude and longitude unstructured cell bounds."
-msgstr ""
+msgstr "2次元の緯度と経度の非構造セル境界からメッシュを作成します．"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/dynamico_poly.rst:31
 msgid ""
 "The resulting mesh contains hexagonal cells tessellated around 12 pentagon "
 "cells, which are centered over the 12 vertices of a base icosahedron."
-msgstr ""
+msgstr "結果のメッシュは，基底二十面体の12の頂点上に中心を持つ12個の五角形セルの周りにテセレーションされた六角形セルを含みます．"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/dynamico_poly.rst:34
 msgid ""
@@ -62,6 +62,9 @@ msgid ""
 " General Circulation Model (GCM) part of Institut Pierre-Simon Laplace "
 "(IPSL-CM) Earth System Model. The data targets the mesh faces/cells."
 msgstr ""
+"DYNAMICOプロジェクトの地表気圧データを使用します．DYNAMICOは，Laboratoire de Météorologie Dynamique"
+" (LMD-Z) の新しい力学コアであり，Institut Pierre-Simon Laplace (IPSL-CM) "
+"地球システムモデルの大気大循環モデル(GCM)の一部です．データはメッシュ面/セルを対象とします．"
 
 #: ../../geovista/docs/src/generated/gallery/unstructured/dynamico_poly.rst:39
 msgid ""
