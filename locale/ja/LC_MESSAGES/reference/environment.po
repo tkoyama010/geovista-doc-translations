@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: GeoVista 0.6.0.dev1093\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-12 00:48+0000\n"
+"POT-Creation-Date: 2026-09-28 00:59+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -36,7 +36,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/environment.rst:15
 msgid ":fa:`square-caret-down` Internal"
-msgstr ""
+msgstr ":fa:`square-caret-down` 内部"
 
 #: ../../geovista/docs/src/reference/environment.rst:17
 msgid ""

@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: GeoVista 0.6.0.dev1093\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-12 00:48+0000\n"
+"POT-Creation-Date: 2026-09-28 00:59+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:7
 msgid ":fa:`spell-check` Glossary"
-msgstr ""
+msgstr ":fa:`spell-check` 用語集"
 
 #: ../../geovista/docs/src/reference/glossary.rst:9
 msgid "Say what you mean. Mean what you say."
@@ -99,7 +99,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:41
 msgid "Environment"
-msgstr ""
+msgstr "環境"
 
 #: ../../geovista/docs/src/reference/glossary.rst:43
 msgid ""
@@ -121,7 +121,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:53
 msgid "Feature"
-msgstr ""
+msgstr "フィーチャー"
 
 #: ../../geovista/docs/src/reference/glossary.rst:55
 msgid ""
@@ -240,7 +240,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/glossary.rst:105
 msgid "Task"
-msgstr ""
+msgstr "タスク"
 
 #: ../../geovista/docs/src/reference/glossary.rst:107
 msgid ""

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GeoVista 0.6.0.dev1093\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-20 00:56+0000\n"
+"POT-Creation-Date: 2026-09-28 00:59+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:2
 msgid "geovista.geodesic"
-msgstr ""
+msgstr "geovista.geodesic"
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/geodesic/index.rst:8
 msgid "Provide geodesic operators for geolocated meshes."

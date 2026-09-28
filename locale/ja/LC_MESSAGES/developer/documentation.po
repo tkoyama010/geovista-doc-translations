@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GeoVista 0.6.0.dev1093\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-20 00:56+0000\n"
+"POT-Creation-Date: 2026-09-28 00:59+0000\n"
 "PO-Revision-Date: 2025-01-29 00:30+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -23,17 +23,17 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:7
 msgid ":fa:`square-pen` Documentation"
-msgstr ""
+msgstr ":fa:`square-pen` ドキュメント"
 
 #: ../../geovista/docs/src/developer/documentation.rst:11
 msgid ""
 "Here we provide some high-level guidelines and best practice advice for "
 "authors and contributors wishing to build and render the documentation."
-msgstr ""
+msgstr "ここでは、ドキュメントをビルド・レンダリングしたい作者と貢献者のための、高レベルなガイドラインとベストプラクティスの助言を提供します。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:18
 msgid ":fa:`screwdriver-wrench` Building"
-msgstr ""
+msgstr ":fa:`screwdriver-wrench` ビルド"
 
 #: ../../geovista/docs/src/developer/documentation.rst:20
 #: ../../geovista/docs/src/developer/documentation.rst:143
@@ -47,24 +47,26 @@ msgstr ""
 #: ../../geovista/docs/src/developer/documentation.rst:487
 #: ../../geovista/docs/src/developer/documentation.rst:587
 msgid ":fa:`file-code` **Reference:**"
-msgstr ""
+msgstr ":fa:`file-code` **参照:**"
 
 #: ../../geovista/docs/src/developer/documentation.rst:22
 msgid ":bash:`docs/Makefile`"
-msgstr ""
+msgstr ":bash:`docs/Makefile`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:23
 #: ../../geovista/docs/src/developer/documentation.rst:146
 #: ../../geovista/docs/src/developer/documentation.rst:431
 #: ../../geovista/docs/src/developer/documentation.rst:589
 msgid ":bash:`docs/src/conf.py`"
-msgstr ""
+msgstr ":bash:`docs/src/conf.py`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:25
 msgid ""
 "The documentation is built using `sphinx`_ to parse and render "
 "`reStructuredText`_ (:bash:`rst`) documents into ``HTML``."
 msgstr ""
+"ドキュメントは `sphinx`_ を使用して `reStructuredText`_ (:bash:`rst`) 文書を解析し、``HTML`` "
+"にレンダリングする形でビルドされます。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:28
 msgid ""
@@ -72,39 +74,44 @@ msgid ""
 "and convert :term:`MyST` to :bash:`rst`, and `myst-nb`_ to execute and "
 "convert `Jupyter Notebooks`_ into ``sphinx`` documents."
 msgstr ""
+"また、:term:`MyST` を解析して :bash:`rst` に変換する ``sphinx`` と `docutils`_ の拡張である "
+"`myst-parser`_、および `Jupyter Notebooks`_ を実行して ``sphinx`` 文書に変換する `myst-nb`_ "
+"も使用します。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:32
 msgid ""
 "The documentation is built using `sphinx-build`_ and the `GNU make`_ tool "
 "from within the :bash:`docs` root directory e.g.,"
 msgstr ""
+"ドキュメントは :bash:`docs` ルートディレクトリ内から `sphinx-build`_ と `GNU make`_ "
+"ツールを使用してビルドされます。例:"
 
 #: ../../geovista/docs/src/developer/documentation.rst:40
 msgid ""
 "The following sections describe the ``make`` command tasks that are "
 "available."
-msgstr ""
+msgstr "以下のセクションでは、利用可能な ``make`` コマンドタスクについて説明します。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:44
 msgid ":fa:`pump-medical` Hygiene"
-msgstr ""
+msgstr ":fa:`pump-medical` ハイジーン(清掃)"
 
 #: ../../geovista/docs/src/developer/documentation.rst:46
 msgid ""
 "Start afresh with confidence by performing documentation hygiene to purge "
 "various build artifacts."
-msgstr ""
+msgstr "ドキュメントのハイジーンを行い、さまざまなビルド成果物を削除することで、自信を持って最初からやり直せます。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:48
 msgid "Housekeeping Tasks"
-msgstr ""
+msgstr "ハウスキーピングタスク"
 
 #: ../../geovista/docs/src/developer/documentation.rst:53
 #: ../../geovista/docs/src/developer/documentation.rst:79
 #: ../../geovista/docs/src/developer/documentation.rst:114
 #: ../../geovista/docs/src/developer/documentation.rst:131
 msgid "Make Task"
-msgstr ""
+msgstr "Make タスク"
 
 #: ../../geovista/docs/src/developer/documentation.rst:53
 #: ../../geovista/docs/src/developer/documentation.rst:79
@@ -119,7 +126,7 @@ msgstr "説明"
 #: ../../geovista/docs/src/developer/documentation.rst:55
 #: ../../geovista/docs/src/developer/documentation.rst:514
 msgid ":guilabel:`clean`"
-msgstr ""
+msgstr ":guilabel:`clean`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:55
 #: ../../geovista/docs/src/developer/documentation.rst:514
@@ -127,21 +134,23 @@ msgid ""
 "Purge all `sphinx-autoapi`_, `sphinx-gallery`_, `sphinx-tags`_, carousel, "
 "and other `sphinx-build`_ artifacts."
 msgstr ""
+"`sphinx-autoapi`_、`sphinx-gallery`_、`sphinx-tags`_、カルーセル、その他の `sphinx-"
+"build`_ の成果物をすべて削除します。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:58
 #: ../../geovista/docs/src/developer/documentation.rst:517
 msgid ":guilabel:`clean-all`"
-msgstr ""
+msgstr ":guilabel:`clean-all`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:58
 #: ../../geovista/docs/src/developer/documentation.rst:517
 msgid "Perform both the :guilabel:`clean` and :guilabel:`clean-cache` tasks."
-msgstr ""
+msgstr ":guilabel:`clean` と :guilabel:`clean-cache` の両タスクを実行します。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:60
 #: ../../geovista/docs/src/developer/documentation.rst:519
 msgid ":guilabel:`clean-cache`"
-msgstr ""
+msgstr ":guilabel:`clean-cache`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:60
 #: ../../geovista/docs/src/developer/documentation.rst:519
@@ -149,10 +158,11 @@ msgid ""
 "Purge the `myst-nb`_ Jupyter cache. See `myst-nb configuration`_ for further"
 " details."
 msgstr ""
+"`myst-nb`_ の Jupyter キャッシュを削除します。詳細は `myst-nb configuration`_ を参照してください。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:69
 msgid ":fa:`pen-to-square` Build"
-msgstr ""
+msgstr ":fa:`pen-to-square` ビルド"
 
 #: ../../geovista/docs/src/developer/documentation.rst:71
 msgid ""
@@ -160,32 +170,33 @@ msgid ""
 " Note that building the documentation static images and interactive scenes "
 "can be resource hungry and time consuming."
 msgstr ""
+"画像生成を制限するさまざまなコントロールとともにドキュメントをビルドします。ドキュメントの静的画像やインタラクティブシーンのビルドは、リソースを大量に消費し時間がかかることがあります。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:74
 msgid "Build Tasks"
-msgstr ""
+msgstr "ビルドタスク"
 
 #: ../../geovista/docs/src/developer/documentation.rst:81
 msgid ":guilabel:`html`"
-msgstr ""
+msgstr ":guilabel:`html`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:81
 msgid "Build the full suite of documentation including all images and scenes."
-msgstr ""
+msgstr "すべての画像とシーンを含む完全なドキュメントをビルドします。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:83
 msgid ":guilabel:`html-docstring`"
-msgstr ""
+msgstr ":guilabel:`html-docstring`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:83
 msgid ""
 "Build the full suite of documentation with only the ``docstring`` images and"
 " scenes."
-msgstr ""
+msgstr "``docstring`` の画像とシーンのみを含む完全なドキュメントをビルドします。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:86
 msgid ":guilabel:`html-docstring-inline`"
-msgstr ""
+msgstr ":guilabel:`html-docstring-inline`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:86
 msgid ""
@@ -193,102 +204,106 @@ msgid ""
 " images and scenes. See :guilabel:`html-docstring` and :guilabel:`html-"
 "inline` tasks."
 msgstr ""
+"``docstring`` とインラインの画像・シーンのみを含む完全なドキュメントをビルドします。:guilabel:`html-docstring` "
+"と :guilabel:`html-inline` タスクを参照してください。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:90
 msgid ":guilabel:`html-gallery`"
-msgstr ""
+msgstr ":guilabel:`html-gallery`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:90
 msgid ""
 "Build the full suite of documentation with only the `sphinx-gallery`_ images"
 " and scenes, which also includes the carousel."
-msgstr ""
+msgstr "`sphinx-gallery`_ の画像とシーンのみを含む完全なドキュメントをビルドします。カルーセルも含まれます。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:93
 msgid ":guilabel:`html-inline`"
-msgstr ""
+msgstr ":guilabel:`html-inline`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:93
 msgid ""
 "Build the full suite of documentation with only inline documentation images "
 "and scenes."
-msgstr ""
+msgstr "インラインのドキュメント画像とシーンのみを含む完全なドキュメントをビルドします。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:96
 msgid ":guilabel:`html-noplot`"
-msgstr ""
+msgstr ":guilabel:`html-noplot`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:96
 msgid ""
 "Build the full suite of documentation with no static images and no "
 "interactive scenes."
-msgstr ""
+msgstr "静的画像とインタラクティブシーンなしで完全なドキュメントをビルドします。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:99
 msgid ":guilabel:`html-tutorial`"
-msgstr ""
+msgstr ":guilabel:`html-tutorial`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:99
 msgid ""
 "Build the full suite of documentation with only the tutorial notebooks. "
 "images and scenes."
-msgstr ""
+msgstr "チュートリアルノートブックの画像とシーンのみを含む完全なドキュメントをビルドします。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:105
 msgid ":fab:`readme` Render"
-msgstr ""
+msgstr ":fab:`readme` レンダリング"
 
 #: ../../geovista/docs/src/developer/documentation.rst:107
 msgid ""
 "How-to serve the rendered documentation for inspection in a local browser."
-msgstr ""
+msgstr "レンダリング済みドキュメントをローカルブラウザーで確認できるように提供する方法。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:109
 msgid "Render Tasks"
-msgstr ""
+msgstr "レンダリングタスク"
 
 #: ../../geovista/docs/src/developer/documentation.rst:116
 #: ../../geovista/docs/src/developer/documentation.rst:533
 msgid ":guilabel:`serve-html`"
-msgstr ""
+msgstr ":guilabel:`serve-html`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:116
 msgid ""
 "Start a local ``HTTP`` server on port ``11000`` to view the rendered "
 "documentation. This is necessary in order to support interactive scenes."
 msgstr ""
+"レンダリング済みドキュメントを表示するために、ポート ``11000`` でローカル ``HTTP`` "
+"サーバーを起動します。インタラクティブシーンをサポートするために必要です。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:122
 msgid ":fa:`vial-circle-check` Test"
-msgstr ""
+msgstr ":fa:`vial-circle-check` テスト"
 
 #: ../../geovista/docs/src/developer/documentation.rst:124
 msgid "Perform documentation quality assurance."
-msgstr ""
+msgstr "ドキュメントの品質保証を行います。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:126
 msgid "Test Tasks"
-msgstr ""
+msgstr "テストタスク"
 
 #: ../../geovista/docs/src/developer/documentation.rst:133
 #: ../../geovista/docs/src/developer/documentation.rst:522
 msgid ":guilabel:`doctest`"
-msgstr ""
+msgstr ":guilabel:`doctest`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:133
 #: ../../geovista/docs/src/developer/documentation.rst:522
 msgid ""
 "Execute `sphinx.ext.doctest`_ to test code snippets within the "
 "documentation."
-msgstr ""
+msgstr "`sphinx.ext.doctest`_ を実行して、ドキュメント内のコードスニペットをテストします。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:141
 msgid ":fa:`heart-circle-check` Branding"
-msgstr ""
+msgstr ":fa:`heart-circle-check` ブランディング"
 
 #: ../../geovista/docs/src/developer/documentation.rst:145
 msgid ":bash:`docs/src/_static` :fa:`folder`"
-msgstr ""
+msgstr ":bash:`docs/src/_static` :fa:`folder`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:148
 msgid ""
@@ -296,6 +311,8 @@ msgid ""
 "under the `Creative Commons Attribution 4.0 International License`_ (CC BY "
 "4.0)."
 msgstr ""
+"アイコンは `Font Awesome`_ が提供しています。Font Awesome (Free) は `Creative Commons "
+"Attribution 4.0 International License`_ (CC BY 4.0) の下でライセンスされています。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:151
 msgid ""
@@ -303,42 +320,49 @@ msgid ""
 "directory, along with the Font Awesome :bash:`LICENSE.txt` file. Refer to "
 "the :bash:`docs/src/conf.py` for asset configuration details."
 msgstr ""
+"静的アイコンアセットは、Font Awesome の :bash:`LICENSE.txt` ファイルとともに "
+":bash:`docs/src/_static/images/icons` ディレクトリに配置されています。アセットの設定詳細は "
+":bash:`docs/src/conf.py` を参照してください。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:155
 msgid ""
 "Other branding assets are available from the `geovista-media`_ repository."
-msgstr ""
+msgstr "その他のブランディングアセットは `geovista-media`_ リポジトリから入手できます。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:157
 msgid ""
 "Branding colours (``RGB``) are defined in "
 ":bash:`docs/src/_static/color.css`:"
-msgstr ""
+msgstr "ブランドカラー(``RGB``)は :bash:`docs/src/_static/color.css` で定義されています:"
 
 #: ../../geovista/docs/src/developer/documentation.rst:159
 msgid ""
 ":octicon:`square-fill;2em;gv-text-main` ``#80d050`` (``128``, ``208``, "
 "``80``) is the **primary** colour (``gv-text-main``)"
 msgstr ""
+":octicon:`square-fill;2em;gv-text-main` ``#80d050`` (``128``, ``208``, "
+"``80``) は **プライマリ** カラー(``gv-text-main``)です"
 
 #: ../../geovista/docs/src/developer/documentation.rst:161
 msgid ""
 ":octicon:`square-fill;2em;gv-text-comp` ``#7f2faf`` (``127``, ``47``, "
 "``175``) is the **complementary** colour (``gv-text-comp``)"
 msgstr ""
+":octicon:`square-fill;2em;gv-text-comp` ``#7f2faf`` (``127``, ``47``, "
+"``175``) は **補完** カラー(``gv-text-comp``)です"
 
 #: ../../geovista/docs/src/developer/documentation.rst:169
 msgid ":fa:`shield-halved` Badge"
-msgstr ""
+msgstr ":fa:`shield-halved` バッジ"
 
 #: ../../geovista/docs/src/developer/documentation.rst:173
 msgid ":bash:`docs/assets/badge/v0.json`"
-msgstr ""
+msgstr ":bash:`docs/assets/badge/v0.json`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:175
 msgid ""
 "Our `shields.io`_ badge asset is encoded as a `JSON Endpoint Response`_."
-msgstr ""
+msgstr "`shields.io`_ バッジアセットは `JSON Endpoint Response`_ としてエンコードされています。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:177
 msgid ""
@@ -346,10 +370,12 @@ msgid ""
 "Vector`_, which is freely available and distributed under a `CC0-1.0`_ "
 "licence."
 msgstr ""
+"バッジのロゴはパブリックドメインの `Earth Grid Symbol SVG Vector`_ に基づいており、`CC0-1.0`_ "
+"ライセンスの下で自由に入手・配布できます。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:182
 msgid "|geovista-badge|"
-msgstr ""
+msgstr "|geovista-badge|"
 
 #: ../../geovista/docs/src/common.txt:23
 msgid "geovista-badge"
@@ -357,28 +383,28 @@ msgstr "geovista-badge"
 
 #: ../../geovista/docs/src/developer/documentation.rst:0
 msgid "html"
-msgstr ""
+msgstr "html"
 
 #: ../../geovista/docs/src/developer/documentation.rst:0
 msgid "markdown"
-msgstr ""
+msgstr "markdown"
 
 #: ../../geovista/docs/src/developer/documentation.rst:0
 msgid "rst"
-msgstr ""
+msgstr "rst"
 
 #: ../../geovista/docs/src/developer/documentation.rst:213
 msgid ":fa:`paintbrush` Logo"
-msgstr ""
+msgstr ":fa:`paintbrush` ロゴ"
 
 #: ../../geovista/docs/src/developer/documentation.rst:217
 msgid ":bash:`docs/src/_static/brand/geovista-logo.svg`"
-msgstr ""
+msgstr ":bash:`docs/src/_static/brand/geovista-logo.svg`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:219
 #: ../../geovista/docs/src/developer/documentation.rst:224
 msgid "GeoVista Logo"
-msgstr ""
+msgstr "GeoVista ロゴ"
 
 #: ../../geovista/docs/src/developer/documentation.rst:226
 msgid ""
@@ -390,57 +416,63 @@ msgid ""
 "(:fa:`fire`), reflecting the theme of nature woven throughout the "
 "``geovista`` documentation."
 msgstr ""
+"``geovista`` のロゴは、日本の影響力ある `ukiyo-e`_ 版画家、`Katsushika Hokusai`_ による `The "
+"Great Wave off Kanagawa`_(約 1830〜1832 "
+"年)から着想を得ています。ロゴのパレットは主にこの絵からサンプリングされており、*地* (:fa:`mountain`)、*水* "
+"(:fa:`water`)、*風* (:fa:`wind`)、*火* (:fa:`fire`) の四大元素も含まれており、``geovista`` "
+"ドキュメント全体に織り込まれた自然のテーマを反映しています。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:235
 msgid ":fa:`pencil` Logo Font"
-msgstr ""
+msgstr ":fa:`pencil` ロゴフォント"
 
 #: ../../geovista/docs/src/developer/documentation.rst:239
 msgid ":bash:`docs/src/_static/brand/geovista-title.svg`"
-msgstr ""
+msgstr ":bash:`docs/src/_static/brand/geovista-title.svg`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:240
 msgid ":bash:`docs/src/_static/fonts/la-machine-company.ttf`"
-msgstr ""
+msgstr ":bash:`docs/src/_static/fonts/la-machine-company.ttf`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:242
 msgid ""
 "The ``geovista`` logo title is rendered using the `La Machine Company`_ "
 "TrueType font."
 msgstr ""
+"``geovista`` ロゴのタイトルは `La Machine Company`_ TrueType フォントでレンダリングされています。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:244
 #: ../../geovista/docs/src/developer/documentation.rst:249
 msgid "GeoVista Logo Title"
-msgstr ""
+msgstr "GeoVista ロゴタイトル"
 
 #: ../../geovista/docs/src/developer/documentation.rst:253
 msgid ":fab:`github` Continuous Integration"
-msgstr ""
+msgstr ":fab:`github` 継続的インテグレーション"
 
 #: ../../geovista/docs/src/developer/documentation.rst:257
 msgid ":bash:`.github/workflows` :fa:`folder`"
-msgstr ""
+msgstr ":bash:`.github/workflows` :fa:`folder`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:266
 msgid "The following documentation workflows are available:"
-msgstr ""
+msgstr "次のドキュメントワークフローが利用可能です:"
 
 #: ../../geovista/docs/src/developer/documentation.rst:268
 msgid "Documentation Workflows"
-msgstr ""
+msgstr "ドキュメントワークフロー"
 
 #: ../../geovista/docs/src/developer/documentation.rst:273
 msgid "Workflow"
-msgstr ""
+msgstr "ワークフロー"
 
 #: ../../geovista/docs/src/developer/documentation.rst:275
 msgid "|ci-docs|"
-msgstr ""
+msgstr "|ci-docs|"
 
 #: ../../geovista/docs/src/developer/documentation.rst:259
 msgid "ci-docs"
-msgstr ""
+msgstr "ci-docs"
 
 #: ../../geovista/docs/src/developer/documentation.rst:275
 msgid ""
@@ -448,20 +480,24 @@ msgid ""
 "test *doctest-style* and *code-output-style* blocks within the "
 "documentation."
 msgstr ""
+"`ci-docs.yml`_ :fab:`github` Action は `sphinx.ext.doctest`_ を実行し、ドキュメント内の "
+"*doctest スタイル* および *code-output スタイル* のブロックをテストします。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:279
 msgid ""
 "Also see the documentation :ref:`tippy-gv-developer-documentation-pixi-"
 "workflow` :guilabel:`doctest` task."
 msgstr ""
+"ドキュメントの :ref:`tippy-gv-developer-documentation-pixi-workflow` "
+":guilabel:`doctest` タスクも参照してください。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:282
 msgid "|ci-images|"
-msgstr ""
+msgstr "|ci-images|"
 
 #: ../../geovista/docs/src/developer/documentation.rst:261
 msgid "ci-images"
-msgstr ""
+msgstr "ci-images"
 
 #: ../../geovista/docs/src/developer/documentation.rst:282
 msgid ""
@@ -469,26 +505,32 @@ msgid ""
 " the ``make`` command task :guilabel:`html-docstring-inline` and then "
 "performs image testing of ``pyvista-plot`` directive static scenes."
 msgstr ""
+"`ci-tests-docs.yml`_ :fab:`github` Action は、``make`` コマンドタスク "
+":guilabel:`html-docstring-inline` を使用してドキュメントをビルドし、その後 ``pyvista-plot`` "
+"ディレクティブの静的シーンの画像テストを実行します。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:286
 msgid ""
 "Also see the :ref:`make build tasks <tippy-gv-developer-documentation-"
 "build>` for further details."
 msgstr ""
+"詳細は :ref:`make ビルドタスク <tippy-gv-developer-documentation-build>` も参照してください。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:289
 msgid "|ci-rtd|"
-msgstr ""
+msgstr "|ci-rtd|"
 
 #: ../../geovista/docs/src/developer/documentation.rst:263
 msgid "ci-rtd"
-msgstr ""
+msgstr "ci-rtd"
 
 #: ../../geovista/docs/src/developer/documentation.rst:289
 msgid ""
 "The `.readthedocs.yml`_ workflow builds and publishes our documentation on "
 "the `ReadtheDocs`_ (RTD) platform."
 msgstr ""
+"`.readthedocs.yml`_ ワークフローは、`ReadtheDocs`_ (RTD) "
+"プラットフォーム上でドキュメントをビルドして公開します。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:292
 msgid ""
@@ -496,37 +538,44 @@ msgid ""
 "hosted on RTD along with the :guilabel:`latest` render of the ``main`` "
 "branch, and a :guilabel:`stable` render of the latest ``tag`` release."
 msgstr ""
+"RTD でホストされている各 ``tag`` リリースのドキュメント、``main`` ブランチの :guilabel:`latest` "
+"レンダリング、および最新の ``tag`` リリースの :guilabel:`stable` レンダリングについては、`Versions`_ "
+"セクションを参照してください。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:296
 msgid ""
 "Refer to the `Builds`_ section for a render of the documentation for each "
 ":fa:`code-pull-request` ``pull-request``."
 msgstr ""
+"各 :fa:`code-pull-request` ``pull-request`` のドキュメントのレンダリングについては、`Builds`_ "
+"セクションを参照してください。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:305
 msgid ":fa:`file-contract` Copyright & License"
-msgstr ""
+msgstr ":fa:`file-contract` 著作権とライセンス"
 
 #: ../../geovista/docs/src/developer/documentation.rst:309
 msgid ":bash:`LICENSE`"
-msgstr ""
+msgstr ":bash:`LICENSE`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:310
 #: ../../geovista/docs/src/developer/documentation.rst:489
 msgid ":bash:`pyproject.toml`"
-msgstr ""
+msgstr ":bash:`pyproject.toml`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:312
 msgid ""
 "Source code must contain the following copyright and license preamble at the"
 " top of the file:"
-msgstr ""
+msgstr "ソースコードには、ファイルの先頭に次の著作権とライセンスのプリアンブルを含める必要があります:"
 
 #: ../../geovista/docs/src/developer/documentation.rst:321
 msgid ""
 "Quality assurance of preamble compliance is provided by the `ruff`_ preview "
 "rule `CPY001`_ (``flake8-copyright``)."
 msgstr ""
+"プリアンブルの準拠の品質保証は、`ruff`_ のプレビュールール `CPY001`_ (``flake8-copyright``) "
+"によって提供されます。"
 
 #: ../../geovista/docs/src/developer/documentation.rst:324
 msgid ""
@@ -534,22 +583,24 @@ msgid ""
 ":bash:`pyproject.toml` manifest. For further details refer to the following "
 "TOML tables:"
 msgstr ""
+"この `single preview rule`_ の設定は :bash:`pyproject.toml` マニフェストで定義されています。詳細は次の "
+"TOML テーブルを参照してください:"
 
 #: ../../geovista/docs/src/developer/documentation.rst:327
 msgid ":toml:`[tool.ruff.lint]`"
-msgstr ""
+msgstr ":toml:`[tool.ruff.lint]`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:328
 msgid ":toml:`[tool.ruff.lint.flake8-copyright]`"
-msgstr ""
+msgstr ":toml:`[tool.ruff.lint.flake8-copyright]`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:329
 msgid ":toml:`[tool.ruff.lint.per-file-ignores]`"
-msgstr ""
+msgstr ":toml:`[tool.ruff.lint.per-file-ignores]`"
 
 #: ../../geovista/docs/src/developer/documentation.rst:336
 msgid ":fa:`up-right-from-square` Cross-References"
-msgstr ""
+msgstr ":fa:`up-right-from-square` クロスリファレンス"
 
 #: ../../geovista/docs/src/developer/documentation.rst:340
 msgid ":bash:`docs/src/common.txt`"
@@ -736,7 +787,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/documentation.rst:507
 msgid "Pixi Tasks"
-msgstr ""
+msgstr "Pixi タスク"
 
 #: ../../geovista/docs/src/developer/documentation.rst:512
 msgid "Pixi Task"

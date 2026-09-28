@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2025
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: GeoVista 0.6.0.dev1093\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-22 00:51+0000\n"
+"POT-Creation-Date: 2026-09-28 00:59+0000\n"
 "PO-Revision-Date: 2025-08-06 00:41+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,20 +23,20 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:7
 msgid ":fa:`box-archive` Packaging"
-msgstr ""
+msgstr ":fa:`box-archive` パッケージング"
 
 #: ../../geovista/docs/src/developer/packaging.rst:16
 msgid "|Pixi| |SPEC0|"
-msgstr ""
+msgstr "|Pixi| |SPEC0|"
 
 #: ../../geovista/docs/src/developer/packaging.rst:11
 #: ../../geovista/docs/src/developer/packaging.rst:18
 msgid "Pixi"
-msgstr ""
+msgstr "Pixi"
 
 #: ../../geovista/docs/src/developer/packaging.rst:13
 msgid "SPEC0"
-msgstr ""
+msgstr "SPEC0"
 
 #: ../../geovista/docs/src/developer/packaging.rst:30
 msgid ""
@@ -44,6 +44,9 @@ msgid ""
 "recommendation for *Minimum Supported Dependencies* (`SPEC 0`_), and "
 "typically support the latest **2-3** distributions of ``python``."
 msgstr ""
+"*Scientific Python Ecosystem Coordination* (`SPEC`_) の *Minimum Supported "
+"Dependencies* (`SPEC 0`_) の推奨に従い、通常は最新の ``python`` ディストリビューション **2〜3** "
+"つをサポートします。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:34
 #: ../../geovista/docs/src/developer/packaging.rst:72
@@ -52,7 +55,7 @@ msgstr ""
 #: ../../geovista/docs/src/developer/packaging.rst:463
 #: ../../geovista/docs/src/developer/packaging.rst:515
 msgid ":fa:`file-code` **Reference:**"
-msgstr ""
+msgstr ":fa:`file-code` **参照:**"
 
 #: ../../geovista/docs/src/developer/packaging.rst:36
 #: ../../geovista/docs/src/developer/packaging.rst:74
@@ -60,11 +63,11 @@ msgstr ""
 #: ../../geovista/docs/src/developer/packaging.rst:298
 #: ../../geovista/docs/src/developer/packaging.rst:517
 msgid ":bash:`pyproject.toml`"
-msgstr ""
+msgstr ":bash:`pyproject.toml`"
 
 #: ../../geovista/docs/src/developer/packaging.rst:38
 msgid "Package management is orchestrated and performed by `pixi`_."
-msgstr ""
+msgstr "パッケージ管理は `pixi`_ によって統括・実行されます。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:40
 msgid ""
@@ -72,6 +75,8 @@ msgid ""
 " and :term:`tasks <Task>` are defined within the :bash:`pyproject.toml` "
 "manifest."
 msgstr ""
+"``pixi`` の :term:`環境 <Environment>`、:term:`フィーチャー <Feature>`、:term:`タスク "
+"<Task>` は :bash:`pyproject.toml` マニフェスト内で定義されています。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:43
 msgid ""
@@ -79,6 +84,8 @@ msgid ""
 " that enables us to `resolve`_ and provision robust, consistent environments"
 " blended with packages from both ``conda`` and ``PyPI`` ecosystems."
 msgstr ""
+"``pixi`` は、高速で再現性のあるクロスプラットフォームの環境管理を提供し、``conda`` と ``PyPI`` "
+"の両エコシステムのパッケージを混在させた堅牢で一貫した環境を `resolve`_ してプロビジョニングできます。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:47
 msgid ""
@@ -89,32 +96,36 @@ msgid ""
 "means that all those environments share the exact same dependencies but may "
 "also include additional dependencies compatible within the solve-group."
 msgstr ""
+"サポートしている各 ``python`` ディストリビューションごとに、類似した ``pixi`` 環境の **コレクション** "
+"を複数用意しています。コレクション内の各環境は同じ `solve-group`_ に属します。つまり、**同じ** solve-group 内の環境は "
+"**依存関係が同時に解決され**、それらの環境はまったく同じ依存関係を共有しますが、solve-group "
+"内で互換性のある追加の依存関係を含めることもできます。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:57
 msgid ""
 "We've adopted the following format convention to help clarify each type of "
 "``pixi`` component:"
-msgstr ""
+msgstr "``pixi`` の各コンポーネントの種類を明確にするため、次の書式の慣習を採用しています:"
 
 #: ../../geovista/docs/src/developer/packaging.rst:60
 msgid ":guilabel:`environment-name`"
-msgstr ""
+msgstr ":guilabel:`environment-name`"
 
 #: ../../geovista/docs/src/developer/packaging.rst:61
 msgid "``{feature-name}``"
-msgstr ""
+msgstr "``{feature-name}``"
 
 #: ../../geovista/docs/src/developer/packaging.rst:62
 msgid "``task-name``"
-msgstr ""
+msgstr "``task-name``"
 
 #: ../../geovista/docs/src/developer/packaging.rst:63
 msgid ":guilabel:`&s&o&l&v&e&-&g&r&o&u&p&-&n&a&m&e`"
-msgstr ""
+msgstr ":guilabel:`&s&o&l&v&e&-&g&r&o&u&p&-&n&a&m&e`"
 
 #: ../../geovista/docs/src/developer/packaging.rst:70
 msgid ":fa:`group-arrows-rotate` Pixi Solve-Groups"
-msgstr ""
+msgstr ":fa:`group-arrows-rotate` Pixi ソルブグループ"
 
 #: ../../geovista/docs/src/developer/packaging.rst:76
 msgid ""
@@ -122,6 +133,9 @@ msgid ""
 "group`_. See the :toml:`[tool.pixi.environments]` table defined in the "
 ":bash:`pyproject.toml` manifest."
 msgstr ""
+"``pixi`` の **環境** は `solve-group`_ "
+"によってコレクションに整理されています。:bash:`pyproject.toml` マニフェストで定義されている "
+":toml:`[tool.pixi.environments]` テーブルを参照してください。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:80
 msgid ""
@@ -130,19 +144,22 @@ msgid ""
 "denoted by the ``{py}`` feature which represents the **latest** distribution"
 " of ``python`` as recommended by `SPEC 0`_."
 msgstr ""
+"**プライマリ** のソルブグループは :guilabel:`&d&e&f&a&u&l&t` と呼ばれ、常に **最新** のサポート対象 "
+"``python`` ディストリビューションを含みます。これは `SPEC 0`_ で推奨される **最新** の ``python`` "
+"ディストリビューションを表す ``{py}`` フィーチャーによって示されます。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:85
 msgid "Pixi :guilabel:`&d&e&f&a&u&l&t` Solve-Group"
-msgstr ""
+msgstr "Pixi :guilabel:`&d&e&f&a&u&l&t` ソルブグループ"
 
 #: ../../geovista/docs/src/developer/packaging.rst:90
 #: ../../geovista/docs/src/developer/packaging.rst:176
 msgid "Environment"
-msgstr ""
+msgstr "環境"
 
 #: ../../geovista/docs/src/developer/packaging.rst:90
 msgid "Features"
-msgstr ""
+msgstr "フィーチャー"
 
 #: ../../geovista/docs/src/developer/packaging.rst:90
 #: ../../geovista/docs/src/developer/packaging.rst:176
@@ -154,11 +171,11 @@ msgstr "説明"
 
 #: ../../geovista/docs/src/developer/packaging.rst:92
 msgid ":guilabel:`default`"
-msgstr ""
+msgstr ":guilabel:`default`"
 
 #: ../../geovista/docs/src/developer/packaging.rst:92
 msgid "``{default}``, ``{py}``"
-msgstr ""
+msgstr "``{default}``, ``{py}``"
 
 #: ../../geovista/docs/src/developer/packaging.rst:92
 msgid ""
@@ -167,79 +184,84 @@ msgid ""
 ":toml:`[tool.pixi.dependencies]` table in the :bash:`pyproject.toml` "
 "manifest."
 msgstr ""
+"この環境には、``geovista`` の **コア** 依存関係と **最新** のサポート対象 ``python`` "
+"ディストリビューションが含まれます。:bash:`pyproject.toml` マニフェスト内の "
+":toml:`[tool.pixi.dependencies]` テーブルを参照してください。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:98
 msgid ":guilabel:`devs`"
-msgstr ""
+msgstr ":guilabel:`devs`"
 
 #: ../../geovista/docs/src/developer/packaging.rst:98
 msgid "``{default}``, ``{devs}``, ``{py}``"
-msgstr ""
+msgstr "``{default}``, ``{devs}``, ``{py}``"
 
 #: ../../geovista/docs/src/developer/packaging.rst:98
 msgid ""
 "As per the :guilabel:`default` environment plus additional **development** "
 "dependencies."
-msgstr ""
+msgstr ":guilabel:`default` 環境に加えて、追加の **開発** 依存関係を含みます。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:101
 msgid ":guilabel:`docs`"
-msgstr ""
+msgstr ":guilabel:`docs`"
 
 #: ../../geovista/docs/src/developer/packaging.rst:101
 msgid "``{default}``, ``{devs}``, ``{docs}``, ``{py}``"
-msgstr ""
+msgstr "``{default}``, ``{devs}``, ``{docs}``, ``{py}``"
 
 #: ../../geovista/docs/src/developer/packaging.rst:101
 msgid ""
 "As per the :guilabel:`devs` environment plus additional **documentation** "
 "dependencies."
-msgstr ""
+msgstr ":guilabel:`devs` 環境に加えて、追加の **ドキュメント** 依存関係を含みます。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:104
 msgid ":guilabel:`geovista`"
-msgstr ""
+msgstr ":guilabel:`geovista`"
 
 #: ../../geovista/docs/src/developer/packaging.rst:104
 msgid ""
 "``{default}``, ``{devs}``, ``{docs}``, ``{geovista}``, ``{py}``, ``{test}``"
 msgstr ""
+"``{default}``, ``{devs}``, ``{docs}``, ``{geovista}``, ``{py}``, ``{test}``"
 
 #: ../../geovista/docs/src/developer/packaging.rst:104
 msgid ""
 "This environment is the **union** of all environments in the "
 ":guilabel:`&d&e&f&a&u&l&t` solve-group."
-msgstr ""
+msgstr "この環境は :guilabel:`&d&e&f&a&u&l&t` ソルブグループ内のすべての環境の **合併** です。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:108
 msgid ":guilabel:`test`"
-msgstr ""
+msgstr ":guilabel:`test`"
 
 #: ../../geovista/docs/src/developer/packaging.rst:108
 msgid "``{default}``, ``{devs}``, ``{py}``, ``{test}``"
-msgstr ""
+msgstr "``{default}``, ``{devs}``, ``{py}``, ``{test}``"
 
 #: ../../geovista/docs/src/developer/packaging.rst:108
 msgid ""
 "As per the :guilabel:`devs` environment plus additional **test** "
 "dependencies."
-msgstr ""
+msgstr ":guilabel:`devs` 環境に加えて、追加の **テスト** 依存関係を含みます。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:115
 msgid ""
 "The :bash:`pixi info` command provides key information about the system, "
 "environments, solve-groups, dependencies and tasks in the workspace."
 msgstr ""
+":bash:`pixi info` コマンドは、ワークスペース内のシステム、環境、ソルブグループ、依存関係、タスクに関する主要な情報を提供します。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:118
 msgid ""
 "Given the above :guilabel:`&d&e&f&a&u&l&t` solve-group we have the following"
 " inheritance relationship between its environments:"
-msgstr ""
+msgstr "上記の :guilabel:`&d&e&f&a&u&l&t` ソルブグループでは、その環境間に次の継承関係があります:"
 
 #: ../../geovista/docs/src/developer/packaging.rst:121
 msgid "Environment Hierarchy for :guilabel:`&d&e&f&a&u&l&t` Solve-Group"
-msgstr ""
+msgstr ":guilabel:`&d&e&f&a&u&l&t` ソルブグループの環境階層"
 
 #: ../../geovista/docs/src/developer/packaging.rst:149
 msgid ""
@@ -249,6 +271,10 @@ msgid ""
 "environment activated, whereas the :bash:`pixi shell -e devs` command will "
 "activate the :guilabel:`devs` environment instead."
 msgstr ""
+"名前が示すとおり、:guilabel:`default` 環境は ``pixi`` に明示的な環境名が指定されない場合に **デフォルトで** "
+"使用されます。例えば、:bash:`pixi shell` コマンドは :guilabel:`default` "
+"環境を有効化してシェルを起動し、:bash:`pixi shell -e devs` コマンドは代わりに :guilabel:`devs` "
+"環境を有効化します。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:155
 msgid ""
@@ -256,12 +282,14 @@ msgid ""
 "after the distribution of ``python`` that they support e.g., "
 ":guilabel:`&p&y&3&1&3`."
 msgstr ""
+"いくつかの **セカンダリ** ソルブグループが利用可能で、それぞれがサポートする ``python`` "
+"ディストリビューションにちなんで名付けられています。例: :guilabel:`&p&y&3&1&3`。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:158
 msgid ""
 "The number of different ``python`` distribution solve-groups on offer at any"
 " given time is dictated by `SPEC 0`_."
-msgstr ""
+msgstr "任意の時点で提供される ``python`` ディストリビューションのソルブグループの数は `SPEC 0`_ によって決まります。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:161
 msgid ""
@@ -270,6 +298,9 @@ msgid ""
 "available, all of which are **identical** in structure and content apart "
 "from the specific distribution of ``python`` that they support."
 msgstr ""
+"一般的な :guilabel:`&p&y&3&x&x` ソルブグループは、ここでは便宜上、利用可能な各 ``python`` "
+"ディストリビューションのソルブグループを表すために使用されています。それらはすべて、サポートする ``python`` "
+"ディストリビューションを除けば、構造と内容が **同一** です。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:166
 msgid ""
@@ -278,108 +309,117 @@ msgid ""
 "solve-group will contain the ``{py313}`` feature which in turn defines the "
 "``python=3.13`` dependency to be included in all ``py313`` environments."
 msgstr ""
+"また、各 :guilabel:`&p&y&3&x&x` ソルブグループには、同様に名付けられた ``{py3xx}`` "
+"フィーチャーが必ず含まれることにも注意してください。例えば、:guilabel:`&p&y&3&1&3` ソルブグループには ``{py313}`` "
+"フィーチャーが含まれ、このフィーチャーはすべての ``py313`` 環境に含める ``python=3.13`` 依存関係を定義します。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:171
 msgid "Pixi :guilabel:`&p&y&3&x&x` Solve-Groups"
-msgstr ""
+msgstr "Pixi :guilabel:`&p&y&3&x&x` ソルブグループ"
 
 #: ../../geovista/docs/src/developer/packaging.rst:176
 #: ../../geovista/docs/src/developer/packaging.rst:257
 #: ../../geovista/docs/src/developer/packaging.rst:316
 msgid "Feature"
-msgstr ""
+msgstr "フィーチャー"
 
 #: ../../geovista/docs/src/developer/packaging.rst:178
 msgid ":guilabel:`devs-py3xx`"
-msgstr ""
+msgstr ":guilabel:`devs-py3xx`"
 
 #: ../../geovista/docs/src/developer/packaging.rst:178
 msgid "``{default}``, ``{devs}``, ``{py3xx}``"
-msgstr ""
+msgstr "``{default}``, ``{devs}``, ``{py3xx}``"
 
 #: ../../geovista/docs/src/developer/packaging.rst:178
 msgid ""
 "As per the :guilabel:`py3xx` environment plus additional **development** "
 "dependencies."
-msgstr ""
+msgstr ":guilabel:`py3xx` 環境に加えて、追加の **開発** 依存関係を含みます。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:181
 msgid ":guilabel:`docs-py3xx`"
-msgstr ""
+msgstr ":guilabel:`docs-py3xx`"
 
 #: ../../geovista/docs/src/developer/packaging.rst:181
 msgid "``{default}``, ``{devs}``, ``{docs}`` , ``{py3xx}``"
-msgstr ""
+msgstr "``{default}``, ``{devs}``, ``{docs}`` , ``{py3xx}``"
 
 #: ../../geovista/docs/src/developer/packaging.rst:181
 msgid ""
 "As per the :guilabel:`devs-py3xx` environment plus additional "
 "**documentation** dependencies."
-msgstr ""
+msgstr ":guilabel:`devs-py3xx` 環境に加えて、追加の **ドキュメント** 依存関係を含みます。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:185
 msgid ":guilabel:`geovista-py3xx`"
-msgstr ""
+msgstr ":guilabel:`geovista-py3xx`"
 
 #: ../../geovista/docs/src/developer/packaging.rst:185
 msgid ""
 "``{default}``, ``{devs}``, ``{docs}``, ``{geovista}``, ``{py3xx}``, "
 "``{test}``"
 msgstr ""
+"``{default}``, ``{devs}``, ``{docs}``, ``{geovista}``, ``{py3xx}``, "
+"``{test}``"
 
 #: ../../geovista/docs/src/developer/packaging.rst:185
 msgid ""
 "This environment is the **union** of all environments in the same "
 ":guilabel:`&p&y&3&x&x` solve-group."
-msgstr ""
+msgstr "この環境は同じ :guilabel:`&p&y&3&x&x` ソルブグループ内のすべての環境の **合併** です。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:189
 msgid ":guilabel:`py3xx`"
-msgstr ""
+msgstr ":guilabel:`py3xx`"
 
 #: ../../geovista/docs/src/developer/packaging.rst:189
 msgid "``{default}``, ``{py3xx}``"
-msgstr ""
+msgstr "``{default}``, ``{py3xx}``"
 
 #: ../../geovista/docs/src/developer/packaging.rst:189
 msgid ""
 "This environment contains the **core** dependencies of ``geovista`` along "
 "with ``python`` distribution ``py3xx`` e.g., ``py313``."
 msgstr ""
+"この環境には、``geovista`` の **コア** 依存関係と ``python`` ディストリビューション ``py3xx`` (例: "
+"``py313``) が含まれます。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:194
 msgid ":guilabel:`test-py3xx`"
-msgstr ""
+msgstr ":guilabel:`test-py3xx`"
 
 #: ../../geovista/docs/src/developer/packaging.rst:194
 msgid "``{default}``, ``{devs}``, ``{py3xx}``, ``{test}``"
-msgstr ""
+msgstr "``{default}``, ``{devs}``, ``{py3xx}``, ``{test}``"
 
 #: ../../geovista/docs/src/developer/packaging.rst:194
 msgid ""
 "As per the :guilabel:`devs-py3xx` environment plus additional **test** "
 "dependencies."
-msgstr ""
+msgstr ":guilabel:`devs-py3xx` 環境に加えて、追加の **テスト** 依存関係を含みます。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:201
 msgid ""
 "The generic :guilabel:`&p&y&3&x&x` solve-group does **not** exist, neither "
 "does the generic ``{py3xx}`` feature."
 msgstr ""
+"一般的な :guilabel:`&p&y&3&x&x` ソルブグループは存在 **しません**。一般的な ``{py3xx}`` "
+"フィーチャーも存在しません。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:204
 msgid ""
 "Given the above :guilabel:`&p&y&3&x&x` solve-group we have the following "
 "inheritance relationship between its environments:"
-msgstr ""
+msgstr "上記の :guilabel:`&p&y&3&x&x` ソルブグループでは、その環境間に次の継承関係があります:"
 
 #: ../../geovista/docs/src/developer/packaging.rst:207
 msgid "Environment Hierarchy for :guilabel:`&p&y&3&x&x` Solve-Group"
-msgstr ""
+msgstr ":guilabel:`&p&y&3&x&x` ソルブグループの環境階層"
 
 #: ../../geovista/docs/src/developer/packaging.rst:234
 msgid ":fa:`gears` Pixi Features"
-msgstr ""
+msgstr ":fa:`gears` Pixi フィーチャー"
 
 #: ../../geovista/docs/src/developer/packaging.rst:240
 msgid ""
@@ -388,12 +428,17 @@ msgid ""
 "`tutorial`_ on how to create and use features in a multi-environment "
 "scenario."
 msgstr ""
+"``pixi`` の :term:`環境 <Environment>` は、1 つ以上の :term:`フィーチャー <Feature>` "
+"を組み合わせることで定義されます。詳細は、マルチ環境シナリオでフィーチャーを作成・使用する方法に関する ``pixi`` の `tutorial`_ "
+"を参照してください。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:244
 msgid ""
 "Our features are defined under the :toml:`[tool.pixi.feature]` tables in the"
 " :bash:`pyproject.toml` manifest."
 msgstr ""
+"フィーチャーは :bash:`pyproject.toml` マニフェスト内の :toml:`[tool.pixi.feature]` "
+"テーブルで定義されています。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:247
 msgid ""
@@ -403,23 +448,28 @@ msgid ""
 ":toml:`activation`, :toml:`platforms`, :toml:`channels`, :toml:`channel-"
 "priority`, :toml:`target` and :toml:`tasks`."
 msgstr ""
+"名前付きの各 `feature table`_ (例: :toml:`[tool.pixi.feature.devs]`) "
+"には、:toml:`dependencies`、:toml:`pypi-dependencies`、:toml:`pypi-"
+"options`、:toml:`system-"
+"requirements`、:toml:`activation`、:toml:`platforms`、:toml:`channels`、:toml:`channel-"
+"priority`、:toml:`target`、:toml:`tasks` などのさまざまなフィールドを含めることができます。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:252
 msgid "Pixi Features"
-msgstr ""
+msgstr "Pixi フィーチャー"
 
 #: ../../geovista/docs/src/developer/packaging.rst:257
 msgid "TOML Table"
-msgstr ""
+msgstr "TOML テーブル"
 
 #: ../../geovista/docs/src/developer/packaging.rst:259
 #: ../../geovista/docs/src/developer/packaging.rst:318
 msgid "``{default}``"
-msgstr ""
+msgstr "``{default}``"
 
 #: ../../geovista/docs/src/developer/packaging.rst:259
 msgid ":toml:`[tool.pixi.dependencies]`"
-msgstr ""
+msgstr ":toml:`[tool.pixi.dependencies]`"
 
 #: ../../geovista/docs/src/developer/packaging.rst:259
 msgid ""
@@ -427,14 +477,17 @@ msgid ""
 ":toml:`tasks` of ``geovista``. Note that the ``{default}`` feature is "
 "`automatically included`_ in all environments by ``pixi``."
 msgstr ""
+"このフィーチャーは、``geovista`` の **コア** の :toml:`dependencies` と :toml:`tasks` "
+"を定義するために使用されます。``{default}`` フィーチャーは ``pixi`` "
+"によってすべての環境に自動的に含まれることに注意してください。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:265
 msgid "``{devs}``"
-msgstr ""
+msgstr "``{devs}``"
 
 #: ../../geovista/docs/src/developer/packaging.rst:265
 msgid ":toml:`[tool.pixi.feature.devs]`"
-msgstr ""
+msgstr ":toml:`[tool.pixi.feature.devs]`"
 
 #: ../../geovista/docs/src/developer/packaging.rst:265
 msgid ""
@@ -442,42 +495,47 @@ msgid ""
 ":toml:`pypi-dependencies`. Note that an **editable** install of ``geovista``"
 " is performed by the ``{devs}`` feature."
 msgstr ""
+"このフィーチャーは、**開発** 用の :toml:`dependencies` と :toml:`pypi-dependencies` "
+"を定義するために使用されます。``{devs}`` フィーチャーによって ``geovista`` の **editable** "
+"インストールが実行されることに注意してください。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:271
 #: ../../geovista/docs/src/developer/packaging.rst:330
 msgid "``{docs}``"
-msgstr ""
+msgstr "``{docs}``"
 
 #: ../../geovista/docs/src/developer/packaging.rst:271
 msgid ":toml:`[tool.pixi.feature.docs]`"
-msgstr ""
+msgstr ":toml:`[tool.pixi.feature.docs]`"
 
 #: ../../geovista/docs/src/developer/packaging.rst:271
 msgid ""
 "This feature is used to define the **documentation** :toml:`dependencies`, "
 ":toml:`pypi-dependencies` and :toml:`tasks`."
 msgstr ""
+"このフィーチャーは、**ドキュメント** 用の :toml:`dependencies`、:toml:`pypi-"
+"dependencies`、:toml:`tasks` を定義するために使用されます。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:275
 #: ../../geovista/docs/src/developer/packaging.rst:394
 msgid "``{geovista}``"
-msgstr ""
+msgstr "``{geovista}``"
 
 #: ../../geovista/docs/src/developer/packaging.rst:275
 msgid ":toml:`[tool.pixi.feature.geovista]`"
-msgstr ""
+msgstr ":toml:`[tool.pixi.feature.geovista]`"
 
 #: ../../geovista/docs/src/developer/packaging.rst:275
 msgid "This feature is only used to define :toml:`tasks`."
-msgstr ""
+msgstr "このフィーチャーは :toml:`tasks` を定義するためだけに使用されます。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:277
 msgid "``{py3xx}``"
-msgstr ""
+msgstr "``{py3xx}``"
 
 #: ../../geovista/docs/src/developer/packaging.rst:277
 msgid ":toml:`[tools.pixi.feature.py3xx]`"
-msgstr ""
+msgstr ":toml:`[tools.pixi.feature.py3xx]`"
 
 #: ../../geovista/docs/src/developer/packaging.rst:277
 msgid ""
@@ -486,25 +544,29 @@ msgid ""
 "feature additionally includes the ``pip`` package. The number of different "
 "``python`` distributions supported is governed by `SPEC 0`_."
 msgstr ""
+"このフィーチャーは、サポートする ``python`` ディストリビューション(例: "
+"``py313``)を明示的に定義するために使用されます。このフィーチャーの :toml:`dependencies` には追加で ``pip`` "
+"パッケージが含まれることに注意してください。サポートされる ``python`` ディストリビューションの数は `SPEC 0`_ によって決まります。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:285
 #: ../../geovista/docs/src/developer/packaging.rst:417
 msgid "``{test}``"
-msgstr ""
+msgstr "``{test}``"
 
 #: ../../geovista/docs/src/developer/packaging.rst:285
 msgid ":toml:`[tool.pixi.feature.test]`"
-msgstr ""
+msgstr ":toml:`[tool.pixi.feature.test]`"
 
 #: ../../geovista/docs/src/developer/packaging.rst:285
 msgid ""
 "This feature is used to define the **test** :toml:`dependencies` and "
 ":toml:`tasks`."
 msgstr ""
+"このフィーチャーは、**テスト** 用の :toml:`dependencies` と :toml:`tasks` を定義するために使用されます。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:294
 msgid ":fa:`clapperboard` Pixi Tasks"
-msgstr ""
+msgstr ":fa:`clapperboard` Pixi タスク"
 
 #: ../../geovista/docs/src/developer/packaging.rst:300
 msgid ""
@@ -512,36 +574,38 @@ msgid ""
 "command`_ that is defined as part of a :term:`feature <Feature>` within an "
 ":term:`environment <Environment>`."
 msgstr ""
+"``pixi`` の :term:`タスク <Task>` は、:term:`環境 <Environment>` 内の :term:`フィーチャー "
+"<Feature>` の一部として定義されるカスタムのクロスプラットフォームワークフローコマンドです。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:304
 msgid "All our tasks are defined within the :bash:`pyproject.toml` manifest."
-msgstr ""
+msgstr "すべてのタスクは :bash:`pyproject.toml` マニフェスト内で定義されています。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:306
 msgid ""
 "Tasks expose a convenient and easy to use entry-point to commands that allow"
 " streamlined and automated custom workflows."
-msgstr ""
+msgstr "タスクは、効率化され自動化されたカスタムワークフローを可能にするコマンドへの、便利で使いやすいエントリーポイントを提供します。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:309
 msgid "The following tasks are defined for each of our features:"
-msgstr ""
+msgstr "各フィーチャーに対して次のタスクが定義されています:"
 
 #: ../../geovista/docs/src/developer/packaging.rst:311
 msgid "Pixi Tasks"
-msgstr ""
+msgstr "Pixi タスク"
 
 #: ../../geovista/docs/src/developer/packaging.rst:316
 msgid "Task"
-msgstr ""
+msgstr "タスク"
 
 #: ../../geovista/docs/src/developer/packaging.rst:318
 msgid "``download``"
-msgstr ""
+msgstr "``download``"
 
 #: ../../geovista/docs/src/developer/packaging.rst:318
 msgid "Download and cache offline assets."
-msgstr ""
+msgstr "オフラインアセットをダウンロードしてキャッシュします。"
 
 #: ../../geovista/docs/src/developer/packaging.rst:320
 msgid ""
@@ -550,10 +614,14 @@ msgid ""
 "``images``, ``list``, ``natural-earth``, ``operational``, ``pantry``, "
 "``rasters``, ``unit-images`` or ``verify``. Defaults to ``all`` e.g.,"
 msgstr ""
+"このタスクは :ref:`tippy-gv-reference-cli-download` コマンドを呼び出します。オプション引数として "
+"``all``、``clean``、``doc-images``、``dry-run``、``images``、``list``、``natural-"
+"earth``、``operational``、``pantry``、``rasters``、``unit-images``、``verify`` "
+"を指定できます。デフォルトは ``all`` です。例:"
 
 #: ../../geovista/docs/src/developer/packaging.rst:330
 msgid "``clean``"
-msgstr ""
+msgstr "``clean``"
 
 #: ../../geovista/docs/src/developer/packaging.rst:330
 msgid ""
@@ -753,11 +821,11 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:461
 msgid ":fab:`github` Continuous Integration"
-msgstr ""
+msgstr ":fab:`github` 継続的インテグレーション"
 
 #: ../../geovista/docs/src/developer/packaging.rst:465
 msgid ":bash:`.github/workflows` :fa:`folder`"
-msgstr ""
+msgstr ":bash:`.github/workflows` :fa:`folder`"
 
 #: ../../geovista/docs/src/developer/packaging.rst:472
 msgid "The following packaging workflows are available:"
@@ -769,7 +837,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/packaging.rst:479
 msgid "Workflow"
-msgstr ""
+msgstr "ワークフロー"
 
 #: ../../geovista/docs/src/developer/packaging.rst:481
 msgid "|ci-locks|"

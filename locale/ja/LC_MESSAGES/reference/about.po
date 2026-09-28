@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GeoVista 0.6.0.dev1093\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-20 00:56+0000\n"
+"POT-Creation-Date: 2026-09-28 00:59+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/about.rst:7
 msgid ":fa:`circle-info` About"
-msgstr ""
+msgstr ":fa:`circle-info` 概要"
 
 #: ../../geovista/docs/src/reference/about.rst:9
 msgid "Assorted package metadata about ``geovista``."
@@ -65,7 +65,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/about.rst:41
 msgid "|geovista-badge|"
-msgstr ""
+msgstr "|geovista-badge|"
 
 #: ../../geovista/docs/src/common.txt:23
 msgid "geovista-badge"
@@ -73,15 +73,15 @@ msgstr "geovista-badge"
 
 #: ../../geovista/docs/src/reference/about.rst:0
 msgid "html"
-msgstr ""
+msgstr "html"
 
 #: ../../geovista/docs/src/reference/about.rst:0
 msgid "markdown"
-msgstr ""
+msgstr "markdown"
 
 #: ../../geovista/docs/src/reference/about.rst:0
 msgid "rst"
-msgstr ""
+msgstr "rst"
 
 #: ../../geovista/docs/src/reference/about.rst:71
 msgid ""

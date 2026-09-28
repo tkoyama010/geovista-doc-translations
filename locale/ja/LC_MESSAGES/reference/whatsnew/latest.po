@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: GeoVista 0.6.0.dev1093\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-12 00:48+0000\n"
+"POT-Creation-Date: 2026-09-28 00:59+0000\n"
 "PO-Revision-Date: 2024-08-10 00:28+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +23,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/reference/whatsnew/latest.rst:4
 msgid "|gv_version| |build_date|"
-msgstr ""
+msgstr "|gv_version| |build_date|"
 
 #: ../../geovista/docs/src/reference/whatsnew/latest.rst:6
 msgid "This is a **minor** release of ``geovista``."

@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2025
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: GeoVista 0.6.0.dev1093\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-12 00:48+0000\n"
+"POT-Creation-Date: 2026-09-28 00:59+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,11 +27,11 @@ msgstr ":fa:`retweet` 貢献する"
 
 #: ../../geovista/docs/src/developer/index.rst:10
 msgid "|Contributor Covenant|"
-msgstr ""
+msgstr "|Contributor Covenant|"
 
 #: ../../geovista/docs/src/developer/index.rst:7
 msgid "Contributor Covenant"
-msgstr ""
+msgstr "Contributor Covenant"
 
 #: ../../geovista/docs/src/developer/index.rst:12
 msgid ""
@@ -43,44 +43,44 @@ msgstr "まず第一に、そして最も重要なこととして、ご貢献い
 msgid ""
 "Here we provide some guidelines to help you get started on your journey, and"
 " clarify the various steps involved in how to contribute to ``geovista``."
-msgstr ""
+msgstr "ここでは、``geovista`` への貢献を始めるためのガイドラインと、貢献に関わる各ステップの説明を提供します。"
 
 #: ../../geovista/docs/src/developer/index.rst:21
 msgid "Changelog"
-msgstr ""
+msgstr "変更履歴"
 
 #: ../../geovista/docs/src/developer/index.rst:30
 msgid "Towncrier guidelines."
-msgstr ""
+msgstr "Towncrier のガイドライン。"
 
 #: ../../geovista/docs/src/developer/index.rst:32
 msgid "Documentation"
-msgstr ""
+msgstr "ドキュメント"
 
 #: ../../geovista/docs/src/developer/index.rst:41
 msgid "Author & build guidelines."
-msgstr ""
+msgstr "執筆およびビルドのガイドライン。"
 
 #: ../../geovista/docs/src/developer/index.rst:43
 msgid "Packaging"
-msgstr ""
+msgstr "パッケージング"
 
 #: ../../geovista/docs/src/developer/index.rst:52
 msgid "Packaging guidelines."
-msgstr ""
+msgstr "パッケージングのガイドライン。"
 
 #: ../../geovista/docs/src/developer/index.rst:54
 msgid "Testing"
-msgstr ""
+msgstr "テスト"
 
 #: ../../geovista/docs/src/developer/index.rst:63
 msgid "Testing guidelines."
-msgstr ""
+msgstr "テストのガイドライン。"
 
 #: ../../geovista/docs/src/developer/index.rst:66
 msgid "Codecraft 🚧"
-msgstr ""
+msgstr "Codecraft 🚧"
 
 #: ../../geovista/docs/src/developer/index.rst:77
 msgid "Maintenance guidelines."
-msgstr ""
+msgstr "メンテナンスのガイドライン。"

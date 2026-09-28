@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the GeoVista package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: GeoVista 0.6.0.dev1093\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-22 00:51+0000\n"
+"POT-Creation-Date: 2026-09-28 00:59+0000\n"
 "PO-Revision-Date: 2026-01-31 00:45+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,30 +23,30 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/codecraft.rst:7
 msgid ":fa:`hat-wizard` Codecraft 🚧"
-msgstr ""
+msgstr ":fa:`hat-wizard` Codecraft 🚧"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:14
 msgid ""
 "Here we provide some high-level maintenance guidelines, best practice and "
 "all-round sage advice for contributors."
-msgstr ""
+msgstr "ここでは、貢献者のための高レベルなメンテナンスガイドライン、ベストプラクティス、そして幅広い賢明な助言を提供します。"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:19
 msgid ":fa:`robot` Auto-Approve Workflow"
-msgstr ""
+msgstr ":fa:`robot` 自動承認ワークフロー"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:21
 #: ../../geovista/docs/src/developer/codecraft.rst:46
 msgid ":fa:`file-code` **Reference:**"
-msgstr ""
+msgstr ":fa:`file-code` **参照:**"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:23
 msgid ":bash:`.github/CODEOWNERS`"
-msgstr ""
+msgstr ":bash:`.github/CODEOWNERS`"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:24
 msgid ":bash:`.github/workflows/ci-auto-approve.yml`"
-msgstr ""
+msgstr ":bash:`.github/workflows/ci-auto-approve.yml`"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:26
 msgid ""
@@ -50,6 +54,8 @@ msgid ""
 "branch protection rule which requires a :fab:`github` ``pull-request`` "
 "review approval from a designated code owner."
 msgstr ""
+":guilabel:`upstream` リポジトリの ``main`` ブランチには、指定されたコードオーナーによる :fab:`github` "
+"``pull-request`` のレビュー承認を要求するブランチ保護ルールが採用されています。"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:30
 msgid ""
@@ -57,6 +63,8 @@ msgid ""
 "approval from the :user:`geovista-bot` by submitting a ``@geovista-bot auto-"
 "approve`` comment within a :fab:`github` ``pull-request``."
 msgstr ""
+"十分な権限を持つ信頼されたコラボレーターは、:fab:`github` ``pull-request`` 内に ``@geovista-bot "
+"auto-approve`` コメントを送信することで、:user:`geovista-bot` による自動承認を依頼できます。"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:34
 msgid ""
@@ -64,6 +72,8 @@ msgid ""
 "policy formulation on ``geovista`` membership of the  :fab:`github` "
 "`SciTools`_ organisation."
 msgstr ""
+":user:`bjlittle` は、{fab}`github` `SciTools`_ 組織への ``geovista`` "
+"の参加に関するガバナンスポリシーの策定が決まるまでの間、暫定的に排他的な権限を保持しています。"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:38
 msgid ""
@@ -71,26 +81,28 @@ msgid ""
 "``@geovista-bot`` approval of third-party bot generated :fab:`github` "
 "``pull-requests``."
 msgstr ""
+"ただし、信頼されたコラボレーターは、サードパーティのボットが生成した :fab:`github` ``pull-requests`` の "
+"``@geovista-bot`` による承認を依頼するのに十分な権限を持っています。"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:44
 msgid ":fa:`code-pull-request` Dependabot"
-msgstr ""
+msgstr ":fa:`code-pull-request` Dependabot"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:48
 msgid ":bash:`.github/dependabot.yml`"
-msgstr ""
+msgstr ":bash:`.github/dependabot.yml`"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:49
 msgid ":bash:`.github/workflows/*.yml` (``github-actions``)"
-msgstr ""
+msgstr ":bash:`.github/workflows/*.yml` (``github-actions``)"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:50
 msgid ":bash:`requirements/pypi-*.txt` (``pip``)"
-msgstr ""
+msgstr ":bash:`requirements/pypi-*.txt` (``pip``)"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:51
 msgid ":bash:`pyproject.toml` (``pip``, ``pixi``)"
-msgstr ""
+msgstr ":bash:`pyproject.toml` (``pip``, ``pixi``)"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:53
 msgid ""
@@ -98,6 +110,8 @@ msgid ""
 " dependency version updates for both the ``github-actions`` and ``pip`` "
 "ecosystems."
 msgstr ""
+":fab:`github` `Dependabot`_ オートメーションを使用して、``github-actions`` と ``pip`` "
+"の両エコシステムの `cooldown period`_ に基づく依存関係のバージョン更新を維持しています。"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:56
 msgid ""
@@ -105,18 +119,24 @@ msgid ""
 "audit policy for ``github-actions`` which requires **hash-pinning** on "
 "**all** actions."
 msgstr ""
+"``github-actions`` については、**すべての** アクションに **ハッシュピン留め** を要求する **デフォルト** の "
+"`unpinned-uses`_ (`zizmor`_ v1.20.0) 監査ポリシーに準拠していることに注意してください。"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:59
 msgid ""
 "We adopt a ``minor`` `pinning-strategy`_ for ``pip`` ecosystem package "
 "dependencies and ``semver`` (default) for our ``pixi`` package dependencies."
 msgstr ""
+"``pip`` エコシステムのパッケージ依存関係には ``minor`` の `pinning-strategy`_ を、``pixi`` "
+"のパッケージ依存関係には ``semver`` (デフォルト) を採用しています。"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:65
 msgid ""
 "We heavily rely on ``dependabot`` to inform us of the constant version "
 "updates to our package dependencies available in the ``pip`` ecosystem."
 msgstr ""
+"``pip`` エコシステムで利用可能なパッケージ依存関係の絶え間ないバージョン更新について知らせるために、``dependabot`` "
+"に大きく依存しています。"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:68
 msgid ""
@@ -124,32 +144,36 @@ msgid ""
 " from ``dependabot`` ensure to confirm whether any associated ``pixi`` "
 "package version pins also require to be updated."
 msgstr ""
+"``dependabot`` からの自動化された ``chore`` :fa:`code-pull-request` ``pull-request`` "
+"をマージする際は、関連する ``pixi`` パッケージのバージョンピン留めも更新が必要かどうかを必ず確認してください。"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:72
 msgid ""
 "If so, then raise a separate follow-on :fa:`code-pull-request` ``pull-"
 "request``."
-msgstr ""
+msgstr "必要な場合は、別途フォローアップの :fa:`code-pull-request` ``pull-request`` を作成してください。"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:79
 msgid ":fa:`poo-storm` Generative AI"
-msgstr ""
+msgstr ":fa:`poo-storm` 生成 AI"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:81
 msgid ""
 "We follow the `Python Developer's Guide`_ on the use of `generative AI "
 "tools`_ for contributing to Python projects."
 msgstr ""
+"Python プロジェクトへの貢献における `generative AI tools`_ の使用については、`Python Developer's "
+"Guide`_ に従います。"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:84
 msgid "In general, we recommend that contributors:"
-msgstr ""
+msgstr "一般に、貢献者には以下を推奨します:"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:86
 msgid ""
 "**disclose** the use of generative AI tools in their contributions, "
 "including the specific tools used and the extent of their involvement"
-msgstr ""
+msgstr "貢献において生成 AI ツールの使用を **開示** すること(使用した具体的なツールとその関与の範囲を含む)"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:88
 msgid ""
@@ -157,12 +181,14 @@ msgid ""
 "ensure it meets the quality standards of the project and does not introduce "
 "unintended behavior or vulnerabilities"
 msgstr ""
+"AI ツールが生成したコンテンツを **レビュー**、**編集**、**テスト** "
+"し、プロジェクトの品質基準を満たし、意図しない動作や脆弱性を持ち込んでいないことを確認すること"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:91
 msgid ""
 "**honour** the intellectual property rights of others and avoid using AI-"
 "generated content that may infringe on copyrights or licenses"
-msgstr ""
+msgstr "他者の知的財産権を **尊重** し、著作権やライセンスを侵害する可能性のある AI 生成コンテンツの使用を避けること"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:94
 msgid ""
@@ -170,16 +196,17 @@ msgid ""
 " and creativity, but we also expect contributors to use these tools "
 "responsibly and ethically."
 msgstr ""
+"生産性と創造性を高める手段としての生成 AI ツールの使用は尊重しますが、貢献者にはこれらのツールを責任を持って倫理的に使用することを期待します。"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:97
 msgid ""
 "Simply put, a contributor is responsible for their contribution. We ❤️ "
 "quality contributions."
-msgstr ""
+msgstr "要するに、貢献者は自身の貢献に責任を持ちます。私たちは質の高い貢献を歓迎します ❤️"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:101
 msgid ":fa:`code-branch` GitHub Collaboration Model"
-msgstr ""
+msgstr ":fa:`code-branch` GitHub コラボレーションモデル"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:103
 msgid ""
@@ -187,10 +214,12 @@ msgid ""
 "workflow, whereby you branch **directly** within the :guilabel:`upstream` "
 "repository and then open a :fab:`github` ``pull-request`` from that branch."
 msgstr ""
+"**信頼されたコラボレーター** には **共有リポジトリ** ワークフローの採用を推奨します。これは、:guilabel:`upstream` "
+"リポジトリ内に **直接** ブランチを作成し、そのブランチから :fab:`github` ``pull-request`` を開くものです。"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:107
 msgid "Shared-Repository Workflow"
-msgstr ""
+msgstr "共有リポジトリワークフロー"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:132
 msgid ""
@@ -200,25 +229,30 @@ msgid ""
 ":guilabel:`upstream`. This workflow is typically adopted by **external "
 "collaborators**."
 msgstr ""
+"これは **フォーク** ワークフローの対照的な方法です。フォークワークフローでは、:guilabel:`upstream` リポジトリの "
+"**自分用の** フォークを作成し、ブランチを **自分の** フォークにプッシュした上で、:guilabel:`upstream` への "
+":fab:`github` ``pull-request`` を開きます。このワークフローは通常、**外部のコラボレーター** が採用します。"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:137
 msgid "The main benefits of the shared-repository workflow are:"
-msgstr ""
+msgstr "共有リポジトリワークフローの主な利点は次のとおりです:"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:139
 msgid ""
 "**smoother collaboration** - your colleagues can easily checkout your "
 "branch, review and even push fixes"
-msgstr ""
+msgstr "**円滑なコラボレーション** - 同僚があなたのブランチを簡単にチェックアウトし、レビューし、修正をプッシュすることもできます"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:141
 msgid ""
 "**full CI/CD access** - your :fab:`github` ``pull-request`` gets the same "
 "runners, secrets, and environments as :guilabel:`upstream`"
 msgstr ""
+"**CI/CD への完全なアクセス** - あなたの :fab:`github` ``pull-request`` "
+"は、:guilabel:`upstream` と同じランナー、シークレット、環境を利用できます"
 
 #: ../../geovista/docs/src/developer/codecraft.rst:144
 msgid ""
 "Additionally, this workflow mirrors the development model adopted by the "
 "`pyvista`_ trusted collaborators."
-msgstr ""
+msgstr "さらに、このワークフローは `pyvista`_ の信頼されたコラボレーターが採用している開発モデルと同じものです。"

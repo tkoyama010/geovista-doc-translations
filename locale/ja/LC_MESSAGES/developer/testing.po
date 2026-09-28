@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2025
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: GeoVista 0.6.0.dev1093\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-17 00:51+0000\n"
+"POT-Creation-Date: 2026-09-28 00:59+0000\n"
 "PO-Revision-Date: 2025-12-08 00:40+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/testing.rst:7
 msgid ":fa:`flask-vial` Testing"
-msgstr ""
+msgstr ":fa:`flask-vial` テスト"
 
 #: ../../geovista/docs/src/developer/testing.rst:14
 msgid "|codecov|"
@@ -48,7 +48,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/testing.rst:28
 msgid ":fab:`github` Continuous Integration"
-msgstr ""
+msgstr ":fab:`github` 継続的インテグレーション"
 
 #: ../../geovista/docs/src/developer/testing.rst:37
 #: ../../geovista/docs/src/developer/testing.rst:122
@@ -60,11 +60,11 @@ msgstr ""
 #: ../../geovista/docs/src/developer/testing.rst:411
 #: ../../geovista/docs/src/developer/testing.rst:512
 msgid ":fa:`file-code` **Reference:**"
-msgstr ""
+msgstr ":fa:`file-code` **参照:**"
 
 #: ../../geovista/docs/src/developer/testing.rst:39
 msgid ":bash:`.github/workflows` :fa:`folder`"
-msgstr ""
+msgstr ":bash:`.github/workflows` :fa:`folder`"
 
 #: ../../geovista/docs/src/developer/testing.rst:40
 #: ../../geovista/docs/src/developer/testing.rst:124
@@ -75,7 +75,7 @@ msgstr ""
 #: ../../geovista/docs/src/developer/testing.rst:413
 #: ../../geovista/docs/src/developer/testing.rst:514
 msgid ":bash:`pyproject.toml`"
-msgstr ""
+msgstr ":bash:`pyproject.toml`"
 
 #: ../../geovista/docs/src/developer/testing.rst:41
 msgid ":bash:`requirements` :fa:`folder`"
@@ -92,6 +92,9 @@ msgid ""
 "recommendation for *Minimum Supported Dependencies* (`SPEC 0`_), and "
 "typically support the latest **2-3** distributions of ``python``."
 msgstr ""
+"*Scientific Python Ecosystem Coordination* (`SPEC`_) の *Minimum Supported "
+"Dependencies* (`SPEC 0`_) の推奨に従い、通常は最新の ``python`` ディストリビューション **2〜3** "
+"つをサポートします。"
 
 #: ../../geovista/docs/src/developer/testing.rst:52
 msgid "The following testing workflows are available:"
@@ -103,7 +106,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/testing.rst:59
 msgid "Workflow"
-msgstr ""
+msgstr "ワークフロー"
 
 #: ../../geovista/docs/src/developer/testing.rst:59
 #: ../../geovista/docs/src/developer/testing.rst:149
@@ -660,7 +663,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/testing.rst:432
 msgid "Pixi Tasks"
-msgstr ""
+msgstr "Pixi タスク"
 
 #: ../../geovista/docs/src/developer/testing.rst:437
 msgid "Pixi Task"
@@ -672,7 +675,7 @@ msgstr ""
 
 #: ../../geovista/docs/src/developer/testing.rst:439
 msgid "Download and cache offline assets."
-msgstr ""
+msgstr "オフラインアセットをダウンロードしてキャッシュします。"
 
 #: ../../geovista/docs/src/developer/testing.rst:441
 msgid ""
@@ -681,6 +684,10 @@ msgid ""
 "``images``, ``list``, ``natural-earth``, ``operational``, ``pantry``, "
 "``rasters``, ``unit-images`` or ``verify``. Defaults to ``all`` e.g.,"
 msgstr ""
+"このタスクは :ref:`tippy-gv-reference-cli-download` コマンドを呼び出します。オプション引数として "
+"``all``、``clean``、``doc-images``、``dry-run``、``images``、``list``、``natural-"
+"earth``、``operational``、``pantry``、``rasters``、``unit-images``、``verify`` "
+"を指定できます。デフォルトは ``all`` です。例:"
 
 #: ../../geovista/docs/src/developer/testing.rst:452
 msgid ":guilabel:`tests-clean`"
