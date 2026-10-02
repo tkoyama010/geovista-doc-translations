@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1093\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1110\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-28 00:59+0000\n"
+"POT-Creation-Date: 2026-10-02 00:54+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -30,12 +30,13 @@ msgid "Coordinate reference system (CRS) utility functions."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:11
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:71
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:106
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:140
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:178
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:220
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:254
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:78
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:113
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:147
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:191
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:229
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:271
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:305
 msgid "Notes"
 msgstr "ノート"
 
@@ -43,100 +44,166 @@ msgstr "ノート"
 msgid "Attributes"
 msgstr "属性"
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:27:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:33:<autosummary>:1
 msgid ":py:obj:`CRSLike <geovista.crs.CRSLike>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:267
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:27:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:318
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:33:<autosummary>:1
 msgid "Type alias for a Coordinate Reference System."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:27:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:33:<autosummary>:1
+msgid ":py:obj:`EPSG_ANGULAR_UNIT <geovista.crs.EPSG_ANGULAR_UNIT>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:344
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:33:<autosummary>:1
+msgid "PROJ JSON unit type of a projection parameter measuring an angle."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:33:<autosummary>:1
+msgid ":py:obj:`EPSG_CENTRAL_MERIDIAN <geovista.crs.EPSG_CENTRAL_MERIDIAN>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:370
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:33:<autosummary>:1
+msgid ""
+"EPSG projection parameter for longitude of natural origin/central meridian."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:33:<autosummary>:1
+msgid ""
+":py:obj:`EPSG_CENTRAL_MERIDIAN_ALIASES "
+"<geovista.crs.EPSG_CENTRAL_MERIDIAN_ALIASES>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:394
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:33:<autosummary>:1
+msgid "EPSG projection parameters that may carry the central meridian."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:33:<autosummary>:1
+msgid ":py:obj:`EPSG_DEGREE <geovista.crs.EPSG_DEGREE>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:427
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:33:<autosummary>:1
+msgid "PROJ JSON angular unit of a projection parameter expressed in degrees."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:33:<autosummary>:1
+msgid ":py:obj:`PROJ_CENTRAL_MERIDIAN <geovista.crs.PROJ_CENTRAL_MERIDIAN>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:453
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:33:<autosummary>:1
+msgid "PROJ parameter for the central meridian, used by PROJ-native methods."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:33:<autosummary>:1
+msgid ":py:obj:`PROJ_ROTATED_POLE <geovista.crs.PROJ_ROTATED_POLE>`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:479
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:33:<autosummary>:1
+msgid "PROJ parameters identifying a rotated pole coordinate operation."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:33:<autosummary>:1
 msgid ":py:obj:`PlateCarree <geovista.crs.PlateCarree>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:290
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:27:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:502
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:33:<autosummary>:1
 msgid "WGS84 / Plate Carree (Equidistant Cylindrical)."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:27:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:33:<autosummary>:1
 msgid ":py:obj:`WGS84 <geovista.crs.WGS84>`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:313
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:27:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:525
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:33:<autosummary>:1
 msgid "Geographic WGS84."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:29
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:35
 msgid "Functions"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:40:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:47:<autosummary>:1
 msgid ":py:obj:`from_wkt <geovista.crs.from_wkt>`\\ \\(mesh\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:47
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:40:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:54
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:47:<autosummary>:1
 msgid "Get the :class:`~pyproj.crs.CRS` associated with the mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:40:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:47:<autosummary>:1
 msgid ""
 ":py:obj:`get_central_meridian <geovista.crs.get_central_meridian>`\\ "
 "\\(crs\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:82
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:40:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:89
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:47:<autosummary>:1
 msgid "Retrieve the longitude of natural origin of the `CRS`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:40:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:47:<autosummary>:1
 msgid ":py:obj:`has_wkt <geovista.crs.has_wkt>`\\ \\(mesh\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:117
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:40:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:124
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:47:<autosummary>:1
 msgid ""
 "Determine whether the provided mesh has a CRS serialized as WKT attached."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:40:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:47:<autosummary>:1
+msgid ":py:obj:`planar <geovista.crs.planar>`\\ \\(crs\\)"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:158
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:47:<autosummary>:1
+msgid "Determine whether the `crs` renders a scene as a flat plane."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:47:<autosummary>:1
 msgid ":py:obj:`projected <geovista.crs.projected>`\\ \\(mesh\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:151
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:40:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:202
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:47:<autosummary>:1
 msgid "Determine if the mesh is a planar projection."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:40:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:47:<autosummary>:1
 msgid ""
 ":py:obj:`set_central_meridian <geovista.crs.set_central_meridian>`\\ "
 "\\(crs\\, meridian\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:189
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:40:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:240
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:47:<autosummary>:1
 msgid ""
 "Replace the longitude of natural origin in the :class:`~pyproj.crs.CRS`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:40:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:47:<autosummary>:1
 msgid ":py:obj:`to_wkt <geovista.crs.to_wkt>`\\ \\(mesh\\, crs\\)"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:231
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:40:<autosummary>:1
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:282
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:47:<autosummary>:1
 msgid ""
 "Attach serialized :class:`~pyproj.crs.CRS` as Well-Known-Text (WKT) to the "
 "mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:42
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:49
 msgid "Module Contents"
 msgstr "モジュール内容"
 
@@ -144,21 +211,21 @@ msgstr "モジュール内容"
 msgid "Parameters"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:52
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:122
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:160
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:237
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:59
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:129
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:211
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:288
 msgid "**mesh** : :class:`~pyvista.PolyData`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:51
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:121
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:159
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:236
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:58
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:128
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:210
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:287
 msgid "PolyData"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:53
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:60
 msgid ""
 "The mesh containing the :class:`~pyproj.crs.CRS` serialized as OGC Well-"
 "Known-Text (WKT)."
@@ -168,112 +235,150 @@ msgstr ""
 msgid "Returns"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:60
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:67
 msgid ":class:`~pyproj.crs.CRS`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:61
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:89
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:199
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:68
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:96
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:250
 msgid "The Coordinate Reference System."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:84
-msgid "THe natural origin is also known as the central meridian."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:88
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:198
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:240
-msgid "**crs** : :class:`~pyproj.crs.CRS`"
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:87
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:197
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:239
-msgid "CRS"
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:91
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:242
+msgid "The natural origin is also known as the central meridian."
 msgstr ""
 
 #: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:95
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:173
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:249
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:291
+msgid "**crs** : :class:`~pyproj.crs.CRS`"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:94
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:172
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:248
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:290
+msgid "CRS"
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:102
 msgid ":class:`python:float`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:96
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:103
 msgid "The central meridian, or ``None`` if the `crs` has no such parameter."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:123
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:130
 msgid "The mesh to be inspected for a serialized :class:`~pyproj.crs.CRS`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:129
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:167
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:136
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:180
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:218
 msgid ":class:`python:bool`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:130
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:137
 msgid ""
 "Whether the mesh has a :class:`~pyproj.crs.CRS` serialized as WKT attached."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:153
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:160
 msgid ""
-"Simple heuristic approach achieved by attempting to inspect the associated "
-":class:`~pyproj.crs.CRS` of the mesh. If the mesh :class:`~pyproj.crs.CRS` "
-"is unavailable then the weaker contract of inspecting the mesh geometry is "
-"used to detect for a flat plane."
+"A :mod:`geovista` scene is rendered on the surface of a 3D sphere only for "
+":data:`WGS84`, and on a flat plane for every other :class:`~pyproj.crs.CRS`."
+" This is the same rule applied by :func:`geovista.transform.transform_mesh`."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:161
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:165
+msgid ""
+"Note that a flat scene is not the same thing as a projected "
+":class:`~pyproj.crs.CRS`. A geographic :class:`~pyproj.crs.CRS` other than "
+":data:`WGS84` e.g., ``+proj=latlong``, is still rendered as a flat plane, so"
+" :attr:`~pyproj.crs.CRS.is_projected` is not a reliable test. "
+":func:`projected` asks this same question of a *mesh*."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:174
+msgid "The Coordinate Reference System of the scene."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:181
+msgid "Whether the scene is rendered as a flat plane."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:204
+msgid ""
+"Simple heuristic approach achieved by attempting to inspect the associated "
+":class:`~pyproj.crs.CRS` of the mesh, which is deferred to :func:`planar`. "
+"If the mesh :class:`~pyproj.crs.CRS` is unavailable then the weaker contract"
+" of inspecting the mesh geometry is used to detect for a flat plane."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:212
 msgid "The mesh to be inspected."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:168
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:219
 msgid "Whether the mesh is projected."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:191
-msgid "The natural origin is also known as the central meridian."
-msgstr ""
-
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:193
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:244
 msgid ""
 "Note that the `crs` is immutable, therefore a new instance will be returned "
 "with the specified central meridian."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:201
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:252
 msgid "**meridian** : :class:`python:float`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:200
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:251
 msgid "python:float"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:202
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:253
 msgid "The replacement central meridian."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:208
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:259
 msgid ":class:`~pyproj.crs.CRS` or :data:`python:None`"
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:209
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:260
 msgid ""
 "The :class:`~pyproj.crs.CRS` with the specified central meridian, or "
 "``None`` if the :class:`~pyproj.crs.CRS` has no such parameter."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:233
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:284
 msgid ""
 "The serialized OGC WKT is attached to the ``field_data`` of the mesh in-"
 "place."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:238
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:289
 msgid "The mesh to contain the serialized OGC WKT."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:241
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:292
 msgid "The Coordinate Reference System to be serialized."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:396
+msgid ""
+"A projection method defines its longitudinal origin using whichever "
+"parameter suits its geometry, so the central meridian is not always EPSG "
+"``8802``. Ordered by precedence."
+msgstr ""
+
+#: ../../geovista/docs/src/reference/generated/api/geovista/crs/index.rst:400
+msgid ""
+"Note that EPSG ``8830`` (initial longitude) is deliberately absent, as it is"
+" the western edge of zone one of a zoned grid system rather than the central"
+" meridian of the projection."
 msgstr ""

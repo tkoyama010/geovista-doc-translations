@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1093\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1110\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-28 00:59+0000\n"
+"POT-Creation-Date: 2026-10-02 00:54+0000\n"
 "PO-Revision-Date: 2024-07-17 09:58+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -763,11 +763,11 @@ msgstr "オプションのパッケージ依存関係 :mod:`rasterio` が必要�
 msgid "Examples"
 msgstr "例"
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:7
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:10
 msgid "Render the GeoTIFF ``RGB`` image as a geolocated mesh."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:9
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:12
 msgid ""
 "First, :func:`rasterio.features.sieve` the GeoTIFF image to remove several "
 "unwanted masked regions within the interior of the image, due to a lack of "
@@ -775,7 +775,7 @@ msgid ""
 "cells with no masked points."
 msgstr ""
 
-#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:17
+#: ../../geovista/docs/src/reference/generated/api/geovista/bridge/index.rst:20
 msgid "Now render the result:"
 msgstr ""
 
