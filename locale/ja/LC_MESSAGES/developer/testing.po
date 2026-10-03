@@ -9,9 +9,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: GeoVista 0.6.0.dev1093\n"
+"Project-Id-Version: GeoVista 0.6.0.dev1115\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-28 00:59+0000\n"
+"POT-Creation-Date: 2026-10-03 00:52+0000\n"
 "PO-Revision-Date: 2025-12-08 00:40+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/194814/ja/)\n"
@@ -46,47 +46,55 @@ msgid ""
 "on ``conda-forge`` or ``PyPI``."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:28
+#: ../../geovista/docs/src/developer/testing.rst:31
 msgid ":fab:`github` Continuous Integration"
 msgstr ":fab:`github` 継続的インテグレーション"
 
-#: ../../geovista/docs/src/developer/testing.rst:37
-#: ../../geovista/docs/src/developer/testing.rst:122
-#: ../../geovista/docs/src/developer/testing.rst:138
-#: ../../geovista/docs/src/developer/testing.rst:202
-#: ../../geovista/docs/src/developer/testing.rst:246
-#: ../../geovista/docs/src/developer/testing.rst:296
-#: ../../geovista/docs/src/developer/testing.rst:337
-#: ../../geovista/docs/src/developer/testing.rst:411
-#: ../../geovista/docs/src/developer/testing.rst:512
+#: ../../geovista/docs/src/developer/testing.rst:42
+#: ../../geovista/docs/src/developer/testing.rst:143
+#: ../../geovista/docs/src/developer/testing.rst:159
+#: ../../geovista/docs/src/developer/testing.rst:223
+#: ../../geovista/docs/src/developer/testing.rst:267
+#: ../../geovista/docs/src/developer/testing.rst:317
+#: ../../geovista/docs/src/developer/testing.rst:358
+#: ../../geovista/docs/src/developer/testing.rst:432
+#: ../../geovista/docs/src/developer/testing.rst:458
+#: ../../geovista/docs/src/developer/testing.rst:543
+#: ../../geovista/docs/src/developer/testing.rst:607
+#: ../../geovista/docs/src/developer/testing.rst:659
+#: ../../geovista/docs/src/developer/testing.rst:692
+#: ../../geovista/docs/src/developer/testing.rst:835
 msgid ":fa:`file-code` **Reference:**"
 msgstr ":fa:`file-code` **参照:**"
 
-#: ../../geovista/docs/src/developer/testing.rst:39
+#: ../../geovista/docs/src/developer/testing.rst:44
 msgid ":bash:`.github/workflows` :fa:`folder`"
 msgstr ":bash:`.github/workflows` :fa:`folder`"
 
-#: ../../geovista/docs/src/developer/testing.rst:40
-#: ../../geovista/docs/src/developer/testing.rst:124
-#: ../../geovista/docs/src/developer/testing.rst:140
-#: ../../geovista/docs/src/developer/testing.rst:248
-#: ../../geovista/docs/src/developer/testing.rst:298
-#: ../../geovista/docs/src/developer/testing.rst:339
-#: ../../geovista/docs/src/developer/testing.rst:413
-#: ../../geovista/docs/src/developer/testing.rst:514
+#: ../../geovista/docs/src/developer/testing.rst:45
+#: ../../geovista/docs/src/developer/testing.rst:145
+#: ../../geovista/docs/src/developer/testing.rst:161
+#: ../../geovista/docs/src/developer/testing.rst:269
+#: ../../geovista/docs/src/developer/testing.rst:319
+#: ../../geovista/docs/src/developer/testing.rst:360
+#: ../../geovista/docs/src/developer/testing.rst:434
+#: ../../geovista/docs/src/developer/testing.rst:460
+#: ../../geovista/docs/src/developer/testing.rst:545
+#: ../../geovista/docs/src/developer/testing.rst:694
+#: ../../geovista/docs/src/developer/testing.rst:837
 msgid ":bash:`pyproject.toml`"
 msgstr ":bash:`pyproject.toml`"
 
-#: ../../geovista/docs/src/developer/testing.rst:41
+#: ../../geovista/docs/src/developer/testing.rst:46
 msgid ":bash:`requirements` :fa:`folder`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:42
-#: ../../geovista/docs/src/developer/testing.rst:515
+#: ../../geovista/docs/src/developer/testing.rst:47
+#: ../../geovista/docs/src/developer/testing.rst:838
 msgid ":bash:`tests` :fa:`folder`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:47
+#: ../../geovista/docs/src/developer/testing.rst:52
 msgid ""
 "We follow *Scientific Python Ecosystem Coordination* (`SPEC`_) "
 "recommendation for *Minimum Supported Dependencies* (`SPEC 0`_), and "
@@ -96,54 +104,58 @@ msgstr ""
 "Dependencies* (`SPEC 0`_) の推奨に従い、通常は最新の ``python`` ディストリビューション **2〜3** "
 "つをサポートします。"
 
-#: ../../geovista/docs/src/developer/testing.rst:52
+#: ../../geovista/docs/src/developer/testing.rst:57
 msgid "The following testing workflows are available:"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:54
+#: ../../geovista/docs/src/developer/testing.rst:59
 msgid "Testing Workflows"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:59
+#: ../../geovista/docs/src/developer/testing.rst:64
 msgid "Workflow"
 msgstr "ワークフロー"
 
-#: ../../geovista/docs/src/developer/testing.rst:59
-#: ../../geovista/docs/src/developer/testing.rst:149
-#: ../../geovista/docs/src/developer/testing.rst:171
-#: ../../geovista/docs/src/developer/testing.rst:213
-#: ../../geovista/docs/src/developer/testing.rst:437
+#: ../../geovista/docs/src/developer/testing.rst:64
+#: ../../geovista/docs/src/developer/testing.rst:170
+#: ../../geovista/docs/src/developer/testing.rst:192
+#: ../../geovista/docs/src/developer/testing.rst:234
+#: ../../geovista/docs/src/developer/testing.rst:471
+#: ../../geovista/docs/src/developer/testing.rst:554
+#: ../../geovista/docs/src/developer/testing.rst:581
+#: ../../geovista/docs/src/developer/testing.rst:618
+#: ../../geovista/docs/src/developer/testing.rst:718
 msgid "Description"
 msgstr "説明"
 
-#: ../../geovista/docs/src/developer/testing.rst:61
+#: ../../geovista/docs/src/developer/testing.rst:66
 msgid "|ci-test|"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:30
+#: ../../geovista/docs/src/developer/testing.rst:33
 msgid "ci-test"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:61
+#: ../../geovista/docs/src/developer/testing.rst:66
 msgid ""
 "The `ci-tests.yml`_ :fab:`github` Action executes both the :ref:`tippy-gv-"
 "developer-testing-image-tests` and :ref:`tippy-gv-developer-testing-unit-"
 "tests` for each `SPEC 0`_ supported distribution of ``python``."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:64
+#: ../../geovista/docs/src/developer/testing.rst:69
 msgid ""
 "A `codecov`_ report is generated only for the **latest** supported "
 "distribution of ``python``."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:66
+#: ../../geovista/docs/src/developer/testing.rst:71
 msgid ""
 "Also see the testing :ref:`tippy-gv-developer-testing-pixi-workflow` "
 ":guilabel:`tests-unit` task."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:71
+#: ../../geovista/docs/src/developer/testing.rst:76
 msgid ""
 "Failed :ref:`tippy-gv-developer-testing-image-tests` are captured via the "
 "``pytest-pyvista`` plugin option ``--failed_image_dir`` (see :ref:`tippy-gv-"
@@ -152,15 +164,48 @@ msgid ""
 "images may then be downloaded for analysis and investigation."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:76
+#: ../../geovista/docs/src/developer/testing.rst:81
+msgid "|ci-docs|"
+msgstr "|ci-docs|"
+
+#: ../../geovista/docs/src/developer/testing.rst:35
+msgid "ci-docs"
+msgstr "ci-docs"
+
+#: ../../geovista/docs/src/developer/testing.rst:81
+msgid ""
+"The `ci-tests-docs.yml`_ :fab:`github` Action executes both the "
+"documentation image tests and the :ref:`tippy-gv-developer-testing-browser-"
+"tests` for the **latest** `SPEC 0`_ supported distribution of ``python``."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:85
+msgid ""
+"Also see the documentation :ref:`tippy-gv-developer-documentation-pixi-"
+"workflow` :guilabel:`tests-doc` task, and the testing :ref:`tippy-gv-"
+"developer-testing-pixi-workflow` :guilabel:`tests-docs-browser` task."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:91
+msgid ""
+"The :ref:`tippy-gv-developer-testing-browser-tests` require a built "
+"documentation site, so this job builds the :guilabel:`html-gallery` target -"
+" the cheapest build that renders the gallery, and therefore the only one "
+"carrying the carousel that the browser tests cover. It is run with the "
+"``--browser-strict`` option, so that a prerequisite which this job "
+"deliberately provides, but which quietly goes missing, fails rather than "
+"skips - leaving the job green over lost coverage."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:97
 msgid "|ci-lock|"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:32
+#: ../../geovista/docs/src/developer/testing.rst:37
 msgid "ci-lock"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:76
+#: ../../geovista/docs/src/developer/testing.rst:97
 msgid ""
 "The `ci-tests-lock.yml`_ ``cron`` based :fab:`github` Action regularly "
 "schedules the execution of both the :ref:`tippy-gv-developer-testing-image-"
@@ -168,7 +213,7 @@ msgid ""
 "`SPEC 0`_ supported distribution of ``python``."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:80
+#: ../../geovista/docs/src/developer/testing.rst:101
 msgid ""
 "Prior to running the tests ``pixi`` performs an **ephemeral** refresh of the"
 " :bash:`pixi.lock` file based on the :bash:`pyproject.toml` manifest and the"
@@ -176,7 +221,7 @@ msgid ""
 "ecosystems."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:84
+#: ../../geovista/docs/src/developer/testing.rst:105
 msgid ""
 "The purpose of this :fab:`github` Action is to preemptively test against the"
 " **latest** resolved ``python`` variant of the :guilabel:`geovista-py3xx` "
@@ -186,23 +231,23 @@ msgid ""
 "integration` section for further details."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:89
-#: ../../geovista/docs/src/developer/testing.rst:103
+#: ../../geovista/docs/src/developer/testing.rst:110
+#: ../../geovista/docs/src/developer/testing.rst:124
 msgid ""
 "Any subsequent test failures will result in a bespoke :fab:`github` Issue "
 "being raised for contributors to investigate referencing the :fab:`github` "
 "Action ``run-id`` of the failed job."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:92
+#: ../../geovista/docs/src/developer/testing.rst:113
 msgid "|ci-pypi|"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:34
+#: ../../geovista/docs/src/developer/testing.rst:39
 msgid "ci-pypi"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:92
+#: ../../geovista/docs/src/developer/testing.rst:113
 msgid ""
 "The `ci-tests-pypi.yml`_ ``cron`` based :fab:`github` Action regularly "
 "schedules the execution of both the :ref:`tippy-gv-developer-testing-image-"
@@ -210,14 +255,14 @@ msgid ""
 "`SPEC 0`_ supported distribution of ``python``."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:96
+#: ../../geovista/docs/src/developer/testing.rst:117
 msgid ""
 "Prior to running the tests ``pip`` installs the **latest** package "
 "dependencies from the ``PyPI`` ecosystem. See the packaging :ref:`tippy-gv-"
 "developer-packaging-python-package-index` section for further details."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:99
+#: ../../geovista/docs/src/developer/testing.rst:120
 msgid ""
 "The purpose of this :fab:`github` Action is to preemptively test against the"
 " **latest** resolved ``PyPI`` environment to uncover and highlight any "
@@ -225,7 +270,7 @@ msgid ""
 "refresh of our ``PyPI`` package dependencies."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:109
+#: ../../geovista/docs/src/developer/testing.rst:130
 msgid ""
 "`pyvista`_ performs a :fab:`github` ``pull-request`` integration test "
 "against the ``main`` branch of ``geovista`` using the ``PyPI`` ecosystem. "
@@ -233,160 +278,168 @@ msgid ""
 "upstream issues that should be resolved as a priority."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:120
+#: ../../geovista/docs/src/developer/testing.rst:141
 msgid ":fa:`images` Image Tests"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:125
+#: ../../geovista/docs/src/developer/testing.rst:146
 msgid ":bash:`src/geovista/examples` :fa:`folder`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:126
+#: ../../geovista/docs/src/developer/testing.rst:147
 msgid ":bash:`tests/plotting` :fa:`folder`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:128
+#: ../../geovista/docs/src/developer/testing.rst:149
 msgid ""
 "This section outlines how to create and run our image tests, and also "
 "highlights the key infrastructure that underpins it."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:136
+#: ../../geovista/docs/src/developer/testing.rst:157
+#: ../../geovista/docs/src/developer/testing.rst:541
 msgid "Markers"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:142
+#: ../../geovista/docs/src/developer/testing.rst:163
 msgid "The following ``pytest`` markers are configured for image unit tests:"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:144
+#: ../../geovista/docs/src/developer/testing.rst:165
 msgid "Image Unit Test Markers"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:149
+#: ../../geovista/docs/src/developer/testing.rst:170
+#: ../../geovista/docs/src/developer/testing.rst:554
 msgid "Marker"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:151
+#: ../../geovista/docs/src/developer/testing.rst:172
 msgid ":guilabel:`image`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:151
+#: ../../geovista/docs/src/developer/testing.rst:172
 msgid "Generic marker to be used on **all** image unit tests."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:153
+#: ../../geovista/docs/src/developer/testing.rst:174
 msgid ":guilabel:`example`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:153
+#: ../../geovista/docs/src/developer/testing.rst:174
 msgid ""
 "Specific marker only to be used on :ref:`tippy-gv-examples` gallery unit "
 "tests."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:160
+#: ../../geovista/docs/src/developer/testing.rst:181
+#: ../../geovista/docs/src/developer/testing.rst:592
 msgid ""
 "For further details see the ``markers`` array entry in the "
 ":toml:`[tool.pytest.ini_options]` table of the :bash:`pyproject.toml` "
 "manifest."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:163
+#: ../../geovista/docs/src/developer/testing.rst:184
+#: ../../geovista/docs/src/developer/testing.rst:573
 msgid ""
 "The following marker expressions can be used for finer-grained control of "
 "unit test selection for execution:"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:166
+#: ../../geovista/docs/src/developer/testing.rst:187
 msgid "Marker Expressions"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:171
+#: ../../geovista/docs/src/developer/testing.rst:192
+#: ../../geovista/docs/src/developer/testing.rst:581
 msgid "Marker Expression"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:173
+#: ../../geovista/docs/src/developer/testing.rst:194
 msgid ":bash:`pytest -m image`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:173
+#: ../../geovista/docs/src/developer/testing.rst:194
 msgid "Execute all image unit tests."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:175
+#: ../../geovista/docs/src/developer/testing.rst:196
 msgid ":bash:`pytest -m \"not image\"`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:175
+#: ../../geovista/docs/src/developer/testing.rst:196
 msgid "Execute all unit tests except the image unit tests."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:177
+#: ../../geovista/docs/src/developer/testing.rst:198
 msgid ":bash:`pytest -m example`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:177
+#: ../../geovista/docs/src/developer/testing.rst:198
 msgid "Execute only the gallery unit tests."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:179
+#: ../../geovista/docs/src/developer/testing.rst:200
 msgid ":bash:`pytest -m \"not example\"`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:179
+#: ../../geovista/docs/src/developer/testing.rst:200
 msgid "Execute all unit tests except the gallery unit tests."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:181
+#: ../../geovista/docs/src/developer/testing.rst:202
 msgid ":bash:`pytest -m \"image and not example\"`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:181
+#: ../../geovista/docs/src/developer/testing.rst:202
 msgid "Execute all image unit tests that are not gallery unit tests."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:188
-#: ../../geovista/docs/src/developer/testing.rst:533
+#: ../../geovista/docs/src/developer/testing.rst:209
+#: ../../geovista/docs/src/developer/testing.rst:857
 msgid ""
 "Refer to the :ref:`tippy-gv-developer-testing-pixi-workflow` "
 ":guilabel:`tests-unit` task."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:193
-#: ../../geovista/docs/src/developer/testing.rst:363
-#: ../../geovista/docs/src/developer/testing.rst:538
+#: ../../geovista/docs/src/developer/testing.rst:214
+#: ../../geovista/docs/src/developer/testing.rst:384
+#: ../../geovista/docs/src/developer/testing.rst:598
+#: ../../geovista/docs/src/developer/testing.rst:862
 msgid ""
 "``pytest`` must be executed from within the :bash:`geovista` root directory."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:200
+#: ../../geovista/docs/src/developer/testing.rst:221
+#: ../../geovista/docs/src/developer/testing.rst:605
 msgid "Fixtures"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:204
-#: ../../geovista/docs/src/developer/testing.rst:249
+#: ../../geovista/docs/src/developer/testing.rst:225
+#: ../../geovista/docs/src/developer/testing.rst:270
 msgid ":bash:`tests/conftest.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:206
+#: ../../geovista/docs/src/developer/testing.rst:227
 msgid ""
 "All image unit tests require to use the following ``pytest`` `fixtures`_:"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:208
+#: ../../geovista/docs/src/developer/testing.rst:229
 msgid "Image Unit Test Fixtures"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:213
+#: ../../geovista/docs/src/developer/testing.rst:234
+#: ../../geovista/docs/src/developer/testing.rst:618
 msgid "Fixture"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:215
+#: ../../geovista/docs/src/developer/testing.rst:236
 msgid "``plot_nodeid``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:215
+#: ../../geovista/docs/src/developer/testing.rst:236
 msgid ""
 "This fixture generates the unique dotted ``nodeid`` to identify the unit "
 "test relative to the :bash:`tests` root directory e.g., "
@@ -395,75 +448,75 @@ msgid ""
 "file located within the :bash:`tests/geodesic` directory."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:222
+#: ../../geovista/docs/src/developer/testing.rst:243
 msgid ""
 "The fixture also ensures that the baseline image for the unit test is "
 "available in the image cache. See :ref:`tippy-gv-developer-testing-image-"
 "tests-caching` for further details."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:227
+#: ../../geovista/docs/src/developer/testing.rst:248
 msgid "``verify_image_cache``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:227
+#: ../../geovista/docs/src/developer/testing.rst:248
 msgid ""
 "The `pytest-pyvista`_ ``pytest`` plugin is used to perform the image "
 "comparison between a unit test baseline image (expected) against its "
 "`pyvista`_ rendered image (actual)."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:231
+#: ../../geovista/docs/src/developer/testing.rst:252
 msgid ""
 "This fixture requires the unit test to call the "
 ":meth:`~pyvista.Plotter.show` method as a hook so that it can initiate the "
 "image comparison."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:238
+#: ../../geovista/docs/src/developer/testing.rst:259
 msgid ""
 "For further details see :toml:`[tool.pytest.ini_options]` table in the "
 ":bash:`pyproject.toml` manifest."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:244
+#: ../../geovista/docs/src/developer/testing.rst:265
 msgid "Template"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:251
+#: ../../geovista/docs/src/developer/testing.rst:272
 msgid ""
 "Image unit tests should adopt the following usage pattern of :ref:`tippy-gv-"
 "developer-testing-image-tests-markers` and :ref:`tippy-gv-developer-testing-"
 "image-tests-fixtures` e.g.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:255
+#: ../../geovista/docs/src/developer/testing.rst:276
 msgid "Image Unit Test Template"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:273
+#: ../../geovista/docs/src/developer/testing.rst:294
 msgid "Note that:"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:275
+#: ../../geovista/docs/src/developer/testing.rst:296
 msgid ""
 ":bash:`line:  6` - The :python:`@pytest.mark.image` marker must always "
 "decorate the unit test"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:277
+#: ../../geovista/docs/src/developer/testing.rst:298
 msgid ""
 ":bash:`line:  7` - Both the :python:`plot_nodeid` and "
 ":python:`verify_image_cache` fixures are used"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:279
+#: ../../geovista/docs/src/developer/testing.rst:300
 msgid ""
 ":bash:`line:  9` - The :python:`verify_image_cache` fixure is configured "
 "with the name of the unit test baseline image"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:281
+#: ../../geovista/docs/src/developer/testing.rst:302
 msgid ""
 ":bash:`line: 12` - The :meth:`~pyvista.Plotter.show` method of the plotter "
 "is called to render the unit test scene and then invoke image comparison via"
@@ -474,48 +527,48 @@ msgid ""
 ":python:`@pytest.mark.parametrize` marker to execute it multiple times."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:294
+#: ../../geovista/docs/src/developer/testing.rst:315
 msgid "Caching"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:299
-#: ../../geovista/docs/src/developer/testing.rst:340
+#: ../../geovista/docs/src/developer/testing.rst:320
+#: ../../geovista/docs/src/developer/testing.rst:361
 msgid ":bash:`src/geovista/cache/__init__.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:300
+#: ../../geovista/docs/src/developer/testing.rst:321
 msgid ":bash:`src/geovista/config.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:301
+#: ../../geovista/docs/src/developer/testing.rst:322
 msgid ":bash:`src/geovista/tests/plotting/__init__.py`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:302
+#: ../../geovista/docs/src/developer/testing.rst:323
 msgid ":bash:`src/geovista/tests/plotting/unit_image_cache` :fa:`folder`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:304
+#: ../../geovista/docs/src/developer/testing.rst:325
 msgid ""
 "The ``pytest-pyvista`` plugin performs the image comparison between a unit "
 "test baseline image (expected) and rendered image (actual) via its "
 "``verify_image_cache`` fixture."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:308
+#: ../../geovista/docs/src/developer/testing.rst:329
 msgid ""
 "Unit test baseline images are automatically fetched and cached by the "
 "`pooch`_ :data:`~geovista.cache.CACHE` manager on request by the "
 "``plot_nodeid`` fixture."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:314
+#: ../../geovista/docs/src/developer/testing.rst:335
 msgid ""
 "The :ref:`tippy-gv-reference-cli-download` command may be used to cache "
 "offline assets."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:317
+#: ../../geovista/docs/src/developer/testing.rst:338
 msgid ""
 "The :data:`~geovista.cache.CACHE` manager fetches assets for a specific "
 ":data:`~geovista.cache.DATA_VERSION` release tag from the `geovista-data`_ "
@@ -524,7 +577,7 @@ msgid ""
 "variable <tippy-gv-reference-environment>`."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:323
+#: ../../geovista/docs/src/developer/testing.rst:344
 msgid ""
 "These cached assets are made available to the ``verify_image_cache`` fixture"
 " via the :bash:`tests/plotting/unit_image_cache` symbolic-link, as "
@@ -532,104 +585,104 @@ msgid ""
 ":bash:`pyproject.toml` manifest."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:327
+#: ../../geovista/docs/src/developer/testing.rst:348
 msgid ""
 "The :bash:`tests/plotting/unit_image_cache` symbolic-link to the "
 ":data:`~geovista.cache.CACHE` manager image cache is automatically verified "
 "and managed by the :python:`tests.plotting` module."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:335
+#: ../../geovista/docs/src/developer/testing.rst:356
 msgid "Generation"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:341
+#: ../../geovista/docs/src/developer/testing.rst:362
 msgid ":bash:`src/geovista/cache/registry.txt`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:343
+#: ../../geovista/docs/src/developer/testing.rst:364
 msgid ""
 "Unit test rendered image (actual) generation is managed through the "
 "``pytest-pyvista`` plugin."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:346
+#: ../../geovista/docs/src/developer/testing.rst:367
 msgid ""
 "For example, to serizalize all unit test rendered images to file within the "
 ":bash:`test_images` directory e.g.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:353
+#: ../../geovista/docs/src/developer/testing.rst:374
 msgid ""
 "To serialize both the baseline image (expected) and rendered image (actual) "
 "of all unit test failures to file within the :bash:`test_images_failed` "
 "directory e.g.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:365
+#: ../../geovista/docs/src/developer/testing.rst:386
 msgid "Typically, we recommend the following:"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:367
+#: ../../geovista/docs/src/developer/testing.rst:388
 msgid ""
 "Use the ``--generated_image_dir`` option to capture the rendered image "
 "(actual) of any new or existing unit tests"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:369
+#: ../../geovista/docs/src/developer/testing.rst:390
 msgid ""
 "Use the ``--failed_image_dir`` option to capture and investigate any failed "
 "image unit tests"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:375
+#: ../../geovista/docs/src/developer/testing.rst:396
 msgid "Refer to `pytest-pyvista`_ for further CLI and configuration options."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:377
+#: ../../geovista/docs/src/developer/testing.rst:398
 msgid ""
 "Also see the :guilabel:`tests-unit` ``pixi`` :term:`task <Task>` in the "
 "following :ref:`tippy-gv-developer-testing-pixi-workflow` section, as a "
 "convenience."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:381
+#: ../../geovista/docs/src/developer/testing.rst:402
 msgid "To register a new baseline image for a unit test:"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:383
+#: ../../geovista/docs/src/developer/testing.rst:404
 msgid ""
 "Generate the baseline image using the ``--generated_image_dir`` option to "
 "the ``pytest-pyvista`` plugin"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:385
+#: ../../geovista/docs/src/developer/testing.rst:406
 msgid ""
 "Add the new baseline image to the :bash:`assets/tests/unit` directory of the"
 " :fab:`github` `geovista-data`_ repository via a :fa:`code-pull-request` "
 "``pull-request``"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:387
+#: ../../geovista/docs/src/developer/testing.rst:408
 msgid ""
 "Once the :fa:`code-pull-request` ``pull-request`` has been reviewed and "
 "merged, a new ``geovista-data`` release will be tagged automatically"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:389
+#: ../../geovista/docs/src/developer/testing.rst:410
 msgid ""
 "Update the :guilabel:`DATA_VERSION` within :bash:`geovista.cache` to the new"
 " ``geovista-data`` release version"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:391
+#: ../../geovista/docs/src/developer/testing.rst:412
 msgid ""
 "Finally, update the :bash:`registry.txt` with the unit test baseline image "
 "name (relative to the :bash:`assets` directory) along with the hexadecimal "
 "``SHA256SUM`` of the baseline image file contents"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:395
+#: ../../geovista/docs/src/developer/testing.rst:416
 msgid ""
 "The `pooch`_ :data:`~geovista.cache.CACHE` manager will automatically "
 "download and cache the new baseline image from the ``geovista-data`` "
@@ -637,15 +690,330 @@ msgid ""
 "new assets for the :guilabel:`DATA_VERSION` using the CLI e.g.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:409
+#: ../../geovista/docs/src/developer/testing.rst:430
+msgid ":fa:`window-maximize` Browser Tests"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:435
+msgid ":bash:`docs` :fa:`folder`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:436
+msgid ":bash:`tests/docs` :fa:`folder`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:438
+msgid ""
+"The browser unit tests drive a headless ``chromium`` browser over a "
+"**built** documentation site using `playwright`_, in order to cover the "
+"theme chrome that is assembled in the browser and is therefore beyond the "
+"reach of any other unit test i.e., the primary and secondary sidebar "
+"toggles, the dialogs that they open, and the :ref:`tippy-gv-examples` "
+"gallery carousel."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:447
+msgid ""
+"The browser unit tests deliberately assert on what a reader can **see and "
+"do**, rather than on the markup of any particular theme release, so that "
+"they survive a theme bump and report what actually broke."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:456
+msgid "Prerequisites"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:461
+msgid ":bash:`requirements/pypi-optional-test.txt`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:462
+#: ../../geovista/docs/src/developer/testing.rst:609
+msgid ":bash:`tests/docs/conftest.py`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:464
+msgid "The browser unit tests require the following:"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:466
+msgid "Browser Unit Test Prerequisites"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:471
+msgid "Prerequisite"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:473
+msgid "``playwright``"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:473
+msgid ""
+"The ``python`` bindings that drive the browser, which are sourced from "
+"``PyPI`` rather than ``conda-forge``, as the ``conda-forge`` package of the "
+"same name provides the ``node`` command line interface but no ``python`` "
+"bindings."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:478
+msgid ""
+"Declared in the :toml:`[tool.pixi.feature.test.pypi-dependencies]` table of "
+"the :bash:`pyproject.toml` manifest, and in :bash:`requirements/pypi-"
+"optional-test.txt`."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:482
+msgid "``chromium``"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:482
+msgid ""
+"The browser itself, which ``playwright`` manages separately from its "
+"``python`` bindings. Install it once with the :guilabel:`tests-docs-browser-"
+"install` ``pixi`` :term:`task <Task>`."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:486
+msgid "A documentation build"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:486
+msgid ""
+"The tests are performed against the :bash:`docs/_build/html` site, which is "
+"opened over ``file://`` - no web server is required. See :ref:`tippy-gv-"
+"developer-documentation-building` for further details."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:491
+msgid ""
+"Each of the above is guarded by a ``pytest`` `fixture <fixtures_>`__ that "
+"**skips** rather than fails when its prerequisite is unavailable, so a plain"
+" ``pytest`` run remains unaffected for contributors who have neither "
+"``playwright`` nor a documentation build."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:496
+msgid ""
+"That is the wrong default for `ci-tests-docs.yml`_, which installs every "
+"prerequisite and builds the gallery deliberately, and so would report "
+"success having silently stopped covering anything. The ``--browser-strict`` "
+"option **requires** each prerequisite instead e.g.,"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:508
+msgid ""
+"``pytest`` honours the ``pytest_addoption`` hook only within the test root "
+":bash:`tests/conftest.py`, which is therefore where the ``--browser-strict``"
+" option is registered, rather than alongside the browser unit tests that "
+"consume it."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:516
+msgid ""
+"Refer to the :ref:`tippy-gv-developer-testing-pixi-workflow` "
+":guilabel:`tests-docs-browser-install` and :guilabel:`tests-docs-browser` "
+"tasks, which satisfy the ``chromium`` and documentation build prerequisites "
+"respectively."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:524
+msgid ""
+"The default :guilabel:`html-noplot` documentation build target sets "
+":python:`plot_gallery = False`, which leaves the :ref:`tippy-gv-examples` "
+"gallery carousel with nothing to render - so the carousel unit tests "
+"**skip**, or **fail** under ``--browser-strict``. Only the :guilabel:`html-"
+"gallery` target, or another plotting target, covers them, and rendering the "
+"gallery thumbnails requires a display."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:531
+msgid ""
+"Exactly like the :ref:`tippy-gv-developer-testing-image-tests`, the carousel"
+" is therefore only meaningfully exercised by the `ci-tests-docs.yml`_ "
+":fab:`github` Action. See :ref:`tippy-gv-developer-testing-continuous-"
+"integration` for further details."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:547
+msgid "The following ``pytest`` marker is configured for browser unit tests:"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:549
+msgid "Browser Unit Test Markers"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:556
+msgid ":guilabel:`browser`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:556
+msgid ""
+"Generic marker to be used on **all** documentation theme chrome unit tests."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:560
+msgid ""
+"The marker is applied to an entire test module with a :python:`pytestmark` "
+"global, rather than to each unit test e.g.,"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:563
+msgid "Browser Unit Test Marker"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:576
+msgid "Browser Marker Expressions"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:583
+msgid ":bash:`pytest -m browser`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:583
+msgid "Execute all browser unit tests."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:585
+msgid ":bash:`pytest -m \"not browser\"`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:585
+msgid "Execute all unit tests except the browser unit tests."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:611
+msgid ""
+"The following ``pytest`` `fixtures`_ are available to browser unit tests:"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:613
+msgid "Browser Unit Test Fixtures"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:620
+msgid "``browser``"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:620
+msgid ""
+"A launched headless ``chromium`` browser, shared for the duration of the "
+"test session and closed on teardown."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:623
+msgid "``goto``"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:623
+msgid ""
+"A factory that opens a built page at a given viewport width, defaulting to "
+":bash:`index.html` e.g., :python:`page = goto(390)`."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:626
+msgid ""
+"The factory waits for the theme chrome to **settle** before handing the page"
+" back, and closes every page that it opened on teardown."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:632
+msgid ""
+"Both themes inject their toggles from ``JavaScript`` *after* the page has "
+"loaded, so the chrome is not final the moment the page is ready. The factory"
+" therefore polls until the toggle count stops changing, rather than pausing "
+"for a fixed delay - a delay tuned on a developer machine is apt to be too "
+"short on a loaded CI runner."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:638
+msgid "``html_root``"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:638
+msgid ""
+"The root directory of the documentation build, :bash:`docs/_build/html`."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:640
+msgid "``api_page``"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:640
+msgid "The path of a built API reference page, relative to ``html_root``."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:642
+msgid ""
+"Such a page carries a secondary *On this page* sidebar with enough entries "
+"to be worth revealing, which the landing page does not."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:645
+msgid "``require``"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:645
+msgid ""
+"A guard for a prerequisite that only a unit test itself can detect, such as "
+"the gallery carousel, which **skips** or, under ``--browser-strict``, "
+"**fails** e.g.,"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:649
+msgid ":python:`require(\"no gallery carousel in this build\")`."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:657
+msgid "Helpers"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:661
+msgid ":bash:`tests/docs/_theme.py`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:663
+msgid ""
+"The :bash:`tests/docs/_theme.py` module provides the helpers that browser "
+"unit tests use to interrogate the theme chrome, such as "
+":python:`click_visible` to activate a toggle, :python:`dialog` to report the"
+" state of a sidebar dialog, and :python:`sidebar_offset` to distinguish a "
+"sidebar that collapses in place from one that opens as a dialog."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:669
+msgid ""
+"Both themes render a **duplicate** of each toggle and hide one of them, so "
+"\"the button\" is ambiguous - the helpers consistently act upon the one that"
+" a reader can actually see."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:676
+msgid ""
+"The ``sphinx-design`` :python:`sd-stretched-link` class covers its card "
+"through an :python:`::after` overlay, so the bounding rectangle of the "
+"anchor itself is no more than its text. Click coverage must therefore be "
+"verified by hit-testing with :python:`document.elementFromPoint`, and "
+"**not** by comparing rectangles."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:681
+msgid ""
+"A carousel also deliberately hangs its cards past its own clipping edge, so "
+"only those cards lying wholly inside the clipping rectangle can be hit-"
+"tested - assert that at least one card qualifies, otherwise the unit test "
+"passes vacuously."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:690
 msgid ":fa:`lines-leaning` Pixi Workflow"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:415
+#: ../../geovista/docs/src/developer/testing.rst:696
 msgid "Pixi Environment"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:418
+#: ../../geovista/docs/src/developer/testing.rst:699
 msgid ""
 "The testing ``pixi`` :term:`tasks <Task>` are available in the "
 ":guilabel:`test`, :guilabel:`geovista` and :guilabel:`py3xx` variant of "
@@ -653,7 +1021,7 @@ msgid ""
 ":ref:`tippy-gv-developer-packaging` for further details."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:423
+#: ../../geovista/docs/src/developer/testing.rst:704
 msgid ""
 "Testing may be performed using the convenience of `pixi run "
 "<https://pixi.prefix.dev/latest/reference/cli/pixi/run/>`__ tasks, which "
@@ -661,23 +1029,23 @@ msgid ""
 "directory e.g.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:432
+#: ../../geovista/docs/src/developer/testing.rst:713
 msgid "Pixi Tasks"
 msgstr "Pixi タスク"
 
-#: ../../geovista/docs/src/developer/testing.rst:437
+#: ../../geovista/docs/src/developer/testing.rst:718
 msgid "Pixi Task"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:439
+#: ../../geovista/docs/src/developer/testing.rst:720
 msgid ":guilabel:`download`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:439
+#: ../../geovista/docs/src/developer/testing.rst:720
 msgid "Download and cache offline assets."
 msgstr "オフラインアセットをダウンロードしてキャッシュします。"
 
-#: ../../geovista/docs/src/developer/testing.rst:441
+#: ../../geovista/docs/src/developer/testing.rst:722
 msgid ""
 "This task calls the :ref:`tippy-gv-reference-cli-download` command. Provide "
 "optional argument ``all``, ``clean``, ``doc-images``, ``dry-run``, "
@@ -689,44 +1057,44 @@ msgstr ""
 "earth``、``operational``、``pantry``、``rasters``、``unit-images``、``verify`` "
 "を指定できます。デフォルトは ``all`` です。例:"
 
-#: ../../geovista/docs/src/developer/testing.rst:452
+#: ../../geovista/docs/src/developer/testing.rst:733
 msgid ":guilabel:`tests-clean`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:452
+#: ../../geovista/docs/src/developer/testing.rst:733
 msgid ""
 "Purge both the documentation and unit test image caches, along with any "
 "images generated from previous test sessions e.g.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:461
+#: ../../geovista/docs/src/developer/testing.rst:742
 msgid ":guilabel:`tests-unit`"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:461
+#: ../../geovista/docs/src/developer/testing.rst:742
 msgid "Perform the unit tests."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:463
+#: ../../geovista/docs/src/developer/testing.rst:744
 msgid ""
 "This task calls the ``pytest`` command. Defaults to executing all unit tests"
 " discoverable from the :bash:`geovista` root directory."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:467
+#: ../../geovista/docs/src/developer/testing.rst:748
 msgid ""
 "Accepts a valid ``pytest`` marker expression as an optional argument. Refer "
 "to the :toml:`[tool.pytest.ini_options]` table entry in the "
 ":bash:`pyproject.toml` manifest for configured ``markers`` e.g.,"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:476
+#: ../../geovista/docs/src/developer/testing.rst:757
 msgid ""
 "Note that the :guilabel:`tests-clean` task is called prior to running this "
 "task."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:482
+#: ../../geovista/docs/src/developer/testing.rst:763
 msgid ""
 "Failed :ref:`tippy-gv-developer-testing-image-tests` are automatically "
 "captured via the ``pytest-pyvista`` plugin option ``--failed_image_dir`` "
@@ -735,46 +1103,96 @@ msgid ""
 "investigation."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:489
+#: ../../geovista/docs/src/developer/testing.rst:770
 msgid ""
 "Additionally all generated images are captured via the "
 "``--generated_image_dir`` plugin option and are available within the "
 ":bash:`test_images` directory."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:497
+#: ../../geovista/docs/src/developer/testing.rst:774
+msgid ":guilabel:`tests-docs-browser`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:774
+msgid "Perform the browser unit tests."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:776
+msgid ""
+"This task calls the ``pytest`` command for the :bash:`tests/docs` directory."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:779
+msgid ""
+"Accepts an optional documentation build target as an argument, which is "
+"built first. Defaults to ``html-noplot`` e.g.,"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:787
+msgid ""
+"A non-empty second argument additionally passes the ``--browser-strict`` "
+"option, which requires rather than skips each prerequisite e.g.,"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:799
+msgid ""
+"The default ``html-noplot`` target carries no gallery carousel, so the "
+"carousel unit tests skip. See :ref:`tippy-gv-developer-testing-browser-"
+"tests-prerequisites` for further details."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:806
+msgid ":guilabel:`tests-docs-browser-install`"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:806
+msgid ""
+"Install the ``chromium`` browser required by the :ref:`tippy-gv-developer-"
+"testing-browser-tests` e.g.,"
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:813
+msgid ""
+"This is a one-off, as ``playwright`` manages the browser separately from its"
+" ``python`` bindings."
+msgstr ""
+
+#: ../../geovista/docs/src/developer/testing.rst:820
 msgid ""
 "Apply the ``--frozen`` option to avoid `pixi`_ checking and updating the "
 ":toml:`pixi.lock` file."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:499
+#: ../../geovista/docs/src/developer/testing.rst:822
 msgid "E.g., To execute all non-image based unit tests:"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:510
+#: ../../geovista/docs/src/developer/testing.rst:833
 msgid ":fa:`vial-circle-check` Unit Tests"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:517
+#: ../../geovista/docs/src/developer/testing.rst:840
 msgid ""
 "The unit tests are located within the :bash:`tests` root directory and are "
 "organised into sub-directories, typically one for each ``geovista`` top-"
 "level module or sub-package."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:521
+#: ../../geovista/docs/src/developer/testing.rst:844
 msgid ""
-"The exception to this rule is :bash:`tests/plotting` which contains the "
-":ref:`tippy-gv-developer-testing-image-tests`."
+"The exceptions to this rule are :bash:`tests/plotting`, which contains the "
+":ref:`tippy-gv-developer-testing-image-tests`, and :bash:`tests/docs`, which"
+" contains the :ref:`tippy-gv-developer-testing-browser-tests`."
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:524
+#: ../../geovista/docs/src/developer/testing.rst:848
 msgid "To execute all unit tests:"
 msgstr ""
 
-#: ../../geovista/docs/src/developer/testing.rst:540
+#: ../../geovista/docs/src/developer/testing.rst:864
 msgid ""
 "Finer-grained control of unit test can be achieved by using our ``pytest`` "
-":ref:`tippy-gv-developer-testing-image-tests-markers`."
+":ref:`image <tippy-gv-developer-testing-image-tests-markers>` and "
+":ref:`browser <tippy-gv-developer-testing-browser-tests-markers>` markers."
 msgstr ""
